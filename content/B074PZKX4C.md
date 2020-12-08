@@ -14,12 +14,10 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [OSRAM Smart+ LED  ZigBee GU10 Reflektor  warmweiß bis tageslicht  2700K - 6500K   Farbsteuerung  Direkt kompatibel mit Echo Plus und Echo Show  2. Gen.   Kompatibel mit Philips Hue Bridge](https://www.amazon.de/dp/B074PZKX4C/?tag=tolees0ca-21) con 36.66 de descuento por 25.33 EUR (original: 39.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [OSRAM Smart+ LED  ZigBee GU10 Reflektor  warmweiß bis tageslicht  2700K - 6500K   Farbsteuerung  Direkt kompatibel mit Echo Plus und Echo Show  2. Gen.   Kompatibel mit Philips Hue Bridge](https://www.amazon.de/dp/B074PZKX4C/?tag=tolees0ca-21) a 25.33 EUR (original: 39.99 EUR) (36.66 %  de descuento) en el siguiente enlace!
 
 [![OSRAM Smart+ LED  ZigBee GU10 Reflektor ](https://m.media-amazon.com/images/I/31l-KKMBknL._SL200_.jpg)](https://www.amazon.de/dp/B074PZKX4C/?tag=tolees0ca-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B074PZKX4C/?tag=tolees0ca-21)
+[Visítala!!!](https://www.amazon.de/dp/B074PZKX4C/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
