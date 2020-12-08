@@ -14,12 +14,10 @@ comparePrice: 84.99 GBP
 inStock: true
 ---
 
-Está [Philips Hue White and Colour Ambiance Smart Spotlight Twin Pack LED [GU10 Spot] with Bluetooth  Works with Alexa and Google Assistant](https://www.amazon.co.uk/dp/B07SHVQCTJ/?tag=tolees0a-21) con 35.67 de descuento por 54.67 GBP (original: 84.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Philips Hue White and Colour Ambiance Smart Spotlight Twin Pack LED [GU10 Spot] with Bluetooth  Works with Alexa and Google Assistant](https://www.amazon.co.uk/dp/B07SHVQCTJ/?tag=tolees0a-21) a 54.67 GBP (original: 84.99 GBP) (35.67 %  de descuento) en el siguiente enlace!
 
 [![Philips Hue White and Colour Ambiance Sm](https://m.media-amazon.com/images/I/41RlXK+GZqL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07SHVQCTJ/?tag=tolees0a-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07SHVQCTJ/?tag=tolees0a-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07SHVQCTJ/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
