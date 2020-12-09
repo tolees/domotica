@@ -10,8 +10,11 @@ author: ring
 slug: B08GTXY2WD
 description:
 actualPrice: 199.99 EUR
+currency: EUR
+price: 199.99
 comparePrice: 299.99 EUR
 inStock: true
+prodname: 'Belkin Altavoz Inteligente Hi-Fi + Cargador inalámbrico SoundForm Elite  Alexa  Bluetooth  AirPlay2  Devialet   Blanco'
 ---
 
 Está [Belkin Altavoz Inteligente Hi-Fi + Cargador inalámbrico SoundForm Elite  Alexa  Bluetooth  AirPlay2  Devialet   Blanco](https://www.amazon.es/dp/B08GTXY2WD/?tag=tolees-21) con 33.33 de descuento por 199.99 EUR (original: 299.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08KGJRFXK
 description:
 actualPrice: 549.0 EUR
+currency: EUR
+price: 549.0
 comparePrice: 748.99 EUR
 inStock: true
+prodname: 'iRobot Braava Jet m6132 Robot friegasuelos con WiFi  con pulverizador a presión y navegación + Echo Dot  3.ª generación  - Altavoz Inteligente con Alexa  Tela de Color Antracita'
 ---
 
 Tienes [iRobot Braava Jet m6132 Robot friegasuelos con WiFi  con pulverizador a presión y navegación + Echo Dot  3.ª generación  - Altavoz Inteligente con Alexa  Tela de Color Antracita](https://www.amazon.es/dp/B08KGJRFXK/?tag=tolees-21) con un 26.70 % de descuento con precio de oferta de 549.0 EUR (original: 748.99 EUR) en el siguiente enlace!

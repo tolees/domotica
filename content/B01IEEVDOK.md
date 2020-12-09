@@ -10,8 +10,11 @@ author: ring
 slug: B01IEEVDOK
 description:
 actualPrice: 338.97 EUR
+currency: EUR
+price: 338.97
 comparePrice: 799.0 EUR
 inStock: true
+prodname: 'iRobot Roomba 960 Robot Aspirador  Succión 5 Veces Superior  Cepillos de Goma Antienredos  Sensores Dirt Detect  Wifi  Programable por App  compatible Alexa  Gris'
 ---
 
 Tienes [iRobot Roomba 960 Robot Aspirador  Succión 5 Veces Superior  Cepillos de Goma Antienredos  Sensores Dirt Detect  Wifi  Programable por App  compatible Alexa  Gris](https://www.amazon.es/dp/B01IEEVDOK/?tag=tolees-21) con un 57.58 % de descuento con precio de oferta de 338.97 EUR (original: 799.0 EUR) en el siguiente enlace!

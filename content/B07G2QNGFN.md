@@ -10,8 +10,11 @@ author: ring
 slug: B07G2QNGFN
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 59.17 EUR
 inStock: true
+prodname: 'KIWI design Batería Soporte de Montaje en Pared Compatible with Google Home Mini Altavoz Asistentes de Voz  7800mAh'
 ---
 
 Tienes [KIWI design Batería Soporte de Montaje en Pared Compatible with Google Home Mini Altavoz Asistentes de Voz  7800mAh](https://www.amazon.es/dp/B07G2QNGFN/?tag=tolees-21) con un 49.32 % de descuento con precio de oferta de 29.99 EUR (original: 59.17 EUR) en el siguiente enlace!

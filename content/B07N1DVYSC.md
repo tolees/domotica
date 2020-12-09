@@ -10,8 +10,11 @@ author: ring
 slug: B07N1DVYSC
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: 'Bombilla inteligente Wifi  Bombilla LED Regulable  Control Remoto y Función de Temporizador para Teléfonos Inteligentes  Luz Blanca y Colorida  Compatible con Amazon Alexa y Google Home'
 ---
 
 Tienes [Bombilla inteligente Wifi  Bombilla LED Regulable  Control Remoto y Función de Temporizador para Teléfonos Inteligentes  Luz Blanca y Colorida  Compatible con Amazon Alexa y Google Home](https://www.amazon.es/dp/B07N1DVYSC/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

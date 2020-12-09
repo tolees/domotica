@@ -10,8 +10,11 @@ author: ring
 slug: B07HH9RHF7
 description:
 actualPrice: 35.24 EUR
+currency: EUR
+price: 35.24
 comparePrice: 52.99 EUR
 inStock: true
+prodname: 'TECKIN WiFi Enchufe Inteligente 16A 3300W Mini Smart Plug Funciona con Siri Amazon Alexa Echo  Google Home  Control remoto con temporizador'
 ---
 
 Ahora mismo tienes [TECKIN WiFi Enchufe Inteligente 16A 3300W Mini Smart Plug Funciona con Siri Amazon Alexa Echo  Google Home  Control remoto con temporizador](https://www.amazon.es/dp/B07HH9RHF7/?tag=tolees-21) a 35.24 EUR (original: 52.99 EUR) (33.50 %  de descuento) en el siguiente enlace!

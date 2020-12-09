@@ -10,8 +10,11 @@ author: ring
 slug: B087Q1GXHM
 description:
 actualPrice: 104.98 EUR
+currency: EUR
+price: 104.98
 comparePrice: 169.98 EUR
 inStock: true
+prodname: 'Echo Show 8  Tela de color antracita + Blink Mini Cámara  compatible con Alexa'
 ---
 
 Está [Echo Show 8  Tela de color antracita + Blink Mini Cámara  compatible con Alexa](https://www.amazon.es/dp/B087Q1GXHM/?tag=tolees-21) con 38.24 de descuento por 104.98 EUR (original: 169.98 EUR) en el siguiente enlace!

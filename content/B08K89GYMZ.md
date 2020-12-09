@@ -10,8 +10,11 @@ author: ring
 slug: B08K89GYMZ
 description:
 actualPrice: 48.98 EUR
+currency: EUR
+price: 48.98
 comparePrice: 97.42 EUR
 inStock: true
+prodname: 'Der neue Echo Dot  4. Generation  mit Uhr  Blaugrau + Philips Hue White LED-Lampe Doppelpack  E27   kompatibel mit Bluetooth und Zigbee  kein Hub erforderlich '
 ---
 
 Ahora mismo tienes [Der neue Echo Dot  4. Generation  mit Uhr  Blaugrau + Philips Hue White LED-Lampe Doppelpack  E27   kompatibel mit Bluetooth und Zigbee  kein Hub erforderlich ](https://www.amazon.de/dp/B08K89GYMZ/?tag=tolees0ca-21) a 48.98 EUR (original: 97.42 EUR) (49.72 %  de descuento) en el siguiente enlace!

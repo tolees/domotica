@@ -10,8 +10,11 @@ author: ring
 slug: B07DWFVT2G
 description:
 actualPrice: 69.95 EUR
+currency: EUR
+price: 69.95
 comparePrice: 99.99 EUR
 inStock: true
+prodname: 'Netatmo NSA-EC - Detector De Humo Inteligente  10 años con bateria  Alarma de Humo  Prueba Automatica  Centralita domótica no necesaria  EN14604 certificación'
 ---
 
 Tienes [Netatmo NSA-EC - Detector De Humo Inteligente  10 años con bateria  Alarma de Humo  Prueba Automatica  Centralita domótica no necesaria  EN14604 certificación](https://www.amazon.es/dp/B07DWFVT2G/?tag=tolees-21) con un 30.04 % de descuento con precio de oferta de 69.95 EUR (original: 99.99 EUR) en el siguiente enlace!

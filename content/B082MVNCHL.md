@@ -10,8 +10,11 @@ author: ring
 slug: B082MVNCHL
 description:
 actualPrice: 77.94 EUR
+currency: EUR
+price: 77.94
 comparePrice: 109.98 EUR
 inStock: true
+prodname: 'Echo Dot  3.ª generación   tela de color antracita + Bombilla inteligente LED Philips Hue White & Color  compatible con Bluetooth y Zigbee  no se requiere controlador'
 ---
 
 Está [Echo Dot  3.ª generación   tela de color antracita + Bombilla inteligente LED Philips Hue White & Color  compatible con Bluetooth y Zigbee  no se requiere controlador](https://www.amazon.es/dp/B082MVNCHL/?tag=tolees-21) con 29.13 de descuento por 77.94 EUR (original: 109.98 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07M7V7FPH
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 47.95 EUR
 inStock: true
+prodname: 'LEDVANCE Smart+ LED Streifen  ZigBee  warmweiß bis tageslicht  2700K - 6500K   Farbsteuerung  Länge 3x60cm  Direkt kompatibel mit Echo Plus und Echo Show  2. Gen.   Kompatibel mit Philips Hue Bridge'
 ---
 
 Está [LEDVANCE Smart+ LED Streifen  ZigBee  warmweiß bis tageslicht  2700K - 6500K   Farbsteuerung  Länge 3x60cm  Direkt kompatibel mit Echo Plus und Echo Show  2. Gen.   Kompatibel mit Philips Hue Bridge](https://www.amazon.de/dp/B07M7V7FPH/?tag=tolees0ca-21) con 37.46 de descuento por 29.99 EUR (original: 47.95 EUR) en el siguiente enlace!

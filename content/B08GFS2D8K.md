@@ -10,8 +10,11 @@ author: ring
 slug: B08GFS2D8K
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 26.99 EUR
 inStock: true
+prodname: 'Smart Plug  Presa Smart WiFi REAFOO 2-in-1 Con-Controllo Remoto Timer Energie-Monitor  Smart Plug programmierbar  kompatibel mit Alexa Google Home  MIni 2Pack   2in1 1Pack  '
 ---
 
 Está [Smart Plug  Presa Smart WiFi REAFOO 2-in-1 Con-Controllo Remoto Timer Energie-Monitor  Smart Plug programmierbar  kompatibel mit Alexa Google Home  MIni 2Pack   2in1 1Pack  ](https://www.amazon.de/dp/B08GFS2D8K/?tag=tolees0ca-21) con 44.46 de descuento por 14.99 EUR (original: 26.99 EUR) en el siguiente enlace!

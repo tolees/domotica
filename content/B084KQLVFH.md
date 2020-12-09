@@ -10,8 +10,11 @@ author: ring
 slug: B084KQLVFH
 description:
 actualPrice: 998.0 USD
+currency: USD
+price: 998.0
 comparePrice: 1399.99 USD
 inStock: true
+prodname: 'Sony X900H 65 Inch TV: 4K Ultra HD Smart LED TV with HDR  Game Mode for Gaming  and Alexa Compatibility - 2020 Model'
 ---
 
 Tienes [Sony X900H 65 Inch TV: 4K Ultra HD Smart LED TV with HDR  Game Mode for Gaming  and Alexa Compatibility - 2020 Model](https://www.amazon.com/dp/B084KQLVFH/?tag=tolees-20) con un 28.71 % de descuento con precio de oferta de 998.0 USD (original: 1399.99 USD) en el siguiente enlace!

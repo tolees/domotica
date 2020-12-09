@@ -10,8 +10,11 @@ author: ring
 slug: B07V6GGJ6Z
 description:
 actualPrice: 26.49 GBP
+currency: GBP
+price: 26.49
 comparePrice: 39.99 GBP
 inStock: true
+prodname: 'Philips Hue White Ambiance Smart Bulb Twin Pack LED [B22 Bayonet Cap] with Bluetooth  Works with Alexa and Google Assistant  A Certified for Humans Device'
 ---
 
 Tienes [Philips Hue White Ambiance Smart Bulb Twin Pack LED [B22 Bayonet Cap] with Bluetooth  Works with Alexa and Google Assistant  A Certified for Humans Device](https://www.amazon.co.uk/dp/B07V6GGJ6Z/?tag=tolees0a-21) con un 33.76 % de descuento con precio de oferta de 26.49 GBP (original: 39.99 GBP) en el siguiente enlace!

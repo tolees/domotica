@@ -10,8 +10,11 @@ author: ring
 slug: B07DCK5YMK
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: 'Tenda NOVA MW3 Mesh Router Sistema WiFi de Red en Malla  AC1200  2.4GHz +5 GHz Plug and Play  Mu-MIMO Fast Ethernet 10/100 Funciona con Alexa sustituye tu Repetidor Extensor de Red Tradicional Pack 3'
 ---
 
 Tienes [Tenda NOVA MW3 Mesh Router Sistema WiFi de Red en Malla  AC1200  2.4GHz +5 GHz Plug and Play  Mu-MIMO Fast Ethernet 10/100 Funciona con Alexa sustituye tu Repetidor Extensor de Red Tradicional Pack 3](https://www.amazon.es/dp/B07DCK5YMK/?tag=tolees-21) con un 28.89 % de descuento con precio de oferta de 63.99 EUR (original: 89.99 EUR) en el siguiente enlace!

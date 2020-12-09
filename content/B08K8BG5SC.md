@@ -10,8 +10,11 @@ author: ring
 slug: B08K8BG5SC
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 84.98 EUR
 inStock: true
+prodname: 'Nuovo Echo Dot  4ª generazione  - Antracite + Amazon Smart Plug  presa intelligente con connettività Wi-Fi   compatibile con Alexa'
 ---
 
 Está [Nuovo Echo Dot  4ª generazione  - Antracite + Amazon Smart Plug  presa intelligente con connettività Wi-Fi   compatibile con Alexa](https://www.amazon.it/dp/B08K8BG5SC/?tag=tolees00-21) con 52.94 de descuento por 39.99 EUR (original: 84.98 EUR) en el siguiente enlace!

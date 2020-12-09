@@ -10,8 +10,11 @@ author: ring
 slug: B08H6K2SPR
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: 'Nuevo Echo  4.ª generación   Antracita + Philips Hue White Bombilla LED E27'
 ---
 
 Tienes [Nuevo Echo  4.ª generación   Antracita + Philips Hue White Bombilla LED E27](https://www.amazon.es/dp/B08H6K2SPR/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!

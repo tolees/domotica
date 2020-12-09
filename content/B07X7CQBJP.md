@@ -10,8 +10,11 @@ author: ring
 slug: B07X7CQBJP
 description:
 actualPrice: 55.98 EUR
+currency: EUR
+price: 55.98
 comparePrice: 74.99 EUR
 inStock: true
+prodname: 'Presentamos la Blink Mini  cámara de seguridad inteligente  compacta  para interiores  con enchufe  resolución de vídeo HD 1080p  detección de movimiento y compatible con Alexa – 2 Cámaras'
 ---
 
 Está [Presentamos la Blink Mini  cámara de seguridad inteligente  compacta  para interiores  con enchufe  resolución de vídeo HD 1080p  detección de movimiento y compatible con Alexa – 2 Cámaras](https://www.amazon.es/dp/B07X7CQBJP/?tag=tolees-21) con 25.35 de descuento por 55.98 EUR (original: 74.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NJPXFKR
 description:
 actualPrice: 48.99 EUR
+currency: EUR
+price: 48.99
 comparePrice: 80.99 EUR
 inStock: true
+prodname: 'Echo Show 5 Reconditionné Certifié  Écran connecté compact avec Alexa  Noir'
 ---
 
 Ahora mismo tienes [Echo Show 5 Reconditionné Certifié  Écran connecté compact avec Alexa  Noir](https://www.amazon.fr/dp/B07NJPXFKR/?tag=tolees0d-21) a 48.99 EUR (original: 80.99 EUR) (39.51 %  de descuento) en el siguiente enlace!

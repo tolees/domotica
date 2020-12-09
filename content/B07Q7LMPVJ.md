@@ -10,8 +10,11 @@ author: ring
 slug: B07Q7LMPVJ
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 110.76 EUR
 inStock: true
+prodname: 'D-Link DIR-1960 Router EXO AC1900  Smart Mesh Wi-Fi  McAfee Integrato  Gigabit  USB 3.0  Parental Control  Funziona con Alexa'
 ---
 
 Ahora mismo tienes [D-Link DIR-1960 Router EXO AC1900  Smart Mesh Wi-Fi  McAfee Integrato  Gigabit  USB 3.0  Parental Control  Funziona con Alexa](https://www.amazon.it/dp/B07Q7LMPVJ/?tag=tolees00-21) a 79.99 EUR (original: 110.76 EUR) (27.78 %  de descuento) en el siguiente enlace!

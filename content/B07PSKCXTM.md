@@ -10,8 +10,11 @@ author: ring
 slug: B07PSKCXTM
 description:
 actualPrice: 499.99 USD
+currency: USD
+price: 499.99
 comparePrice: 899.0 USD
 inStock: true
+prodname: 'LG 55SM8100AUA Alexa Built-in Nano 8 Series 55" 4K Ultra HD Smart LED NanoCell TV  2019 '
 ---
 
 Ahora mismo tienes [LG 55SM8100AUA Alexa Built-in Nano 8 Series 55" 4K Ultra HD Smart LED NanoCell TV  2019 ](https://www.amazon.com/dp/B07PSKCXTM/?tag=tolees-20) a 499.99 USD (original: 899.0 USD) (44.38 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07VC4X3WZ
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 67.0 EUR
 inStock: true
+prodname: 'TP-Link Deco E3  Router/Puntos de Acceso + Repetidor  Sistema Wi-Fi de Malla para Todo el hogar AC1200  Dos 100/10 Mbps Puertos  WiFi Mesh hasta 223 ㎡  Compatible con Alexa'
 ---
 
 Está [TP-Link Deco E3  Router/Puntos de Acceso + Repetidor  Sistema Wi-Fi de Malla para Todo el hogar AC1200  Dos 100/10 Mbps Puertos  WiFi Mesh hasta 223 ㎡  Compatible con Alexa](https://www.amazon.es/dp/B07VC4X3WZ/?tag=tolees-21) con 25.39 de descuento por 49.99 EUR (original: 67.0 EUR) en el siguiente enlace!

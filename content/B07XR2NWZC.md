@@ -10,8 +10,11 @@ author: ring
 slug: B07XR2NWZC
 description:
 actualPrice: 24.99 GBP
+currency: GBP
+price: 24.99
 comparePrice: 34.99 GBP
 inStock: true
+prodname: 'TP-Link Tapo Pan/Tilt Smart Security Camera  Indoor CCTV  360° Rotational View  Works with Alexa & Google Home  No Hub Required  1080p  2-Way Audio  Night Vision  SD Storage  Free Tapo App  Tapo C200 '
 ---
 
 Tienes [TP-Link Tapo Pan/Tilt Smart Security Camera  Indoor CCTV  360° Rotational View  Works with Alexa & Google Home  No Hub Required  1080p  2-Way Audio  Night Vision  SD Storage  Free Tapo App  Tapo C200 ](https://www.amazon.co.uk/dp/B07XR2NWZC/?tag=tolees0a-21) con un 28.58 % de descuento con precio de oferta de 24.99 GBP (original: 34.99 GBP) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B087RZVBQW
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 16.6 EUR
 inStock: true
+prodname: 'TP-Link Lampadina Wi-Fi E27  Funziona con Amazon Alexa e Google Home  806 lumen  8.7W  Giallo caldo dimmerabile dall  1% al 100%  2700 K  Controllo da remoto  Tapo L510E '
 ---
 
 Tienes [TP-Link Lampadina Wi-Fi E27  Funziona con Amazon Alexa e Google Home  806 lumen  8.7W  Giallo caldo dimmerabile dall  1% al 100%  2700 K  Controllo da remoto  Tapo L510E ](https://www.amazon.it/dp/B087RZVBQW/?tag=tolees00-21) con un 39.82 % de descuento con precio de oferta de 9.99 EUR (original: 16.6 EUR) en el siguiente enlace!

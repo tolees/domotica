@@ -10,8 +10,11 @@ author: ring
 slug: B07PFFKXG6
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 44.99 EUR
 inStock: true
+prodname: 'Echo Dot  3ª generazione  Ricondizionato Certificato - Altoparlante intelligente con integrazione Alexa - Tessuto grigio mélange'
 ---
 
 Ahora mismo tienes [Echo Dot  3ª generazione  Ricondizionato Certificato - Altoparlante intelligente con integrazione Alexa - Tessuto grigio mélange](https://www.amazon.it/dp/B07PFFKXG6/?tag=tolees00-21) a 21.99 EUR (original: 44.99 EUR) (51.12 %  de descuento) en el siguiente enlace!

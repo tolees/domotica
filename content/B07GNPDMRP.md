@@ -10,8 +10,11 @@ author: ring
 slug: B07GNPDMRP
 description:
 actualPrice: 599.0 USD
+currency: USD
+price: 599.0
 comparePrice: 999.99 USD
 inStock: true
+prodname: 'iRobot Roomba i7+  7550  Robot Vacuum with Automatic Dirt Disposal-Empties Itself  Wi-Fi Connected  Smart Mapping  Works with Alexa  Ideal for Pet Hair  Carpets  Hard Floors  Black'
 ---
 
 Ahora mismo tienes [iRobot Roomba i7+  7550  Robot Vacuum with Automatic Dirt Disposal-Empties Itself  Wi-Fi Connected  Smart Mapping  Works with Alexa  Ideal for Pet Hair  Carpets  Hard Floors  Black](https://www.amazon.com/dp/B07GNPDMRP/?tag=tolees-20) a 599.0 USD (original: 999.99 USD) (40.10 %  de descuento) en el siguiente enlace!

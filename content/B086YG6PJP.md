@@ -10,8 +10,11 @@ author: ring
 slug: B086YG6PJP
 description:
 actualPrice: 69.9 EUR
+currency: EUR
+price: 69.9
 comparePrice: 109.9 EUR
 inStock: true
+prodname: 'Router D-Link DIR-X1560 EXO AX1500 Wi-Fi 6 con porta WAN e 4 porte LAN  MU-MIMO  gestione della banda SmartConnect  Speedtest integrato. Si integra con Amazon Alexa e Gooogle Assistant.'
 ---
 
 Tienes [Router D-Link DIR-X1560 EXO AX1500 Wi-Fi 6 con porta WAN e 4 porte LAN  MU-MIMO  gestione della banda SmartConnect  Speedtest integrato. Si integra con Amazon Alexa e Gooogle Assistant.](https://www.amazon.it/dp/B086YG6PJP/?tag=tolees00-21) con un 36.40 % de descuento con precio de oferta de 69.9 EUR (original: 109.9 EUR) en el siguiente enlace!

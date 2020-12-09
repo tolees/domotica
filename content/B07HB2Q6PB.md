@@ -10,8 +10,11 @@ author: ring
 slug: B07HB2Q6PB
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: 'Bombilla Inteligente Wifi LED  Avatar Controls E27 7W RGBW Lámparas Color Regulable Control Remoto Compatible con Amazon Alexa Google Assistant IFTTT'
 ---
 
 Ahora mismo tienes [Bombilla Inteligente Wifi LED  Avatar Controls E27 7W RGBW Lámparas Color Regulable Control Remoto Compatible con Amazon Alexa Google Assistant IFTTT](https://www.amazon.es/dp/B07HB2Q6PB/?tag=tolees-21) a 9.99 EUR (original: 22.99 EUR) (56.55 %  de descuento) en el siguiente enlace!

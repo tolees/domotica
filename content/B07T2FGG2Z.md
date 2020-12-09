@@ -10,8 +10,11 @@ author: ring
 slug: B07T2FGG2Z
 description:
 actualPrice: 149.0 GBP
+currency: GBP
+price: 149.0
 comparePrice: 220.0 GBP
 inStock: true
+prodname: 'Sony WF-1000XM3 Truly Wireless Noise Cancelling Headphones with Mic  up to 32 Hours Battery Life  Stable Bluetooth Connection  Wearing Detection with Alexa Built-in - Black'
 ---
 
 Tienes [Sony WF-1000XM3 Truly Wireless Noise Cancelling Headphones with Mic  up to 32 Hours Battery Life  Stable Bluetooth Connection  Wearing Detection with Alexa Built-in - Black](https://www.amazon.co.uk/dp/B07T2FGG2Z/?tag=tolees0a-21) con un 32.27 % de descuento con precio de oferta de 149.0 GBP (original: 220.0 GBP) en el siguiente enlace!

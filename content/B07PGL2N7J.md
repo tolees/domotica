@@ -10,8 +10,11 @@ author: ring
 slug: B07PGL2N7J
 description:
 actualPrice: 18.99 USD
+currency: USD
+price: 18.99
 comparePrice: 39.99 USD
 inStock: true
+prodname: 'Echo Dot  3rd Gen  - Smart speaker with Alexa - Sandstone'
 ---
 
 Está [Echo Dot  3rd Gen  - Smart speaker with Alexa - Sandstone](https://www.amazon.com/dp/B07PGL2N7J/?tag=tolees-20) con 52.51 de descuento por 18.99 USD (original: 39.99 USD) en el siguiente enlace!

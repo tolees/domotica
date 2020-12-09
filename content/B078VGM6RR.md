@@ -10,8 +10,11 @@ author: ring
 slug: B078VGM6RR
 description:
 actualPrice: 89.9 EUR
+currency: EUR
+price: 89.9
 comparePrice: 200.0 EUR
 inStock: true
+prodname: 'Sony WFSP700NY.CE7 - Auriculares deportivos totalmente inalámbricos  cancelación de ruido  modo sonido ambiente  Bluetooth    color amarillo  con Alexa integrada'
 ---
 
 Está [Sony WFSP700NY.CE7 - Auriculares deportivos totalmente inalámbricos  cancelación de ruido  modo sonido ambiente  Bluetooth    color amarillo  con Alexa integrada](https://www.amazon.es/dp/B078VGM6RR/?tag=tolees-21) con 55.05 de descuento por 89.9 EUR (original: 200.0 EUR) en el siguiente enlace!

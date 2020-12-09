@@ -10,8 +10,11 @@ author: ring
 slug: B078HGYKFF
 description:
 actualPrice: 43.2 GBP
+currency: GBP
+price: 43.2
 comparePrice: 79.0 GBP
 inStock: true
+prodname: 'Canary View - Indoor Home Security Camera | Baby Monitor | Compatible with Alexa | 1080p Full HD IP WiFi Camera | CCTV Camera | Person & Motion Detector | Night Vision | Pet Camera'
 ---
 
 Tienes [Canary View - Indoor Home Security Camera | Baby Monitor | Compatible with Alexa | 1080p Full HD IP WiFi Camera | CCTV Camera | Person & Motion Detector | Night Vision | Pet Camera](https://www.amazon.co.uk/dp/B078HGYKFF/?tag=tolees0a-21) con un 45.32 % de descuento con precio de oferta de 43.2 GBP (original: 79.0 GBP) en el siguiente enlace!

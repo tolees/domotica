@@ -10,8 +10,11 @@ author: ring
 slug: B07CBCLMG8
 description:
 actualPrice: 54.99 EUR
+currency: EUR
+price: 54.99
 comparePrice: 82.14 EUR
 inStock: true
+prodname: 'EZVIZ ezTube 1080p Cámara de Seguridad  WiFi  Defensa Activa  Luz Estroboscópica y Sirena  IP66  Visión Nocturna  Audio Bidireccional  Servicio de Nube  Compatible Con Alexa  Google Home'
 ---
 
 Ahora mismo tienes [EZVIZ ezTube 1080p Cámara de Seguridad  WiFi  Defensa Activa  Luz Estroboscópica y Sirena  IP66  Visión Nocturna  Audio Bidireccional  Servicio de Nube  Compatible Con Alexa  Google Home](https://www.amazon.es/dp/B07CBCLMG8/?tag=tolees-21) a 54.99 EUR (original: 82.14 EUR) (33.05 %  de descuento) en el siguiente enlace!

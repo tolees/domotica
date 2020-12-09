@@ -10,8 +10,11 @@ author: ring
 slug: B07SJBVV8V
 description:
 actualPrice: 59.99 GBP
+currency: GBP
+price: 59.99
 comparePrice: 119.99 GBP
 inStock: true
+prodname: 'Introducing Echo Show 8 | Stay in touch with the help of Alexa  Sandstone fabric'
 ---
 
 Tienes [Introducing Echo Show 8 | Stay in touch with the help of Alexa  Sandstone fabric](https://www.amazon.co.uk/dp/B07SJBVV8V/?tag=tolees0a-21) con un 50.00 % de descuento con precio de oferta de 59.99 GBP (original: 119.99 GBP) en el siguiente enlace!

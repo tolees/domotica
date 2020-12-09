@@ -10,8 +10,11 @@ author: ring
 slug: B07H7SSJQC
 description:
 actualPrice: 119.0 GBP
+currency: GBP
+price: 119.0
 comparePrice: 179.0 GBP
 inStock: true
+prodname: 'Ring Stick Up Cam Elite HD Security Camera with Two-Way Talk  Black  Works with Alexa'
 ---
 
 Está [Ring Stick Up Cam Elite HD Security Camera with Two-Way Talk  Black  Works with Alexa](https://www.amazon.co.uk/dp/B07H7SSJQC/?tag=tolees0a-21) con 33.52 de descuento por 119.0 GBP (original: 179.0 GBP) en el siguiente enlace!

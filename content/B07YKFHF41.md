@@ -10,8 +10,11 @@ author: ring
 slug: B07YKFHF41
 description:
 actualPrice: 17.24 EUR
+currency: EUR
+price: 17.24
 comparePrice: 25.99 EUR
 inStock: true
+prodname: 'LVWIT Bombillas LED GU10 Inteligente WiFi Regulable 5W 350 Lm  Lámpara Multicolor Bombilla Compatible con Alexa  Google Home Assistant y App Smart Life/Tuya  Equivalente a 32W RGB  2 Pcs.'
 ---
 
 Está [LVWIT Bombillas LED GU10 Inteligente WiFi Regulable 5W 350 Lm  Lámpara Multicolor Bombilla Compatible con Alexa  Google Home Assistant y App Smart Life/Tuya  Equivalente a 32W RGB  2 Pcs.](https://www.amazon.es/dp/B07YKFHF41/?tag=tolees-21) con 33.67 de descuento por 17.24 EUR (original: 25.99 EUR) en el siguiente enlace!

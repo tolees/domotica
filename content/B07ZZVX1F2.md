@@ -10,8 +10,11 @@ author: ring
 slug: B07ZZVX1F2
 description:
 actualPrice: 27.99 USD
+currency: USD
+price: 27.99
 comparePrice: 39.99 USD
 inStock: true
+prodname: 'All-new Fire TV Stick with Alexa Voice Remote  includes TV controls  | HD streaming device | 2020 release'
 ---
 
 Está [All-new Fire TV Stick with Alexa Voice Remote  includes TV controls  | HD streaming device | 2020 release](https://www.amazon.com/dp/B07ZZVX1F2/?tag=tolees-20) con 30.01 de descuento por 27.99 USD (original: 39.99 USD) en el siguiente enlace!

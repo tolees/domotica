@@ -10,8 +10,11 @@ author: ring
 slug: B0891RRCZH
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: 'SYTUAM Striscia LED WIFI 5m RGB con Musica Micro esterno ad alta sensibilità  SMD 5050 Striscia di Luci  16 milioni di colori Sin Musica controllata APP Compatibile con Alexa/Google Home…'
 ---
 
 Tienes [SYTUAM Striscia LED WIFI 5m RGB con Musica Micro esterno ad alta sensibilità  SMD 5050 Striscia di Luci  16 milioni di colori Sin Musica controllata APP Compatibile con Alexa/Google Home…](https://www.amazon.it/dp/B0891RRCZH/?tag=tolees00-21) con un 47.85 % de descuento con precio de oferta de 11.99 EUR (original: 22.99 EUR) en el siguiente enlace!
