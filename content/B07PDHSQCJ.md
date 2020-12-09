@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Echo Dot  3rd Gen  - Smart speaker with Alexa - Heather Grey Fabric'
 ---
 
-Ahora mismo tienes [Echo Dot  3rd Gen  - Smart speaker with Alexa - Heather Grey Fabric](https://www.amazon.co.uk/dp/B07PDHSQCJ/?tag=tolees0a-21) a 18.99 GBP (original: 39.99 GBP) (52.51 %  de descuento) en el siguiente enlace!
+Está [Echo Dot  3rd Gen  - Smart speaker with Alexa - Heather Grey Fabric](https://www.amazon.co.uk/dp/B07PDHSQCJ/?tag=tolees0a-21) con 52.51 de descuento por 18.99 GBP (original: 39.99 GBP) en el siguiente enlace!
 
 [![Echo Dot  3rd Gen  - Smart speaker with ](https://m.media-amazon.com/images/I/41GvfQUVKoL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07PDHSQCJ/?tag=tolees0a-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07PDHSQCJ/?tag=tolees0a-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07PDHSQCJ/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
