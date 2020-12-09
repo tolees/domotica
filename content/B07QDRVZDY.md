@@ -17,10 +17,12 @@ inStock: true
 prodname: 'SPC 6908K2 Security Starter Kit 2: 2 sensores  Movimiento y Puertas/Ventanas   Alarma y 3 Bombillas Inteligentes Wi-Fi LED Color y Blanco cálido Sirius 470  Compatible con Amazon Alexa y Google Home'
 ---
 
-Ahora mismo tienes [SPC 6908K2 Security Starter Kit 2: 2 sensores  Movimiento y Puertas/Ventanas   Alarma y 3 Bombillas Inteligentes Wi-Fi LED Color y Blanco cálido Sirius 470  Compatible con Amazon Alexa y Google Home](https://www.amazon.es/dp/B07QDRVZDY/?tag=tolees-21) a 48.83 EUR (original: 99.8 EUR) (51.07 %  de descuento) en el siguiente enlace!
+Está [SPC 6908K2 Security Starter Kit 2: 2 sensores  Movimiento y Puertas/Ventanas   Alarma y 3 Bombillas Inteligentes Wi-Fi LED Color y Blanco cálido Sirius 470  Compatible con Amazon Alexa y Google Home](https://www.amazon.es/dp/B07QDRVZDY/?tag=tolees-21) con 51.07 de descuento por 48.83 EUR (original: 99.8 EUR) en el siguiente enlace!
 
 [![SPC 6908K2 Security Starter Kit 2: 2 sen](https://m.media-amazon.com/images/I/41ZpmVYXFqL._SL200_.jpg)](https://www.amazon.es/dp/B07QDRVZDY/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07QDRVZDY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07QDRVZDY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
