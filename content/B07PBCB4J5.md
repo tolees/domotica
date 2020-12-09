@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-XB700 Casque sans fil Bluetooth  al 40.67 % de descuento'
-date: 2020-12-08 03:26:57
+date: 2020-12-09 03:48:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Frsba5qeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Frsba5qeL._SL200_.jpg' ]
 comments: true
