@@ -17,10 +17,12 @@ inStock: true
 prodname: 'TP-Link Kasa Smart Security Camera by Baby Monitor  360° rotational views  No Hub Required  Works with Alexa  Echo Spot/Show and Fire TV   Google Home/Chromecast  1080p  2-Way Audio with Night Vision'
 ---
 
-Ahora mismo tienes [TP-Link Kasa Smart Security Camera by Baby Monitor  360° rotational views  No Hub Required  Works with Alexa  Echo Spot/Show and Fire TV   Google Home/Chromecast  1080p  2-Way Audio with Night Vision](https://www.amazon.co.uk/dp/B07SK38QCD/?tag=tolees0a-21) a 35.99 GBP (original: 49.99 GBP) (28.01 %  de descuento) en el siguiente enlace!
+Está [TP-Link Kasa Smart Security Camera by Baby Monitor  360° rotational views  No Hub Required  Works with Alexa  Echo Spot/Show and Fire TV   Google Home/Chromecast  1080p  2-Way Audio with Night Vision](https://www.amazon.co.uk/dp/B07SK38QCD/?tag=tolees0a-21) con 28.01 de descuento por 35.99 GBP (original: 49.99 GBP) en el siguiente enlace!
 
 [![TP-Link Kasa Smart Security Camera by Ba](https://m.media-amazon.com/images/I/41ivzlPKZ4L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07SK38QCD/?tag=tolees0a-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07SK38QCD/?tag=tolees0a-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07SK38QCD/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
