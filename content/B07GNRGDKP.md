@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iRobot Roomba i7  7150  Robot Vacuum- Wi al 43.00 % de descuento'
-date: 2020-12-07 00:52:13
+date: 2020-12-09 13:44:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/411JPQuJ06L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411JPQuJ06L._SL200_.jpg' ]
 comments: true
