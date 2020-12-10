@@ -22,6 +22,9 @@ Está [OUKITEL Wi-Fi Enchufe Inteligente Inalámbrico 16A 3680W no Requiere Hub 
 
 [![OUKITEL Wi-Fi Enchufe Inteligente Inalám](https://images-eu.ssl-images-amazon.com/images/I/31wW8OUjHML._SL200_.jpg)](https://www.amazon.es/dp/B07G9YM3LZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G9YM3LZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

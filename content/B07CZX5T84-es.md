@@ -22,6 +22,9 @@ Tienes [GU5.3/MR16 Bombilla Wifi Inteligente  Avatar Controls Inalambrica Dimmab
 
 [![GU5.3/MR16 Bombilla Wifi Inteligente  Av](https://images-eu.ssl-images-amazon.com/images/I/41kK07F%2B6rL._SL200_.jpg)](https://www.amazon.es/dp/B07CZX5T84/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZX5T84/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

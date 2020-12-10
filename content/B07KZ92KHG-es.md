@@ -22,6 +22,9 @@ Tienes [Enchufe wifi inteligente  Mini Smart plug Monitor de Energía del Zócal
 
 [![Enchufe wifi inteligente  Mini Smart plu](https://images-eu.ssl-images-amazon.com/images/I/41aTDAS59dL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ92KHG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KZ92KHG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

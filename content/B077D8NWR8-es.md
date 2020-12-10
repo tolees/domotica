@@ -22,6 +22,9 @@ Tienes [[5 Pack] Enchufe Inteligente Wifi COOSA smart Plug Compatible con Alexa 
 
 [![[5 Pack] Enchufe Inteligente Wifi COOSA ](https://images-eu.ssl-images-amazon.com/images/I/41LYdeCaDbL._SL200_.jpg)](https://www.amazon.es/dp/B077D8NWR8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077D8NWR8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

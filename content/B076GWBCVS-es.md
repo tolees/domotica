@@ -22,6 +22,9 @@ Está [La tira de LED funciona con Alexa  Google Home  IFTTT  teléfono inalámb
 
 [![La tira de LED funciona con Alexa  Googl](https://images-eu.ssl-images-amazon.com/images/I/51FANZX4lcL._SL200_.jpg)](https://www.amazon.es/dp/B076GWBCVS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076GWBCVS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

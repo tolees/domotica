@@ -22,6 +22,9 @@ Tienes [Inteligente Altavoz WiFi y Bluetooth Speaker  Amazon Alexa Voice Control
 
 [![Inteligente Altavoz WiFi y Bluetooth Spe](https://images-eu.ssl-images-amazon.com/images/I/51HG0Uj9%2BgL._SL200_.jpg)](https://www.amazon.es/dp/B07D55G7DN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D55G7DN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

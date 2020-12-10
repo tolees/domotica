@@ -22,6 +22,9 @@ Tienes [Enchufe Wifi  Hedynshine Enchufe Inteligente con USB  Control Remoto/Man
 
 [![Enchufe Wifi  Hedynshine Enchufe Intelig](https://images-eu.ssl-images-amazon.com/images/I/3181C5Nfv6L._SL200_.jpg)](https://www.amazon.es/dp/B07MJW464W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MJW464W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

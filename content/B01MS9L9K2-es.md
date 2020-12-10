@@ -22,6 +22,9 @@ Tienes [TP-Link LB130 Bombilla WiFi inteligente  E27  color cambiable  regulable
 
 [![TP-Link LB130 Bombilla WiFi inteligente ](https://images-eu.ssl-images-amazon.com/images/I/31tKYRBv%2B3L._SL200_.jpg)](https://www.amazon.es/dp/B01MS9L9K2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MS9L9K2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

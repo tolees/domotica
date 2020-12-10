@@ -22,6 +22,9 @@ Está [Bombilla WiFi Inteligente  Avatar Controls Inalambrica LED E14 7W Luz RGB
 
 [![Bombilla WiFi Inteligente  Avatar Contro](https://images-eu.ssl-images-amazon.com/images/I/3148MCs6abL._SL200_.jpg)](https://www.amazon.es/dp/B07HC4T35Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HC4T35Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

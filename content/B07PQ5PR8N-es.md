@@ -22,6 +22,9 @@ Ahora mismo tienes [1080P Cámara IP WiFi  Camara de Vigilancia Inalámbrico  C�
 
 [![1080P Cámara IP WiFi  Camara de Vigilanc](https://images-eu.ssl-images-amazon.com/images/I/41KOqM%2BPi-L._SL200_.jpg)](https://www.amazon.es/dp/B07PQ5PR8N/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07PQ5PR8N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

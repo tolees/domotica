@@ -22,6 +22,9 @@ Tienes [TOPERSUN 2PCS WiFi Enchufe Enchufe del Interruptor Enchufe Inteligente c
 
 [![TOPERSUN 2PCS WiFi Enchufe Enchufe del I](https://images-eu.ssl-images-amazon.com/images/I/41someZd%2BXL._SL200_.jpg)](https://www.amazon.es/dp/B07KK8WLQV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KK8WLQV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

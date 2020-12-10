@@ -22,6 +22,9 @@ Tienes [Inteligente WiFi enchufe – hyleton Smart WiFi Plug funciona con Amazon
 
 [![Inteligente WiFi enchufe – hyleton Smart](https://images-eu.ssl-images-amazon.com/images/I/411uVN-g8FL._SL200_.jpg)](https://www.amazon.es/dp/B07B8FNYMK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B8FNYMK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

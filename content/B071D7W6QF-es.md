@@ -22,6 +22,9 @@ Tienes [Philips Hue Hue White Ambiance Milliskin Foco LED Inteligente empotrable
 
 [![Philips Hue Hue White Ambiance Milliskin](https://images-eu.ssl-images-amazon.com/images/I/41yhR%2BdV3CL._SL200_.jpg)](https://www.amazon.es/dp/B071D7W6QF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071D7W6QF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

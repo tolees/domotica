@@ -22,6 +22,9 @@ Tienes [Echo Dot  3.ª generación   tela de color antracita + Philips Hue White
 
 [![Echo Dot  3.ª generación   tela de color](https://images-eu.ssl-images-amazon.com/images/I/41RzXZuzjNL._SL200_.jpg)](https://www.amazon.es/dp/B07TP5MXRY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TP5MXRY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

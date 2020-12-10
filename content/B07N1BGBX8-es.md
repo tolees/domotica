@@ -22,6 +22,9 @@ Está [Enchufe Inteligente Wifi  Wesho Inalámbrico Smart Mini Monitor de Energ�
 
 [![Enchufe Inteligente Wifi  Wesho Inalámbr](https://images-eu.ssl-images-amazon.com/images/I/41Z6CxgH8xL._SL200_.jpg)](https://www.amazon.es/dp/B07N1BGBX8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N1BGBX8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

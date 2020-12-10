@@ -22,6 +22,9 @@ Ahora mismo tienes [Smart Power Strip  Wifi Surge Protector  Voice Control with 
 
 [![Smart Power Strip  Wifi Surge Protector ](https://images-eu.ssl-images-amazon.com/images/I/41u2QBqh-nL._SL200_.jpg)](https://www.amazon.es/dp/B07H811RWP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H811RWP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
