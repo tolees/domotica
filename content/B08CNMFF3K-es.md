@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hoover HGO330HC Hydro Pro - Robot Aspira al 28.40 % de descuento'
-date: 2020-12-09 11:13:02
+date: 2020-12-10 21:37:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LsTVpwBsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LsTVpwBsL._SL200_.jpg' ]
 comments: true
