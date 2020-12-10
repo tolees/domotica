@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YI Camara Vigilancia 1080p Camara IP Cam al 33.34 % de descuento'
-date: 2020-12-05 12:05:27
+date: 2020-12-10 19:15:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xCY9og74L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xCY9og74L._SL200_.jpg' ]
 comments: true
