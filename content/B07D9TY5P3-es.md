@@ -29,12 +29,12 @@ Tienes [Google Wifi - Router inalámbrico  1 Pack  Español/Italiano/Portugués 
 Características principales:
 
 - Memoria: 512 MB de RAM, Flash eMMC de 4 GB
-- Seguridad: WPA2-PSK, Actualizaciones automáticas, Módulo de plataforma de confianza SLB 9615 de Infineon
 - Procesador: CPU ARM de cuatro núcleos (cada uno hasta 710 MHz)
+- Seguridad: WPA2-PSK, Actualizaciones automáticas, Módulo de plataforma de confianza SLB 9615 de Infineon
+- Puertos: 2 puertos Gigabit Ethernet por punto Wi-Fi, WAN y LAN en el punto Wi-Fi principal (ambos actúan como puertos LAN en otros puntos Wi-Fi)
 - Alimentación: Adaptador de alimentación de 15 W, consume aproximadamente 9 W
 - Dimensiones: diámetro: 104,1 mm, altura: 68,7 mm; Peso: 340 g
 - Conexión inalámbrica: Wi-Fi AC1200 2x2 Wave 2, Wi-Fi en red ampliable, Wi-Fi dual simultáneo (2,4 y 5 GHz) compatible con IEEE 802.11a/b/g/n/ac, Transmisión TxBF, Bluetooth Smart Ready
-- Puertos: 2 puertos Gigabit Ethernet por punto Wi-Fi, WAN y LAN en el punto Wi-Fi principal (ambos actúan como puertos LAN en otros puntos Wi-Fi)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D9TY5P3/?tag=tolees-21)
 
