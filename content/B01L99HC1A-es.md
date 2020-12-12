@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips Hue White ambiance Being - Lámpara colgante LED neg
 
 [![Philips Hue White ambiance Being - Lámpa](https://images-eu.ssl-images-amazon.com/images/I/31ji2yLL-CL._SL200_.jpg)](https://www.amazon.es/dp/B01L99HC1A/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01L99HC1A/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [3 paquetes de enchufe inteligente Alexa Wifi](https://www.am
 
 [![3 paquetes de enchufe inteligente Alexa ](https://images-eu.ssl-images-amazon.com/images/I/41qcz-0%2Bb-L._SL200_.jpg)](https://www.amazon.es/dp/B07LBV76RD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LBV76RD/?tag=tolees-21)

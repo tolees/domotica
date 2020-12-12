@@ -22,7 +22,7 @@ Ahora mismo tienes [Enchufe Inteligente Wifi  ARINO Enchufes Inalámbricos Intel
 
 [![Enchufe Inteligente Wifi  ARINO Enchufes](https://images-eu.ssl-images-amazon.com/images/I/41MFCfJQU0L._SL200_.jpg)](https://www.amazon.es/dp/B07JB7STBN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JB7STBN/?tag=tolees-21)
