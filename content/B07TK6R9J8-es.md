@@ -28,11 +28,11 @@ Tienes [【LED Controlable】Alexa Interruptor Persiana  Maxcio Interruptor Inte
 
 Características principales:
 
-- Control por APP y Voz -- Compatible con Amazon Alexa y Google Assistant. Los comandos de Alexa: "Alexa, enciende la persiana", "Alexa, apaga la persiana". Los comandos de Google Home: "Google, inicia/activa la persiana", "google, desactiva/detén la persiana", "google, pausa la persiana".Por alexa no se puede pausar la persiana directamente, se necesita crear un ambiente de pausa en Smart life y vincular este ambiente con Alexa.
-- FÁCIL DE INSTALAR/USAR -- Puede instalar los interruptores WIFI en tan solo unos minutos como el interruptor persiana tradicional. Los interruptores táctiles te dan diferentes experiencias cuando lo usas. Le ofreceremos todas las instrucciones de instalación. Si tiene dudas, podría pedirnos los manuales de PDF por email.
-- ALTA CALIDAD -- Tomamos la tecnología profesional de protección contra sobrecargas y materiales contra incendios para darle la mayor seguridad de uso. Macxio trabajar a ofrecerles a los clientes el mejor servicio. Si le pasan problemas o dudas, podría contactarnos por email por favor.
-- INTERRUPTOR TEMPORIZADOR -- Puede programar un horario en la aplicación SmartLife a manejar los estados de las cortinas. Las abre por la mañana automáticamente y usted se desperta con luz natural, en lugar de con una alarma estridente. Puede establecer grupos para controlar varios interruptores de pared a la vez.
 - Luz de Fondo Controlable -- Comparado con el modelo antiguo, añademos una función de encender/apagar la luz de fondo. ¡No le molestará las luces azules por la noche!
+- FÁCIL DE INSTALAR/USAR -- Puede instalar los interruptores WIFI en tan solo unos minutos como el interruptor persiana tradicional. Los interruptores táctiles te dan diferentes experiencias cuando lo usas. Le ofreceremos todas las instrucciones de instalación. Si tiene dudas, podría pedirnos los manuales de PDF por email.
+- INTERRUPTOR TEMPORIZADOR -- Puede programar un horario en la aplicación SmartLife a manejar los estados de las cortinas. Las abre por la mañana automáticamente y usted se desperta con luz natural, en lugar de con una alarma estridente. Puede establecer grupos para controlar varios interruptores de pared a la vez.
+- ALTA CALIDAD -- Tomamos la tecnología profesional de protección contra sobrecargas y materiales contra incendios para darle la mayor seguridad de uso. Macxio trabajar a ofrecerles a los clientes el mejor servicio. Si le pasan problemas o dudas, podría contactarnos por email por favor.
+- Control por APP y Voz -- Compatible con Amazon Alexa y Google Assistant. Los comandos de Alexa: "Alexa, enciende la persiana", "Alexa, apaga la persiana". Los comandos de Google Home: "Google, inicia/activa la persiana", "google, desactiva/detén la persiana", "google, pausa la persiana".Por alexa no se puede pausar la persiana directamente, se necesita crear un ambiente de pausa en Smart life y vincular este ambiente con Alexa.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TK6R9J8/?tag=tolees-21)
 
