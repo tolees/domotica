@@ -3,6 +3,7 @@ layout: post
 title: 'D-Link DCS-8515LH - Cámara WiFi HD con m al 47.29 % de descuento'
 date: 2020-12-04 17:42:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31AzmFiHiyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AzmFiHiyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31AzmFiHiyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 129.0 EUR
 inStock: true
 prodname: 'D-Link DCS-8515LH - Cámara WiFi HD con motor  con seguimiento de personas u objetos en movimiento  rotación horizontal 340°  vertical 105°  720p  infrarrojos  compatible Alexa  Google Home e IFTTT'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MWCF4GC/?tag=tolees-21'
+descuento: '47.29'
+titulo: 'D-Link DCS-8515LH - Cámara WiFi HD con m'
 ---
 
 Ahora mismo tienes [D-Link DCS-8515LH - Cámara WiFi HD con motor  con seguimiento de personas u objetos en movimiento  rotación horizontal 340°  vertical 105°  720p  infrarrojos  compatible Alexa  Google Home e IFTTT](https://www.amazon.es/dp/B07MWCF4GC/?tag=tolees-21) a 67.99 EUR (original: 129.0 EUR) (47.29 %  de descuento) en el siguiente enlace!
 
 [![D-Link DCS-8515LH - Cámara WiFi HD con m](https://m.media-amazon.com/images/I/31AzmFiHiyL._SL200_.jpg)](https://www.amazon.es/dp/B07MWCF4GC/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07MWCF4GC/?tag=tolees-21)
 

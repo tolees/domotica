@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.67 % en LVWIT Bombillas LED GU10 Inteligente WiF'
 date: 2020-12-06 11:32:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31yJpxVNBvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yJpxVNBvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31yJpxVNBvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'LVWIT Bombillas LED GU10 Inteligente WiFi Regulable 5W 350 Lm  Lámpara Multicolor Bombilla Compatible con Alexa  Google Home Assistant y App Smart Life/Tuya  Equivalente a 32W RGB  2 Pcs.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07YKFHF41/?tag=tolees-21'
+descuento: '33.67'
+titulo: 'LVWIT Bombillas LED GU10 Inteligente WiF'
 ---
 
 Tienes [LVWIT Bombillas LED GU10 Inteligente WiFi Regulable 5W 350 Lm  Lámpara Multicolor Bombilla Compatible con Alexa  Google Home Assistant y App Smart Life/Tuya  Equivalente a 32W RGB  2 Pcs.](https://www.amazon.es/dp/B07YKFHF41/?tag=tolees-21) con un 33.67 % de descuento con precio de oferta de 17.24 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![LVWIT Bombillas LED GU10 Inteligente WiF](https://m.media-amazon.com/images/I/31yJpxVNBvL._SL200_.jpg)](https://www.amazon.es/dp/B07YKFHF41/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07YKFHF41/?tag=tolees-21)
 

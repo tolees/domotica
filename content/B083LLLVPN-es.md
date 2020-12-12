@@ -3,6 +3,7 @@ layout: post
 title: 'BroadLink RM4 Pro IR y RF Mando a Distan al 26.64 % de descuento'
 date: 2020-11-26 00:12:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/21EjQc6jcDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21EjQc6jcDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21EjQc6jcDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'BroadLink RM4 Pro IR y RF Mando a Distancia Universal  Code Learning - Mando a Distancia WiFi para el hogar Inteligente y Dispositivos - para TV  AC  Motor de Cortina - Compatible con Alexa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B083LLLVPN/?tag=tolees-21'
+descuento: '26.64'
+titulo: 'BroadLink RM4 Pro IR y RF Mando a Distan'
 ---
 
 Ahora mismo tienes [BroadLink RM4 Pro IR y RF Mando a Distancia Universal  Code Learning - Mando a Distancia WiFi para el hogar Inteligente y Dispositivos - para TV  AC  Motor de Cortina - Compatible con Alexa](https://www.amazon.es/dp/B083LLLVPN/?tag=tolees-21) a 33.74 EUR (original: 45.99 EUR) (26.64 %  de descuento) en el siguiente enlace!
 
 [![BroadLink RM4 Pro IR y RF Mando a Distan](https://m.media-amazon.com/images/I/21EjQc6jcDL._SL200_.jpg)](https://www.amazon.es/dp/B083LLLVPN/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B083LLLVPN/?tag=tolees-21)
 

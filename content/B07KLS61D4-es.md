@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en EZVIZ Cámara de vigilancia Exterior cáma'
 date: 2020-11-29 09:01:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+uciIukHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+uciIukHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+uciIukHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'EZVIZ Cámara de vigilancia Exterior cámara IP WiFi cámara de Seguridad Visión Nocturna 30m Luz estroboscópica y Sirena Resistente al Exterior WiFi 2.4G Compatible con Alexa CTQ3W  1080p '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KLS61D4/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'EZVIZ Cámara de vigilancia Exterior cáma'
 ---
 
 Tienes [EZVIZ Cámara de vigilancia Exterior cámara IP WiFi cámara de Seguridad Visión Nocturna 30m Luz estroboscópica y Sirena Resistente al Exterior WiFi 2.4G Compatible con Alexa CTQ3W  1080p ](https://www.amazon.es/dp/B07KLS61D4/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![EZVIZ Cámara de vigilancia Exterior cáma](https://m.media-amazon.com/images/I/41+uciIukHL._SL200_.jpg)](https://www.amazon.es/dp/B07KLS61D4/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KLS61D4/?tag=tolees-21)
 

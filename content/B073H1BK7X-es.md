@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.06 % en Motorola Stream Sport - Mini Bluetooth A'
 date: 2020-12-07 17:02:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Fv+yBf-PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fv+yBf-PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Fv+yBf-PL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Motorola Stream Sport - Mini Bluetooth Auriculares Inalámbricos con Cargador - Alexa  Siri y Google Now compatible - Negro y Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073H1BK7X/?tag=tolees-21'
+descuento: '82.06'
+titulo: 'Motorola Stream Sport - Mini Bluetooth A'
 ---
 
 Tienes [Motorola Stream Sport - Mini Bluetooth Auriculares Inalámbricos con Cargador - Alexa  Siri y Google Now compatible - Negro y Rojo](https://www.amazon.es/dp/B073H1BK7X/?tag=tolees-21) con un 82.06 % de descuento con precio de oferta de 17.94 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![Motorola Stream Sport - Mini Bluetooth A](https://m.media-amazon.com/images/I/41Fv+yBf-PL._SL200_.jpg)](https://www.amazon.es/dp/B073H1BK7X/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B073H1BK7X/?tag=tolees-21)
 
