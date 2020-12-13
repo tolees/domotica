@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Echo Show 8  reacondicionado certificado al 50.43 % de descuento'
-date: 2020-12-07 16:36:46
+date: 2020-12-12 23:45:27
 image: 'https://m.media-amazon.com/images/I/41wKh06IJIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,12 @@ Está [Echo Show 8  reacondicionado certificado  tela de color antracita - Una p
 
 ℹ️:
 
+- Videollamadas y mensajes: conecta con familiares y amigos que tengan la app Alexa o un dispositivo Echo con pantalla. Envía comunicados a otros dispositivos Echo de tu hogar.
+- Controla tus dispositivos de Hogar digital: controla con la voz o con la práctica pantalla dispositivos compatibles. Pídele a Alexa que te muestre el vídeo de las cámaras de seguridad, que controle las luces y que regule los termostatos.
+- Alexa tiene mucho que mostrarte: con una pantalla HD de 8 pulgadas y sonido estéreo, Alexa te ayuda a organizar tu día con un solo vistazo.
+- Hecho para adaptarse a tu ritmo de vida: cocina con recetas paso a paso, mantén al día tus listas de tareas y las citas del calendario, y consulta el pronóstico del tiempo y el estado del tráfico antes de salir de casa.
+- Diseñado para proteger tu privacidad: desactiva electrónicamente los micrófonos y la cámara con solo pulsar un botón y desliza la cubierta integrada para tapar la cámara.
+- Personalízalo: mira tus álbumes de fotos de Amazon, personaliza la pantalla de Inicio y crea rutinas matutinas para empezar el día con buen pie.
+- Diviértete: pídele a Alexa series, películas o las noticias, o escucha emisoras de radio y podcasts.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SNPP6P3/?tag=tolees-21)
