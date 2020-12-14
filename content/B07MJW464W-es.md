@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MJW464W/?tag=tolees-21'
 descuento: '43.64'
+average: '30.99'
 ---
 
 Tienes [Enchufe Wifi  Hedynshine Enchufe Inteligente con USB  Control Remoto/Mando de Voz  Luces de Ambiente Colorido  Temporizador Enchufe  Compatible con Google Home/Amazon Alexa/Android/IOS 2 pack ](https://www.amazon.es/dp/B07MJW464W/?tag=tolees-21) con un 43.64 % de descuento con precio de oferta de 30.99 EUR (original: 54.99 EUR) en el siguiente enlace!

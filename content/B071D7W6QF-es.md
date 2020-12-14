@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071D7W6QF/?tag=tolees-21'
 descuento: '54.99'
+average: '27'
 ---
 
 Tienes [Philips Hue Hue White Ambiance Milliskin Foco LED Inteligente empotrable Cuadrado  5.5 W  con Mando  Intensidad y Tono Regulable  Compatible Apple Homekit y Google Home GU10  230 Aluminio](https://www.amazon.es/dp/B071D7W6QF/?tag=tolees-21) con un 54.99 % de descuento con precio de oferta de 27 EUR (original: 59.99 EUR) en el siguiente enlace!

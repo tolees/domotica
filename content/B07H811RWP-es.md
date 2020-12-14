@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H811RWP/?tag=tolees-21'
 descuento: '48.02'
+average: '25.99'
 ---
 
 Ahora mismo tienes [Smart Power Strip  Wifi Surge Protector  Voice Control with Alexa  3 AC Outlets 4 USB Port with 6-Foot Cord  App Control Appliances  Individual Control  Timing Schedule  No Hub Required](https://www.amazon.es/dp/B07H811RWP/?tag=tolees-21) a 25.99 EUR (original: 50 EUR) (48.02 %  de descuento) en el siguiente enlace!

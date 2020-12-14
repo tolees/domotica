@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RWZQGVP/?tag=tolees-21'
 descuento: '44.20'
+average: '23.99'
 ---
 
 Está [Enchufe Inteligente Mini Salida WiFi - VOION Conector Inteligente Funciona Con Amazon Alexa  Echo  Google Home  IFTTT  No Requiere Hub  16A Para Electrodomésticos Grandes  El Mando A Distancia  2 Pcs ](https://www.amazon.es/dp/B07RWZQGVP/?tag=tolees-21) con 44.20 de descuento por 23.99 EUR (original: 42.99 EUR) en el siguiente enlace!

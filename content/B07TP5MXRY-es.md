@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TP5MXRY/?tag=tolees-21'
 descuento: '50.00'
+average: '69.99'
 ---
 
 Tienes [Echo Dot  3.ª generación   tela de color antracita + Philips Hue White Kit - Kit de 2 bombillas LED E27 y puente](https://www.amazon.es/dp/B07TP5MXRY/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 69.99 EUR (original: 139.98 EUR) en el siguiente enlace!

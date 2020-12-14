@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H2Q1SB9/?tag=tolees-21'
 descuento: '38.89'
+average: '54.99'
 ---
 
 Está [Echo Dot  3.ª generación   tela de color antracita + Amazon Smart Plug  compatible con Alexa](https://www.amazon.es/dp/B07H2Q1SB9/?tag=tolees-21) con 38.89 de descuento por 54.99 EUR (original: 89.98 EUR) en el siguiente enlace!

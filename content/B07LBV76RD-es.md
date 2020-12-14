@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBV76RD/?tag=tolees-21'
 descuento: '50.09'
+average: '31.29'
 ---
 
 Ahora mismo tienes [3 paquetes de enchufe inteligente Alexa Wifi](https://www.amazon.es/dp/B07LBV76RD/?tag=tolees-21) a 31.29 EUR (original: 62.69 EUR) (50.09 %  de descuento) en el siguiente enlace!

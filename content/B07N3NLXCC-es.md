@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N3NLXCC/?tag=tolees-21'
 descuento: '29.99'
+average: '9.99'
 ---
 
 Está [Killypo EU WiFi Enchufe Inteligente Toma de WiFi Compatible con Alexa Google Assistant Home Automation para Escuela Oficina Hotelera Negocio Blanco ](https://www.amazon.es/dp/B07N3NLXCC/?tag=tolees-21) con 29.99 de descuento por 9.99 EUR (original: 14.27 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MS9L9K2/?tag=tolees-21'
 descuento: '45.26'
+average: '22.99'
 ---
 
 Tienes [TP-Link LB130 Bombilla WiFi inteligente  E27  color cambiable  regulable  control de aplicación Kasa  funciona con Amazon Alexa  Google Home e IFTTT E26  11 W  Multicolor](https://www.amazon.es/dp/B01MS9L9K2/?tag=tolees-21) con un 45.26 % de descuento con precio de oferta de 22.99 EUR (original: 42 EUR) en el siguiente enlace!

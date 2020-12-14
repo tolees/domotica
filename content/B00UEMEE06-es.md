@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UEMEE06/?tag=tolees-21'
 descuento: '36.75'
+average: '220.73'
 ---
 
 Tienes [Philips Hue White ambiance Phoenix - Plafón LED  Iluminación inteligente  compatible con Amazon Alexa  Apple HomeKit y Google Assistant](https://www.amazon.es/dp/B00UEMEE06/?tag=tolees-21) con un 36.75 % de descuento con precio de oferta de 220.73 EUR (original: 349 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8FNYMK/?tag=tolees-21'
 descuento: '42.01'
+average: '28.99'
 ---
 
 Tienes [Inteligente WiFi enchufe – hyleton Smart WiFi Plug funciona con Amazon Alexa y Google Home/ifttt dimer Interruptor con App control 2.4 GHz sin Hub necesarios  Blanco  3 pack ](https://www.amazon.es/dp/B07B8FNYMK/?tag=tolees-21) con un 42.01 % de descuento con precio de oferta de 28.99 EUR (original: 49.99 EUR) en el siguiente enlace!
