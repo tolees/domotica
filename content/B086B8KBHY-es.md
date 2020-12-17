@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hisense ULED 2020 55U71QF - Smart TV 55" al 27.41 % de descuento'
-date: 2020-12-15 00:15:13
+date: 2020-12-17 00:48:55
 image: 'https://m.media-amazon.com/images/I/51d8uM0SgYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,11 @@ Está [Hisense ULED 2020 55U71QF - Smart TV 55" Resolución 4K  Quantum Dot  FAL
 
 ℹ️:
 
-- Tipo de conectividad: Ethernet
-- Fuente de alimentación: Alimentación eléctrica con cable
+- Disfruta de un tercer año de garantía extendida gratuita en la pantalla.
+- Compatible con todos los formatos HDR; Dolby Vision, HDR10+, HDR10, HLG
+- Sistema operativo Vidaa U 4.0 + Alexa Built-in
+- Sistema de doble altavoz con sonido Dolby Atmos
+- Tecnología Quantum Dot para obtener el mejor color
+- Panel Full Array Local Dimming y 700 nits de brillo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086B8KBHY/?tag=tolees-21)
