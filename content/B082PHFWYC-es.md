@@ -25,10 +25,10 @@ Está [ZACO V5x - 2 en 1 robot aspirador friegasuelos con 4 modos de limpieza  m
 
 ℹ️:
 
+- Gracias a sus sensores infrarrojos, el robot detecta objetos y evita escaleras, obstáculos y dar golpes a los muebles; cuando la batería se agota, vuelve automáticamente a la base de carga
 - Gracias al modo max, ofrece 5 veces más poder de aspiración, recogiendo suciedad, polvo y pelo sin problemas; planifica la limpieza semanal y deja que v5x haga el resto
-- I-dropping controla estrictamente el suministro de agua y evita problemas o daños al suelo; con tanque de agua y depósito de polvo extra grandes para la limpieza continua de áreas extensas
 - Contenido: 1x zaco v5x robot 2 en 1, 1 adaptador, 1 base de carga, 1 tanque de agua, 2 paños de microfibra, 1 mando, 2 cepillos laterales extra, 1 herramienta de limpieza, 2 filtros, guía
 - Zaco v5x es un pequeño robot 2 en 1 diseñado para aspirar y fregar suelos duros y alfombras y que deja tu casa limpia y fresca; control vía apo mando
-- Gracias a sus sensores infrarrojos, el robot detecta objetos y evita escaleras, obstáculos y dar golpes a los muebles; cuando la batería se agota, vuelve automáticamente a la base de carga
+- I-dropping controla estrictamente el suministro de agua y evita problemas o daños al suelo; con tanque de agua y depósito de polvo extra grandes para la limpieza continua de áreas extensas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082PHFWYC/?tag=tolees-21)
