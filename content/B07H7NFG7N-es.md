@@ -25,14 +25,14 @@ Tienes [Ring Stick Up Cam Elite - Cámara de seguridad HD  comunicación bidirec
 
 ℹ️:
 
-- ¿Te ayudamos? Contacta con el Servicio al Cliente de Ring: 00 800 87 00 97 81 o por correo electrónico help@ring.com
 - Compatible con determinados dispositivos Alexa para ver vídeos en directo solo usando la voz.
 - Fácil de instalar. Incluye todos los accesorios necesarios.
-- Puedes ver, escuchar y hablar con tus visitas a través del smartphone, el tablet o PC.
 - Diseño fino y versátil para colocarla en cualquier lugar y vigilar las zonas interiores o exteriores de tu casa con vídeo HD 1080p.
+- Recibirás notificaciones instantáneas cuando se detecte movimiento.
+- Puedes ver, escuchar y hablar con tus visitas a través del smartphone, el tablet o PC.
+- ¿Te ayudamos? Contacta con el Servicio al Cliente de Ring: 00 800 87 00 97 81 o por correo electrónico help@ring.com
+- Se conecta a Internet por Wi-Fi o Ethernet.
 - Vigila tu casa con vídeo HD 1080p, visión nocturna por infrarrojos y vídeo en directo.
 - Las funcionalidades básicas, como las notificaciones instantáneas, el vídeo en directo y la comunicación bidireccional, están disponibles de manera gratuita en todos los dispositivos Ring nada más sacarlos de la caja. Para activar la grabación de los vídeos de tu dispositivo, se requiere una suscripción al plan Ring Protect. Esta suscripción opcional te permite guardar, revisar y compartir todos tus vídeos en cualquier momento. Puedes disfrutar de una prueba de 30 días gratis del plan Ring Protect. Después, puedes suscribirte desde solo 3 € al mes en ring.com.
-- Recibirás notificaciones instantáneas cuando se detecte movimiento.
-- Se conecta a Internet por Wi-Fi o Ethernet.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H7NFG7N/?tag=tolees-21)
