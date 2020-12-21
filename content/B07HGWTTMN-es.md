@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'AKASO Cámara IP WiFi 1080P Compatible co al 49.09 % de descuento'
+date: 2020-12-21 10:13:12
+image: 'https://m.media-amazon.com/images/I/317YgA2yHBL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07HGWTTMN-es'
+actualPrice: 30.54 EUR
+currency: EUR
+price: 30.54
+comparePrice: 59.99 EUR
+prodname: 'AKASO Cámara IP WiFi 1080P Compatible con Alexa Google Home Fire TV Cámara de Vigilancia Interior Seguridad para Niños Audio Bidireccional Visión Nocturna Detección de Movimiento  P30 '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07HGWTTMN/?tag=tolees-21'
+descuento: '49.09'
+average: '56.717777777777776'
+---
+
+Ahora mismo tienes [AKASO Cámara IP WiFi 1080P Compatible con Alexa Google Home Fire TV Cámara de Vigilancia Interior Seguridad para Niños Audio Bidireccional Visión Nocturna Detección de Movimiento  P30 ](https://www.amazon.es/dp/B07HGWTTMN/?tag=tolees-21) a 30.54 EUR (original: 59.99 EUR) (49.09 %  de descuento) en el siguiente enlace!
+
+[![AKASO Cámara IP WiFi 1080P Compatible co](https://m.media-amazon.com/images/I/317YgA2yHBL._SL200_.jpg)](https://www.amazon.es/dp/B07HGWTTMN/?tag=tolees-21)
+
+🔎:
+
+- 【1080P FHD Cámara IP Compatible con Alexa/ Google Home/Fire TV 】 AKASO P30 Cámara IP wifi 1080P es compatible con Amazon Echo Show y Google Home, pida a Alexa o Google Home que le muestren lo que desea. Con un LED IR de alta definición, visión nocturna hasta 10M, 100° gran angular, control remoto con APP de móvil para 355° rotación horizontal y 90° rotación vertical. Soporte conexión inalámbrico de 2.4GHz, no 5GHz.
+- 【Tarjeta Micro SD y Almacenamiento en la Nube】 Tarjeta Micro SD de 2GB a 128GB (no incluida) y almacenamiento en la nube para grabaciones. El almacenamiento en la nube puede evitar la pérdida de archivos de la tarjeta SD y garantiza la seguridad de los datos. También es compatible con la conexión en caliente de tarjeta, puede insertar la tarjeta SD después de encender la cámara.
+- 【Detección de Movimiento con Instantánea y Alarma】 Cuando se detectan los movimientos, recibirá una notificación con instantánea en teléfono y alarma sonora. Cada riesgo potencial se identifica con precisión y se informa de inmediato. La sensibilidad de detección de movimiento se puede configurar fácilmente.
+- 【Audio Bidireccional】 Micrófono y altavoz incorporados. Hay un modo de intercomunicación, lo que le permite mantenerse en contacto, hablar y escuchar con su familia de forma remota a través de APP. Y el modo de manos libres: ambos lados hablan y escuchan libremente para obtener la máxima flexibilidad.
+- 【Acceso Remoto de Móvil】La camara vigilancia es compatible con APP "AKASO Smart" para el acceso remoto. Conexión fácil y rápida a esta cámara de seguridad inalámbrica. Reproducción remota, captura de imágenes en vivo y grabación manual en el teléfono. Puede compartirla con familia y amigos, usuarios ilimitados para mirar en vivo en teléfonos o tabletas con Android o iOS.
+
+[Visítala!!!](https://www.amazon.es/dp/B07HGWTTMN/?tag=tolees-21)
