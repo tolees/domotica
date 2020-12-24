@@ -27,11 +27,11 @@ Tienes [Presentamos el Fire TV Stick Lite con mando por voz Alexa | Lite  sin co
 
 - Fácil de configurar y discreto: conéctalo a la parte trasera del TV, enciende el TV y conéctate a Internet para configurarlo.
 - Miles de apps, Skills de Alexa y canales, incluyendo Netflix, YouTube, Prime Video, Disney+, DAZN, Atresplayer, Mitele y más. Pueden aplicarse cargos de suscripción.
-- Televisión en directo: mira en directo programas de televisión, las noticias y deportes con las suscripciones a Eurosport, ITV Hub, Sky News y más.
-- Los miembros Amazon Prime tienen acceso ilimitado a miles de películas y episodios de series.
 - Escucha música: reproduce música en streaming con Amazon Music, Spotify y más. Pueden aplicarse cargos de suscripción.
-- Nuestro Fire TV Stick más asequible: reproducción en streaming rápida y con calidad Full HD. Viene con el mando por voz Alexa | Lite.
-- Televisión gratis: disfruta de acceso a películas y series con aplicaciones como RTVE A la carta, Atresplayer, YouTube y más.
 - Pulsa el botón y pídeselo a Alexa: usa la voz para buscar contenido e iniciar la reproducción en múltiples apps.
+- Televisión en directo: mira en directo programas de televisión, las noticias y deportes con las suscripciones a Eurosport, ITV Hub, Sky News y más.
+- Televisión gratis: disfruta de acceso a películas y series con aplicaciones como RTVE A la carta, Atresplayer, YouTube y más.
+- Los miembros Amazon Prime tienen acceso ilimitado a miles de películas y episodios de series.
+- Nuestro Fire TV Stick más asequible: reproducción en streaming rápida y con calidad Full HD. Viene con el mando por voz Alexa | Lite.
 
 [Comprar!!!](https://www.amazon.es/dp/B07ZZVWB4L/?tag=tolees-21)
