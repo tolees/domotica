@@ -25,11 +25,11 @@ Está [Xiaomi Redmi Note 9 Pro - Smartphone 6+64GB  6.67" DotDisplay  Cámara cu
 
 ℹ️:
 
-- Cámara: Cuádruple, 64MP+8MP +2MP+2MP
 - OS: Android 10
+- Batería: 5020 mAh
+- Procesador: Snapdragon 720G 2.3GHz
+- Cámara: Cuádruple, 64MP+8MP +2MP+2MP
 - Pantalla: 6.67", 1080 x 2400 pixels
 - La integración de Alexa en nuestros teléfonos te permiten hacer llamadas telefónicas, abrir aplicaciones, controlar dispositivos domésticos inteligentes, acceder a la biblioteca de habilidades de Alexa y más usando solo tu voz mientras estás en movimiento. Descarga la aplicación Alexa y completa la configuración de manos libres para comenzar. Solo pregunta, y Alexa responderá al instante.
-- Procesador: Snapdragon 720G 2.3GHz
-- Batería: 5020 mAh
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088CD6PSS/?tag=tolees-21)
