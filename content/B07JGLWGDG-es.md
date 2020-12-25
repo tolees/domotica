@@ -25,10 +25,10 @@ Ahora mismo tienes [Energy Sistem Smart Speaker 5 Altavoz Inteligente con Alexa 
 
 🔎:
 
-- -Spotify / Airplay: Utiliza el altavoz inteligente para reproducir tus artistas favoritos a través de aplicaciones como Spotify o Airplay gracias a su conexión directa al Wi-Fi de tu casae
-- - Wi-Fi / MULTIROOM: Elige cómo escuchar tu música gracias a la tecnología Wi-Fi. Además, podrás transferirla desde este dispositivo a otros altavoces Multiroom vía Wi-Fi.
 - - 36 MESES DE GARANTÍA: disfruta del producto con una garantía especial de 36 meses y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo de este tiempo.
+- -Spotify / Airplay: Utiliza el altavoz inteligente para reproducir tus artistas favoritos a través de aplicaciones como Spotify o Airplay gracias a su conexión directa al Wi-Fi de tu casae
 - -ALEXA: Altavoz y Alexa combinados en este producto, que te permitirá reproducir tus canciones favoritas e interactuar con el dispositivo.
+- - Wi-Fi / MULTIROOM: Elige cómo escuchar tu música gracias a la tecnología Wi-Fi. Además, podrás transferirla desde este dispositivo a otros altavoces Multiroom vía Wi-Fi.
 - -16W: Este altavoz inteligente dispone de 16 Watts de potencia, para que disfrutes de disfrutes de Alexa sin renunciar a un altavoz que llenara cualquier habitación de música.
 
 [Visítala!!!](https://www.amazon.es/dp/B07JGLWGDG/?tag=tolees-21)
