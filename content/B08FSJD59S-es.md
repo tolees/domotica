@@ -25,12 +25,12 @@ Tienes [TP-Link Tapo Smart WiFi Plug | Diseño Compacto | No se Requiere Hub | C
 
 🔎:
 
-- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
-- Programación: preestablezca una programación para administrar dispositivos automáticamente
-- Diseño compacto: tamaño pequeño para evitar el bloqueo de tomas adyacentes
+- Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
 - Fácil configuración y uso: no se requiere concentrador, configúrelo rápidamente y adminístrelo fácilmente a través de la aplicación
 - Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
-- Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
+- Diseño compacto: tamaño pequeño para evitar el bloqueo de tomas adyacentes
+- Programación: preestablezca una programación para administrar dispositivos automáticamente
 - Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
+- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
 
 [Comprar!!!](https://www.amazon.es/dp/B08FSJD59S/?tag=tolees-21)
