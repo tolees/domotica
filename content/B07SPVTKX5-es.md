@@ -27,8 +27,8 @@ Tienes [brennenstuhl Connect enchufe inteligente WA 3000 XS02 para exteriores IP
 
 - Volumen de suministro: 1x enchufe inteligente smart plug con temporizador integrado para el uso en exteriores - en la calidad de brennenstuhl
 - Enchufe inteligente sin necesidad de conexión de una sistema casa inteligente, asistente doméstico controlable vía WiFi, control con la App disponible para dispoitivos Android/iOS
-- La toma de corriente inteligente WiFi exterior con tapas de protección de cierre es resistente a salpicaduras (IP 44) y óptimo para el uso en el valcón o en el jardín - iluminación exterior
 - Todos los enchufes inteligentes de Brennenstuhl funcionan en la red WiFi de 2,4 GHz, observe la configuración del router
+- La toma de corriente inteligente WiFi exterior con tapas de protección de cierre es resistente a salpicaduras (IP 44) y óptimo para el uso en el valcón o en el jardín - iluminación exterior
 - Enchufe inteligente WiFi para uso en exteriores con un temporizador ajustable mediante la aplicación para ajustar días y semanas - p. ej. enciendido/apagado automático de su iluminación de jardín
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SPVTKX5/?tag=tolees-21)
