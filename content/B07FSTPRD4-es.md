@@ -25,9 +25,9 @@ Tienes [Slabo Funda Universal para Amazon Fire HD 8-Tablet | Fire HD 8  2018  co
 
 🔎:
 
+- SISTEMA DE CREMALLERA PROTECTOR: para esta funda se utiliza un sistema de cremallera que cuando la cierra protege su Amazon Fire HD 8-Tablet con Alexa (20,3 cm 8") de arañazos
 - ALTA COMPATIBILIDAD: apta para su Amazon Fire HD 8-Tablet con Alexa (20,3 cm 8") | Amazon Fire HD 8-Tablet (2020) | Amazon Fire HD 8 Plus-Tablet (2020) | Amazon Fire HD 8 Kids Edition-Tablet (2020)
 - MAYOR PROTECCIÓN: esta funda protege su Amazon Fire HD 8-Tablet con Alexa (20,3 cm 8") Fire HD 8 (2020) | etc. de arañazos, huellas, polvo, arena y pequeños golpes
-- SISTEMA DE CREMALLERA PROTECTOR: para esta funda se utiliza un sistema de cremallera que cuando la cierra protege su Amazon Fire HD 8-Tablet con Alexa (20,3 cm 8") de arañazos
 - MATERIAL DE ALTA CALIDAD: fabricación de alta calidad y compuesta de un neopreno resistente y elástico
 - DISEÑO ELEGANTE: su diseño moderno y ligereza hacen que esta funda sea el acompañante perfecto
 
