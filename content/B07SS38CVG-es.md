@@ -25,13 +25,13 @@ En este momento está [Philips Hue Pack de 2 Bombillas Inteligentes LED E27  con
 
 🔎:
 
+- Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa y Google Home
+- Saca el potencial a tus bombillas Hue agregando el puente (se vende a parte); con él puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa cuando no sea así
+- Philips Hue Bluetooth pack 2 bombillas inteligentes LED E27, luz blanca y de colores, posibilidad de control por voz
+- Compatible con Bluetooth y Zigbee (Puente Hue opcional), compatible con Alexa y Google Home
+- Regulación sin instalación: experimenta luz LED blanca y de colores; temperatura de color: 2000 a 6500 kelvin; elige entre 16 millones de colores y sincroniza la luz con música y películas
+- Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue controla la luz de toda la casa, hasta 50 bombillas
 - Si utilizas el puente usa la app Philips Hue y saca el potencial a la iluminación inteligente
 - Controla las luces desde tu smartphone o tableta: para control por Bluetooth descárgate la app gratis hue bluetooth
-- Regulación sin instalación: experimenta luz LED blanca y de colores; temperatura de color: 2000 a 6500 kelvin; elige entre 16 millones de colores y sincroniza la luz con música y películas
-- Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa y Google Home
-- Compatible con Bluetooth y Zigbee (Puente Hue opcional), compatible con Alexa y Google Home
-- Saca el potencial a tus bombillas Hue agregando el puente (se vende a parte); con él puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa cuando no sea así
-- Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue controla la luz de toda la casa, hasta 50 bombillas
-- Philips Hue Bluetooth pack 2 bombillas inteligentes LED E27, luz blanca y de colores, posibilidad de control por voz
 
 [Aquí!!!](https://www.amazon.es/dp/B07SS38CVG/?tag=tolees-21)
