@@ -25,10 +25,10 @@ Está [NGS Smart WI-FI Led Bulb Gleam 510C – Bombilla Inteligente con WI-FI  C
 
 ℹ️:
 
-- La bombilla NGS Gleam 510, con una base GU10, cuenta con RGB+W led, es decir, diodos de luz rojo, verde y azul que en su mezcla pueden reproducir infinidad de colores y tonos.
-- Bombilla de 5W inteligente (equivalente a 45W incandescentes), con salida de lúmenes de 460 y conectado con la tecnología WI-FI.
-- NGS Gleam 510 es compatible con cualquier dispositivo tanto con iOS como con Android. También podrás sincronizarlo con la cuenta IFTTT y así crear un sinfín de acciones
-- Gracias a tecnología smart wifi y la APP gratuita “NGS ORB” hacen posible que tengas bajo control la iluminación de tu hogar desde tu teléfono o tableta.
 - La bombilla Led inteligente con 25000 h de vida y una potencia en espera de 0,5W máx, te permitirá reducir el uso de energía hasta un 80% sin perder calidad en comparación con una bombilla incandescente de 45W en condiciones de uso similares.
+- NGS Gleam 510 es compatible con cualquier dispositivo tanto con iOS como con Android. También podrás sincronizarlo con la cuenta IFTTT y así crear un sinfín de acciones
+- La bombilla NGS Gleam 510, con una base GU10, cuenta con RGB+W led, es decir, diodos de luz rojo, verde y azul que en su mezcla pueden reproducir infinidad de colores y tonos.
+- Gracias a tecnología smart wifi y la APP gratuita “NGS ORB” hacen posible que tengas bajo control la iluminación de tu hogar desde tu teléfono o tableta.
+- Bombilla de 5W inteligente (equivalente a 45W incandescentes), con salida de lúmenes de 460 y conectado con la tecnología WI-FI.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZJPGY81/?tag=tolees-21)
