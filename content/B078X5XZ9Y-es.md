@@ -25,10 +25,10 @@ Tienes [Sony HT-ZF9 - Barra de sonido 3.1 con Alexa Integrada  Dolby Atmos  DTS:
 
 🔎:
 
-- Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
-- Compatible con 4K HDR
 - Cinco modos de sonido para optimizar películas, música, juegos, noticias y deportes
 - Capaz de reproducir audio de alta resolución
+- Compatible con 4K HDR
 - Wi-Fi integrado y transmisión Bluetooth sencilla
+- Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
 
 [Comprar!!!](https://www.amazon.es/dp/B078X5XZ9Y/?tag=tolees-21)
