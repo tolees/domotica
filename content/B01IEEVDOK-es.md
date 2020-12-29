@@ -26,9 +26,9 @@ Está [iRobot Roomba 960 Robot Aspirador  Succión 5 Veces Superior  Cepillos de
 ℹ️:
 
 - The Full Bin indicator alerts you when it’s time to empty the bin. You can also view Bin Full status in the iRobot HOME App
-- The High-Efficiency Filter is made from a special material that captures 99% of dust, mites, and allergens as small as 10 microns
-- The robot automatically returns to the Home Base charging station to recharge at the end of a cleaning cycle or when the battery is running low
 - Roomba can be pre-set to vacuum up to seven times per week, meaning your home can stay clean every day
+- The robot automatically returns to the Home Base charging station to recharge at the end of a cleaning cycle or when the battery is running low
+- The High-Efficiency Filter is made from a special material that captures 99% of dust, mites, and allergens as small as 10 microns
 - At just 3.6 inches tall, the Roomba robot vacuum is designed to clean under beds, sofas, toe kicks, and other hard-to-reach areas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01IEEVDOK/?tag=tolees-21)
