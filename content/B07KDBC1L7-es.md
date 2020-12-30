@@ -25,12 +25,12 @@ Ahora mismo tienes [Echo Show 5: mantén el contacto con la ayuda de Alexa  blan
 
 🔎:
 
-- Mira películas, series y noticias. Escucha canciones y emisoras de radio.
+- Personalízalo con tu esfera de reloj o foto favorita. Crea rutinas y alarmas para empezar el día con buen pie.
 - Controla tu privacidad con el botón para apagar la cámara y los micrófonos, y con la cubierta de la cámara integrada.
 - Pantalla inteligente compacta de 5,5" con Alexa lista para ayudarte
-- Personalízalo con tu esfera de reloj o foto favorita. Crea rutinas y alarmas para empezar el día con buen pie.
-- Controla dispositivos compatibles con la voz o adminístralos usando la pantalla.
 - Realiza llamadas y videollamadas a amigos y familiares que tengan un dispositivo Echo compatible o la app Alexa.
 - Gestiona tu calendario, crea listas de tareas, entérate de la previsión del tiempo y del estado del tráfico, y cocina siguiendo recetas.
+- Mira películas, series y noticias. Escucha canciones y emisoras de radio.
+- Controla dispositivos compatibles con la voz o adminístralos usando la pantalla.
 
 [Visítala!!!](https://www.amazon.es/dp/B07KDBC1L7/?tag=tolees-21)
