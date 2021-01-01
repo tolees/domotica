@@ -27,8 +27,8 @@ Tienes [Enchufe Inteligente Zoozee WiFi Enchufe Smart 16A Inteligente Plug Compa
 
 - Control remoto--- Con el enchufe inteligente Zoozee, puede encender / apagar electrodomésticos y dispositivos electrónicos desde cualquier sitio, cuando esté fuera de la ciudad o incluso de vacaciones en el extranjero.
 - Compacto y fácil de configurar--- El tamaño mini ahorra espacio para un segundo enchufe. Solo necesita wifi de 2.4GHz para emparejar los enchufes wifi con la aplicación Smart Life o al dispositivo Alexa. Entonces podrá disfrutar de su vida inteligente.
-- Temporizador y programación--- Configuración de la programación para que sus electrodomésticos funcionen automáticamente con su enchufe wifi inteligente. Así podrás programar su cafetera u otro electrodoméstico para que funcione o apague la hora que deseas en el instante, con nuestro enchufe inalámbrico.
 - Control de voz--- Manos libres. Encienda o apague el enchufe wifi con Amazon alexa o Google Home simplemente con tu voz. Puede encender su televisor, luces o los aparatos que tengas conectado, sin levantarse.
+- Temporizador y programación--- Configuración de la programación para que sus electrodomésticos funcionen automáticamente con su enchufe wifi inteligente. Así podrás programar su cafetera u otro electrodoméstico para que funcione o apague la hora que deseas en el instante, con nuestro enchufe inalámbrico.
 - Fiable--- Ce, certificado de calidad RoHS. Vendemos el servicio no solo para un producto. Si tiene algún problema al usar nuestro enchufe, no dude en contactarnos.
 
 [Comprar!!!](https://www.amazon.es/dp/B07PGDL464/?tag=tolees-21)
