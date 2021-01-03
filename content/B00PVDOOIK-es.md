@@ -25,12 +25,12 @@ Tienes [D-Link DSP-W245 - Regleta de 4 enchufes Inteligentes  Control Desde móv
 
 ℹ️:
 
-- Programe aparatos como lámparas o calefactores para que se enciendan y apaguen automáticamente a la hora que decida
-- Control del consumo se los dispositivos conectados a la regleta en kWh
-- Puede controlarse por voz a través de los altavoces inteligentes Amazon Alexa o Google Assistant
-- Interactúa con otros dispositivos de la familia de productos mydlink, de forma que puede encenderse una luz cuando la cámara detecta movimiento, y acciones similares
-- Se conecta por WiFi al router de su casa u oficina
-- Encienda o apague hasta 4 electrodomésticos desde su teléfono inteligente o tableta, ya sea en casa o desde fuera
 - Protección incorporada contra sobretensiones y sobrecalentamiento
+- Programe aparatos como lámparas o calefactores para que se enciendan y apaguen automáticamente a la hora que decida
+- Interactúa con otros dispositivos de la familia de productos mydlink, de forma que puede encenderse una luz cuando la cámara detecta movimiento, y acciones similares
+- Encienda o apague hasta 4 electrodomésticos desde su teléfono inteligente o tableta, ya sea en casa o desde fuera
+- Control del consumo se los dispositivos conectados a la regleta en kWh
+- Se conecta por WiFi al router de su casa u oficina
+- Puede controlarse por voz a través de los altavoces inteligentes Amazon Alexa o Google Assistant
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00PVDOOIK/?tag=tolees-21)
