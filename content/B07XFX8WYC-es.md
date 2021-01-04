@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WI1000XM2 - Auriculares Inalámbrico con un 24.25 % de descuento'
-date: 2021-01-02 16:02:00
+date: 2021-01-04 01:01:41
 image: 'https://m.media-amazon.com/images/I/31l76IqJ8hL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ En este momento está [Sony WI1000XM2 - Auriculares Inalámbricos Noise Cancelli
 
 🔎:
 
-- La escucha inteligente mediante control de sonido adaptativo ajusta el sonido ambiental a tu actividad
 - Noise Cancelling digital con el procesador de Noise Cancelling HD QN1 y tecnología de sensor de ruido dual
+- La escucha inteligente mediante control de sonido adaptativo ajusta el sonido ambiental a tu actividad
 - Audio inalámbrico de alta resolución con DSEE HX y LDAC
-- Hasta 10 horas de batería en modo inalámbrico
 - Libertad inalámbrica con la tecnología BLUETOOTH y NFC
+- Hasta 10 horas de batería en modo inalámbrico
 
 [Aquí!!!](https://www.amazon.es/dp/B07XFX8WYC/?tag=tolees-21)
