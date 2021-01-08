@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 9 Pro - Smartphone 6+6 al 26.02 % de descuento'
-date: 2021-01-07 17:01:53
+date: 2021-01-08 19:04:59
 image: 'https://m.media-amazon.com/images/I/41-UQkuNawL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B088CD6PSS/?tag=tolees-21'
 descuento: '26.02'
-average: '238.50874999999994'
+average: '237.14637931034477'
 ---
 
 Está [Xiaomi Redmi Note 9 Pro - Smartphone 6+64GB  6.67" DotDisplay  Cámara cuádruple 64 MP con IA  Q-SnapdragonTM 720G  Batería 5020mAh  30W carga rápida   Alexa Hands-Free  Gris  V.Española ](https://www.amazon.es/dp/B088CD6PSS/?tag=tolees-21) con 26.02 de descuento por 199.0 EUR (original: 269.0 EUR) en el siguiente enlace!
@@ -25,11 +25,11 @@ Está [Xiaomi Redmi Note 9 Pro - Smartphone 6+64GB  6.67" DotDisplay  Cámara cu
 
 ℹ️:
 
-- Procesador: Snapdragon 720G 2.3GHz
 - Pantalla: 6.67", 1080 x 2400 pixels
-- La integración de Alexa en nuestros teléfonos te permiten hacer llamadas telefónicas, abrir aplicaciones, controlar dispositivos domésticos inteligentes, acceder a la biblioteca de habilidades de Alexa y más usando solo tu voz mientras estás en movimiento. Descarga la aplicación Alexa y completa la configuración de manos libres para comenzar. Solo pregunta, y Alexa responderá al instante.
-- Batería: 5020 mAh
-- Cámara: Cuádruple, 64MP+8MP +2MP+2MP
+- Procesador: Snapdragon 720G 2.3GHz
 - OS: Android 10
+- Cámara: Cuádruple, 64MP+8MP +2MP+2MP
+- Batería: 5020 mAh
+- La integración de Alexa en nuestros teléfonos te permiten hacer llamadas telefónicas, abrir aplicaciones, controlar dispositivos domésticos inteligentes, acceder a la biblioteca de habilidades de Alexa y más usando solo tu voz mientras estás en movimiento. Descarga la aplicación Alexa y completa la configuración de manos libres para comenzar. Solo pregunta, y Alexa responderá al instante.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088CD6PSS/?tag=tolees-21)
