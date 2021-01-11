@@ -25,10 +25,10 @@ Tienes [Fitop Bombilla Inteligente  Bombillas LED WiFi 9W 806 Lúmenes Compatibl
 
 🔎:
 
-- 【Función de temporizador】 Las bombillas inteligentes WiFi se abren y se cierran automáticamente según el tiempo establecido, y también se pueden conectar con la escena. Por ejemplo, enciende o apaga las luces dependiendo del atardecer de la ciudad, las condiciones meteorológicas, etc.
 - 【Mando a distancia】 Fácil de usar. Controla tu bombilla inteligente en cualquier lugar con la aplicación gratuita "Smart Life" "Tuya" con tu smartphone o tablet a través de redes 2G / 3G / 4G / WiFi en cualquier lugar. * Soporte de conexión solo por debajo de 2,4 GHz WiFi.
+- 【Función de temporizador】 Las bombillas inteligentes WiFi se abren y se cierran automáticamente según el tiempo establecido, y también se pueden conectar con la escena. Por ejemplo, enciende o apaga las luces dependiendo del atardecer de la ciudad, las condiciones meteorológicas, etc.
 - 【Control por voz】 La lámpara inteligente WiFi E27 es compatible con Siri, Amazon Alexa (Echo / Echo Dot / Echo Flex, etc.) y Google Home. Una voz para encender/apagar/ajustar el brillo de varias bombillas inteligentes. No requiere hub / puente
-- 【Brillo regulable y ahorro de energía】 El brillo de la lámpara LED inteligente se puede ajustar del 1% al 100%. 2700 K. Luz blanca cálida para un hogar acogedor y seguro. 806LM-9W, equivalente a 80W de una bombilla incandescente tradicional. Vida útil de hasta 30.000 horas y ahorra hasta un 85% de energía.
 - 【Calidad garantizada】 La lámpara LED Fitop cuenta con las certificaciones CE, WEEE y RoHS. Seguridad y protección de tu privacidad. 2 años de garantía. Si tienes alguna pregunta o necesitas apoyo, no dudes en ponerte en contacto con nosotros.
+- 【Brillo regulable y ahorro de energía】 El brillo de la lámpara LED inteligente se puede ajustar del 1% al 100%. 2700 K. Luz blanca cálida para un hogar acogedor y seguro. 806LM-9W, equivalente a 80W de una bombilla incandescente tradicional. Vida útil de hasta 30.000 horas y ahorra hasta un 85% de energía.
 
 [Comprar!!!](https://www.amazon.es/dp/B082F39XKN/?tag=tolees-21)
