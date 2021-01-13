@@ -25,9 +25,9 @@ Ahora mismo tienes [Philips Ambilight 65PUS7354 - Televisor Smart TV 4K UHD  65 
 
 🔎:
 
-- LED TVs
 - Philips 7300 series 65PUS7354/12 TV 165.1 cm (65") 4K Ultra HD Smart TV Wi-Fi Black,Silver
-- 8718863019139
 - 65PUS7354/12
+- 8718863019139
+- LED TVs
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RQZR7JP/?tag=tolees-21)
