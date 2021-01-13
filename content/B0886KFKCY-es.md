@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Enchufe de pared inteligente 15A con 2 U al 42.95 % de descuento'
+date: 2020-09-13 12:45:44
+image: 'https://m.media-amazon.com/images/I/31AvpRu9q-L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B0886KFKCY-es'
+actualPrice: 17.11 EUR
+currency: EUR
+price: 17.11
+comparePrice: 29.99 EUR
+prodname: 'Enchufe de pared inteligente 15A con 2 USB Wifi Si Smart  compatible con Smart Life  Alexa y Google Home. Función control remoto  horarios  grupos  compartir y otros.'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B0886KFKCY/?tag=tolees-21'
+descuento: '42.95'
+average: '17.11'
+---
+
+Está [Enchufe de pared inteligente 15A con 2 USB Wifi Si Smart  compatible con Smart Life  Alexa y Google Home. Función control remoto  horarios  grupos  compartir y otros.](https://www.amazon.es/dp/B0886KFKCY/?tag=tolees-21) con 42.95 de descuento por 17.11 EUR (original: 29.99 EUR) en el siguiente enlace!
+
+[![Enchufe de pared inteligente 15A con 2 U](https://m.media-amazon.com/images/I/31AvpRu9q-L._SL200_.jpg)](https://www.amazon.es/dp/B0886KFKCY/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B0886KFKCY/?tag=tolees-21)
