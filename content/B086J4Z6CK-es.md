@@ -25,11 +25,11 @@ Está [LG 70UN7100 - Smart TV 4K UHD 177 cm  70"  con Inteligencia Artificial  H
 
 ℹ️:
 
-- Compatible con HDR10 Pro y HLG
 - Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, no incluido, Compatible con Alexa
-- Disfruta de la experiencia del Sonido Ultra Surround
 - Caja reforzada para Amazon (certificación ISTA 6) con diseño genérico LG 70UN71006LA
 - Sistema operativo SmartTV webOS 5.0
+- Disfruta de la experiencia del Sonido Ultra Surround
+- Compatible con HDR10 Pro y HLG
 - LG UHD, el Smart TV 4K UHD de 177 cm (70") compatible con Inteligencia Artificial
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086J4Z6CK/?tag=tolees-21)
