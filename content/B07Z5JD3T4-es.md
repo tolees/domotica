@@ -25,12 +25,12 @@ Tienes [TP-Link Tapo P100 - WiFi Enchufe Inteligente Mini tamaño para Controlar
 
 🔎:
 
-- Easy setup and use - Quick and easy daily setup and management via free app (free for iOS and Android)
-- Access on the go - Control all devices comfortably via the smartphone, anywhere and at any time
+- Note: WARNING: No Earth socket European socket, only for a female type C socket (or sockets)
 - Voice control – activate your smart socket with voice commands via Amazon Alexa or the Google Assistant
 - Box contents: Tapo P100, quick installation instructions (English language not guaranteed)
-- Note: WARNING: No Earth socket European socket, only for a female type C socket (or sockets)
+- Easy setup and use - Quick and easy daily setup and management via free app (free for iOS and Android)
 - Create schedules - Automatically turn your devices on and off at different times
 - Absence mode - Turn your lights on and off at a variety of times to simulate the presence of a person
+- Access on the go - Control all devices comfortably via the smartphone, anywhere and at any time
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z5JD3T4/?tag=tolees-21)
