@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D1KVV5G-es Echo Dot 3.ª generación - Altavoz inteligente con reloj y...'
-tags: tole.es, alexa, enchufe, inteligente
+tags: [ tole.es, alexa, enchufe, inteligente ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

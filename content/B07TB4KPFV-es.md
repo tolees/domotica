@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TB4KPFV-es NetVue Camara Vigilancia WiFi Interior 1080P Smart A.I....'
-tags: tole.es, alexa
+tags: [ tole.es, alexa ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

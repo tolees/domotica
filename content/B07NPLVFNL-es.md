@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPLVFNL-es Jabra Elite Active 45E Auriculares Deportivos Inalámbricos...'
-tags: tole.es, alexa
+tags: [ tole.es, alexa ]
 actualPrice: 82.52 EUR
 currency: EUR
 price: 82.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0148NMVJW-es Philips Hue Lightstrip Plus Tira Inteligente LED 1m...'
-tags: tole.es, alexa, google, home, philips, hue
+tags: [ tole.es, alexa, google, home, philips, hue ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGP9YCB-es DAM. DMZ107BK. Soporte Giratorio para Amazon Echo Spot....'
-tags: tole.es, amazon, echo
+tags: [ tole.es, amazon, echo ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

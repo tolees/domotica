@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RX6ZXRW-es Enchufe inteligente con WiFi.'
-tags: tole.es, enchufe, inteligente
+tags: [ tole.es, enchufe, inteligente ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

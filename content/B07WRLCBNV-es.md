@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRLCBNV-es EZVIZ C1mini 1080p IP - Cámara de Seguridad 2.4GHz WiFi...'
-tags: tole.es, alexa
+tags: [ tole.es, alexa ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

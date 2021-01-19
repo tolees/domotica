@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y1D7JVV-es Enchufe Inteligente WiFi Mide el Consumo 16A 3680W...'
-tags: tole.es, alexa, enchufe, inteligente
+tags: [ tole.es, alexa, enchufe, inteligente ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

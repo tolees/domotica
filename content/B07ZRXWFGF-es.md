@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRXWFGF-es BLUEMYTH Robot Aspirador y Fregasuelos 3 en 1 Navegación...'
-tags: tole.es, alexa
+tags: [ tole.es, alexa ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8FWQSN-es Bose - Barra de sonido 500 con Alexa integrada Bluetooth y...'
-tags: tole.es, alexa
+tags: [ tole.es, alexa ]
 actualPrice: 432.23 EUR
 currency: EUR
 price: 432.23

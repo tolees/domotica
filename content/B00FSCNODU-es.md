@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FSCNODU-es Sonos Play: 1 - Altavoz Inteligente Compatible con...'
-tags: tole.es, amazon, echo
+tags: [ tole.es, amazon, echo ]
 actualPrice: 135.33 EUR
 currency: EUR
 price: 135.33

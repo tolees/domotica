@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1K6SGQ-es Ecovacs Deebot OZMO 900 - Robot Aspirador 4 en 1: barre...'
-tags: tole.es, alexa
+tags: [ tole.es, alexa ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

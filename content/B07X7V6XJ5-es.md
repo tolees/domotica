@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7V6XJ5-es Wifi Bombillas LED E27 Inteligente Regulable de blanco de...'
-tags: tole.es, alexa, google, home
+tags: [ tole.es, alexa, google, home ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

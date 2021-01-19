@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTSR3Q8-es koulate Bombillas WiFi Regulables RGBCW Cambio de Color...'
-tags: tole.es, alexa, google, home
+tags: [ tole.es, alexa, google, home ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

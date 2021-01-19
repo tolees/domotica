@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8H7F6R-es Bose Soundbar 700 Barra de sonido con Alexa integrada...'
-tags: tole.es, alexa
+tags: [ tole.es, alexa ]
 actualPrice: 739.0 EUR
 currency: EUR
 price: 739.0
