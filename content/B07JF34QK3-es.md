@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JF34QK3-es KIWI design Batería Compatible con Home Mini de Google...'
-tags: [ 'tole.es','google','home', ]
+tags: [ 'google','home', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

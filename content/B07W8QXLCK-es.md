@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8QXLCK-es Bose Portable Smart Speaker - Altavoz portátil con control...'
-tags: [ 'tole.es','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 254.91 EUR
 currency: EUR
 price: 254.91

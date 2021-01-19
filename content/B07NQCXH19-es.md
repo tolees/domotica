@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQCXH19-es Echo Dot 3.ª generación reacondicionado certificado...'
-tags: [ 'tole.es','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

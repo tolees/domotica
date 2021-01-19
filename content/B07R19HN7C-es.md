@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R19HN7C-es Regleta Inteligente WiFi Smart Power Stripcon 4 Zócalos y...'
-tags: [ 'tole.es','alexa','ifttt', ]
+tags: [ 'alexa','ifttt', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

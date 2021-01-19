@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074VGL9LB-es Sony WHH900N Auriculares Inalámbrico y alámbrico Tamaño...'
-tags: [ 'tole.es','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 225.8 EUR
 currency: EUR
 price: 225.8

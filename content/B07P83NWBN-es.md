@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P83NWBN-es Yale SV-DAFX-W EU-Cámara All-in-1 para Interior y Exterior...'
-tags: [ 'tole.es','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 66.71 EUR
 currency: EUR
 price: 66.71

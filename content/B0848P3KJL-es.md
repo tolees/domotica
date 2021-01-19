@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0848P3KJL-es 7hSevenOn Home Enchufe Inteligente WiFi con USB Control...'
-tags: [ 'tole.es','enchufe','inteligente', ]
+tags: [ 'enchufe','inteligente', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

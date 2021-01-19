@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08125HQJV-es Amazon Echo 3.ª generación tela de color gris oscuro +...'
-tags: [ 'tole.es','amazon','echo','philips','hue', ]
+tags: [ 'amazon','echo','philips','hue', ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

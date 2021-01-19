@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFRCBMB-es NAPATEK Lámpara Escritorio LED Lámpara De Mesa Para El...'
-tags: [ 'tole.es','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

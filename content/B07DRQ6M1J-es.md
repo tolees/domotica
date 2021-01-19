@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRQ6M1J-es Enchufe Inteligente Wifi AISIRER Monitor de Energía...'
-tags: [ 'tole.es','alexa','ifttt','enchufe','inteligente','google','home', ]
+tags: [ 'alexa','ifttt','enchufe','inteligente','google','home', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

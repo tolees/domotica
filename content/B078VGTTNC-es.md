@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078VGTTNC-es Sony WFSP700NW.CE7 - Auriculares deportivos totalmente...'
-tags: [ 'tole.es','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

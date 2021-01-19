@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PF8XYKS-es Enchufe Smart Zoozee Wi-Fi Enchufe Inteligente 16A...'
-tags: [ 'tole.es','alexa','enchufe','inteligente','google','home', ]
+tags: [ 'alexa','enchufe','inteligente','google','home', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

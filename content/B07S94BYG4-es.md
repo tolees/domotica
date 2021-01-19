@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S94BYG4-es BSEED Eupope Estándar Tuya Smart Wifi Socket Soporte Apple...'
-tags: [ 'tole.es','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

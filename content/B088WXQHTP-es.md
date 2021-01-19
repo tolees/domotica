@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088WXQHTP-es 360 S7 Pro Robot Aspirador y Fregasuelos Limpieza de Zona...'
-tags: [ 'tole.es','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

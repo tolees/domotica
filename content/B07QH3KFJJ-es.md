@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH3KFJJ-es LG Magic Control AN-MR19BA - Mando a distancia añade...'
-tags: [ 'tole.es','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 24.87 EUR
 currency: EUR
 price: 24.87

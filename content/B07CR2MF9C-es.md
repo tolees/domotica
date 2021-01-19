@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CR2MF9C-es Ornin Sense con altavoz inteligente con control de voz de...'
-tags: [ 'tole.es','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 35.78 EUR
 currency: EUR
 price: 35.78
