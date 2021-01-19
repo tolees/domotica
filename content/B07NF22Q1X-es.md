@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NF22Q1X-es Base de batería para Amazon Echo Dot 3ª generación -...'
-tags: [ tole.es, amazon, echo ]
+tags: [ 'tole.es','amazon','echo', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

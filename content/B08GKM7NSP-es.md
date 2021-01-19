@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GKM7NSP-es Bombilla LED Inteligente WiFi Regulable 12W E27 Bombilla...'
-tags: [ tole.es, alexa, ifttt, google, home ]
+tags: [ 'tole.es','alexa','ifttt','google','home', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

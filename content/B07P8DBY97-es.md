@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8DBY97-es Rhodesy Interruptor Luz Tapa para Philips Hue Interruptor...'
-tags: [ tole.es, philips, hue ]
+tags: [ 'tole.es','philips','hue', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814B6HBK-es Echo Show 5 negro + EZVIZ ezTube 1080p Cámara de Seguridad...'
-tags: [ tole.es, alexa ]
+tags: [ 'tole.es','alexa', ]
 actualPrice: 144.75 EUR
 currency: EUR
 price: 144.75

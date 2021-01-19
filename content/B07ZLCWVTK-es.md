@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZLCWVTK-es Echo Dot 3.ª generación - Altavoz inteligente con Alexa...'
-tags: [ tole.es, alexa ]
+tags: [ 'tole.es','alexa', ]
 actualPrice: 169.98 EUR
 currency: EUR
 price: 169.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQ2FZTK-es Philips Hue Go Lámpara de Mesa Inteligente LED con...'
-tags: [ tole.es, alexa, google, home, philips, hue ]
+tags: [ 'tole.es','alexa','google','home','philips','hue', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

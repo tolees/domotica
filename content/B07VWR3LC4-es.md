@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWR3LC4-es Netvue Cámaras de Vigilancia WiFi Interior Full HD 1080P...'
-tags: [ tole.es, alexa ]
+tags: [ 'tole.es','alexa', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

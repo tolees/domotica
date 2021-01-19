@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1X6MWW-es NEATSVOR X500 Robot Aspirador 4 en 1 Control por App y...'
-tags: [ tole.es, alexa ]
+tags: [ 'tole.es','alexa', ]
 actualPrice: 161.0 EUR
 currency: EUR
 price: 161.0

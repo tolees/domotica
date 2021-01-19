@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5YN8Y6-es Echo Plus 2.ª generación tela de color gris oscuro +...'
-tags: [ tole.es, philips, hue ]
+tags: [ 'tole.es','philips','hue', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

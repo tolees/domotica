@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPSLVYX-es Tiras de LED REAFOO WiFi Tira LED impermeable 5M 5050...'
-tags: [ tole.es, alexa ]
+tags: [ 'tole.es','alexa', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

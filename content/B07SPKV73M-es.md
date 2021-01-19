@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPKV73M-es Philips Hue Pack de 2 Bombillas Inteligentes LED GU10 con...'
-tags: [ tole.es, alexa, google, home, philips, hue ]
+tags: [ 'tole.es','alexa','google','home','philips','hue', ]
 actualPrice: 37.7 EUR
 currency: EUR
 price: 37.7

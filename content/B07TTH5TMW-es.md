@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTH5TMW-es SwitchBot Hub Mini - Control inteligente infrarrojo enlace...'
-tags: [ tole.es, alexa, ifttt, google, home ]
+tags: [ 'tole.es','alexa','ifttt','google','home', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

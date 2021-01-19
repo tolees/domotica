@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WR2QPSQ-es TENDOMI Humidificador Bebé Humidificador WiFi Inteligente...'
-tags: [ tole.es, alexa, google, home ]
+tags: [ 'tole.es','alexa','google','home', ]
 actualPrice: 45.58 EUR
 currency: EUR
 price: 45.58

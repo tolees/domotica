@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QK2FX27-es Funda de Silicona para Fire TV Stick 4K Control Remoto...'
-tags: [ tole.es, alexa ]
+tags: [ 'tole.es','alexa', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

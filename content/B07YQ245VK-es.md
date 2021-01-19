@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YQ245VK-es TopHGC Enchufe WiFi Inteligente Panel de Toma de Corriente...'
-tags: [ tole.es, alexa, google, home ]
+tags: [ 'tole.es','alexa','google','home', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

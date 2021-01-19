@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL3YT5Q-es ECOOLBUY WiFi Inteligente Bajo Techo en Exteriores...'
-tags: [ tole.es, alexa, ifttt, google, home ]
+tags: [ 'tole.es','alexa','ifttt','google','home', ]
 actualPrice: 25.91 EUR
 currency: EUR
 price: 25.91
