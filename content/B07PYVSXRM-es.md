@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYVSXRM-es Cámara de seguridad al aire libre Panamalar Smart 1080p...'
-tags: alexa
+tags: tole.es, alexa
 actualPrice: 62.27 EUR
 currency: EUR
 price: 62.27

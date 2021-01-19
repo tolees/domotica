@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017X72IES-es TP-Link HS110 - Enchufe inteligente inalámbrico con...'
-tags: alexa, ifttt, enchufe, inteligente, google, home
+tags: tole.es, alexa, ifttt, enchufe, inteligente, google, home
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

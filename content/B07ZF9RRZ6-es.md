@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZF9RRZ6-es Wake Up Light Despertador Luz Inteligente - 2019 Upgrade...'
-tags: alexa, google, home
+tags: tole.es, alexa, google, home
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

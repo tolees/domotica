@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P72SSSQ-es Amazon Echo 3.ª generación reacondicionado certificado...'
-tags: alexa, amazon, echo
+tags: tole.es, alexa, amazon, echo
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTVKPZH-es Cecotec Robot Aspirador Conga Serie 1690 Pro. 2700 Pa...'
-tags: alexa, google, home
+tags: tole.es, alexa, google, home
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

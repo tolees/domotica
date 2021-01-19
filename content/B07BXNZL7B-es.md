@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BXNZL7B-es EZVIZ ezTube 720p Cámara de Seguridad WiFi Cámara de...'
-tags: alexa
+tags: tole.es, alexa
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

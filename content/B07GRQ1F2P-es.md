@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRQ1F2P-es Bovon Estante de Pared Pequeña Estante Mural para Echo Dot...'
-tags: google, wifi
+tags: tole.es, google, wifi
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

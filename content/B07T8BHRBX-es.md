@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8BHRBX-es Yamaha YAS-209 Barra de Sonido con Alexa Integrada Negro'
-tags: alexa
+tags: tole.es, alexa
 actualPrice: 253.72 EUR
 currency: EUR
 price: 253.72

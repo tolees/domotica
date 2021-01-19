@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797WGVWW-es Philips Hue Kit 2 Bombillas Inteligentes LED E27 9.5 W y...'
-tags: philips, hue
+tags: tole.es, philips, hue
 actualPrice: 107.35 EUR
 currency: EUR
 price: 107.35

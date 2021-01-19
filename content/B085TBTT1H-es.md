@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TBTT1H-es Bombilla Inteligente LED WiFi Aogled E27 LED 9W Regulable...'
-tags: alexa, google, home
+tags: tole.es, alexa, google, home
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

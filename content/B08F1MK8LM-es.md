@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F1MK8LM-es Lámpara de techo WiFi compatible con Amazon Alexa y Google...'
-tags: alexa, google, home
+tags: tole.es, alexa, google, home
 actualPrice: 29.09 EUR
 currency: EUR
 price: 29.09

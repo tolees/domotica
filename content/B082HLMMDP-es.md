@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HLMMDP-es proscenic Novedad de 2020 Robot Aspirador con Alexa...'
-tags: alexa
+tags: tole.es, alexa
 actualPrice: 179.25 EUR
 currency: EUR
 price: 179.25

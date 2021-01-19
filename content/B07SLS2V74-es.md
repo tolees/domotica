@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLS2V74-es Enchufe Inteligente Wifi REAFOO Mini Smart Plug...'
-tags: alexa, enchufe, inteligente
+tags: tole.es, alexa, enchufe, inteligente
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49
