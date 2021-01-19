@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E4+p6DiVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYVSXRM-es'
+slug: 'B07PYVSXRM-es Cámara de seguridad al aire libre  Panamalar Smart 1080p WiFi IP cámara con control de voz Alexa  impermeable IP65  visión nocturna  audio de 2 vías  detección de movimiento  remoto desde smartphone'
 actualPrice: 62.27 EUR
 currency: EUR
 price: 62.27

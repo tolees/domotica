@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4197D4rpmDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY1PV8K-es'
+slug: 'B07FY1PV8K-es Philips Hue White bombilla LED inteligente GU10  luz blanca cálida  compatible con Bluetooth y Zigbee  Puente Hue opcional   funciona con Alexa y Google Home'
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

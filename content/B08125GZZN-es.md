@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31A5ydPJwBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08125GZZN-es'
+slug: 'B08125GZZN-es Echo Flex + Philips Hue White & Color Ambiance Pack de 2 bombillas LED inteligentes  compatible con Bluetooth y Zigbee  no se requiere controlador'
 actualPrice: 88.98 EUR
 currency: EUR
 price: 88.98

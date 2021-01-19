@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315joQLRtdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQ245VK-es'
+slug: 'B07YQ245VK-es TopHGC Enchufe WiFi Inteligente  Panel de Toma de Corriente Inteligente de Pared de 16A Control Remoto Temporizador de Control de Voz con botón Funciona con Alexa Google Home'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

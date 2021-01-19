@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419yOOaQ1bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ2FZTK-es'
+slug: 'B07SQ2FZTK-es Philips Hue Go Lámpara de Mesa Inteligente LED  con Bluetooth  Luz Blanca y Color  Compatible con Alexa y Google Home'
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

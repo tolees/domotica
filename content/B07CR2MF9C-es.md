@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qFa9KOa4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CR2MF9C-es'
+slug: 'B07CR2MF9C-es Ornin Sense con altavoz inteligente con control de voz de Alexa Alexa  altavoz inalámbrico inalámbrico con Wi-Fi portátil  batería incorporada Versión EU  negro '
 actualPrice: 35.78 EUR
 currency: EUR
 price: 35.78

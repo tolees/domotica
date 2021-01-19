@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UeZ5RuHDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTVKPZH-es'
+slug: 'B07WTVKPZH-es Cecotec Robot Aspirador Conga Serie 1690 Pro. 2700 Pa  Tecnología de Sensor Óptico iTech SmartGyro Eye  App con Mapa  Aspira  Barre  Friega y Pasa la Mopa  Cepillo para Mascotas  Alexa y Google Home'
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

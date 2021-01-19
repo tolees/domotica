@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UTsAvRT7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMYTDC8-es'
+slug: 'B07FMYTDC8-es ETEKCITY ESW01-EU Enchufe WiFi Inteligente para Alexa  Google Home  IFTTT y VeSync  2300W'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

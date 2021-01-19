@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Dkah+SE9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2WC8T9-es'
+slug: 'B07G2WC8T9-es Bombilla WiFi Inteligente Smart LED WiFi Lámpara E27 7W  Control Remoto Dispositivo Inteligente Bulbo Compatible Alexa Google Home No Se Requiere Hub'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

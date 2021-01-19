@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FhaSUKEtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XNW4VL5-es'
+slug: 'B07XNW4VL5-es LEFANT Robot Aspirador WiFi Aspirador de Limpieza con App  Succión Fuerte 2200 Pa Aspiradora Robot con Alexa y Google  Navegación Inteligente  Silencioso  Auto-Carga  para Pelo de Mascotas M520'
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kbOr9WWML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DLHRRDN-es'
+slug: 'B08DLHRRDN-es Sensor de Detector de Humo eWeLink Inalámbrico 433MHz Sensor de Alarma de Protección contra Seguridad contra Incendios Trabaja con Sonoff RF Bridge Control de Aplicaciones Hogar Inteligente para el'
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

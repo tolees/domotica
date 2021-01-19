@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sTY17fJIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D1KVV5G-es'
+slug: 'B08D1KVV5G-es Echo Dot  3.ª generación  - Altavoz inteligente con reloj y Alexa + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa'
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

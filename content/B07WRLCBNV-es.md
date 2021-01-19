@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xCvY+okOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRLCBNV-es'
+slug: 'B07WRLCBNV-es EZVIZ C1mini 1080p IP - Cámara de Seguridad  2.4GHz WiFi Cámara de Vigilancia Audio Bidireccional  Visión Nocturna  Monitor de Bebé  Servicio de Nube Disponible  Compatible com Alexa  Cuadrada'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

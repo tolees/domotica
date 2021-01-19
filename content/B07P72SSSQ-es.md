@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZwNP5G70L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P72SSSQ-es'
+slug: 'B07P72SSSQ-es Amazon Echo  3.ª generación  reacondicionado certificado  altavoz inteligente con Alexa  tela de color gris oscuro'
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

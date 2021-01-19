@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+aFlQfuqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZQVGK2-es'
+slug: 'B07WZQVGK2-es Hydream Funda de Silicona para Fire TV Stick 4K Control Remoto [Antideslizante] [Shockproof] Cubierta Protectora de Silicona para Fire TV Stick con Alexa Voice Remote  Glow Green '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31t2sEexEML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VGTTNC-es'
+slug: 'B078VGTTNC-es Sony WFSP700NW.CE7 - Auriculares deportivos totalmente inalámbricos  cancelación de ruido  modo sonido ambiente  Bluetooth   color blanco  con Alexa integrada'
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

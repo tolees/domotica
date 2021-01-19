@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dNePheEpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1X6MWW-es'
+slug: 'B07W1X6MWW-es NEATSVOR X500 Robot Aspirador 4 en 1  Control por App y Alexa  WiFi  4 Modos de Limpieza  Succión 2000PA  para Suelos Duros y alfombras'
 actualPrice: 161.0 EUR
 currency: EUR
 price: 161.0

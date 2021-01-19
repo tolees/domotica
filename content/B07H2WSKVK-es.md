@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OAohc78IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2WSKVK-es'
+slug: 'B07H2WSKVK-es Echo Plus  2.ª generación   tela de color antracita + Philips Hue White Bombilla LED E27'
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w5FM7p9tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QH3KFJJ-es'
+slug: 'B07QH3KFJJ-es LG Magic Control AN-MR19BA - Mando a distancia  añade Amazon Alexa a tu tele LG  Reconocimiento de voz  apunta y navega  rueda de scroll  botones Netflix y Amazon  teclado numérico  color Negro'
 actualPrice: 24.87 EUR
 currency: EUR
 price: 24.87

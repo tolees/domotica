@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D4sQfl-NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D1KWX1J-es'
+slug: 'B08D1KWX1J-es Amazon Echo  3.ª generación   Tela de color gris oscuro + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa'
 actualPrice: 84.98 EUR
 currency: EUR
 price: 84.98

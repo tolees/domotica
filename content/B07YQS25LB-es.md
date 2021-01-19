@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31b5CKjnMcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQS25LB-es'
+slug: 'B07YQS25LB-es Enchufe Inteligente WiFi  Koogeek Mini Smart Plug  Control Remoto de Voz Funciona con Alexa/Google Assistant  Temporizador APP No Se Requiere Hub  IOS y Android 2.4GHz WIFI 16A  2 Packs '
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

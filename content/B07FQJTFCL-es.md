@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31haTQyVfzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQJTFCL-es'
+slug: 'B07FQJTFCL-es ETEKCITY ESW01-EU Enchufe WiFi Inteligente Programable  Interruptor y Temporizador WiFi  Monitor de Energía  Compatible con Alexa  Google Home  IFTTT y VeSync para iOS y Android  2300W  2 Pack '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

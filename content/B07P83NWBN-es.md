@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/3108HB-bh0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P83NWBN-es'
+slug: 'B07P83NWBN-es Yale SV-DAFX-W EU-Cámara All-in-1 para Interior y Exterior  1080P  con WiFi  Impermeable  IP65   Audio bidireccional  detección de Movimiento  Sirena integrada  Compatible con Amazon Alexa '
 actualPrice: 66.71 EUR
 currency: EUR
 price: 66.71

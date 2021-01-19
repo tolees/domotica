@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4163O6ukQCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8QXLCK-es'
+slug: 'B07W8QXLCK-es Bose Portable Smart Speaker - Altavoz portátil con control de voz Alexa integrado  Color Negro'
 actualPrice: 254.91 EUR
 currency: EUR
 price: 254.91

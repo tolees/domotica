@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31L8SOW3QXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPLVFNL-es'
+slug: 'B07NPLVFNL-es Jabra Elite Active 45E Auriculares Deportivos Inalámbricos Bluetooth 5.0 con Alexa Integrada - Negro'
 actualPrice: 82.52 EUR
 currency: EUR
 price: 82.52

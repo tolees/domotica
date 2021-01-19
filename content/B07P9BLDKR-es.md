@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vRMM7kHDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9BLDKR-es'
+slug: 'B07P9BLDKR-es Amazon Echo  3.ª generación  - Altavoz inteligente con Alexa - tela de color gris claro'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

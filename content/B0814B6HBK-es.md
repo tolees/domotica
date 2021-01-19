@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41A0LJ%2BlS7L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814B6HBK-es'
+slug: 'B0814B6HBK-es Echo Show 5  negro + EZVIZ ezTube 1080p Cámara de Seguridad  compatible con Alexa'
 actualPrice: 144.75 EUR
 currency: EUR
 price: 144.75

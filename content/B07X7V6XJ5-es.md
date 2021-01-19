@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31z9X-+Zg5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X7V6XJ5-es'
+slug: 'B07X7V6XJ5-es Wifi Bombillas LED E27 Inteligente Regulable de blanco de 15W  100 equivalentes  compatible con Alexa  Google Home Assistant  control remoto a través de teléfono inteligente'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hK+5xIkTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGP9YCB-es'
+slug: 'B07NGP9YCB-es DAM. DMZ107BK. Soporte Giratorio para Amazon Echo Spot. Giro 360°Rápido  Sin Necesidad De Levantarlo. Alta Estabilidad. Negro'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

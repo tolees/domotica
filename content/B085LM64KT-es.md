@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FBbrc84WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LM64KT-es'
+slug: 'B085LM64KT-es ACEMATE Bombilla inteligente LED 2.4G WiFi Regulable Multicolor Lámpara no se requiere hub  E26 7W=60W Luz Cálida/Frías & RGB A19 compatible con Alexa Siri Echo Google Home and IFTTT Control 4 PCS '
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

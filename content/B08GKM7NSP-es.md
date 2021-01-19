@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lPG0jDo4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GKM7NSP-es'
+slug: 'B08GKM7NSP-es Bombilla LED Inteligente WiFi Regulable 12W E27 Bombilla LED Luz RGB Multicolor Bombilla Funciona con Alexa Google Home IFTTT Control Remoto por Aplicación 1 Pack[Clase de eficiencia energética A+]'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416lEu3S23L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHZV44G-es'
+slug: 'B07ZHZV44G-es VOCOlinc Smart Home Bombilla LED L3 Regulable + Toma Inteligente PM5  Funciona con Apple HomeKit  Amazon Alexa y Google Assistant  No Requiere HUB  Wi-Fi 2.4 GHz'
 actualPrice: 37.1 EUR
 currency: EUR
 price: 37.1

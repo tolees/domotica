@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413YY3pgQuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S94BYG4-es'
+slug: 'B07S94BYG4-es BSEED Eupope Estándar Tuya Smart Wifi Socket Soporte Apple Homekit Alexa Google Inicio Control de voz Wifi Modular Enchufes Soltero Socket Negro'
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

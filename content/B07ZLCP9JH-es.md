@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zucn+VabL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZLCP9JH-es'
+slug: 'B07ZLCP9JH-es Echo Dot  3.ª generación  - Altavoz inteligente con Alexa  tela de color antracita + Termostato Inteligente Kit de Inicio V3'
 actualPrice: 149.98 EUR
 currency: EUR
 price: 149.98

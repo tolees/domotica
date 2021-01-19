@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4113B1QseAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJWMC3Y-es'
+slug: 'B07QJWMC3Y-es Enchufe inteligente wifi，SOONAN Interruptor Control Remoto dispositivos domésticos  para iOS y Android. Compatible con Alexa  Google Assistant y asistente de Google IFTTT europeo '
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

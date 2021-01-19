@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FgprGcvjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWR3LC4-es'
+slug: 'B07VWR3LC4-es Netvue Cámaras de Vigilancia WiFi Interior  Full HD 1080P Cámara de Seguridad con Audio Bidireccional  Detección de Humano Movimiento  Visión Nocturna  Cámara bebé Inalámbrica Compatible con Alexa'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

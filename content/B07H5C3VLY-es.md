@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JoLfISKgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5C3VLY-es'
+slug: 'B07H5C3VLY-es Jabra Elite Active 65t - Auriculares inalámbricos para deporte  Bluetooth 5.0  True Wireless  con Alexa integrada  Rojo y Cobre'
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3129bmfOtzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DMLKJ1M-es'
+slug: 'B07DMLKJ1M-es LEDMOMO 2Pcs Full LED Protectores de pantalla para Amazon Echo Spot Anti-Scretch Eliminar Residual Fingerprints Protectores de pantalla'
 actualPrice: 0.6 EUR
 currency: EUR
 price: 0.6

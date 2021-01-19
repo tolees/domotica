@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aRVyDN9zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY1PWLP-es'
+slug: 'B07FY1PWLP-es Philips Hue Play Barra de luz regulable compatible con Amazon Alexa  Apple HomeKit y Google Home  luz blanca y de colores  requiere conexión a puente Hue  blanca  incluye alimentador  2 unidades '
 actualPrice: 93.89 EUR
 currency: EUR
 price: 93.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B+hbxHDML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GRQ1F2P-es'
+slug: 'B07GRQ1F2P-es Bovon Estante de Pared Pequeña  Estante Mural para Echo Dot 3  Sonos  Google WiFi  Altavoces de Casa Inteligente y Movil  Organizador para Arreglo Cable de Cualquier Dispositivo de hasta 15 Libras'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

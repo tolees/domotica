@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YqV8qzIeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0819P6DRZ-es'
+slug: 'B0819P6DRZ-es TENVIS Cámara Vigilancia IP WiFi - 1080P FHD Cámara Interiores Monitor de Detección de Movimiento  Visión Noturna  Audio Bidireccional  Compatible con Alexa  Cámara de Seguridad para Bebé y Mascotas'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

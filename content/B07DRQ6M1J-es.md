@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-Gk0PSfKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRQ6M1J-es'
+slug: 'B07DRQ6M1J-es Enchufe Inteligente Wifi AISIRER Monitor de Energía Control Remoto Mini Inalámbrico del Zócalo Compatible con Android iOS Alexa Google Home IFTTT  Interruptor de tiempo  No se requiere Hub  2 packs '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

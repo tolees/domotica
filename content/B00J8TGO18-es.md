@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4138T5+sefL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J8TGO18-es'
+slug: 'B00J8TGO18-es Bombilla Inteligente Anoopsyche Wifi LED Bombillas 9W 800LM Funciona con Amazon Alexa Echo Google Home Bombilla Blanca Suave y Blanca Fría Regulable 2700K-6500K No se requiere Hub E27  paquete de 2 '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

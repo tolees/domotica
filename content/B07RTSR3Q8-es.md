@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31s4rlP9qdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTSR3Q8-es'
+slug: 'B07RTSR3Q8-es koulate Bombillas WiFi Regulables  RGBCW Cambio de Color LED Compatibilidad con Bombilla Inteligente para Alexa Google Home AC85-265V  2# '
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

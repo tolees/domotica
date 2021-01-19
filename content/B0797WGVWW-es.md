@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SVYcgdsxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797WGVWW-es'
+slug: 'B0797WGVWW-es Philips Hue Kit 2 Bombillas Inteligentes LED E27  9.5 W y Puente  Luz Blanca y de Colores  Posibilidad de Control por Voz'
 actualPrice: 107.35 EUR
 currency: EUR
 price: 107.35

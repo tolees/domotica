@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JfEIX+8kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FSCNODU-es'
+slug: 'B00FSCNODU-es Sonos Play: 1 - Altavoz Inteligente Compatible con Dispositivos Amazon Echo  Cabe en Cualquier Sitio Debido a Su Tamaño y Es Resistente a La Humedad  Color Negro  12 x 12 x 16 2 cm'
 actualPrice: 135.33 EUR
 currency: EUR
 price: 135.33

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WqCpfiZbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792MHLM4-es'
+slug: 'B0792MHLM4-es Echo Dot  3.ª generación  - Altavoz inteligente con Alexa  tela de color gris oscuro'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

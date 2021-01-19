@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31u9EkMi4CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0848P3KJL-es'
+slug: 'B0848P3KJL-es 7hSevenOn Home Enchufe Inteligente WiFi con USB Control vía Smartphone/App'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

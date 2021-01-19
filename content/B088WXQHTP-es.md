@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Lkwd6yu+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WXQHTP-es'
+slug: 'B088WXQHTP-es 360 S7 Pro Robot Aspirador y Fregasuelos  Limpieza de Zona  Líneas Límite  Múltiples Planos límite  Compatible with Alexa Alexa and Google'
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

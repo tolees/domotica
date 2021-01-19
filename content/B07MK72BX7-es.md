@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411jUtOlrhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK72BX7-es'
+slug: 'B07MK72BX7-es EZVIZ Cámara de vigilancia WiFi interior 1080p PTZ cámara de Seguridad con visión nocturna auto seguimiento de movimiento monitor de bebé  audio bidireccional funciona con Alexa WiFi 2.4G Modelo CTQ6C'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

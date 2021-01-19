@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Nw-OzWkPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFC1MK6-es'
+slug: 'B07KFC1MK6-es MustWin - Bombillas LED regulables  B22  bayoneta de bombilla  7 W  equivalente a 60 W  bombillas Wi-Fi  funciona con Alexa Google Home y IFTTT  control remoto de aplicación  no requiere Hub  2 unidades'
 actualPrice: 21.38 EUR
 currency: EUR
 price: 21.38

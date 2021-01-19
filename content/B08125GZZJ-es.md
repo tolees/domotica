@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416c3jCAfIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08125GZZJ-es'
+slug: 'B08125GZZJ-es Echo Show 5  negro + Philips Hue White & Color Ambiance Pack de 2 bombillas LED inteligentes  compatible con Bluetooth y Zigbee  no se requiere controlador'
 actualPrice: 124.16 EUR
 currency: EUR
 price: 124.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RdvFnGPDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXNZL7B-es'
+slug: 'B07BXNZL7B-es EZVIZ ezTube 720p Cámara de Seguridad  WiFi Cámara de Vigilancia  Defensa Activa  Luz Estroboscópica y Sirena  IP66  Visión Nocturna  Audio Bidireccional  Servicio de Nube  Compatible Con Alexa'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

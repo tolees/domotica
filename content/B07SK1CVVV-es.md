@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IFtjfQ4oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK1CVVV-es'
+slug: 'B07SK1CVVV-es Enchufe Inteligente WiFi TECKIN 16A 3300W Smart Plug Funciona con Amazon Alexa  Echo  Google Home  IFTTT  No se requiere Hub  Función de Temporizador  con Control Aplicaciones en Cualquier lugar'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

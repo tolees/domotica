@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417olVJQIQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPCK5KS-es'
+slug: 'B07FPCK5KS-es HENMI 10 A Interruptor WiFi DIY Módulo de Interruptor mando a distancia inalámbrico para control remoto de Smart Home Compatible con Alexa Google Home para iOS Android AC 90 – 250 V '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

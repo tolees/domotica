@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21n91GZo3WL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G8FWQSN-es'
+slug: 'B07G8FWQSN-es Bose - Barra de sonido 500  con Alexa integrada  Bluetooth y Wifi negro'
 actualPrice: 432.23 EUR
 currency: EUR
 price: 432.23

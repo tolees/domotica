@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bV-LAp4NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1D7JVV-es'
+slug: 'B07Y1D7JVV-es Enchufe Inteligente WiFi Mide el Consumo 16A 3680W  Compatible con Alexa  Google Assistant y SmartThings  meross Smart Plug  MSS310  Paquete de 3 '
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99
