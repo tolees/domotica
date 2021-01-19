@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410KwQT3dAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3Z3WKS-es 2P 63-90A Interruptor de circuito DIN WIFI Interruptor de temporizador inteligente Relé de control remoto por aplicación EWeLink Smart Home compatible con Alexa Google-2 90A'
+slug: 'B08B3Z3WKS-es 2P 63-90A Interruptor de circuito DIN WIFI Interruptor de...'
+tags: alexa
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

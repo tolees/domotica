@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AV-k52ZHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DFPLRD-es TopHGC Bombilla inteligente E14 WiFi  2PCS 6W Colores RGB que cambian las bombillas de vela regulables Voz y aplicación Controladas a distancia Funciona con Alexa/Google Home'
+slug: 'B083DFPLRD-es TopHGC Bombilla inteligente E14 WiFi 2PCS 6W Colores RGB...'
+tags: google, home
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

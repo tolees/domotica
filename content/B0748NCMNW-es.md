@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c9cNp45dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748NCMNW-es Philips Hue Sensor de Movimiento  Enciende las Luces con Detección de Presencia  Compatible con Control por Voz'
+slug: 'B0748NCMNW-es Philips Hue Sensor de Movimiento Enciende las Luces con...'
+tags: philips, hue
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

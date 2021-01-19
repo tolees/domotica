@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/316A7eurfGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B08125LLPZ-es Echo Flex + Philips Hue White Pack de 2 bombillas LED inteligentes  compatible con Bluetooth y Zigbee  no se requiere controlador'
+slug: 'B08125LLPZ-es Echo Flex + Philips Hue White Pack de 2 bombillas LED...'
+tags: philips, hue
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

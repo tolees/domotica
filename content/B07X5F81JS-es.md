@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3157Y7r-FvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5F81JS-es Bose 700 - Auriculares con cancelación de Ruido  con Alexa integrada  edición limitada  Soapstone'
+slug: 'B07X5F81JS-es Bose 700 - Auriculares con cancelación de Ruido con Alexa...'
+tags: alexa
 actualPrice: 309.99 EUR
 currency: EUR
 price: 309.99

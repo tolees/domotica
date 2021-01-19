@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQCXH19-es Echo Dot  3.ª generación  reacondicionado certificado  altavoz inteligente con reloj y Alexa  tela de color gris claro'
+slug: 'B07NQCXH19-es Echo Dot 3.ª generación reacondicionado certificado...'
+tags: alexa
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

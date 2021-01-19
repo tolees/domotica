@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CmojgMUHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVSF8VW-es Sonos Move - Altavoz Inteligente con Alexa integrada  portátil y Resistente  con batería integrada  para Escuchar música Dentro y Fuera de casa  Color Negro'
+slug: 'B07WVSF8VW-es Sonos Move - Altavoz Inteligente con Alexa integrada...'
+tags: alexa
 actualPrice: 319.2 EUR
 currency: EUR
 price: 319.2

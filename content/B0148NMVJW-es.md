@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Q5yKNOlIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0148NMVJW-es Philips Hue Lightstrip Plus  Tira Inteligente LED  1m  Extensión para Tira 2m   Luz Blanca y Color  Compatible con Alexa y Google Home'
+slug: 'B0148NMVJW-es Philips Hue Lightstrip Plus Tira Inteligente LED 1m...'
+tags: alexa, google, home, philips, hue
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

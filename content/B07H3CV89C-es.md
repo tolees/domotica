@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pRfF0UKXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3CV89C-es Echo Plus  2.ª generación   tela de color gris oscuro + Philips Hue White Bombilla LED E27'
+slug: 'B07H3CV89C-es Echo Plus 2.ª generación tela de color gris oscuro +...'
+tags: philips, hue
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

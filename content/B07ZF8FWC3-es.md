@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XhicAsRxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZF8FWC3-es 10M Luces de Tiras LED WiFi  TASMOR Tira de LED RGB Compatible con Alexa  Google Home  App  LED Tira Luz Sincronización de Música  Tira LED Autoadhesiva 3M para Decoración Interior y Exterior '
+slug: 'B07ZF8FWC3-es 10M Luces de Tiras LED WiFi TASMOR Tira de LED RGB...'
+tags: alexa, google, home
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

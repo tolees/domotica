@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bMsANT32L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZWG7NQ-es Lámparas de Pie WIFI  Wellwerks Lámpara de Salón INTELIGENTE Luz Regulable Control Remoto Compatible con Alexa y App de Movil para Hogar Estudio Dormitorio'
+slug: 'B07QZWG7NQ-es Lámparas de Pie WIFI Wellwerks Lámpara de Salón...'
+tags: alexa
 actualPrice: 59.39 EUR
 currency: EUR
 price: 59.39

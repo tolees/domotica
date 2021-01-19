@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UUpG8zKzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8DBY97-es Rhodesy Interruptor Luz Tapa para Philips Hue Interruptor de Atenuación Inalámbrico Inteligente  Adaptador Blanco Altamente Compatible Tapa Paquete de 2'
+slug: 'B07P8DBY97-es Rhodesy Interruptor Luz Tapa para Philips Hue Interruptor...'
+tags: philips, hue
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

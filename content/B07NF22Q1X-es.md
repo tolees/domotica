@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ROyk9aAzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NF22Q1X-es Base de batería para Amazon Echo Dot 3ª generación - Cargador inalámbrico portátil para Echo Dot 3ª generación  Echo Dot no Incluido  - Compatible con Echo Dot 3 Comprado Antes de Agosto de 2019'
+slug: 'B07NF22Q1X-es Base de batería para Amazon Echo Dot 3ª generación -...'
+tags: amazon, echo
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

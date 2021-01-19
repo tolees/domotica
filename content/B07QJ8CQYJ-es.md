@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4196hXips-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ8CQYJ-es Funda de Silicona para Fire TV Stick 4K Control Remoto [Antideslizante] Suave Carcasa de Protectora Silicona a Prueba de Golpes para Mando de Fire TV Stick con Alexa Voice Remote  Negro '
+slug: 'B07QJ8CQYJ-es Funda de Silicona para Fire TV Stick 4K Control Remoto...'
+tags: alexa
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

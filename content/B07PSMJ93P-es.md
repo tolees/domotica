@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ufcYAV7SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSMJ93P-es Camara Vigilancia Cámara de Seguridad WiFi 1080p Cámara de Vigilancia Compatible con Alexa Rotación de 360° Visión Nocturna Audio Bidireccional Alerta de Movimiento Servicio de Nube para iOS/Android'
+slug: 'B07PSMJ93P-es Camara Vigilancia Cámara de Seguridad WiFi 1080p Cámara de...'
+tags: alexa
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

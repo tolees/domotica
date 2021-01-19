@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gpk0F05NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017X72IES-es TP-Link HS110 - Enchufe inteligente inalámbrico con monitorización de energía  controle sus dispositivos desde cualquier lugar  funciona con Amazon Alexa  Google Home e IFTTT'
+slug: 'B017X72IES-es TP-Link HS110 - Enchufe inteligente inalámbrico con...'
+tags: alexa, ifttt, enchufe, inteligente, google, home
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

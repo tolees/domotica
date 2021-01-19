@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fk2aLXl+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB68LQZ-es OurLeeme Enchufe Inteligente de WiFi  tomacorriente de Pared de 10A Toma de Corriente Inteligente Control Remoto Control de Voz El Temporizador Funciona con Alexa Página de Inicio de Google'
+slug: 'B07TB68LQZ-es OurLeeme Enchufe Inteligente de WiFi tomacorriente de...'
+tags: alexa, enchufe, inteligente
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

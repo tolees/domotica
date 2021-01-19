@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/215r9LvoukL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLFP8KS-es Sonos Beam barra de sonido con Alexa integrada - barra de sonido inteligente para TV y música  altavoz compatible con AirPlay  color blanco'
+slug: 'B07DLFP8KS-es Sonos Beam barra de sonido con Alexa integrada - barra de...'
+tags: alexa
 actualPrice: 360.0 EUR
 currency: EUR
 price: 360.0

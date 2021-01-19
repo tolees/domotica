@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PSxSaIyrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08125HQJV-es Amazon Echo  3.ª generación   tela de color gris oscuro + Philips Hue White & Color Ambiance Pack de 2 bombillas LED inteligentes  compatible con Bluetooth y Zigbee  no se requiere controlador'
+slug: 'B08125HQJV-es Amazon Echo 3.ª generación tela de color gris oscuro +...'
+tags: amazon, echo, philips, hue
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

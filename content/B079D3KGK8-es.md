@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MkUWuqp1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079D3KGK8-es EZVIZ EZ360 720P Cámara de Seguridad Pan/Tilt Wi-Fi con Visión Nocturna  Audio Bidireccional  Máscara de Privacidad Inteligente  Servicio de Nube Disponible  Compatible con Alexa  Google Home y IFTTT'
+slug: 'B079D3KGK8-es EZVIZ EZ360 720P Cámara de Seguridad Pan/Tilt Wi-Fi con...'
+tags: alexa, ifttt, google, home
 actualPrice: 22.31 EUR
 currency: EUR
 price: 22.31

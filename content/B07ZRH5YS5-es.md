@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315a2VA0vRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRH5YS5-es Bombilla Inteligente E14 WIFI de 9W LED Compatible con Alexa  Google Home  Control de Voz  Color Ajustable  Temporizador  Smart Bulbs para Decoración/Bar/Restaurante  juego de 2 '
+slug: 'B07ZRH5YS5-es Bombilla Inteligente E14 WIFI de 9W LED Compatible con...'
+tags: alexa, google, home
 actualPrice: 19.02 EUR
 currency: EUR
 price: 19.02

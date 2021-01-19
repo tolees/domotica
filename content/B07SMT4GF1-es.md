@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41a-vKu%2BojL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMT4GF1-es Bombilla LED WiFi Inteligente 9W 900lm Lámpara Funciona con Alexa Echo Google Home y IFTTT  REAFOO Bombillas E27 RGBCW 2700K-6500K Control remoto con temporizador por SmartLife APP Tuya  paquete de 2 '
+slug: 'B07SMT4GF1-es Bombilla LED WiFi Inteligente 9W 900lm Lámpara Funciona...'
+tags: alexa, ifttt, google, home
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

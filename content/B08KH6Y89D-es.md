@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+7zsdZK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08KH6Y89D-es Echo Show 5: mantén el contacto con la ayuda de Alexa  Blanco + EZVIZ C3X 1080P Cámara de vigilancia WiFi Color  Sirena y alarma de flash  Compatible con Alexa'
+slug: 'B08KH6Y89D-es Echo Show 5: mantén el contacto con la ayuda de Alexa...'
+tags: alexa
 actualPrice: 214.99 EUR
 currency: EUR
 price: 214.99

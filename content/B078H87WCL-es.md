@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PHbmNygnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078H87WCL-es ASUS Blue Cave - Router Inalámbrico AC2600 Doble Banda simultánea Gigabit  procesador Intel Doble núcleo  Amazon Alexa  IFTTT  Aiprotection  compatible con Ai Mesh wifi '
+slug: 'B078H87WCL-es ASUS Blue Cave - Router Inalámbrico AC2600 Doble Banda...'
+tags: alexa, ifttt
 actualPrice: 133.55 EUR
 currency: EUR
 price: 133.55

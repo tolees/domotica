@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AEh3ErjXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JF34QK3-es KIWI design Batería Compatible con Home Mini de Google  Cargador/Soporte de Pared 7800mAh Portátil Compatible con Google Home Mini  Coral '
+slug: 'B07JF34QK3-es KIWI design Batería Compatible con Home Mini de Google...'
+tags: google, home
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

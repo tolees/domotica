@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lFN6yyLGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074VGL9LB-es Sony WHH900N  Auriculares  Inalámbrico y alámbrico  Tamaño Único  Negro  con Alexa integrada'
+slug: 'B074VGL9LB-es Sony WHH900N Auriculares Inalámbrico y alámbrico Tamaño...'
+tags: alexa
 actualPrice: 225.8 EUR
 currency: EUR
 price: 225.8

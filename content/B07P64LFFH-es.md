@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SXZoOutML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P64LFFH-es Amazon Echo  3.ª generación  - Altavoz inteligente con Alexa - tela de color antracita'
+slug: 'B07P64LFFH-es Amazon Echo 3.ª generación - Altavoz inteligente con Alexa...'
+tags: alexa, amazon, echo
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

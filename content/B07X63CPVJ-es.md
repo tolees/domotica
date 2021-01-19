@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VgRUeOA7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X63CPVJ-es Amazon Fire TV Stick con mando por voz Alexa + Echo Dot  3.ª generación   tela de color antracita'
+slug: 'B07X63CPVJ-es Amazon Fire TV Stick con mando por voz Alexa + Echo Dot...'
+tags: alexa
 actualPrice: 79.98 EUR
 currency: EUR
 price: 79.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310yJZ7eEqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HZVQ8DA-es Philips Hue Bloom Lámpara de Mesa Inteligente LED  Luz Blanca y de Colores  Compatible con Alexa y Google Home'
+slug: 'B00HZVQ8DA-es Philips Hue Bloom Lámpara de Mesa Inteligente LED Luz...'
+tags: alexa, google, home, philips, hue
 actualPrice: 56.98 EUR
 currency: EUR
 price: 56.98

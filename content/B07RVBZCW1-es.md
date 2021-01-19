@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3197H3SGRCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RVBZCW1-es Interruptor regulador de intensidad de luz inteligente  2 4 Ghz  inalámbrico  WiFi  compatible con Alexa y control remoto  con temporizador  función de encendido/apagado  regulador de luz LED'
+slug: 'B07RVBZCW1-es Interruptor regulador de intensidad de luz inteligente 2 4...'
+tags: alexa
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

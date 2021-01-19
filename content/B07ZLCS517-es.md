@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BV8EepamL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZLCS517-es Echo Dot  3.ª generación  - Altavoz inteligente con Alexa  tela de color gris oscuro + Termostato Inteligente Kit de Inicio V3'
+slug: 'B07ZLCS517-es Echo Dot 3.ª generación - Altavoz inteligente con Alexa...'
+tags: alexa
 actualPrice: 169.98 EUR
 currency: EUR
 price: 169.98

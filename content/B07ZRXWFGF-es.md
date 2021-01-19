@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gO9yQsoGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRXWFGF-es BLUEMYTH Robot Aspirador y Fregasuelos 3 en 1 Navegación Inteligente y App  Compatible con Alexa  Google Assistant 5 Modos de Limpieza Modelo A3 Blanco'
+slug: 'B07ZRXWFGF-es BLUEMYTH Robot Aspirador y Fregasuelos 3 en 1 Navegación...'
+tags: alexa
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

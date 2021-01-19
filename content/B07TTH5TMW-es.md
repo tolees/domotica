@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aAY-O-AvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTH5TMW-es SwitchBot Hub Mini - Control inteligente  infrarrojo  enlace a Wi-Fi  control de aire acondicionado  compatible con Alexa  Google Home  Siri  IFTTT'
+slug: 'B07TTH5TMW-es SwitchBot Hub Mini - Control inteligente infrarrojo enlace...'
+tags: alexa, ifttt, google, home
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

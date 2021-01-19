@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XQcdxKEXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079D8Y2VW-es Enchufe Inteligente  Mide el Consumo 16A 3680W Wi-Fi Smart Plug  con Control Remoto. Compatible con Alexa  Google Assistant y SmartThings. Modelo MSS310.'
+slug: 'B079D8Y2VW-es Enchufe Inteligente Mide el Consumo 16A 3680W Wi-Fi Smart...'
+tags: alexa, enchufe, inteligente
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

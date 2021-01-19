@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31OGabIFtRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLS2V74-es Enchufe Inteligente Wifi REAFOO Mini Smart Plug Temporizador con control remoto por voz Compatible con Alexa Echo Google Asistente no se requiere Hub  iOs y Android  red 2.4GHz  2 paquetes '
+slug: 'B07SLS2V74-es Enchufe Inteligente Wifi REAFOO Mini Smart Plug...'
+tags: alexa, enchufe, inteligente
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49
