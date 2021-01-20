@@ -26,10 +26,10 @@ Tienes [Enchufe Inteligente 4 Pack  Gosund Mini Enchufe Wifi Compatible con Alex
 
 ℹ️:
 
-- Temporizador y Programa: Puede configurar ENCENDIDO Y APAGADO automáticos de los dispositivos que enchufe al toma, tales como humidificador, la tetera, teléfon, ipad, la cafetera, la luz y el ventilador eléctrico de acuerdo con sus necesidades de tiempo. Ahorre energía y evite el sobrecalentamiento.
-- Control por Voz : Con funcion de Voz, Se controla el dispositivo encendido y apagado con comandos de voz, para una experiencia manos libres. Haz su casa más doméstica y inteligente
 - Monitorización de Energía: analice su consumo de electricidad en tiempo real o vea estadísticas de consumo diarias o mensuales para que pueda controlar su consumo de energía para un mejor ahorro de energía
+- Control por Voz : Con funcion de Voz, Se controla el dispositivo encendido y apagado con comandos de voz, para una experiencia manos libres. Haz su casa más doméstica y inteligente
 - Fácil de usar e instalar: Todo lo que necesita hacer es configurar su enchufe inteligente con red Wi-Fi 2.4GHz, No 5GHz, conectar y registrar los dispositivos. El enchufe inteligente es compatible con dispositivos móviles que admiten de IOS 8.0 en adelante y de Android 4.4 en adelante. Puede usar un teléfono inteligente para controlar múltiples dispositivos
+- Temporizador y Programa: Puede configurar ENCENDIDO Y APAGADO automáticos de los dispositivos que enchufe al toma, tales como humidificador, la tetera, teléfon, ipad, la cafetera, la luz y el ventilador eléctrico de acuerdo con sus necesidades de tiempo. Ahorre energía y evite el sobrecalentamiento.
 - Control Remoto: Use la aplicación "Smart Life" o ¨Gosund¨en su telefono inteligente para abrir su dispositivo electrónico desde cualquier lugar y en cuanlquier momento. Enciéndalo / apáguelo con solo tocar un botón
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08D3CNDT5/?tag=tolees-21)
