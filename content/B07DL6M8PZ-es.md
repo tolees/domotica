@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DL6M8PZ-es SwitchBot Hub Plus - Mando a distancia inteligente IR para...'
+sku: 'B07DL6M8PZ-es'
 tags: [ 'alexa','ifttt','google','home', ]
 actualPrice: 45.0 EUR
 currency: EUR

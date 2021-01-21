@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJVTYMW-es D-Link DCS-8300LH – Cámara de vigilancia/Seguridad WiFi...'
+sku: 'B07CJVTYMW-es'
 tags: [ 'alexa','ifttt','google','home', ]
 actualPrice: 85.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRH5YS5-es Bombilla Inteligente E14 WIFI de 9W LED Compatible con...'
+sku: 'B07ZRH5YS5-es'
 tags: [ 'alexa','google','home', ]
 actualPrice: 19.02 EUR
 currency: EUR

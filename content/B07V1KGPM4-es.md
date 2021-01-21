@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1KGPM4-es Amazon Echo 3.ª generación reacondicionado certificado...'
+sku: 'B07V1KGPM4-es'
 tags: [ 'alexa','amazon','echo', ]
 actualPrice: 57.99 EUR
 currency: EUR

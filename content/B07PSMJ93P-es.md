@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSMJ93P-es Camara Vigilancia Cámara de Seguridad WiFi 1080p Cámara de...'
+sku: 'B07PSMJ93P-es'
 tags: [ 'alexa', ]
 actualPrice: 34.99 EUR
 currency: EUR

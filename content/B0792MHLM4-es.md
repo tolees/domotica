@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792MHLM4-es Echo Dot 3.ª generación - Altavoz inteligente con Alexa...'
+sku: 'B0792MHLM4-es'
 tags: [ 'alexa', ]
 actualPrice: 39.99 EUR
 currency: EUR

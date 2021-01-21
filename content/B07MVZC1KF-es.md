@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVZC1KF-es LoraTap Interruptor Persianas WiFi Interruptor Táctil de...'
+sku: 'B07MVZC1KF-es'
 tags: [ 'alexa', ]
 actualPrice: 21.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LM64KT-es ACEMATE Bombilla inteligente LED 2.4G WiFi Regulable...'
+sku: 'B085LM64KT-es'
 tags: [ 'alexa','ifttt','google','home', ]
 actualPrice: 36.79 EUR
 currency: EUR

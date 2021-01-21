@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPLVFNL-es Jabra Elite Active 45E Auriculares Deportivos Inalámbricos...'
+sku: 'B07NPLVFNL-es'
 tags: [ 'alexa', ]
 actualPrice: 82.52 EUR
 currency: EUR

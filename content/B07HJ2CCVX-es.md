@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJ2CCVX-es meross Enchufe Inteligente Mide el Consumo 16A 3680W...'
+sku: 'B07HJ2CCVX-es'
 tags: [ 'alexa','enchufe','inteligente', ]
 actualPrice: 35.86 EUR
 currency: EUR

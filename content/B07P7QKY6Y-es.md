@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7QKY6Y-es Zyxel Multy U sistema de malla WiFi AC2100 triple banda...'
+sku: 'B07P7QKY6Y-es'
 tags: [ 'alexa', ]
 actualPrice: 169.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YKFHH8J-es LVWIT Bombillas LED Golf E14 RGB Inteligente WiFi 5W 470...'
+sku: 'B07YKFHH8J-es'
 tags: [ 'alexa','google','home', ]
 actualPrice: 21.24 EUR
 currency: EUR

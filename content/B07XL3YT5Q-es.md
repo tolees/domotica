@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL3YT5Q-es ECOOLBUY WiFi Inteligente Bajo Techo en Exteriores...'
+sku: 'B07XL3YT5Q-es'
 tags: [ 'alexa','ifttt','google','home', ]
 actualPrice: 25.91 EUR
 currency: EUR

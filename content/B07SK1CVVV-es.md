@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK1CVVV-es Enchufe Inteligente WiFi TECKIN 16A 3300W Smart Plug...'
+sku: 'B07SK1CVVV-es'
 tags: [ 'alexa','ifttt','enchufe','inteligente','google','home', ]
 actualPrice: 14.99 EUR
 currency: EUR

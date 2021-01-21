@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781V9FLS-es EZVIZ 720P FHD IP Cámara de Seguridad y Vigilancia 2.4 GHz...'
+sku: 'B0781V9FLS-es'
 tags: [ 'alexa','ifttt','google','home', ]
 actualPrice: 24.99 EUR
 currency: EUR

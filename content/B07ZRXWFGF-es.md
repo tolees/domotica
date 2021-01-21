@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRXWFGF-es BLUEMYTH Robot Aspirador y Fregasuelos 3 en 1 Navegación...'
+sku: 'B07ZRXWFGF-es'
 tags: [ 'alexa', ]
 actualPrice: 84.99 EUR
 currency: EUR

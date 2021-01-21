@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08125LLQH-es Echo Show 5 blanco + Philips Hue White & Color Ambiance...'
+sku: 'B08125LLQH-es'
 tags: [ 'philips','hue', ]
 actualPrice: 124.16 EUR
 currency: EUR

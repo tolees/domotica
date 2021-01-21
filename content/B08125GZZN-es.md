@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08125GZZN-es Echo Flex + Philips Hue White & Color Ambiance Pack de 2...'
+sku: 'B08125GZZN-es'
 tags: [ 'philips','hue', ]
 actualPrice: 88.98 EUR
 currency: EUR

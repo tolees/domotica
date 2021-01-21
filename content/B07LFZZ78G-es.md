@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZZ78G-es Inalámbrico Smart Portalámpara con WIFI para E27 iHaper...'
+sku: 'B07LFZZ78G-es'
 tags: [ 'alexa','google','home', ]
 actualPrice: 19.98 EUR
 currency: EUR

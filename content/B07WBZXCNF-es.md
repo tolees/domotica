@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBZXCNF-es YISSVIC WIFI Tira LED Tiras de LED Inteligente 5m 5050RGB...'
+sku: 'B07WBZXCNF-es'
 tags: [ 'alexa','ifttt','google','home', ]
 actualPrice: 20.79 EUR
 currency: EUR

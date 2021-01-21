@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R19HN7C-es Regleta Inteligente WiFi Smart Power Stripcon 4 Zócalos y...'
+sku: 'B07R19HN7C-es'
 tags: [ 'alexa','ifttt', ]
 actualPrice: 34.99 EUR
 currency: EUR

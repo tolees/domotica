@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H334QWK-es Echo Plus 2.ª generación tela de color gris claro +...'
+sku: 'B07H334QWK-es'
 tags: [ 'philips','hue', ]
 actualPrice: 84.99 EUR
 currency: EUR

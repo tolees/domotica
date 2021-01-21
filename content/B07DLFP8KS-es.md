@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLFP8KS-es Sonos Beam barra de sonido con Alexa integrada - barra de...'
+sku: 'B07DLFP8KS-es'
 tags: [ 'alexa', ]
 actualPrice: 360.0 EUR
 currency: EUR

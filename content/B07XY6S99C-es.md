@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XY6S99C-es Philips Hue Enchufe conectado'
+sku: 'B07XY6S99C-es'
 tags: [ 'philips','hue', ]
 actualPrice: 24.99 EUR
 currency: EUR

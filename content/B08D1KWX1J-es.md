@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D1KWX1J-es Amazon Echo 3.ª generación Tela de color gris oscuro +...'
+sku: 'B08D1KWX1J-es'
 tags: [ 'alexa','amazon','echo','enchufe','inteligente', ]
 actualPrice: 84.98 EUR
 currency: EUR

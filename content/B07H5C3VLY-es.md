@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5C3VLY-es Jabra Elite Active 65t - Auriculares inalámbricos para...'
+sku: 'B07H5C3VLY-es'
 tags: [ 'alexa', ]
 actualPrice: 95.99 EUR
 currency: EUR

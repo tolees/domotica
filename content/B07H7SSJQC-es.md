@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7SSJQC-es Ring Stick Up Cam Elite - Cámara de seguridad HD...'
+sku: 'B07H7SSJQC-es'
 tags: [ 'alexa', ]
 actualPrice: 159.0 EUR
 currency: EUR

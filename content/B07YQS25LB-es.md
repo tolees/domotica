@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YQS25LB-es Enchufe Inteligente WiFi Koogeek Mini Smart Plug Control...'
+sku: 'B07YQS25LB-es'
 tags: [ 'enchufe','inteligente', ]
 actualPrice: 18.58 EUR
 currency: EUR

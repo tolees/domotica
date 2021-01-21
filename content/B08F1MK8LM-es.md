@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F1MK8LM-es Lámpara de techo WiFi compatible con Amazon Alexa y Google...'
+sku: 'B08F1MK8LM-es'
 tags: [ 'alexa','google','home', ]
 actualPrice: 29.09 EUR
 currency: EUR

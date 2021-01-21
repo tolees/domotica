@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFC1MK6-es MustWin - Bombillas LED regulables B22 bayoneta de...'
+sku: 'B07KFC1MK6-es'
 tags: [ 'alexa','ifttt','google','home', ]
 actualPrice: 21.38 EUR
 currency: EUR

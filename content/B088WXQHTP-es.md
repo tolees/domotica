@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088WXQHTP-es 360 S7 Pro Robot Aspirador y Fregasuelos Limpieza de Zona...'
+sku: 'B088WXQHTP-es'
 tags: [ 'alexa', ]
 actualPrice: 499.99 EUR
 currency: EUR

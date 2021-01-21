@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DMLKJ1M-es LEDMOMO 2Pcs Full LED Protectores de pantalla para Amazon...'
+sku: 'B07DMLKJ1M-es'
 tags: [ 'amazon','echo', ]
 actualPrice: 0.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYVSXRM-es Cámara de seguridad al aire libre Panamalar Smart 1080p...'
+sku: 'B07PYVSXRM-es'
 tags: [ 'alexa', ]
 actualPrice: 62.27 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748NCMNW-es Philips Hue Sensor de Movimiento Enciende las Luces con...'
+sku: 'B0748NCMNW-es'
 tags: [ 'philips','hue', ]
 actualPrice: 33.95 EUR
 currency: EUR

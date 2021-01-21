@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY1PWLP-es Philips Hue Play Barra de luz regulable compatible con...'
+sku: 'B07FY1PWLP-es'
 tags: [ 'alexa','google','home','philips','hue', ]
 actualPrice: 93.89 EUR
 currency: EUR

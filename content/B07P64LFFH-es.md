@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P64LFFH-es Amazon Echo 3.ª generación - Altavoz inteligente con Alexa...'
+sku: 'B07P64LFFH-es'
 tags: [ 'alexa','amazon','echo', ]
 actualPrice: 54.99 EUR
 currency: EUR

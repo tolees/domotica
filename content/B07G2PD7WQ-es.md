@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2PD7WQ-es KIWI design Batería Compatible con Home Mini de Google...'
+sku: 'B07G2PD7WQ-es'
 tags: [ 'google','home', ]
 actualPrice: 19.99 EUR
 currency: EUR

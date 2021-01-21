@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMYTDC8-es ETEKCITY ESW01-EU Enchufe WiFi Inteligente para Alexa...'
+sku: 'B07FMYTDC8-es'
 tags: [ 'alexa','ifttt','google','home', ]
 actualPrice: 17.99 EUR
 currency: EUR

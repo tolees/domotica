@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7V6XJ5-es Wifi Bombillas LED E27 Inteligente Regulable de blanco de...'
+sku: 'B07X7V6XJ5-es'
 tags: [ 'alexa','google','home', ]
 actualPrice: 7.99 EUR
 currency: EUR

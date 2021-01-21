@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079D8Y2VW-es Enchufe Inteligente Mide el Consumo 16A 3680W Wi-Fi Smart...'
+sku: 'B079D8Y2VW-es'
 tags: [ 'alexa','enchufe','inteligente', ]
 actualPrice: 13.59 EUR
 currency: EUR

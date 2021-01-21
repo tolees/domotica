@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DFPLRD-es TopHGC Bombilla inteligente E14 WiFi 2PCS 6W Colores RGB...'
+sku: 'B083DFPLRD-es'
 tags: [ 'google','home', ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRY13QN-es Philips Hue Pack de 3 Bombillas Inteligentes LED E27 con...'
+sku: 'B07SRY13QN-es'
 tags: [ 'alexa','google','home','philips','hue', ]
 actualPrice: 162.39 EUR
 currency: EUR

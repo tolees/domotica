@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J8TGO18-es Bombilla Inteligente Anoopsyche Wifi LED Bombillas 9W...'
+sku: 'B00J8TGO18-es'
 tags: [ 'alexa','google','home', ]
 actualPrice: 19.99 EUR
 currency: EUR
