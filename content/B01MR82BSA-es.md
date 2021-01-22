@@ -27,10 +27,10 @@ Ahora mismo tienes [YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia W
 
 🔎:
 
-- ALMACENAMIENTO EN LA NUBE: Almacenamiento gratuito de 7 días en YI Cloud de todos los videos de la actividad detectada con cifrado avanzado end-to-end para una privacidad completa. - ALMACENAMIENTO LOCAL: La cámara también admite tarjetas Micro SD con capacidad de almacenamiento desde 4 hasta 64 GB.
-- COBERTURA DE 360 ° FULL HD CON VISIÓN NOCTURNA NO INVASIVA - Videos y transmisión en vivo en 1080P a 20 fps - Rotación horizontal y vertical con control remoto - Gran angular de 110 ° con zoom digital 4x - Visión nocturna no invasiva con luces IR y LED de estado ajustables (ideal para dormir sin interrupciones).
-- MONITORIZACIÓN AUTOMÁTICA - MODO PANORÁMICO: la cámara de seguridad controlará automáticamente un área de 360 °, girando 20 ° cada 10 segundos. - MODO FAVORITOS: el usuario también puede marcar hasta 8 zonas favoritas para navegar con mayor frecuencia. Ideal para grandes espacios.
 - DETECCIÓN Y SEGUIMIENTO DE MOVIMIENTO CON NOTIFICACIONES PUSH - Detección de movimiento con grabaciones de vídeo de 6 segundos - Seguimiento de movimiento con grabaciones de 10 segundos - Detección de llanto de bebés - Notificaciones push en el móvil con frecuencia y nivel de sensibilidad ajustables a través de la aplicación YI Home.
+- MONITORIZACIÓN AUTOMÁTICA - MODO PANORÁMICO: la cámara de seguridad controlará automáticamente un área de 360 °, girando 20 ° cada 10 segundos. - MODO FAVORITOS: el usuario también puede marcar hasta 8 zonas favoritas para navegar con mayor frecuencia. Ideal para grandes espacios.
+- COBERTURA DE 360 ° FULL HD CON VISIÓN NOCTURNA NO INVASIVA - Videos y transmisión en vivo en 1080P a 20 fps - Rotación horizontal y vertical con control remoto - Gran angular de 110 ° con zoom digital 4x - Visión nocturna no invasiva con luces IR y LED de estado ajustables (ideal para dormir sin interrupciones).
 - FUNCIONA CON ALEXA (ECHO SHOW) - YI Cámara Domo 1080p es 100% compatible con Echo Show (Alexa). Habilita la skill YI Home en tu aplicación Amazon Alexa y combina los dos dispositivos para ver la transmisión en vivo de tu cámara wi-fi directamente en la pantalla de tu Echo Show.
+- ALMACENAMIENTO EN LA NUBE: Almacenamiento gratuito de 7 días en YI Cloud de todos los videos de la actividad detectada con cifrado avanzado end-to-end para una privacidad completa. - ALMACENAMIENTO LOCAL: La cámara también admite tarjetas Micro SD con capacidad de almacenamiento desde 4 hasta 64 GB.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21)
