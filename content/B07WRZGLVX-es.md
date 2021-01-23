@@ -27,10 +27,10 @@ Ahora mismo tienes [BSEED Interruptor wifi de pared Gris Interruptor inteligente
 
 🔎:
 
-- 【PROTECCIÓN DE SEGURIDAD】: Nuestro interruptor táctil Wifi es incombustible e impermeable. Protección contra descargas eléctricas para su familia.
 - 【Timing Fuction】: Programe el interruptor de luz inteligente de Wi-Fi para encender y apagar automáticamente la electrónica según el tiempo específico que configure; El ahorro de energía elimina el desperdicio de energía en espera y evita la sobrecarga y el sobrecalentamiento, ahorra en sus facturas de electricidad y extiende la vida útil del producto
-- 【Control de voz】: Compatible con Amazon Alexa, Google Home Assistant, controle sus electrodomésticos con el interruptor inteligente simplemente dando comandos de voz a Amazon Alexa o Google Assistant.
 - 【FÁCIL INSTALACIÓN】: Conecte 3 cables para instalar el interruptor táctil WIFI en la mayoría de los casos. El Panel se puede volver a armar fácilmente para cambiar la parte de la unidad si es necesario. COMPRUEBE LA COMPATIBILIDAD CON EL CABLEADO, ESTE INTERRUPTOR NECESITA UNA ALIMENTACIÓN NEUTRA. SISTEMA DE INCENDIO INDIVIDUAL NO APLICABLE
 - 【Control remoto】: controle sus elementos eléctricos a través de su teléfono cuando y donde quiera que esté después de descargar la APLICACIÓN GRATUITA Smart Life o Tuya siempre que haya una red. Es adecuado para alguien que no puede moverse muy bien y necesita un acceso fácil para encender / apagar un dispositivo
+- 【PROTECCIÓN DE SEGURIDAD】: Nuestro interruptor táctil Wifi es incombustible e impermeable. Protección contra descargas eléctricas para su familia.
+- 【Control de voz】: Compatible con Amazon Alexa, Google Home Assistant, controle sus electrodomésticos con el interruptor inteligente simplemente dando comandos de voz a Amazon Alexa o Google Assistant.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WRZGLVX/?tag=tolees-21)
