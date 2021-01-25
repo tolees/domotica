@@ -27,10 +27,10 @@ En este momento está [D-Link DIR-X1860 Router Gaming Wi-Fi 6 1800 Mbps  Control
 
 🔎:
 
-- Wi-Fi 6 es el nuevo estándar que aumenta velocidad, rendimiento y cobertura de tu red WiFi, experimentado una velocidad y respuesta aún mayor comparado a los sistemas anteriores
-- Doble banda con velocidad combinada de 1800 Mbps y tecnología MU-MIMO para envio simultáneo a múltiples dispositivos conectados
-- 1 puerto WAN Gigabit y 4 de red LAN y Gigabit (1000 Mbps), para sacar el máximo partido a las conexiones por cable de red Ethernet RJ-45
 - Seguridad reforzada mediante encriptación de red WiFi WPA3, que es el nuevo protocolo de encriptación para redes inalámbricas, y con control parental
 - Además de una experiencia de uso muy superior, WiFi-6 también aumenta la cobertura y la calidad cuando se conectan muchos usuarios al mismo tiempo
+- Wi-Fi 6 es el nuevo estándar que aumenta velocidad, rendimiento y cobertura de tu red WiFi, experimentado una velocidad y respuesta aún mayor comparado a los sistemas anteriores
+- 1 puerto WAN Gigabit y 4 de red LAN y Gigabit (1000 Mbps), para sacar el máximo partido a las conexiones por cable de red Ethernet RJ-45
+- Doble banda con velocidad combinada de 1800 Mbps y tecnología MU-MIMO para envio simultáneo a múltiples dispositivos conectados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089QZVK3Y/?tag=tolees-21)
