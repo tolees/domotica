@@ -27,11 +27,11 @@ En este momento está [Xiaomi Redmi Note 9 Pro - Smartphone 6+64GB  6.67" DotDis
 
 🔎:
 
-- Batería: 5020 mAh
-- El Redmi Note 9 Pro con Alexa vivavoce ti permitte effettuare chiamate telefoniche, aprire app, controllare dispositivi smart home, accedere alla libreria di competenze Alexa e altro ancora usando solo la tua voce mentre sei in movimento. Scarica lapp Alexa e completa la configurazione a hands-free per iniziare. Basta chiedere e Alexa risponderà immediatamente.
-- Cámara: Cuádruple, 64MP+8MP +2MP+2MP
-- Procesador: Snapdragon 720G 2.3GHz
 - Pantalla: 6.67", 1080 x 2400 pixels
+- Cámara: Cuádruple, 64MP+8MP +2MP+2MP
+- Batería: 5020 mAh
 - OS: Android 10
+- El Redmi Note 9 Pro con Alexa vivavoce ti permitte effettuare chiamate telefoniche, aprire app, controllare dispositivi smart home, accedere alla libreria di competenze Alexa e altro ancora usando solo la tua voce mentre sei in movimento. Scarica lapp Alexa e completa la configurazione a hands-free per iniziare. Basta chiedere e Alexa risponderà immediatamente.
+- Procesador: Snapdragon 720G 2.3GHz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CC6Z3Y/?tag=tolees-21)
