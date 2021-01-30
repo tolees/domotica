@@ -16,6 +16,7 @@ comparePrice: 399.95 EUR
 prodname: 'Bose 700 - Auriculares con cancelación de Ruido  con Alexa integrada  edición limitada  Soapstone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X5F81JS/?tag=tolees-21'
 descuento: '22.49'
 average: '313.32'

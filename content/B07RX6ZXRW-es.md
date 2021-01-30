@@ -16,6 +16,7 @@ comparePrice: 12.55 EUR
 prodname: 'Enchufe inteligente con WiFi.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RX6ZXRW/?tag=tolees-21'
 descuento: '21.99'
 average: '9.79'

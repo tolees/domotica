@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: '10M Luces de Tiras LED WiFi  TASMOR Tira de LED RGB Compatible con Alexa  Google Home  App  LED Tira Luz Sincronización de Música  Tira LED Autoadhesiva 3M para Decoración Interior y Exterior '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZF8FWC3/?tag=tolees-21'
 descuento: '17.08'
 average: '32.29'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Gigaset S30851-H2519-R101 - Enchufe inteligente inalámbrico con función de temporizador y control mediante app  control remoto para encender y apagar las luces'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013PUUKYW/?tag=tolees-21'
 descuento: '50.01'
 average: '24.99'

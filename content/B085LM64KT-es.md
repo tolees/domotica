@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'ACEMATE Bombilla inteligente LED 2.4G WiFi Regulable Multicolor Lámpara no se requiere hub  E26 7W=60W Luz Cálida/Frías & RGB A19 compatible con Alexa Siri Echo Google Home and IFTTT Control 4 PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LM64KT/?tag=tolees-21'
 descuento: '33.10'
 average: '36.79'

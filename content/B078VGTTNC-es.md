@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Sony WFSP700NW.CE7 - Auriculares deportivos totalmente inalámbricos  cancelación de ruido  modo sonido ambiente  Bluetooth   color blanco  con Alexa integrada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078VGTTNC/?tag=tolees-21'
 descuento: '60.50'
 average: '123.46000000000001'

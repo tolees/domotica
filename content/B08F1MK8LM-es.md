@@ -16,6 +16,7 @@ comparePrice: 36.35 EUR
 prodname: 'Lámpara de techo WiFi compatible con Amazon Alexa y Google Home 24 W  diámetro 40 cm  cielo estrellado  regulable  blanco cálido  blanco frío  luz nocturna  color blanco X5058B-24W-AL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F1MK8LM/?tag=tolees-21'
 descuento: '19.97'
 average: '29.09'

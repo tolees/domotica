@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Enchufe Inteligente  Mide el Consumo 16A 3680W Wi-Fi Smart Plug  con Control Remoto. Compatible con Alexa  Google Assistant y SmartThings. Modelo MSS310.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079D8Y2VW/?tag=tolees-21'
 descuento: '32.02'
 average: '14.334285714285713'

@@ -16,6 +16,7 @@ comparePrice: 1.19 EUR
 prodname: 'LEDMOMO 2Pcs Full LED Protectores de pantalla para Amazon Echo Spot Anti-Scretch Eliminar Residual Fingerprints Protectores de pantalla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DMLKJ1M/?tag=tolees-21'
 descuento: '49.58'
 average: '0.6'

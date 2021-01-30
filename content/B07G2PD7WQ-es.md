@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'KIWI design Batería Compatible con Home Mini de Google  Cargador/Soporte de Pared 7800mAh Portátil Compatible con Google Home Mini  Gris Oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2PD7WQ/?tag=tolees-21'
 descuento: '50.01'
 average: '23.32333333333333'

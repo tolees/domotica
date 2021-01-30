@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Wifi Bombillas LED E27 Inteligente Regulable de blanco de 15W  100 equivalentes  compatible con Alexa  Google Home Assistant  control remoto a través de teléfono inteligente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X7V6XJ5/?tag=tolees-21'
 descuento: '20.02'
 average: '7.323333333333333'

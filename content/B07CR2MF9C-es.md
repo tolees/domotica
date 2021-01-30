@@ -16,6 +16,7 @@ comparePrice: 55.78 EUR
 prodname: 'Ornin Sense con altavoz inteligente con control de voz de Alexa Alexa  altavoz inalámbrico inalámbrico con Wi-Fi portátil  batería incorporada Versión EU  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CR2MF9C/?tag=tolees-21'
 descuento: '35.86'
 average: '35.78'

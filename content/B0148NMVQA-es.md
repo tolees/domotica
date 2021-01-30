@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Philips Hue White and Color Ambiance - Lightstrip Plus  tira LED de 2 metros con enchufe  iluminación inteligente  compatible con Amazon Alexa  Apple HomeKit y Google Assistant'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0148NMVQA/?tag=tolees-21'
 descuento: '16.22'
 average: '66.98'

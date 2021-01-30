@@ -16,6 +16,7 @@ comparePrice: 53.63 EUR
 prodname: 'TENDOMI Humidificador Bebé  Humidificador WiFi Inteligente  Difusor de aceites Esenciales  Compatible con Alexa y Google Home  App Control  Llenado Superior  6 Luces de Colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WR2QPSQ/?tag=tolees-21'
 descuento: '15.01'
 average: '45.58'

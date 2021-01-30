@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Bombilla WiFi Inteligente Smart LED WiFi Lámpara E27 7W  Control Remoto Dispositivo Inteligente Bulbo Compatible Alexa Google Home No Se Requiere Hub'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2WC8T9/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

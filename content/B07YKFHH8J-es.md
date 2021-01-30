@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'LVWIT Bombillas LED Golf E14 RGB Inteligente WiFi 5W 470 Lm  Lámpara Regulable Multicolor Bombilla Funciona con Alexa  Google Home Assistant y Smart Life/Tuya App  P45 Equivalente a 40W RGB  2 Pcs.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YKFHH8J/?tag=tolees-21'
 descuento: '15.01'
 average: '24.24'

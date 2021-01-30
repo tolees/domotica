@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LoraTap Interruptor Persianas WiFi  Interruptor Táctil de Pared para Cortina Eléctrica  Control de Voz con Alexa Echo y Google Assistant  Interruptor Temporizador para Motor del Obturador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVZC1KF/?tag=tolees-21'
 descuento: '26.68'
 average: '21.99'

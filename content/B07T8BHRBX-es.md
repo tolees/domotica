@@ -16,6 +16,7 @@ comparePrice: 307.0 EUR
 prodname: 'Yamaha YAS-209 Barra de Sonido con Alexa Integrada  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T8BHRBX/?tag=tolees-21'
 descuento: '17.36'
 average: '253.72'

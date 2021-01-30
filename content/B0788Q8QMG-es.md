@@ -16,6 +16,7 @@ comparePrice: 14.86 EUR
 prodname: 'singhong WiFi inteligentes RGBW bombilla LED  Control de voz  funciona con Alexa de Amazon   color cambiante luz regulable blanco  3000 K   E27  80 W equivalentes LED bombilla  no requiere Hub.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788Q8QMG/?tag=tolees-21'
 descuento: '30.15'
 average: '10.38'

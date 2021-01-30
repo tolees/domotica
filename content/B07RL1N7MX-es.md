@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Edison LED Bombilla Alexa-Lumary WiFi Bombilla E27 Edison Vintage Luces Edison Regulables  equivalente a 60 W  Blanco Cálido 2700K  700lm Compatible con Alexa & Google Assistant  No se requiere hub '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RL1N7MX/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Rhodesy Interruptor Luz Tapa para Philips Hue Interruptor de Atenuación Inalámbrico Inteligente  Adaptador Blanco Altamente Compatible Tapa Paquete de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8DBY97/?tag=tolees-21'
 descuento: '19.06'
 average: '18.32333333333333'

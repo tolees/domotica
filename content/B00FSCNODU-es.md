@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Sonos Play: 1 - Altavoz Inteligente Compatible con Dispositivos Amazon Echo  Cabe en Cualquier Sitio Debido a Su Tamaño y Es Resistente a La Humedad  Color Negro  12 x 12 x 16 2 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FSCNODU/?tag=tolees-21'
 descuento: '40.90'
 average: '174.52599999999998'

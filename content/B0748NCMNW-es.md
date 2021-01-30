@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Philips Hue Sensor de Movimiento  Enciende las Luces con Detección de Presencia  Compatible con Control por Voz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748NCMNW/?tag=tolees-21'
 descuento: '15.02'
 average: '33.9521052631579'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'EZVIZ EZ360 720P Cámara de Seguridad Pan/Tilt Wi-Fi con Visión Nocturna  Audio Bidireccional  Máscara de Privacidad Inteligente  Servicio de Nube Disponible  Compatible con Alexa  Google Home y IFTTT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079D3KGK8/?tag=tolees-21'
 descuento: '68.12'
 average: '26.54875'

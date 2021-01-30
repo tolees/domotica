@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Philips Hue Lightstrip Plus  Tira Inteligente LED  1m  Extensión para Tira 2m   Luz Blanca y Color  Compatible con Alexa y Google Home'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0148NMVJW/?tag=tolees-21'
 descuento: '15.87'
 average: '20.747999999999998'

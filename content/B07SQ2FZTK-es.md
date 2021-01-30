@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Philips Hue Go Lámpara de Mesa Inteligente LED  con Bluetooth  Luz Blanca y Color  Compatible con Alexa y Google Home'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQ2FZTK/?tag=tolees-21'
 descuento: '16.21'
 average: '68.5542857142857'

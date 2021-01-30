@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bombilla Inteligente E27 WIFI de 8W LED Compatible con Alexa  Google Home  Control de Voz  Color Ajustable  Temporizador  Smart Bulbs para Decoración/Bar/Restaurante  juego de 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0833MW3DS/?tag=tolees-21'
 descuento: '15.00'
 average: '33.99'

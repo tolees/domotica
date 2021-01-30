@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Sonos Move - Altavoz Inteligente con Alexa integrada  portátil y Resistente  con batería integrada  para Escuchar música Dentro y Fuera de casa  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVSF8VW/?tag=tolees-21'
 descuento: '20.00'
 average: '346.991111111111'

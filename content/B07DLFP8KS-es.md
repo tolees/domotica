@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'Sonos Beam barra de sonido con Alexa integrada - barra de sonido inteligente para TV y música  altavoz compatible con AirPlay  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLFP8KS/?tag=tolees-21'
 descuento: '19.82'
 average: '348.1333333333333'

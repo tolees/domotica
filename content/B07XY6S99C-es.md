@@ -16,6 +16,7 @@ comparePrice: 37.05 EUR
 prodname: 'Philips Hue Enchufe conectado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XY6S99C/?tag=tolees-21'
 descuento: '32.55'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 50.88 EUR
 prodname: '2P 63-90A Interruptor de circuito DIN WIFI Interruptor de temporizador inteligente Relé de control remoto por aplicación EWeLink Smart Home compatible con Alexa Google-2 90A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B3Z3WKS/?tag=tolees-21'
 descuento: '37.11'
 average: '32.0'

@@ -16,6 +16,7 @@ comparePrice: 549.95 EUR
 prodname: 'Bose - Barra de sonido 500  con Alexa integrada  Bluetooth y Wifi negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8FWQSN/?tag=tolees-21'
 descuento: '21.41'
 average: '436.4066666666667'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'EZVIZ ezTube 720p Cámara de Seguridad  WiFi Cámara de Vigilancia  Defensa Activa  Luz Estroboscópica y Sirena  IP66  Visión Nocturna  Audio Bidireccional  Servicio de Nube  Compatible Con Alexa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BXNZL7B/?tag=tolees-21'
 descuento: '28.34'
 average: '47.656666666666666'

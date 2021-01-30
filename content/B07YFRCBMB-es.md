@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'NAPATEK Lámpara Escritorio LED  Lámpara De Mesa Para El Cuidado De Los Ojos Con Wifi Y Cargador Inalámbrico  Compatible Con Echo Alexa Y Google Assistant  Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFRCBMB/?tag=tolees-21'
 descuento: '61.82'
 average: '41.99'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Amazon Echo  3.ª generación  - Altavoz inteligente con Alexa - tela de color gris claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9BLDKR/?tag=tolees-21'
 descuento: '45.00'
 average: '69.40058823529411'

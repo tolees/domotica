@@ -16,6 +16,7 @@ comparePrice: 300.0 EUR
 prodname: 'Sony WHH900N  Auriculares  Inalámbrico y alámbrico  Tamaño Único  Negro  con Alexa integrada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074VGL9LB/?tag=tolees-21'
 descuento: '24.73'
 average: '195.15'

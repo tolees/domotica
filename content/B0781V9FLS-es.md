@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'EZVIZ 720P FHD IP Cámara de Seguridad y Vigilancia  2.4 GHz WiFi  Audio Bidireccional  Visión Nocturna  Monitor de Bebé  Servicio de Nube Disponible  Compatible com Alexa  Google Home y IFTTT  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781V9FLS/?tag=tolees-21'
 descuento: '50.01'
 average: '31.227500000000003'

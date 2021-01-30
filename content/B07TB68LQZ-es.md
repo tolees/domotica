@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'OurLeeme Enchufe Inteligente de WiFi  tomacorriente de Pared de 10A Toma de Corriente Inteligente Control Remoto Control de Voz El Temporizador Funciona con Alexa Página de Inicio de Google'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TB68LQZ/?tag=tolees-21'
 descuento: '20.01'
 average: '15.99'

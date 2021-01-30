@@ -16,6 +16,7 @@ comparePrice: 46.89 EUR
 prodname: 'meross Enchufe Inteligente Mide el Consumo 16A 3680W  Compatible con Alexa  Google Assistant y SmartThings Wi-Fi Smart Plug  Modelo MSS310. Paquete de 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJ2CCVX/?tag=tolees-21'
 descuento: '23.52'
 average: '44.735'

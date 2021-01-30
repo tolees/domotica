@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Philips Hue Kit 2 Bombillas Inteligentes LED E27  9.5 W y Puente  Luz Blanca y de Colores  Posibilidad de Control por Voz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797WGVWW/?tag=tolees-21'
 descuento: '28.41'
 average: '105.63133333333334'

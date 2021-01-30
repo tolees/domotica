@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ETEKCITY ESW01-EU Enchufe WiFi Inteligente Programable  Interruptor y Temporizador WiFi  Monitor de Energía  Compatible con Alexa  Google Home  IFTTT y VeSync para iOS y Android  2300W  2 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQJTFCL/?tag=tolees-21'
 descuento: '40.01'
 average: '28.59'

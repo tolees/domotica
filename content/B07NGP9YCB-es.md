@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'DAM. DMZ107BK. Soporte Giratorio para Amazon Echo Spot. Giro 360°Rápido  Sin Necesidad De Levantarlo. Alta Estabilidad. Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGP9YCB/?tag=tolees-21'
 descuento: '86.67'
 average: '19.99'

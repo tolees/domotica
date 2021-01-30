@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'SwitchBot Hub Plus - Mando a distancia inteligente IR para aire acondicionado y casas inteligentes  conecta SwitchBot al Wi-Fi  compatible con Alexa  Google Home  HomePod  IFTTT   La mayoría de Europa - tipo C '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DL6M8PZ/?tag=tolees-21'
 descuento: '18.18'
 average: '45.0'

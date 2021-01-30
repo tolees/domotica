@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'proscenic Novedad de 2020 Robot Aspirador con Alexa aspiración y fregasuelos 2 en 1  Rendimiento Mejorado  aplicación compy Control Remoto  Tanque de Agua eléctrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HLMMDP/?tag=tolees-21'
 descuento: '25.00'
 average: '187.21666666666667'

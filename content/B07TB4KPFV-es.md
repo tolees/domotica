@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'NetVue Camara Vigilancia WiFi Interior 1080P  Smart A.I. Detección Humana Compatible con Alexa Echo Muestran Camara WiFi con 2 Vías de visión Nocturna IR Talk 7 X 24h Cloud'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TB4KPFV/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

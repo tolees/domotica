@@ -16,6 +16,7 @@ comparePrice: 259.98 EUR
 prodname: 'Echo Show 5: mantén el contacto con la ayuda de Alexa  Blanco + EZVIZ C3X 1080P Cámara de vigilancia WiFi Color  Sirena y alarma de flash  Compatible con Alexa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08KH6Y89D/?tag=tolees-21'
 descuento: '17.31'
 average: '214.99'

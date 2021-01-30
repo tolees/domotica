@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Philips Hue White Ambiance bombilla LED inteligente E27  luz blanca de cálida a fría  compatible con Bluetooth y Zigbee  Puente Hue opcional   funciona con Alexa y Google Home'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SS37Y3J/?tag=tolees-21'
 descuento: '23.71'
 average: '22.85'

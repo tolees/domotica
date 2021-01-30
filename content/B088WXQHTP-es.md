@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: '360 S7 Pro Robot Aspirador y Fregasuelos  Limpieza de Zona  Líneas Límite  Múltiples Planos límite  Compatible with Alexa Alexa and Google'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088WXQHTP/?tag=tolees-21'
 descuento: '16.67'
 average: '499.99'

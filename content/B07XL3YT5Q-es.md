@@ -16,6 +16,7 @@ comparePrice: 78.21 EUR
 prodname: 'ECOOLBUY WiFi Inteligente Bajo Techo  en Exteriores Temperatura Humedad Sensor Funciona con Alexa Google Home IFTTT para Home House Greenhouse Basement Garage'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XL3YT5Q/?tag=tolees-21'
 descuento: '66.87'
 average: '25.91'

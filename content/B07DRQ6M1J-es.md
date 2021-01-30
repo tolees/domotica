@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Enchufe Inteligente Wifi AISIRER Monitor de Energía Control Remoto Mini Inalámbrico del Zócalo Compatible con Android iOS Alexa Google Home IFTTT  Interruptor de tiempo  No se requiere Hub  2 packs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRQ6M1J/?tag=tolees-21'
 descuento: '24.25'
 average: '24.99'

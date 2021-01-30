@@ -16,6 +16,7 @@ comparePrice: 28.22 EUR
 prodname: 'TopHGC Bombilla inteligente E14 WiFi  2PCS 6W Colores RGB que cambian las bombillas de vela regulables Voz y aplicación Controladas a distancia Funciona con Alexa/Google Home'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DFPLRD/?tag=tolees-21'
 descuento: '43.34'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 199.94 EUR
 prodname: 'Amazon Echo  3.ª generación   tela de color gris oscuro + Philips Hue White & Color Ambiance Pack de 2 bombillas LED inteligentes  compatible con Bluetooth y Zigbee  no se requiere controlador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08125HQJV/?tag=tolees-21'
 descuento: '42.49'
 average: '122.01545454545453'

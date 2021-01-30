@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '7hSevenOn Home Enchufe Inteligente WiFi con USB Control vía Smartphone/App'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0848P3KJL/?tag=tolees-21'
 descuento: '20.01'
 average: '15.803333333333335'

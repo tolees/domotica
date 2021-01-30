@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Philips Hue Pack de 2 Bombillas Inteligentes LED GU10  con Bluetooth  Luz Blanca de Cálida a Fría  Compatible con Alexa y Google Home'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPKV73M/?tag=tolees-21'
 descuento: '16.13'
 average: '38.494285714285716'

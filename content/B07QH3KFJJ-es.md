@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'LG Magic Control AN-MR19BA - Mando a distancia  añade Amazon Alexa a tu tele LG  Reconocimiento de voz  apunta y navega  rueda de scroll  botones Netflix y Amazon  teclado numérico  color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QH3KFJJ/?tag=tolees-21'
 descuento: '49.24'
 average: '27.85625'

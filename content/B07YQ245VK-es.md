@@ -16,6 +16,7 @@ comparePrice: 27.98 EUR
 prodname: 'TopHGC Enchufe WiFi Inteligente  Panel de Toma de Corriente Inteligente de Pared de 16A Control Remoto Temporizador de Control de Voz con botón Funciona con Alexa Google Home'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQ245VK/?tag=tolees-21'
 descuento: '39.28'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Inalámbrico Smart Portalámpara con WIFI para E27 iHaper  adaptador y Interruptor de LED bombilla  Compatible con Apple HomeKit  Alexa y Google Home  solo para iOS   APP y control con voz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZZ78G/?tag=tolees-21'
 descuento: '56.56'
 average: '19.98'

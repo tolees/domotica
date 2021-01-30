@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'RGB Tira Led Alexa  Uzone WiFi 5050 RGB 5m Luces de Tira LED Impermeable Control de Voz  Compatible con Alexa Echo  Google Home  Controlador y Adaptador de Corriente  Decoración para Home Garden Bar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRM8TWF/?tag=tolees-21'
 descuento: '41.31'
 average: '26.99'

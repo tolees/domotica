@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Philips Hue Bloom Lámpara de Mesa Inteligente LED  Luz Blanca y de Colores  Compatible con Alexa y Google Home'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HZVQ8DA/?tag=tolees-21'
 descuento: '28.73'
 average: '55.024'

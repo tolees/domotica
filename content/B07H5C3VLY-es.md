@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Jabra Elite Active 65t - Auriculares inalámbricos para deporte  Bluetooth 5.0  True Wireless  con Alexa integrada  Rojo y Cobre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5C3VLY/?tag=tolees-21'
 descuento: '20.00'
 average: '126.19000000000001'

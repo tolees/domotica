@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ETEKCITY ESW01-EU Enchufe WiFi Inteligente para Alexa  Google Home  IFTTT y VeSync  2300W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FMYTDC8/?tag=tolees-21'
 descuento: '40.01'
 average: '18.656666666666666'

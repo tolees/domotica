@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'proscenic Robot Aspirador M6 Pro  función de Limpieza 3 en 1  con navegación láser  Control con Alexa y App  Potencia de succión 2600PA y Limpieza selectiva de un área'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086V42DNT/?tag=tolees-21'
 descuento: '26.02'
 average: '295.2'

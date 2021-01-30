@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Amazon Echo  3.ª generación  reacondicionado certificado  altavoz inteligente con Alexa  tela de color gris oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P72SSSQ/?tag=tolees-21'
 descuento: '35.56'
 average: '57.99'

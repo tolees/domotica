@@ -16,6 +16,7 @@ comparePrice: 72.99 EUR
 prodname: 'Lámparas de Pie WIFI  Wellwerks Lámpara de Salón INTELIGENTE Luz Regulable Control Remoto Compatible con Alexa y App de Movil para Hogar Estudio Dormitorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZWG7NQ/?tag=tolees-21'
 descuento: '18.63'
 average: '62.69'

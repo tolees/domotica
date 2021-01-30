@@ -16,6 +16,7 @@ comparePrice: 23.49 EUR
 prodname: 'Bombilla Inteligente E14 WIFI de 9W LED Compatible con Alexa  Google Home  Control de Voz  Color Ajustable  Temporizador  Smart Bulbs para Decoración/Bar/Restaurante  juego de 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRH5YS5/?tag=tolees-21'
 descuento: '19.03'
 average: '19.02'

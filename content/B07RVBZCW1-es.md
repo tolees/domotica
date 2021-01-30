@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Interruptor regulador de intensidad de luz inteligente  2 4 Ghz  inalámbrico  WiFi  compatible con Alexa y control remoto  con temporizador  función de encendido/apagado  regulador de luz LED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RVBZCW1/?tag=tolees-21'
 descuento: '53.87'
 average: '11.99'

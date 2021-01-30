@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Enchufe Inteligente Wifi REAFOO Mini Smart Plug Temporizador con control remoto por voz Compatible con Alexa Echo Google Asistente no se requiere Hub  iOs y Android  red 2.4GHz  2 paquetes '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SLS2V74/?tag=tolees-21'
 descuento: '43.76'
 average: '24.74'

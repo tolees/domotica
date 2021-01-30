@@ -16,6 +16,7 @@ comparePrice: 188.0 EUR
 prodname: 'ASUS Blue Cave - Router Inalámbrico AC2600 Doble Banda simultánea Gigabit  procesador Intel Doble núcleo  Amazon Alexa  IFTTT  Aiprotection  compatible con Ai Mesh wifi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078H87WCL/?tag=tolees-21'
 descuento: '28.96'
 average: '145.0'

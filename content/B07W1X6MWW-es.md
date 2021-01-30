@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'NEATSVOR X500 Robot Aspirador 4 en 1  Control por App y Alexa  WiFi  4 Modos de Limpieza  Succión 2000PA  para Suelos Duros y alfombras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1X6MWW/?tag=tolees-21'
 descuento: '19.10'
 average: '152.54285714285714'

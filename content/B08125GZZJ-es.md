@@ -16,6 +16,7 @@ comparePrice: 189.94 EUR
 prodname: 'Echo Show 5  negro + Philips Hue White & Color Ambiance Pack de 2 bombillas LED inteligentes  compatible con Bluetooth y Zigbee  no se requiere controlador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08125GZZJ/?tag=tolees-21'
 descuento: '34.63'
 average: '118.30222222222221'

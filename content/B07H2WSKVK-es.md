@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Echo Plus  2.ª generación   tela de color antracita + Philips Hue White Bombilla LED E27'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2WSKVK/?tag=tolees-21'
 descuento: '43.34'
 average: '110.37805555555555'

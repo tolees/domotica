@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Camara Vigilancia Cámara de Seguridad WiFi 1080p Cámara de Vigilancia Compatible con Alexa Rotación de 360° Visión Nocturna Audio Bidireccional Alerta de Movimiento Servicio de Nube para iOS/Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSMJ93P/?tag=tolees-21'
 descuento: '30.01'
 average: '34.99'

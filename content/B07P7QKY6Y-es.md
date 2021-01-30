@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'Zyxel Multy U  sistema de malla WiFi AC2100 triple banda para todo el hogar  que funciona con Alexa - 3 unidad [WSR30-EU0301F]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7QKY6Y/?tag=tolees-21'
 descuento: '37.17'
 average: '169.0'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'YISSVIC WIFI Tira LED Tiras de LED Inteligente 5m 5050RGB Multicolor 12V Impermeable IP65 Aplicación con ALEXA Google Home IFTTT Teléfono Control Remoto 24 Teclas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WBZXCNF/?tag=tolees-21'
 descuento: '20.01'
 average: '20.79'

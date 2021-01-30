@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Philips Hue White bombilla LED inteligente GU10  luz blanca cálida  compatible con Bluetooth y Zigbee  Puente Hue opcional   funciona con Alexa y Google Home'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY1PV8K/?tag=tolees-21'
 descuento: '35.34'
 average: '13.93'

@@ -16,6 +16,7 @@ comparePrice: 23.86 EUR
 prodname: 'Mando a distancia WiFi IR funciona con Alexa Google Home Assistant Smartphone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088HCG8QP/?tag=tolees-21'
 descuento: '33.32'
 average: '15.91'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BLUEMYTH Robot Aspirador y Fregasuelos 3 en 1 Navegación Inteligente y App  Compatible con Alexa  Google Assistant 5 Modos de Limpieza Modelo A3 Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRXWFGF/?tag=tolees-21'
 descuento: '15.00'
 average: '82.49'

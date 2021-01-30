@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Enchufe de pared inteligente 15A con 2 USB Wifi Si Smart  compatible con Smart Life  Alexa y Google Home. Función control remoto  horarios  grupos  compartir y otros.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0886KFKCY/?tag=tolees-21'
 descuento: '42.95'
 average: '17.11'

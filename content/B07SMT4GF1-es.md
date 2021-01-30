@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Bombilla LED WiFi Inteligente 9W 900lm Lámpara Funciona con Alexa Echo Google Home y IFTTT  REAFOO Bombillas E27 RGBCW 2700K-6500K Control remoto con temporizador por SmartLife APP Tuya  paquete de 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMT4GF1/?tag=tolees-21'
 descuento: '46.01'
 average: '26.99'

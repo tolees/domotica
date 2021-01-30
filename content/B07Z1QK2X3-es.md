@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'NETVUE Camaras de Vigilancia WiFi Exterior 1080P  Visión Nocturna  Detección de Movimiento  Audio Bidireccional  Trabajo con Alexa  Soporte para Tarjeta SD - 4Paquete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z1QK2X3/?tag=tolees-21'
 descuento: '57.40'
 average: '169.99'

@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'Echo Dot  3.ª generación  reacondicionado certificado  altavoz inteligente con reloj y Alexa  tela de color gris claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQCXH19/?tag=tolees-21'
 descuento: '36.51'
 average: '39.99'

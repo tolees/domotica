@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Funda de Silicona para Fire TV Stick 4K Control Remoto [Antideslizante] Suave Carcasa de Protectora Silicona a Prueba de Golpes para Mando de Fire TV Stick con Alexa Voice Remote  Glow Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDW69MF/?tag=tolees-21'
 descuento: '45.48'
 average: '11.99'

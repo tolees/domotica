@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Regleta Inteligente WiFi  Smart Power Stripcon 4 Zócalos y 3 USB  Compatible con Alexa Google Assistant IFTTT  Admite App Control Remoto/Temporizador/Control por Voz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R19HN7C/?tag=tolees-21'
 descuento: '18.61'
 average: '31.30428571428571'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Netvue Cámaras de Vigilancia WiFi Interior  Full HD 1080P Cámara de Seguridad con Audio Bidireccional  Detección de Humano Movimiento  Visión Nocturna  Cámara bebé Inalámbrica Compatible con Alexa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWR3LC4/?tag=tolees-21'
 descuento: '55.01'
 average: '35.49'

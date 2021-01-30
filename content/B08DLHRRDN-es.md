@@ -16,6 +16,7 @@ comparePrice: 18.66 EUR
 prodname: 'Sensor de Detector de Humo eWeLink Inalámbrico 433MHz Sensor de Alarma de Protección contra Seguridad contra Incendios Trabaja con Sonoff RF Bridge Control de Aplicaciones Hogar Inteligente para el'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DLHRRDN/?tag=tolees-21'
 descuento: '50.21'
 average: '13.975'

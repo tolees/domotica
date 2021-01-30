@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Jabra Elite Active 45E Auriculares Deportivos Inalámbricos Bluetooth 5.0 con Alexa Integrada - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPLVFNL/?tag=tolees-21'
 descuento: '17.47'
 average: '82.52'

@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Philips Hue Play Barra de luz regulable compatible con Amazon Alexa  Apple HomeKit y Google Home  luz blanca y de colores  requiere conexión a puente Hue  blanca  incluye alimentador  2 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY1PWLP/?tag=tolees-21'
 descuento: '27.72'
 average: '106.19399999999999'

@@ -16,6 +16,7 @@ comparePrice: 899.95 EUR
 prodname: 'Bose Soundbar 700  Barra de sonido  con Alexa integrada  Bluetooth y Wifi  Inalámbrico y Alámbrico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8H7F6R/?tag=tolees-21'
 descuento: '17.88'
 average: '745.6666666666666'

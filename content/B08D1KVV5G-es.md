@@ -16,6 +16,7 @@ comparePrice: 94.98 EUR
 prodname: 'Echo Dot  3.ª generación  - Altavoz inteligente con reloj y Alexa + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D1KVV5G/?tag=tolees-21'
 descuento: '42.11'
 average: '54.98'

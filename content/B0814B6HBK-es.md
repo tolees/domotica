@@ -16,6 +16,7 @@ comparePrice: 189.89 EUR
 prodname: 'Echo Show 5  negro + EZVIZ ezTube 1080p Cámara de Seguridad  compatible con Alexa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814B6HBK/?tag=tolees-21'
 descuento: '23.77'
 average: '116.57333333333334'

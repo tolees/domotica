@@ -16,6 +16,7 @@ comparePrice: 97.2 EUR
 prodname: 'Cámara de seguridad al aire libre  Panamalar Smart 1080p WiFi IP cámara con control de voz Alexa  impermeable IP65  visión nocturna  audio de 2 vías  detección de movimiento  remoto desde smartphone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYVSXRM/?tag=tolees-21'
 descuento: '35.94'
 average: '61.995000000000005'

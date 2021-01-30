@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Enchufe Inteligente WiFi Lunvon Toma de Interruptor Remoto Inteligente Inalámbrico Compatible con Google Home  No se requiere Hub  Smart Plug Función de Temporizador  Blanco  2000w  2Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XL9Q48H/?tag=tolees-21'
 descuento: '62.99'
 average: '11.101111111111111'

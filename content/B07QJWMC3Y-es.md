@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Enchufe inteligente wifi，SOONAN Interruptor Control Remoto dispositivos domésticos  para iOS y Android. Compatible con Alexa  Google Assistant y asistente de Google IFTTT europeo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJWMC3Y/?tag=tolees-21'
 descuento: '61.94'
 average: '8.75'

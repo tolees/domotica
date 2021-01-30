@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'SwitchBot Hub Mini - Control inteligente  infrarrojo  enlace a Wi-Fi  control de aire acondicionado  compatible con Alexa  Google Home  Siri  IFTTT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTH5TMW/?tag=tolees-21'
 descuento: '22.22'
 average: '35.0'

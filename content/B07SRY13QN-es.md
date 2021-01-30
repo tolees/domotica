@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Philips Hue Pack de 3 Bombillas Inteligentes LED E27  con Bluetooth  Puente y 2 Interruptores  Luz Blanca y Color  Compatible con Alexa y Google Home'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRY13QN/?tag=tolees-21'
 descuento: '18.80'
 average: '158.89999999999998'

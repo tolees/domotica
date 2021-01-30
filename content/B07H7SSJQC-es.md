@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Ring Stick Up Cam Elite - Cámara de seguridad HD  comunicación bidireccional  compatible con Alexa  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H7SSJQC/?tag=tolees-21'
 descuento: '20.10'
 average: '159.0'

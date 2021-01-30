@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Base de batería para Amazon Echo Dot 3ª generación - Cargador inalámbrico portátil para Echo Dot 3ª generación  Echo Dot no Incluido  - Compatible con Echo Dot 3 Comprado Antes de Agosto de 2019'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NF22Q1X/?tag=tolees-21'
 descuento: '17.50'
 average: '38.99'

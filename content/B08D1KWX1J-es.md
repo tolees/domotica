@@ -16,6 +16,7 @@ comparePrice: 124.98 EUR
 prodname: 'Amazon Echo  3.ª generación   Tela de color gris oscuro + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D1KWX1J/?tag=tolees-21'
 descuento: '32.01'
 average: '84.98'

@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'Echo Dot  3.ª generación  - Altavoz inteligente con Alexa  tela de color gris oscuro + Termostato Inteligente Kit de Inicio V3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZLCS517/?tag=tolees-21'
 descuento: '34.62'
 average: '149.985'

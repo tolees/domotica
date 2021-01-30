@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bombilla Inteligente LED WiFi Aogled E27 LED 9W Regulable Alexa Bombillas LED RGBCW Mood con control remoto  funciona con Alexa y Google Home  no requiere concentrador 2.4Ghz Wi-Fi LED paquete de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085TBTT1H/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

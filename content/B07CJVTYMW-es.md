@@ -16,6 +16,7 @@ comparePrice: 139.73 EUR
 prodname: 'D-Link DCS-8300LH – Cámara de vigilancia/Seguridad WiFi  1920 x 1080  Compatible con Amazon Alexa  Google Home e IFTTT  grabación en la Nube y en el móvil  Full HD 1080p  Ranura MicroSD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJVTYMW/?tag=tolees-21'
 descuento: '38.54'
 average: '83.902'

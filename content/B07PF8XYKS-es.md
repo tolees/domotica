@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Enchufe Smart Zoozee Wi-Fi Enchufe Inteligente 16A Inteligente Plug Compatible con Google Home Amazon Alexa  No Requiere Hub con App Control en Cualquier Lugar y Tiempo  PACK1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PF8XYKS/?tag=tolees-21'
 descuento: '26.68'
 average: '14.49'

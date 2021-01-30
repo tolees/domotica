@@ -16,6 +16,7 @@ comparePrice: 99.98 EUR
 prodname: 'Amazon Fire TV Stick con mando por voz Alexa + Echo Dot  3.ª generación   tela de color antracita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X63CPVJ/?tag=tolees-21'
 descuento: '20.00'
 average: '64.55285714285715'

@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Ecovacs Deebot OZMO 900 - Robot Aspirador 4 en 1: barre  aspira  pasa mopa y friega  mapeo inteligente láser  compatible con Alexa  App  Wifi  reanuda limpieza tras recarga  reporte por voz  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21'
 descuento: '25.06'
 average: '307.65714285714284'

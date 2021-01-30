@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'TP-Link HS110 - Enchufe inteligente inalámbrico con monitorización de energía  controle sus dispositivos desde cualquier lugar  funciona con Amazon Alexa  Google Home e IFTTT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017X72IES/?tag=tolees-21'
 descuento: '45.18'
 average: '21.45'

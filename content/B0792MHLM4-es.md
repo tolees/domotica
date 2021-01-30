@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Echo Dot  3.ª generación  - Altavoz inteligente con Alexa  tela de color gris oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792MHLM4/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

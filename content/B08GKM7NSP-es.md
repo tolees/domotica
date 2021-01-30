@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Bombilla LED Inteligente WiFi Regulable 12W E27 Bombilla LED Luz RGB Multicolor Bombilla Funciona con Alexa Google Home IFTTT Control Remoto por Aplicación 1 Pack[Clase de eficiencia energética A+]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GKM7NSP/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

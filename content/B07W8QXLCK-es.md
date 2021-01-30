@@ -16,6 +16,7 @@ comparePrice: 369.95 EUR
 prodname: 'Bose Portable Smart Speaker - Altavoz portátil con control de voz Alexa integrado  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8QXLCK/?tag=tolees-21'
 descuento: '31.10'
 average: '256.60400000000004'

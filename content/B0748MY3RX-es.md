@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Philips Hue Kit 3 Bombillas Inteligentes LED E27 con Puente y Mando  9.5 W  Luz Blanca y de Colores  Compatible con Alexa y Google Home'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748MY3RX/?tag=tolees-21'
 descuento: '20.47'
 average: '130.6609090909091'
