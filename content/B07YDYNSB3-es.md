@@ -28,13 +28,13 @@ En este momento está [Garza Smarthome - Termostato Smart WiFi Inteligente para 
 
 🔎:
 
-- Pantalla táctil: fácil calidad de manejo gracias a su panel táctil que permite configurar el dispositivo de forma rápida y sencilla
-- 100% compatible: el termostato se integra perfectamente con las principales plataformas como alexa, google, iosy android
-- Alimentación uso pilas: para fácil itar su instalación y mantenimiento, el termostato permite una alimentación por cable uso mediante pilas; dependiendo de si se instala en una pared o se piensa mover por diferentes habitaciones o superficies, la alimentación más aconsejable puede ser una u otra
-- Programación 7 días: el temporizador permite una programación semanal para hacer mas cómoda la adaptación a las rutinas del día a día
-- Bajo consumo: la alimentación del termostato mediante 4 pilas aaa permite su uso durante casi un año gracias a su diseño de bajo consumo
 - Pared y sobremesa: la instalación del termostato puede realizarse en la pared o en superficie para permitir su movilidad entre diferentes espacios
-- Control por voz y app: maneja y configura el encendido, apagado y temperatura mediante voz y app
+- Programación 7 días: el temporizador permite una programación semanal para hacer mas cómoda la adaptación a las rutinas del día a día
 - Wifi: conexión a redes wifi 2, 4 ghz para su control a distancia desde dentro y fuera del hogar; maneja el termostato desde cualquier parte del mundo
+- Control por voz y app: maneja y configura el encendido, apagado y temperatura mediante voz y app
+- Alimentación uso pilas: para fácil itar su instalación y mantenimiento, el termostato permite una alimentación por cable uso mediante pilas; dependiendo de si se instala en una pared o se piensa mover por diferentes habitaciones o superficies, la alimentación más aconsejable puede ser una u otra
+- 100% compatible: el termostato se integra perfectamente con las principales plataformas como alexa, google, iosy android
+- Pantalla táctil: fácil calidad de manejo gracias a su panel táctil que permite configurar el dispositivo de forma rápida y sencilla
+- Bajo consumo: la alimentación del termostato mediante 4 pilas aaa permite su uso durante casi un año gracias a su diseño de bajo consumo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YDYNSB3/?tag=tolees-21)
