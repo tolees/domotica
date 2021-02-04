@@ -28,10 +28,10 @@ En este momento está [LG 43UN7390 - Smart TV 4K UHD 108 cm  43"  con Inteligenc
 
 🔎:
 
-- Disfruta de la experiencia del Sonido Ultra Surround
-- Sistema operativo SmartTV webOS 5.0
 - Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, incluido, Compatible con Alexa
+- Sistema operativo SmartTV webOS 5.0
 - LG UHD, el Smart TV 4K UHD de 108 cm (43") compatible con Inteligencia Artificial
+- Disfruta de la experiencia del Sonido Ultra Surround
 - Caja reforzada para Amazon (certificación ISTA6) con diseño genérico 43UN73906LE
 - Compatible con HDR10 Pro y HLG
 
