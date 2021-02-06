@@ -29,12 +29,12 @@ Tienes [Echo Show 5  Blanco + Amazon Smart Plug  enchufe inteligente wifi   com
 🔎:
 
 - Controla tu privacidad con el botón para apagar la cámara y los micrófonos, y con la cubierta de la cámara integrada.
-- Pantalla inteligente compacta de 5,5" con Alexa lista para ayudarte
-- Mira películas, series y noticias. Escucha canciones y emisoras de radio.
-- Personalízalo con tu esfera de reloj o foto favorita. Crea rutinas y alarmas para empezar el día con buen pie.
-- Gestiona tu calendario, crea listas de tareas, entérate de la previsión del tiempo y del estado del tráfico, y cocina siguiendo recetas.
-- Realiza llamadas y videollamadas a amigos y familiares que tengan un dispositivo Echo compatible o la app Alexa.
-- Este lote incluye un Echo Show 5 y un Amazon Smart Plug: todo lo que necesitas para entrar en el mundo del Hogar digital.
 - Controla dispositivos compatibles con la voz o adminístralos usando la pantalla.
+- Este lote incluye un Echo Show 5 y un Amazon Smart Plug: todo lo que necesitas para entrar en el mundo del Hogar digital.
+- Gestiona tu calendario, crea listas de tareas, entérate de la previsión del tiempo y del estado del tráfico, y cocina siguiendo recetas.
+- Mira películas, series y noticias. Escucha canciones y emisoras de radio.
+- Realiza llamadas y videollamadas a amigos y familiares que tengan un dispositivo Echo compatible o la app Alexa.
+- Personalízalo con tu esfera de reloj o foto favorita. Crea rutinas y alarmas para empezar el día con buen pie.
+- Pantalla inteligente compacta de 5,5" con Alexa lista para ayudarte
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D1HY14N/?tag=tolees-21)
