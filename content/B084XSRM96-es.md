@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 43UN7100 - Smart TV 4K UHD 108 cm  43 al 17.13 % de descuento'
-date: 2021-02-04 21:14:29
+date: 2021-02-06 04:41:58
 image: 'https://m.media-amazon.com/images/I/51vq9+MEdkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B084XSRM96/?tag=tolees-21'
 descuento: '17.13'
-average: '379.748444444444'
+average: '379.273868613138'
 ---
 
 Está [LG 43UN7100 - Smart TV 4K UHD 108 cm  43"  con Inteligencia Artificial  HDR10 Pro  HLG  Sonido Ultra Surround  3xHDMI 2.0  2xUSB 2.0  Bluetooth 5.0  WiFi [A]  Compatible con Alexa](https://www.amazon.es/dp/B084XSRM96/?tag=tolees-21) con 17.13 de descuento por 347.24 EUR (original: 419.0 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [LG 43UN7100 - Smart TV 4K UHD 108 cm  43"  con Inteligencia Artificial  H
 
 ℹ️:
 
-- Sistema operativo SmartTV webOS 5.0
+- Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, no incluido, Compatible con Alexa
 - Caja reforzada para Amazon (certificación ISTA 6) con diseño genérico LG 43UN71006LB
+- Sistema operativo SmartTV webOS 5.0
+- LG UHD, el Smart TV 4K UHD de 108 cm (43") compatible con Inteligencia Artificial
 - Disfruta de la experiencia del Sonido Ultra Surround
 - Compatible con HDR10 Pro y HLG
-- Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, no incluido, Compatible con Alexa
-- LG UHD, el Smart TV 4K UHD de 108 cm (43") compatible con Inteligencia Artificial
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084XSRM96/?tag=tolees-21)
