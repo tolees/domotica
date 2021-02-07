@@ -28,10 +28,10 @@ Está [5M WiFi Tiras LED RGB Inteligente Tomshine 150 LEDs Tiras LED de Luces Co
 
 ℹ️:
 
-- 【150 LEDs WiFi Kit de Luz de Tira】:Luz de tira de 5 m / 16.4 pies con LED 5050RGB de 150 piezas, se puede cambiar una variedad de colores y brillo.
-- 【Fácil de Instalar】: La cinta autoadhesiva se puede colocar en cualquier superficie seca, plana y flexible para instalarla en cualquier lugar que desee. Y plug and play, una conexión más fácil y más estable, no necesita un conector complejo.
-- 【Tasa de protección IP65】: IP65 resistente al agua y al polvo le permite utilizar las luces de tira tanto en interiores como en exteriores libremente.
 - 【Modo de Sincronización de Música】: Con el micrófono incorporado de alta sensibilidad,tiras led de luces bailará a lo largo de varios colores y acelerará con ritmos musicales.
+- 【150 LEDs WiFi Kit de Luz de Tira】:Luz de tira de 5 m / 16.4 pies con LED 5050RGB de 150 piezas, se puede cambiar una variedad de colores y brillo.
+- 【Tasa de protección IP65】: IP65 resistente al agua y al polvo le permite utilizar las luces de tira tanto en interiores como en exteriores libremente.
+- 【Fácil de Instalar】: La cinta autoadhesiva se puede colocar en cualquier superficie seca, plana y flexible para instalarla en cualquier lugar que desee. Y plug and play, una conexión más fácil y más estable, no necesita un conector complejo.
 - 【Control Remoto y Control de App】: Compatible con Alexa y Google Assistant, puede encender y apagar / atenuar y configurar modos de cambio de color / temporizador a través de la aplicación y el control por voz o con el control remoto incluido fácilmente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082WB66GZ/?tag=tolees-21)
