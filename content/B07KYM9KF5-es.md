@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.35 % en TECKIN Bombilla Inteligente LED WiFi con'
-date: 2021-01-27 10:02:13
+date: 2021-02-07 21:33:56
 image: 'https://m.media-amazon.com/images/I/41K6TM3ltoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 20.99 EUR
 prodname: 'TECKIN Bombilla Inteligente LED WiFi con luz cálida 2800k-6200k + RGB lámpara color cambiable Funciona con móvil  Google Home  E27 7.5W （no se requiere hub） [Clase de eficiencia energética A]'
 country: 'es'
 flag: '🇪🇸'
+brand: 'TECKIN'
 buyurl: 'https://www.amazon.es/dp/B07KYM9KF5/?tag=tolees-21'
 descuento: '33.35'
-average: '14.3609090909091'
+average: '14.3478947368421'
 ---
 
 Tienes [TECKIN Bombilla Inteligente LED WiFi con luz cálida 2800k-6200k + RGB lámpara color cambiable Funciona con móvil  Google Home  E27 7.5W （no se requiere hub） [Clase de eficiencia energética A]](https://www.amazon.es/dp/B07KYM9KF5/?tag=tolees-21) con un 33.35 % de descuento con precio de oferta de 13.99 EUR (original: 20.99 EUR) en el siguiente enlace!
