@@ -28,12 +28,12 @@ En este momento está [Nuevo Echo Dot  4.ª generación  con reloj  Blanco + Ama
 
 🔎:
 
+- Lista para ayudar: pídele a Alexa que te cuente un chiste, ponga música, responda a preguntas, lea las noticias, te dé la previsión del tiempo, cree alarmas y más.
+- Controla tus dispositivos de Hogar digital: usa la voz para encender luces, ajustar termostatos y cerrar cerraduras usando dispositivos compatibles.
+- Este lote incluye un Echo Dot (4.ª generación) con reloj y un Amazon Smart Plug: todo lo que necesitas para entrar en el mundo del Hogar digital.
 - Ideal para la mesita de noche: consulta la hora, las alarmas y los temporizadores en el indicador LED. Dale un toque a la parte superior del dispositivo para posponer alarmas.
 - Conecta con los que te importan: llama prácticamente a cualquier persona sin usar las manos. Llama a otras habitaciones al instante con Drop In o realiza comunicados a toda la casa para anunciar que la cena está lista.
-- Este lote incluye un Echo Dot (4.ª generación) con reloj y un Amazon Smart Plug: todo lo que necesitas para entrar en el mundo del Hogar digital.
-- Presentamos el nuevo Echo Dot con reloj: nuestro altavoz inteligente con Alexa más vendido. El diseño elegante y compacto ofrece un sonido de calidad con voces claras y graves equilibrados.
 - Diseñado para proteger tu privacidad: fabricado con varias capas de protección y controles de privacidad, incluido un botón que desconecta los micrófonos electrónicamente.
-- Controla tus dispositivos de Hogar digital: usa la voz para encender luces, ajustar termostatos y cerrar cerraduras usando dispositivos compatibles.
-- Lista para ayudar: pídele a Alexa que te cuente un chiste, ponga música, responda a preguntas, lea las noticias, te dé la previsión del tiempo, cree alarmas y más.
+- Presentamos el nuevo Echo Dot con reloj: nuestro altavoz inteligente con Alexa más vendido. El diseño elegante y compacto ofrece un sonido de calidad con voces claras y graves equilibrados.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08K8BHF8X/?tag=tolees-21)
