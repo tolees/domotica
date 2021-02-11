@@ -28,11 +28,11 @@ Tienes [Xiaomi Yeelight Lightstrip Plus](https://www.amazon.es/dp/B07RT9MTTC/?ta
 
 🔎:
 
-- Frecuencia de entrada de CA: 50/60 Hz
 - ¡Nota! Para controlar el brillo y la temperatura del color, se requiere la aplicación de smartphone Yeelight
-- Tira de luz con uso conveniente mediante el controlador con un botón
 - Cable de 2 metros para la mayoría de las escenas de iluminación del hogar
+- Frecuencia de entrada de CA: 50/60 Hz
 - Tensión de entrada de CA: 100-240 V
 - Tipo de bombilla: LED
+- Tira de luz con uso conveniente mediante el controlador con un botón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RT9MTTC/?tag=tolees-21)
