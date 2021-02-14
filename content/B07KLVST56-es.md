@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EZVIZ Cámara de Vigilancia Interior  IP  al 22.23 % de descuento'
-date: 2021-02-01 19:07:46
+date: 2021-02-14 08:41:41
 image: 'https://m.media-amazon.com/images/I/31FAILE8ThL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [EZVIZ Cámara de Vigilancia Interior  IP Cámara Wi-Fi 2.4GHz para Hogar 
 
 ℹ️:
 
-- COMPATIBLE CON ALEXA: esta cámara WiFi puede ser controlada por Alexa a través de Echo Show. Simplemente pídale que le muestre la habitación del bebé, el patio o cualquier lugar donde tenga una cámara EZVIZ. Manténgase atento a las nuevas habilidades a medida que nuestra relación con Alexa crece. También puede ser controlado por otros dispositivos domésticos inteligentes.
-- DETECCIÓN INSTANTÁNEAS DE MOVIMIENTO: Esta cámara ip de vigilancia observa los movimientos. Cada vez que identifica un movimiento, tomará una foto y enviará una alerta a su teléfono. Es genial saber cuándo su hijo se está despertando de la siesta o corriendo por la casa.
-- AUDIO BIDIRECCIONAL Y ESCUCHAR EN TIEMPO REAL: en esos momentos en que no está en casa y quiere hablar con sus seres queridos o con sus mascotas, esta cámara interna tiene una caja de audio y un micrófono incorporado que mantienen la voz clara. Nunca ha sido tan fácil estar tan cerca de tu familia, donde quiera que estés.
 - EXCELENTE VISIÓN NOCTURNA: La cámara de seguridad cambia automáticamente al modo nocturno para una cobertura total durante el día y la noche con video HD. Su lente con luz infrarroja proporciona una visión nocturna de hasta 7,5 m.
+- AUDIO BIDIRECCIONAL Y ESCUCHAR EN TIEMPO REAL: en esos momentos en que no está en casa y quiere hablar con sus seres queridos o con sus mascotas, esta cámara interna tiene una caja de audio y un micrófono incorporado que mantienen la voz clara. Nunca ha sido tan fácil estar tan cerca de tu familia, donde quiera que estés.
+- DETECCIÓN INSTANTÁNEAS DE MOVIMIENTO: Esta cámara ip de vigilancia observa los movimientos. Cada vez que identifica un movimiento, tomará una foto y enviará una alerta a su teléfono. Es genial saber cuándo su hijo se está despertando de la siesta o corriendo por la casa.
 - ALTA RESOLUCIÓN Y ÁNGULO VISUAL AMPLIO: Con una resolución de HD 720P y una lente con un ángulo de visión amplio de 111 °, la cámara de vigilancia interior proporciona una cobertura completa en alta definición. Con un simple toque doble, puede hacer zoom (hasta 4x) y enfoca los detalles más pequeños.
+- COMPATIBLE CON ALEXA: esta cámara WiFi puede ser controlada por Alexa a través de Echo Show. Simplemente pídale que le muestre la habitación del bebé, el patio o cualquier lugar donde tenga una cámara EZVIZ. Manténgase atento a las nuevas habilidades a medida que nuestra relación con Alexa crece. También puede ser controlado por otros dispositivos domésticos inteligentes.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KLVST56/?tag=tolees-21)
