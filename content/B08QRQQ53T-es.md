@@ -28,12 +28,12 @@ En este momento está [Tapo 【Nuevo】 TP-Link - Bombilla LED Inteligente  Bomb
 
 🔎:
 
-- Programas y horarios – Planifica tiempos específicos para encender o apagar tus bombillas
-- Ahorro de energía: Mismo brillo con un bajo consumo de energía de 8,7 W en comparación con las bombillas normales de 60 W
 - Acceso remoto: controla tu bombilla inteligente cómodamente a través de tu teléfono inteligente con la aplicación Tapo, en cualquier lugar y en cualquier momento
 - No requiere concentrador – conecta la bombilla inteligente directamente a tu WiFi doméstico
 - Ajuste predeterminado sencillo: configura diferentes opciones de iluminación de antemano para ajustar tus bombillas directamente pulsando un botón
-- Multicolor – Crea fácilmente escenarios para tu rutina diaria o actividades ajustando el brillo, la temperatura de la luz y los colores – con 16.000.000 colores a elegir
 - Control por voz: conecta tu bombilla inteligente con Amazon Alexa o Google Assistant. El control es fácil mediante voz
+- Multicolor – Crea fácilmente escenarios para tu rutina diaria o actividades ajustando el brillo, la temperatura de la luz y los colores – con 16.000.000 colores a elegir
+- Programas y horarios – Planifica tiempos específicos para encender o apagar tus bombillas
+- Ahorro de energía: Mismo brillo con un bajo consumo de energía de 8,7 W en comparación con las bombillas normales de 60 W
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QRQQ53T/?tag=tolees-21)
