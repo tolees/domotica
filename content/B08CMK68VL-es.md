@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gosund 5M Tira de LED Alexa WiFi  Luces  con un 30.01 % de descuento'
-date: 2021-02-20 06:34:47
+date: 2021-02-21 12:46:04
 image: 'https://m.media-amazon.com/images/I/51LYQ05oJPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'gosund'
 buyurl: 'https://www.amazon.es/dp/B08CMK68VL/?tag=tolees-21'
 descuento: '30.01'
-average: '19.8536363636363'
+average: '19.5399999999999'
 ---
 
 En este momento está [Gosund 5M Tira de LED Alexa WiFi  Luces Led Rgb Inteligente Control Remoto por App  Compatible con Alexa y Google Home  Sincronizar con Música  Strip Leds Múlticolores para Fiesta Cocina Habitación](https://www.amazon.es/dp/B08CMK68VL/?tag=tolees-21) a 16.09 EUR (original: 22.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
