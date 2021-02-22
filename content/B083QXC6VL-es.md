@@ -28,14 +28,14 @@ Está [Samsung QLED 4K 2020 50Q60T - Smart TV de 50" con Resolución 4K UHD  con
 
 ℹ️:
 
-- Ambient Mode: olvida las pantallas y personaliza tu televisor con fotos o tu música favorita
-- QLED TV con Quantum dot: tecnología inorgánica que reproduce el 100% del Volumen de color con cualquier nivel de brillo.
-- Smart tv con Tizen y Guía Universal: descubre una amplia plataforma de contenidos y accede fácilmente a ellos de forma personalizada.
-- Multi View: permite ver la pantalla de tu smartphone en el televisor a la vez que se reproduce el contenido en él.
 - Marcado de Pantalla: evita el marcado de pantalla con tu televisor Samsung y disfruta de 10 años de garantía
 - HDR 10+: la tecnología HDR crea negros más profundos y potencia el nivel de detalle de cada escena.
+- Smart tv con Tizen y Guía Universal: descubre una amplia plataforma de contenidos y accede fácilmente a ellos de forma personalizada.
+- Ambient Mode: olvida las pantallas y personaliza tu televisor con fotos o tu música favorita
 - Sonido Inteligente: ajusta el sonido al detectar variaciones, adaptándose al tipo de escena gracias a la Inteligencia
 - One Remote Control: accede a todas las aplicaciones de tu Smart TV, decodificador o consola desde un solo mando
+- QLED TV con Quantum dot: tecnología inorgánica que reproduce el 100% del Volumen de color con cualquier nivel de brillo.
+- Multi View: permite ver la pantalla de tu smartphone en el televisor a la vez que se reproduce el contenido en él.
 - Asistentes de voz: accede a tu contenido favorito a través de los asistentes de voz integrados en tu televisor. Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
 - Inteligencia Artificial 4K: capaz de mejorar la imagen y el sonido a calidad 4K en tiempo real gracias al Procesador de Samsung
 
