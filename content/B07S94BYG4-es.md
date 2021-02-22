@@ -2,7 +2,7 @@
 layout: post
 title: 'BSEED Eupope Estándar Tuya Smart Wifi So al 37.82 % de rebaja'
 date: 2020-08-01 11:02:35
-image: 'https://m.media-amazon.com/images/I/413YY3pgQuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413YY3pgQuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.49'
 
 Tienes [BSEED Eupope Estándar Tuya Smart Wifi Socket Soporte Apple Homekit Alexa Google Inicio Control de voz Wifi Modular Enchufes Soltero Socket Negro](https://www.amazon.es/dp/B07S94BYG4/?tag=tolees-21) con precio final de  23.49 EUR (original: 37.78 EUR) (37.82 %  de rebaja) aqui!
 
-[![BSEED Eupope Estándar Tuya Smart Wifi So](https://m.media-amazon.com/images/I/413YY3pgQuL._SL200_.jpg)](https://www.amazon.es/dp/B07S94BYG4/?tag=tolees-21)
+[![BSEED Eupope Estándar Tuya Smart Wifi So](https://m.media-amazon.com/images/I/413YY3pgQuL._SL400_.jpg)](https://www.amazon.es/dp/B07S94BYG4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 42.11 % en Echo Dot  3.ª generación  - Altavoz inte'
 date: 2020-08-11 10:28:45
-image: 'https://m.media-amazon.com/images/I/31sTY17fJIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sTY17fJIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.98'
 
 Tienes [Echo Dot  3.ª generación  - Altavoz inteligente con reloj y Alexa + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa](https://www.amazon.es/dp/B08D1KVV5G/?tag=tolees-21) con un 42.11 % de descuento con precio de oferta de 54.98 EUR (original: 94.98 EUR) en el siguiente enlace!
 
-[![Echo Dot  3.ª generación  - Altavoz inte](https://m.media-amazon.com/images/I/31sTY17fJIL._SL200_.jpg)](https://www.amazon.es/dp/B08D1KVV5G/?tag=tolees-21)
+[![Echo Dot  3.ª generación  - Altavoz inte](https://m.media-amazon.com/images/I/31sTY17fJIL._SL400_.jpg)](https://www.amazon.es/dp/B08D1KVV5G/?tag=tolees-21)
 
 ℹ️:
 

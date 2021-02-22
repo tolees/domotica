@@ -2,7 +2,7 @@
 layout: post
 title: 'NetVue Camara Vigilancia WiFi Interior 1 al 40.01 % de rebaja'
 date: 2020-02-03 09:03:35
-image: 'https://m.media-amazon.com/images/I/311Bh0TjCLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311Bh0TjCLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [NetVue Camara Vigilancia WiFi Interior 1080P  Smart A.I. Detección Humana Compatible con Alexa Echo Muestran Camara WiFi con 2 Vías de visión Nocturna IR Talk 7 X 24h Cloud](https://www.amazon.es/dp/B07TB4KPFV/?tag=tolees-21) con precio final de  29.99 EUR (original: 49.99 EUR) (40.01 %  de rebaja) aqui!
 
-[![NetVue Camara Vigilancia WiFi Interior 1](https://m.media-amazon.com/images/I/311Bh0TjCLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TB4KPFV/?tag=tolees-21)
+[![NetVue Camara Vigilancia WiFi Interior 1](https://m.media-amazon.com/images/I/311Bh0TjCLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TB4KPFV/?tag=tolees-21)
 
 🔎:
 

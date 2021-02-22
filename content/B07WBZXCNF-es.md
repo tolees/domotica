@@ -2,7 +2,7 @@
 layout: post
 title: 'YISSVIC WIFI Tira LED Tiras de LED Intel al 20.01 % de descuento'
 date: 2020-06-14 23:46:41
-image: 'https://m.media-amazon.com/images/I/51CaoywDgkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CaoywDgkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.79'
 
 Ahora mismo tienes [YISSVIC WIFI Tira LED Tiras de LED Inteligente 5m 5050RGB Multicolor 12V Impermeable IP65 Aplicación con ALEXA Google Home IFTTT Teléfono Control Remoto 24 Teclas](https://www.amazon.es/dp/B07WBZXCNF/?tag=tolees-21) a 20.79 EUR (original: 25.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
-[![YISSVIC WIFI Tira LED Tiras de LED Intel](https://m.media-amazon.com/images/I/51CaoywDgkL._SL200_.jpg)](https://www.amazon.es/dp/B07WBZXCNF/?tag=tolees-21)
+[![YISSVIC WIFI Tira LED Tiras de LED Intel](https://m.media-amazon.com/images/I/51CaoywDgkL._SL400_.jpg)](https://www.amazon.es/dp/B07WBZXCNF/?tag=tolees-21)
 
 🔎:
 

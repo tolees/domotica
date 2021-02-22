@@ -2,7 +2,7 @@
 layout: post
 title: 'Bombilla WiFi Inteligente Smart LED WiFi al 40.02 % de rebaja'
 date: 2020-02-05 18:46:10
-image: 'https://m.media-amazon.com/images/I/41Dkah+SE9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Dkah+SE9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [Bombilla WiFi Inteligente Smart LED WiFi Lámpara E27 7W  Control Remoto Dispositivo Inteligente Bulbo Compatible Alexa Google Home No Se Requiere Hub](https://www.amazon.es/dp/B07G2WC8T9/?tag=tolees-21) con precio final de  11.99 EUR (original: 19.99 EUR) (40.02 %  de rebaja) aqui!
 
-[![Bombilla WiFi Inteligente Smart LED WiFi](https://m.media-amazon.com/images/I/41Dkah+SE9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07G2WC8T9/?tag=tolees-21)
+[![Bombilla WiFi Inteligente Smart LED WiFi](https://m.media-amazon.com/images/I/41Dkah+SE9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07G2WC8T9/?tag=tolees-21)
 
 🔎:
 

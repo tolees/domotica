@@ -2,7 +2,7 @@
 layout: post
 title: 'Gigaset S30851-H2519-R101 - Enchufe inte con un 50.01 % de descuento'
 date: 2020-05-27 17:17:56
-image: 'https://m.media-amazon.com/images/I/31Sbqgt6-wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Sbqgt6-wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 En este momento está [Gigaset S30851-H2519-R101 - Enchufe inteligente inalámbrico con función de temporizador y control mediante app  control remoto para encender y apagar las luces](https://www.amazon.es/dp/B013PUUKYW/?tag=tolees-21) a 24.99 EUR (original: 49.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![Gigaset S30851-H2519-R101 - Enchufe inte](https://m.media-amazon.com/images/I/31Sbqgt6-wL._SL200_.jpg)](https://www.amazon.es/dp/B013PUUKYW/?tag=tolees-21)
+[![Gigaset S30851-H2519-R101 - Enchufe inte](https://m.media-amazon.com/images/I/31Sbqgt6-wL._SL400_.jpg)](https://www.amazon.es/dp/B013PUUKYW/?tag=tolees-21)
 
 🔎:
 

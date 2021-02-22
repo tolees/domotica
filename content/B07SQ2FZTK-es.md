@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips Hue Go Lámpara de Mesa Inteligen al 16.21 % de descuento'
 date: 2020-09-24 09:07:27
-image: 'https://m.media-amazon.com/images/I/419yOOaQ1bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419yOOaQ1bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.5542857142857'
 
 Ahora mismo tienes [Philips Hue Go Lámpara de Mesa Inteligente LED  con Bluetooth  Luz Blanca y Color  Compatible con Alexa y Google Home](https://www.amazon.es/dp/B07SQ2FZTK/?tag=tolees-21) a 66.99 EUR (original: 79.95 EUR) (16.21 %  de descuento) en el siguiente enlace!
 
-[![Philips Hue Go Lámpara de Mesa Inteligen](https://m.media-amazon.com/images/I/419yOOaQ1bL._SL200_.jpg)](https://www.amazon.es/dp/B07SQ2FZTK/?tag=tolees-21)
+[![Philips Hue Go Lámpara de Mesa Inteligen](https://m.media-amazon.com/images/I/419yOOaQ1bL._SL400_.jpg)](https://www.amazon.es/dp/B07SQ2FZTK/?tag=tolees-21)
 
 🔎:
 

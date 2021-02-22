@@ -2,7 +2,7 @@
 layout: post
 title: '2P 63-90A Interruptor de circuito DIN WI con un 37.11 % de descuento'
 date: 2020-07-29 10:02:24
-image: 'https://m.media-amazon.com/images/I/410KwQT3dAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410KwQT3dAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.0'
 
 En este momento está [2P 63-90A Interruptor de circuito DIN WIFI Interruptor de temporizador inteligente Relé de control remoto por aplicación EWeLink Smart Home compatible con Alexa Google-2 90A](https://www.amazon.es/dp/B08B3Z3WKS/?tag=tolees-21) a 32.0 EUR (original: 50.88 EUR) (37.11 %  de descuento) en el siguiente enlace!
 
-[![2P 63-90A Interruptor de circuito DIN WI](https://m.media-amazon.com/images/I/410KwQT3dAL._SL200_.jpg)](https://www.amazon.es/dp/B08B3Z3WKS/?tag=tolees-21)
+[![2P 63-90A Interruptor de circuito DIN WI](https://m.media-amazon.com/images/I/410KwQT3dAL._SL400_.jpg)](https://www.amazon.es/dp/B08B3Z3WKS/?tag=tolees-21)
 
 🔎:
 

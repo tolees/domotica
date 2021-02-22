@@ -2,7 +2,7 @@
 layout: post
 title: 'Sony WFSP700NW.CE7 - Auriculares deporti con un 60.50 % de descuento'
 date: 2020-09-04 12:02:29
-image: 'https://m.media-amazon.com/images/I/31t2sEexEML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31t2sEexEML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '123.46000000000001'
 
 En este momento está [Sony WFSP700NW.CE7 - Auriculares deportivos totalmente inalámbricos  cancelación de ruido  modo sonido ambiente  Bluetooth   color blanco  con Alexa integrada](https://www.amazon.es/dp/B078VGTTNC/?tag=tolees-21) a 79.0 EUR (original: 200.0 EUR) (60.50 %  de descuento) en el siguiente enlace!
 
-[![Sony WFSP700NW.CE7 - Auriculares deporti](https://m.media-amazon.com/images/I/31t2sEexEML._SL200_.jpg)](https://www.amazon.es/dp/B078VGTTNC/?tag=tolees-21)
+[![Sony WFSP700NW.CE7 - Auriculares deporti](https://m.media-amazon.com/images/I/31t2sEexEML._SL400_.jpg)](https://www.amazon.es/dp/B078VGTTNC/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Amazon Echo  3.ª generación  reacondicio al 35.56 % de rebaja'
 date: 2020-08-22 19:09:05
-image: 'https://m.media-amazon.com/images/I/41q9ZGejNQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41q9ZGejNQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.99'
 
 Tienes [Amazon Echo  3.ª generación  reacondicionado certificado  altavoz inteligente con Alexa  tela de color añil](https://www.amazon.es/dp/B07V1KGPM4/?tag=tolees-21) con precio final de  57.99 EUR (original: 89.99 EUR) (35.56 %  de rebaja) aqui!
 
-[![Amazon Echo  3.ª generación  reacondicio](https://m.media-amazon.com/images/I/41q9ZGejNQL._SL200_.jpg)](https://www.amazon.es/dp/B07V1KGPM4/?tag=tolees-21)
+[![Amazon Echo  3.ª generación  reacondicio](https://m.media-amazon.com/images/I/41q9ZGejNQL._SL400_.jpg)](https://www.amazon.es/dp/B07V1KGPM4/?tag=tolees-21)
 
 🔎:
 

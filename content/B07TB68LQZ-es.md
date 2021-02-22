@@ -2,7 +2,7 @@
 layout: post
 title: 'OurLeeme Enchufe Inteligente de WiFi  to con un 20.01 % de descuento'
 date: 2020-08-03 18:32:16
-image: 'https://m.media-amazon.com/images/I/41Fk2aLXl+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fk2aLXl+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 En este momento está [OurLeeme Enchufe Inteligente de WiFi  tomacorriente de Pared de 10A Toma de Corriente Inteligente Control Remoto Control de Voz El Temporizador Funciona con Alexa Página de Inicio de Google](https://www.amazon.es/dp/B07TB68LQZ/?tag=tolees-21) a 15.99 EUR (original: 19.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
-[![OurLeeme Enchufe Inteligente de WiFi  to](https://m.media-amazon.com/images/I/41Fk2aLXl+L._SL200_.jpg)](https://www.amazon.es/dp/B07TB68LQZ/?tag=tolees-21)
+[![OurLeeme Enchufe Inteligente de WiFi  to](https://m.media-amazon.com/images/I/41Fk2aLXl+L._SL400_.jpg)](https://www.amazon.es/dp/B07TB68LQZ/?tag=tolees-21)
 
 🔎:
 

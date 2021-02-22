@@ -2,7 +2,7 @@
 layout: post
 title: 'Yamaha YAS-209 Barra de Sonido con Alexa con un 17.36 % de descuento'
 date: 2020-06-14 17:13:54
-image: 'https://m.media-amazon.com/images/I/21Dfkui5rLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21Dfkui5rLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '253.72'
 
 En este momento está [Yamaha YAS-209 Barra de Sonido con Alexa Integrada  Negro](https://www.amazon.es/dp/B07T8BHRBX/?tag=tolees-21) a 253.72 EUR (original: 307.0 EUR) (17.36 %  de descuento) en el siguiente enlace!
 
-[![Yamaha YAS-209 Barra de Sonido con Alexa](https://m.media-amazon.com/images/I/21Dfkui5rLL._SL200_.jpg)](https://www.amazon.es/dp/B07T8BHRBX/?tag=tolees-21)
+[![Yamaha YAS-209 Barra de Sonido con Alexa](https://m.media-amazon.com/images/I/21Dfkui5rLL._SL400_.jpg)](https://www.amazon.es/dp/B07T8BHRBX/?tag=tolees-21)
 
 🔎:
 

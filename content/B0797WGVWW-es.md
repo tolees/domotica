@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips Hue Kit 2 Bombillas Inteligentes al 28.41 % de descuento'
 date: 2020-04-26 00:35:13
-image: 'https://m.media-amazon.com/images/I/41SVYcgdsxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SVYcgdsxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '105.63133333333334'
 
 Ahora mismo tienes [Philips Hue Kit 2 Bombillas Inteligentes LED E27  9.5 W y Puente  Luz Blanca y de Colores  Posibilidad de Control por Voz](https://www.amazon.es/dp/B0797WGVWW/?tag=tolees-21) a 107.35 EUR (original: 149.95 EUR) (28.41 %  de descuento) en el siguiente enlace!
 
-[![Philips Hue Kit 2 Bombillas Inteligentes](https://m.media-amazon.com/images/I/41SVYcgdsxL._SL200_.jpg)](https://www.amazon.es/dp/B0797WGVWW/?tag=tolees-21)
+[![Philips Hue Kit 2 Bombillas Inteligentes](https://m.media-amazon.com/images/I/41SVYcgdsxL._SL400_.jpg)](https://www.amazon.es/dp/B0797WGVWW/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Jabra Elite Active 65t - Auriculares ina con un 20.00 % de descuento'
 date: 2020-05-18 12:42:10
-image: 'https://m.media-amazon.com/images/I/41JoLfISKgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JoLfISKgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '126.19000000000001'
 
 En este momento está [Jabra Elite Active 65t - Auriculares inalámbricos para deporte  Bluetooth 5.0  True Wireless  con Alexa integrada  Rojo y Cobre](https://www.amazon.es/dp/B07H5C3VLY/?tag=tolees-21) a 95.99 EUR (original: 119.99 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![Jabra Elite Active 65t - Auriculares ina](https://m.media-amazon.com/images/I/41JoLfISKgL._SL200_.jpg)](https://www.amazon.es/dp/B07H5C3VLY/?tag=tolees-21)
+[![Jabra Elite Active 65t - Auriculares ina](https://m.media-amazon.com/images/I/41JoLfISKgL._SL400_.jpg)](https://www.amazon.es/dp/B07H5C3VLY/?tag=tolees-21)
 
 🔎:
 

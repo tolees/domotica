@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 22.22 % en SwitchBot Hub Mini - Control inteligente'
 date: 2020-01-31 23:05:07
-image: 'https://m.media-amazon.com/images/I/41aAY-O-AvL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aAY-O-AvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.0'
 
 Tienes [SwitchBot Hub Mini - Control inteligente  infrarrojo  enlace a Wi-Fi  control de aire acondicionado  compatible con Alexa  Google Home  Siri  IFTTT](https://www.amazon.es/dp/B07TTH5TMW/?tag=tolees-21) con un 22.22 % de descuento con precio de oferta de 35.0 EUR (original: 45.0 EUR) en el siguiente enlace!
 
-[![SwitchBot Hub Mini - Control inteligente](https://m.media-amazon.com/images/I/41aAY-O-AvL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TTH5TMW/?tag=tolees-21)
+[![SwitchBot Hub Mini - Control inteligente](https://m.media-amazon.com/images/I/41aAY-O-AvL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TTH5TMW/?tag=tolees-21)
 
 ℹ️:
 

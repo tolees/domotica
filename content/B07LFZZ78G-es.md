@@ -2,7 +2,7 @@
 layout: post
 title: 'Inalámbrico Smart Portalámpara con WIFI  con un 56.56 % de descuento'
 date: 2020-02-17 14:23:18
-image: 'https://m.media-amazon.com/images/I/31HgJqBnpKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HgJqBnpKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.98'
 
 En este momento está [Inalámbrico Smart Portalámpara con WIFI para E27 iHaper  adaptador y Interruptor de LED bombilla  Compatible con Apple HomeKit  Alexa y Google Home  solo para iOS   APP y control con voz](https://www.amazon.es/dp/B07LFZZ78G/?tag=tolees-21) a 19.98 EUR (original: 45.99 EUR) (56.56 %  de descuento) en el siguiente enlace!
 
-[![Inalámbrico Smart Portalámpara con WIFI ](https://m.media-amazon.com/images/I/31HgJqBnpKL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LFZZ78G/?tag=tolees-21)
+[![Inalámbrico Smart Portalámpara con WIFI ](https://m.media-amazon.com/images/I/31HgJqBnpKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LFZZ78G/?tag=tolees-21)
 
 🔎:
 
