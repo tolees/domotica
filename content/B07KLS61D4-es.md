@@ -28,10 +28,10 @@ Tienes [EZVIZ Cámara de vigilancia Exterior cámara IP WiFi cámara de Segurida
 
 🔎:
 
+- LUZ ESTROBOSCÓPICA Y ALARMA DE SIRENA - La EZVIZ Cámara de vigilancia exterior se mantiene 24/7 viendo las partes importantes de tu casa. Una vez se detecte movimiento, empieza a grabar automáticamente y una notificación se envía a tu móvil. Si se detecta a alguien, la cámara activa una sirena y luz estroboscópica para asustar a los instrusos. Puedes activar o desactivar la sirena y luz separadamente.
 - IP66 PROTECCION DE AGUA Y POLVO - Diseñada para una duradera seguridad exterior, la cámara de seguridad EZVIZ cuenta con el certificado ip66 es una duradera y cámara de confianza que te protege en todos los diferentes tipos de tiempo: lluvia, luz solar o incluso nieve. 
+- ALMACENAMIENTO EN NUBE EZVIZ - Con una combinación innovadora de tecnologías, conectamos todo para ti, para crear un espacio seguro, conveniente y una vida inteligente. Todos el tráfico de datos entre el dispositivo y el app al servidores están seguras con un banco de encriptación y IOS/IEC 27001 certificados de seguridad. EMPIEZA CON EL PRIMER MES DE PRUEBA GRATIS. 
 - TODO LO VE LUZ NOCTURNA (30M) - Gracias a la integración de eficientes luces infrarrojas, un panel anti reflejo y un filtro ICR con infrarrojos la cámara ip EZVIZ permite una excelente visión nocturna hasta 30m. 
 - HABILITADO PARA EL SMART HOME - Compatible con Alexa! Esta Cámara de Seguridad y vigilancia wifi puede ser controlada mediante alexa Echo Show. Simplemente pídele que te enseñe cualquier sitio donde tengas una cámara Ezviz. También puede ser conectado con otros sistemas de casa inteligentes como Google Home o IFTTT y mantener todo sincronizado. 
-- ALMACENAMIENTO EN NUBE EZVIZ - Con una combinación innovadora de tecnologías, conectamos todo para ti, para crear un espacio seguro, conveniente y una vida inteligente. Todos el tráfico de datos entre el dispositivo y el app al servidores están seguras con un banco de encriptación y IOS/IEC 27001 certificados de seguridad. EMPIEZA CON EL PRIMER MES DE PRUEBA GRATIS. 
-- LUZ ESTROBOSCÓPICA Y ALARMA DE SIRENA - La EZVIZ Cámara de vigilancia exterior se mantiene 24/7 viendo las partes importantes de tu casa. Una vez se detecte movimiento, empieza a grabar automáticamente y una notificación se envía a tu móvil. Si se detecta a alguien, la cámara activa una sirena y luz estroboscópica para asustar a los instrusos. Puedes activar o desactivar la sirena y luz separadamente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KLS61D4/?tag=tolees-21)
