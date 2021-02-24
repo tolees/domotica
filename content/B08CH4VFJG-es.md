@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AKASO Cámara de Vigilancia Exterior Cáma al 16.67 % de rebaja'
-date: 2021-02-21 21:27:23
+date: 2021-02-24 13:28:32
 image: 'https://m.media-amazon.com/images/I/31xN49YMm8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'AKASO'
 buyurl: 'https://www.amazon.es/dp/B08CH4VFJG/?tag=tolees-21'
 descuento: '16.67'
-average: '53.8457142857144'
+average: '53.3637500000001'
 ---
 
 Tienes [AKASO Cámara de Vigilancia Exterior Cámara IP WiFi de Seguridad IP66 1080P 2MP Compatible con Alexa y Google Home Visión Nocturna Audio Bidireccional Detección de Movimiento  Cuerpo Metálico  B70 ](https://www.amazon.es/dp/B08CH4VFJG/?tag=tolees-21) con precio final de  49.99 EUR (original: 59.99 EUR) (16.67 %  de rebaja) aqui!
