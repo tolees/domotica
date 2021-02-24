@@ -28,11 +28,11 @@ Está [LG 49UN7100 - Smart TV 4K UHD 123 cm  49"  con Inteligencia Artificial  H
 
 ℹ️:
 
-- Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, no incluido, Compatible con Alexa
-- LG UHD, el Smart TV 4K UHD de 123 cm (49") compatible con Inteligencia Artificial
-- Caja reforzada para Amazon (certificación ISTA 6) con diseño genérico LG 49UN71006LB
 - Sistema operativo SmartTV webOS 5.0
-- Compatible con HDR10 Pro y HLG
 - Disfruta de la experiencia del Sonido Ultra Surround
+- Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, no incluido, Compatible con Alexa
+- Caja reforzada para Amazon (certificación ISTA 6) con diseño genérico LG 49UN71006LB
+- LG UHD, el Smart TV 4K UHD de 123 cm (49") compatible con Inteligencia Artificial
+- Compatible con HDR10 Pro y HLG
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084XSJ66V/?tag=tolees-21)
