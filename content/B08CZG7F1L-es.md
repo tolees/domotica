@@ -29,9 +29,9 @@ Está [Plafón LED Techo Alexa Lámparas LED Techo WiFi  Etersky Plafon RGB Inte
 ℹ️:
 
 - 🌈【Multicolor y Escenas】16 millones de colores RGB,configurar su color favorito de la lámpara techo inteligente, perfecto para la fiesta y decoración de habitación. 8 Escenas por optar, cambiando efectos de iluminación, crear diferentes ambientes interiores.
+- 🌈【Control por Voz】Compatible con Alexa y Google Home, libra sus manos, encender/apagar o ajustar el brillo y color de la lámpara led techo con unos comandos sencillos de voz. Experimente la facilidad de la vida inteligente!
+- 🌈【Alta Calidad】Plafon led alexa de IP54, adecuado para baño, cocina, balcón y diversas circunstancias interiores o exteriores. Fácil instalación y rápida conexión. Vida de uso hasta 20000 horas, le ofrecemos una garantía de 24 meses.
 - 🌈【Alto Brillo y Luz Ajustable】Lamparas techo dormitorio de 24W, 2400 Lúmenes. Porcentaje de brillo ajustable con un rango de iluminación que cubre hasta 30㎡. Temperatura de color entre 2700-6500K, cambiar entre blanco frío y cálido. Luz sin parpadeo, proteger sus ojos.
 - 🌈【Control APP con Temporizador】Descargue la APP Smart Life, controlar el plafón led techo en cualquier lugar y momento. Configurar un horario de encender/apagar el plafon wifi, ayuda a los niños a formar buenas costumbres de despertarse/acostarse.
-- 🌈【Alta Calidad】Plafon led alexa de IP54, adecuado para baño, cocina, balcón y diversas circunstancias interiores o exteriores. Fácil instalación y rápida conexión. Vida de uso hasta 20000 horas, le ofrecemos una garantía de 24 meses.
-- 🌈【Control por Voz】Compatible con Alexa y Google Home, libra sus manos, encender/apagar o ajustar el brillo y color de la lámpara led techo con unos comandos sencillos de voz. Experimente la facilidad de la vida inteligente!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CZG7F1L/?tag=tolees-21)
