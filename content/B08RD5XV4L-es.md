@@ -28,10 +28,10 @@ Tienes [【20M WiFi】Alexa Tiras LED 20 metros  Lijun WiFi Tiras de LED Interio
 
 🔎:
 
-- 【20m ultra largo】La longitud de la tira LED es 20 metros (2 rollos), cada rollo 10 metros. Extendemos la longitud de la tira de luz y la parte trasera aún mantiene un brillo estable, puede decorar su gran espacio sin preocupaciones con estas luces led de 20 metros..
-- 【Control de voz】Las tiras de LED compatible con Alexa/Google Home Assistant, puede encender/apagar la luz mediante comandos de voz, además puede ajustar la luz a un color específico que le gusta, haz su vida más inteligente y conveniente.
-- 【Control dual】Control remoto por infrarrojos de 44 teclas & control de las aplicaciones Tuya y Smart life. Cambiar las luces en cualquier momento. Las luces LED admite la configuración wifi, por lo que puede controlar la luz en cualquier lugar. (No es compatible con wifi de 5GHz).
 - 【Modo música】Cuando reproduce música, las tiras de led cambiará de color de acuerdo con el ritmo de la música. Puede usarse en cualquier lugar donde necesite luz colorida, como iluminación interior de su habitación, discoteca y bar etc.
 - 【Escena colorida】Use tiras led para hacer que su espacio sea más colorido. Hay 20 colores equipados y 8 modos de bricolaje de color, puede cambiar el color según las diferentes escenas. (No se recomienda pegarlo directamente en la pared para evitar que la pintura se caiga)
+- 【Control de voz】Las tiras de LED compatible con Alexa/Google Home Assistant, puede encender/apagar la luz mediante comandos de voz, además puede ajustar la luz a un color específico que le gusta, haz su vida más inteligente y conveniente.
+- 【Control dual】Control remoto por infrarrojos de 44 teclas & control de las aplicaciones Tuya y Smart life. Cambiar las luces en cualquier momento. Las luces LED admite la configuración wifi, por lo que puede controlar la luz en cualquier lugar. (No es compatible con wifi de 5GHz).
+- 【20m ultra largo】La longitud de la tira LED es 20 metros (2 rollos), cada rollo 10 metros. Extendemos la longitud de la tira de luz y la parte trasera aún mantiene un brillo estable, puede decorar su gran espacio sin preocupaciones con estas luces led de 20 metros..
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08RD5XV4L/?tag=tolees-21)
