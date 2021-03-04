@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda Mw6 Nova - Sistema Mesh WiFi para  al 26.71 % de descuento'
-date: 2021-03-03 01:36:16
+date: 2021-03-04 03:42:21
 image: 'https://m.media-amazon.com/images/I/313oXXPzDuL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B076VPYT36/?tag=tolees-21'
 descuento: '26.71'
-average: '133.146666666665'
+average: '132.95415730337'
 ---
 
 Está [Tenda Mw6 Nova - Sistema Mesh WiFi para todo el Hogar  paquete de 3  cobertura de doble banda de hasta 500 m2  Mu-Mimo  control parental  funciona con Alexa ](https://www.amazon.es/dp/B076VPYT36/?tag=tolees-21) con 26.71 de descuento por 124.58 EUR (original: 169.99 EUR) en el siguiente enlace!
@@ -28,10 +28,12 @@ Está [Tenda Mw6 Nova - Sistema Mesh WiFi para todo el Hogar  paquete de 3  cobe
 
 ℹ️:
 
-- Package Content: Tenda NOVA 3 Identical Mesh Points, 3 Power Adapters, Quick Install Guide1 Gigabit Ethernet Cable, 3 Years Warranty
-- With Wave2 MU-MIMO technology, NOVA can work with multiple wireless devices at the same time, and outperforms traditional routers in efficiency
-- Seamless Roaming: Tenda MW6 could create a lag-free video call/online gaming experience when you are on the move that you can go from room to room without losing connection
-- An Easy Whole-home Networking: NOVA units arrive pre-paired to each other. Just plug them in the cables and leave everything else to NOVA
-- Automatic Network Optimization: Tenda NOVA could automatically maintains its network status, that means if a NOVA is disconnected, it will reconnect to an available nova to keep you online
+- Admite reuniones en línea para varias personas sin interrupción de la red
+- La conexión inalámbrica cubre más de 500 metros, y puede agregar hasta 9 nodos para lograr una cobertura de más de 1, 000 metros cuadrados
+- Con la aplicación wifi tenda, puede establecer el acceso de invitados, bloquear dispositivos, controles parentales y / o dar prioridad a otros dispositivos en la red
+- La tecnología tenda beamforming mesh le brinda señales de red potentes y confiables, diseñadas para hogares y espacios de varias habitaciones
+- Tiene el mismo nombre de red (ssid) y puede moverse de una habitación a otra sin perder la conexión debido al roaming continuo
+- El diseño simple y elegante se puede integrar en cualquier entorno, agregando un toque único a su decoración
+- Con la tecnología mu-mimo, se pueden admitir hasta 90 dispositivos conectados simultáneamente sin causar demoras o interrupciones en la red. Puede ayudarlo de manera eficiente cuando trabaja desde casa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076VPYT36/?tag=tolees-21)
