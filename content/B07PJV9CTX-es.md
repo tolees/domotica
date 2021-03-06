@@ -28,13 +28,13 @@ Tienes [Amazon - Echo Dot  3.ª generación  Reacondicionado Certificado - Altav
 
 🔎:
 
-- Gracias a los 4 micrófonos de largo alcance, Alexa puede oírte desde el otro lado de la habitación. Además, si tienes dispositivos Echo repartidos en varias habitaciones, podrás llenar de música toda tu casa.
-- Usa la voz para controlar dispositivos de Hogar digital compatibles: encender luces, regular termostatos y más.
-- Las Skills son como apps qué te ayudan a sacarle el máximo partido al dispositivo. Puedes usarlas, por ejemplo, para saber qué ponen hoy en la tele, conseguir una receta o divertirte con juegos.
-- Llama o envía mensajes a cualquiera que tenga un dispositivo Echo, la app Alexa o Skype sin mover un dedo. Usar Drop In para llamar o hacer un comunicado a otras habitaciones de tu hogar en las que tengas un dispositivo Echo.
 - Puedes conectar el Echo Dot con tus propios altavoces usando Bluetooth o un cable de 3,5 mm para escuchar música.
-- Alexa se actualiza automáticamente a través del Cloud, con lo que aprende y añade nuevas funcionalidades constantemente.
-- El altavoz integrado ofrece un sonido nítido e intenso, y te permite disfrutar de canciones en streaming a través de Amazon Music, Spotify Premium, TuneIn y otros servicios.
+- Gracias a los 4 micrófonos de largo alcance, Alexa puede oírte desde el otro lado de la habitación. Además, si tienes dispositivos Echo repartidos en varias habitaciones, podrás llenar de música toda tu casa.
 - El Echo Dot es un altavoz inteligente que se controla con la voz. Se conecta a Alexa para reproducir música, responder a preguntas, narrar las noticias, consultar la previsión del tiempo, configurar alarmas, controlar dispositivos de Hogar digital compatibles y mucho más.
+- Llama o envía mensajes a cualquiera que tenga un dispositivo Echo, la app Alexa o Skype sin mover un dedo. Usar Drop In para llamar o hacer un comunicado a otras habitaciones de tu hogar en las que tengas un dispositivo Echo.
+- El altavoz integrado ofrece un sonido nítido e intenso, y te permite disfrutar de canciones en streaming a través de Amazon Music, Spotify Premium, TuneIn y otros servicios.
+- Alexa se actualiza automáticamente a través del Cloud, con lo que aprende y añade nuevas funcionalidades constantemente.
+- Las Skills son como apps qué te ayudan a sacarle el máximo partido al dispositivo. Puedes usarlas, por ejemplo, para saber qué ponen hoy en la tele, conseguir una receta o divertirte con juegos.
+- Usa la voz para controlar dispositivos de Hogar digital compatibles: encender luces, regular termostatos y más.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PJV9CTX/?tag=tolees-21)
