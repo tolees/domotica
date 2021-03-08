@@ -28,10 +28,10 @@ Está [Gillette Labs Heated Razor Máquina de Afeitar + Base de Carga + Enchufe 
 
 ℹ️:
 
+- Impermeable: su diseño completamente impermeable te permitirá afeitarte en el lavabo o en la ducha
 - Calor relajante: tecnología con barra de calefacción instantánea, continua y ajustable
 - La primera Heated Razor Para Hombre Kit básico del mundo: despierta tus sentidos con la sensación de un afeitado caliente
-- Comodidad de primera: la tecnología FlexDisc garantiza el máximo contacto con la barra de calefacción en cada pasada
 - Tecnología avanzada de 5 hojas: cuenta con las hojas más avanzadas, más finas y de mayor calidad de Gillette para proporcionar una comodidad excepcional
-- Impermeable: su diseño completamente impermeable te permitirá afeitarte en el lavabo o en la ducha
+- Comodidad de primera: la tecnología FlexDisc garantiza el máximo contacto con la barra de calefacción en cada pasada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083KXVRF1/?tag=tolees-21)
