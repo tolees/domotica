@@ -28,9 +28,9 @@ En este momento está [Philips Hue Bombilla Inteligente LED E27  con Bluetooth  
 
 🔎:
 
-- Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa y Google Home
 - Regulación sin instalación: experimenta la luz led blanca cálida para relajarse; temperatura de color: 2700 kelvin; luz blanca cálida de calidad para un hogar acogedor
 - Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue controla la luz de toda la casa, hasta 50 bombillas
 - Para control por Bluetooth descárgate la app gratis hue bluetooth, si utilizas el puente usa la app Philips Hue y saca el potencial a la iluminación inteligente
+- Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa y Google Home
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SV88LGC/?tag=tolees-21)
