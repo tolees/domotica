@@ -1,40 +1,38 @@
 ---
 layout: post
-title: 'TP-Link WiFi Mesh y PLC AV1000  Óptimo p al 17.03 % de rebaja'
-date: 2021-02-17 08:43:25
-image: 'https://m.media-amazon.com/images/I/41MnJE6--JL._SL200_.jpg'
+title: 'TP-Link Deco P9  3-pack  - PLC Mesh Wi-F al 24.00 % de rebaja'
+date: 2021-03-12 14:03:56
+image: 'https://m.media-amazon.com/images/I/41MnJE6--JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XY7WJ4W-es TP-Link WiFi Mesh y PLC AV1000 Óptimo para Casas Grandes...'
+slug: 'B07XY7WJ4W-es TP-Link Deco P9 3-pack - PLC Mesh Wi-Fi Híbrido con...'
 sku: 'B07XY7WJ4W-es'
 tags: [ 'alexa', ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99
-comparePrice: 229.0 EUR
-prodname: 'TP-Link WiFi Mesh y PLC AV1000  Óptimo para Casas Grandes con Paredes Gruesas  WiFi Estable  Cobertura 400 ㎡  Router y Puntos de Acceso  Control para Padres  Fácil Instalación  Funciona con Alexa'
+comparePrice: 249.99 EUR
+prodname: 'TP-Link Deco P9  3-pack  - PLC Mesh Wi-Fi Híbrido con Powerline  adecuado para Casas Grandes con Paredes Gruesas  Powerline AV1000 + wifi AC1200  cobertura hasta 560 ㎡  compatible con Alexa'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07XY7WJ4W/?tag=tolees-21'
-descuento: '17.03'
+descuento: '24.00'
 average: '189.99'
 ---
 
-Tienes [TP-Link WiFi Mesh y PLC AV1000  Óptimo para Casas Grandes con Paredes Gruesas  WiFi Estable  Cobertura 400 ㎡  Router y Puntos de Acceso  Control para Padres  Fácil Instalación  Funciona con Alexa](https://www.amazon.es/dp/B07XY7WJ4W/?tag=tolees-21) con precio final de  189.99 EUR (original: 229.0 EUR) (17.03 %  de rebaja) aqui!
+Tienes [TP-Link Deco P9  3-pack  - PLC Mesh Wi-Fi Híbrido con Powerline  adecuado para Casas Grandes con Paredes Gruesas  Powerline AV1000 + wifi AC1200  cobertura hasta 560 ㎡  compatible con Alexa](https://www.amazon.es/dp/B07XY7WJ4W/?tag=tolees-21) con precio final de  189.99 EUR (original: 249.99 EUR) (24.00 %  de rebaja) aqui!
 
-[![TP-Link WiFi Mesh y PLC AV1000  Óptimo p](https://m.media-amazon.com/images/I/41MnJE6--JL._SL200_.jpg)](https://www.amazon.es/dp/B07XY7WJ4W/?tag=tolees-21)
+[![TP-Link Deco P9  3-pack  - PLC Mesh Wi-F](https://m.media-amazon.com/images/I/41MnJE6--JL._SL400_.jpg)](https://www.amazon.es/dp/B07XY7WJ4W/?tag=tolees-21)
 
 🔎:
 
-- Itinerancia a diferencia de los extensores de rango tradicionales, todos los dispositivos conectados pueden moverse libremente pasando de una unidad deco a otra, sin percibir la más mínima interrupción de la conexión; el sistema deco selecciona continuamente la mejor ruta de conexión para cada dispositivo utilizando el algoritmo exclusivo tp-link art (tecnología de enrutamiento avanzada)
-- Equ ipad o con wifi mesh ac1200 convencional (5g 877mbps y 2.4g 300 mbps), cada unidad tiene 2 puertos gigabit, y en comparación con deco p7, powerline se ha actualizado a av1000, deco p9 le proporcionará una excelente experiencia wifi
-- Presentamos el nuevo tp-link deco p9, lanzado en octubre de 2019 con la tecnología más nueva de wifi híbrido de malla con línea eléctrica
-- Fácil operación en la aplicación deco; deco p9 también proporciona un fuerte control para padres, ahora puede bloquear ciertos sitios web, suspender el acceso a internet, programar el tiempo de navegación en internet, solo con un toque de dedo
-- Para los techis, la configuración weaún no está disponible, espere una actualización futura
-- Configuración instalando la aplicación deco y siga las sencillas instrucciones en pantalla para configurar la red; deco se encargará de todo, ofreciéndole el mayor rendimiento con total seguridad
-- Vive en una casa con paredes gruesas o edificios modernos con estructuras aislantes o de protección? todavía te preocupan las áreas sombreadas de wifi en tu casa? gracias a la adición de tecnología poweline en deco p9, utilizando el sistema eléctrico doméstico actual como una mesa de red, con el híbrido de wifi de malla, cobertura de 3 paquetes de hasta 560m2, ahora puede disfrutar de un wifi en cualquier lugar de su hogar
-- Puede funcionar con todos los demás modelos deco de tp-link
+- 2 PUERTOS GIGABIT - Cada unidad Deco P9 tiene 2 puertos gigabit 10/100/1000mbs para conexiones por cable
+- ROAMING SIN INTERRUPCIONES - Las unidades Deco trabajan juntas para formar una red unificada; Camine por su casa y manténgase conectado con las velocidades más rápidas posibles
+- CONFIGURACIÓN SENCILLA - A través de la aplicación deco, siga las sencillas instrucciones en pantalla para configurar la red; deco se encargará de todo, ofreciéndote las máximas prestaciones con total seguridad
+- SEGURIDAD Y CONTROL TOTAL - El cifrado WPA3 y TP-Link HomeCareTM ofrecen funciones personalizadas, que incluyen control parental, antivirus y calidad de servicio (QoS) para garantizar una experiencia en línea más segura
+- CONECTA MÁS DISPOSITIVOS - Deco maneja el tráfico incluso desde la red más ocupada, proporcionando conexiones sin demoras hasta 150 dispositivos
+- Sistema WI-FI MESH HÍBRIDA - Wi-Fi Doble Banda AC1200 + Powerline AV1000 creado especialmente para casas con paredes gruesas o edificios modernos con estructuras aislantes o blindadas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XY7WJ4W/?tag=tolees-21)

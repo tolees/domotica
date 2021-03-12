@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TECKIN Bombilla LED Inteligente WiFi Luc al 25.01 % de rebaja'
-date: 2021-03-05 15:08:41
+date: 2021-03-12 14:23:36
 image: 'https://m.media-amazon.com/images/I/41eDcvhaKpL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TECKIN'
 buyurl: 'https://www.amazon.es/dp/B07GTJHK4R/?tag=tolees-21'
 descuento: '25.01'
-average: '24.1009677419354'
+average: '24.0986315789473'
 ---
 
 Tienes [TECKIN Bombilla LED Inteligente WiFi Luces Cálidas RGB 2800k-6200k Ajustable y Lámpara E27 Multicolor Funciona con Alexa  Google Home  Equivale 7.5W  2 Paquete](https://www.amazon.es/dp/B07GTJHK4R/?tag=tolees-21) con precio final de  23.99 EUR (original: 31.99 EUR) (25.01 %  de rebaja) aqui!
