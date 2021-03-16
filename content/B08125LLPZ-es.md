@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08125LLPZ-es Echo Flex + Philips Hue White Pack de 2 bombillas LED...'
 sku: 'B08125LLPZ-es'
-tags: [ 'philips','hue', ]
+tags: [ 'hue','philips', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

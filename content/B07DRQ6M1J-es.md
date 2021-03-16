@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07DRQ6M1J-es Enchufe Inteligente Wifi AISIRER Monitor de Energía...'
 sku: 'B07DRQ6M1J-es'
-tags: [ 'alexa','ifttt','enchufe','inteligente','google','home', ]
+tags: [ 'alexa','enchufe','google','home','ifttt','inteligente', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

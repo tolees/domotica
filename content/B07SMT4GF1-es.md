@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07SMT4GF1-es Bombilla LED WiFi Inteligente 9W 900lm Lámpara Funciona...'
 sku: 'B07SMT4GF1-es'
-tags: [ 'alexa','ifttt','google','home', ]
+tags: [ 'alexa','google','home','ifttt', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

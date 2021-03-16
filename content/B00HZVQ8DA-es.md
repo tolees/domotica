@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00HZVQ8DA-es Philips Hue Bloom Lámpara de Mesa Inteligente LED Luz...'
 sku: 'B00HZVQ8DA-es'
-tags: [ 'alexa','google','home','philips','hue', ]
+tags: [ 'alexa','google','home','hue','philips', ]
 actualPrice: 56.98 EUR
 currency: EUR
 price: 56.98

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07FQJTFCL-es ETEKCITY ESW01-EU Enchufe WiFi Inteligente Programable...'
 sku: 'B07FQJTFCL-es'
-tags: [ 'alexa','ifttt','google','home', ]
+tags: [ 'alexa','google','home','ifttt', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
