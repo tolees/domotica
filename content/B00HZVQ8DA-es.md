@@ -5,7 +5,7 @@ date: 2020-09-19 12:37:21
 image: 'https://m.media-amazon.com/images/I/310yJZ7eEqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HZVQ8DA-es Philips Hue Bloom Lámpara de Mesa Inteligente LED Luz...'
 sku: 'B00HZVQ8DA-es'
 tags: [ 'alexa','google','home','hue','philips', ]

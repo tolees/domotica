@@ -5,7 +5,7 @@ date: 2020-02-03 09:03:35
 image: 'https://m.media-amazon.com/images/I/311Bh0TjCLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TB4KPFV-es NetVue Camara Vigilancia WiFi Interior 1080P Smart A.I....'
 sku: 'B07TB4KPFV-es'
 tags: [ 'alexa', ]

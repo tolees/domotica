@@ -5,7 +5,7 @@ date: 2020-05-26 13:45:32
 image: 'https://m.media-amazon.com/images/I/414pIy9zWrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2PD7WQ-es KIWI design Batería Compatible con Home Mini de Google...'
 sku: 'B07G2PD7WQ-es'
 tags: [ 'google','home', ]

@@ -5,7 +5,7 @@ date: 2020-04-21 07:02:30
 image: 'https://m.media-amazon.com/images/I/41FhaSUKEtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XNW4VL5-es LEFANT Robot Aspirador WiFi Aspirador de Limpieza con App...'
 sku: 'B07XNW4VL5-es'
 tags: [ 'alexa', ]

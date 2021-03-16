@@ -5,7 +5,7 @@ date: 2020-08-03 18:32:16
 image: 'https://m.media-amazon.com/images/I/41Fk2aLXl+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TB68LQZ-es OurLeeme Enchufe Inteligente de WiFi tomacorriente de...'
 sku: 'B07TB68LQZ-es'
 tags: [ 'alexa','enchufe','inteligente', ]

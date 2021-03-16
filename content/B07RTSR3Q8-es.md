@@ -5,7 +5,7 @@ date: 2020-01-02 15:46:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31s4rlP9qdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTSR3Q8-es koulate Bombillas WiFi Regulables RGBCW Cambio de Color...'
 sku: 'B07RTSR3Q8-es'
 tags: [ 'alexa','google','home', ]

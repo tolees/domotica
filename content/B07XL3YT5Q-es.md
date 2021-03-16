@@ -5,7 +5,7 @@ date: 2020-03-05 10:47:16
 image: 'https://m.media-amazon.com/images/I/41QkqLEA9bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL3YT5Q-es ECOOLBUY WiFi Inteligente Bajo Techo en Exteriores...'
 sku: 'B07XL3YT5Q-es'
 tags: [ 'alexa','google','home','ifttt', ]

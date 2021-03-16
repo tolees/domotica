@@ -5,7 +5,7 @@ date: 2020-08-01 11:02:35
 image: 'https://m.media-amazon.com/images/I/413YY3pgQuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S94BYG4-es BSEED Eupope Estándar Tuya Smart Wifi Socket Soporte Apple...'
 sku: 'B07S94BYG4-es'
 tags: [ 'alexa', ]

@@ -5,7 +5,7 @@ date: 2020-09-19 16:33:55
 image: 'https://m.media-amazon.com/images/I/31w5FM7p9tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QH3KFJJ-es LG Magic Control AN-MR19BA - Mando a distancia añade...'
 sku: 'B07QH3KFJJ-es'
 tags: [ 'alexa', ]

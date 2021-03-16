@@ -5,7 +5,7 @@ date: 2020-01-11 19:28:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51UG4GQ9-4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRM8TWF-es RGB Tira Led Alexa Uzone WiFi 5050 RGB 5m Luces de Tira...'
 sku: 'B07RRM8TWF-es'
 tags: [ 'alexa','google','home', ]

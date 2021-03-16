@@ -5,7 +5,7 @@ date: 2020-07-17 05:48:46
 image: 'https://m.media-amazon.com/images/I/41Q7Qwuwf1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H334QWK-es Echo Plus 2.ª generación tela de color gris claro +...'
 sku: 'B07H334QWK-es'
 tags: [ 'hue','philips', ]

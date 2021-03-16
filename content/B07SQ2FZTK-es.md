@@ -5,7 +5,7 @@ date: 2020-09-24 09:07:27
 image: 'https://m.media-amazon.com/images/I/419yOOaQ1bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQ2FZTK-es Philips Hue Go Lámpara de Mesa Inteligente LED con...'
 sku: 'B07SQ2FZTK-es'
 tags: [ 'alexa','google','home','hue','philips', ]

@@ -5,7 +5,7 @@ date: 2020-08-22 19:09:05
 image: 'https://m.media-amazon.com/images/I/41q9ZGejNQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1KGPM4-es Amazon Echo 3.ª generación reacondicionado certificado...'
 sku: 'B07V1KGPM4-es'
 tags: [ 'alexa','amazon','echo', ]

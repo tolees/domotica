@@ -5,7 +5,7 @@ date: 2020-02-05 22:29:27
 image: 'https://m.media-amazon.com/images/I/41hK+5xIkTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGP9YCB-es DAM. DMZ107BK. Soporte Giratorio para Amazon Echo Spot....'
 sku: 'B07NGP9YCB-es'
 tags: [ 'amazon','echo', ]

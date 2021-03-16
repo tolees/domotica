@@ -5,7 +5,7 @@ date: 2020-05-14 14:16:18
 image: 'https://m.media-amazon.com/images/I/413Yl7txdPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RL1N7MX-es Edison LED Bombilla Alexa-Lumary WiFi Bombilla E27 Edison...'
 sku: 'B07RL1N7MX-es'
 tags: [ 'alexa', ]

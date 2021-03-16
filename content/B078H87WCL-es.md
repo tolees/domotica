@@ -5,7 +5,7 @@ date: 2020-03-06 04:26:10
 image: 'https://m.media-amazon.com/images/I/41PHbmNygnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078H87WCL-es ASUS Blue Cave - Router Inalámbrico AC2600 Doble Banda...'
 sku: 'B078H87WCL-es'
 tags: [ 'alexa','ifttt', ]

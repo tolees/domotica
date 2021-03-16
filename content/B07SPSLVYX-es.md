@@ -5,7 +5,7 @@ date: 2020-01-04 12:40:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51TSk6sIg2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPSLVYX-es Tiras de LED REAFOO WiFi Tira LED impermeable 5M 5050...'
 sku: 'B07SPSLVYX-es'
 tags: [ 'alexa', ]

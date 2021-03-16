@@ -5,7 +5,7 @@ date: 2020-02-19 10:33:50
 image: 'https://m.media-amazon.com/images/I/41lnn6BAl-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZF9RRZ6-es Wake Up Light Despertador Luz Inteligente - 2019 Upgrade...'
 sku: 'B07ZF9RRZ6-es'
 tags: [ 'alexa','google','home', ]

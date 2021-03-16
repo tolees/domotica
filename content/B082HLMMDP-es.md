@@ -5,7 +5,7 @@ date: 2020-09-03 07:08:17
 image: 'https://m.media-amazon.com/images/I/41xxFMwHNLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HLMMDP-es proscenic Novedad de 2020 Robot Aspirador con Alexa...'
 sku: 'B082HLMMDP-es'
 tags: [ 'alexa', ]

@@ -5,7 +5,7 @@ date: 2020-09-03 08:36:59
 image: 'https://m.media-amazon.com/images/I/416eg5e02+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R19HN7C-es Regleta Inteligente WiFi Smart Power Stripcon 4 Zócalos y...'
 sku: 'B07R19HN7C-es'
 tags: [ 'alexa','ifttt', ]

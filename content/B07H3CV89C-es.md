@@ -5,7 +5,7 @@ date: 2020-06-16 07:53:32
 image: 'https://m.media-amazon.com/images/I/41pRfF0UKXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3CV89C-es Echo Plus 2.ª generación tela de color gris oscuro +...'
 sku: 'B07H3CV89C-es'
 tags: [ 'hue','philips', ]

@@ -5,7 +5,7 @@ date: 2020-08-22 16:59:56
 image: 'https://m.media-amazon.com/images/I/41wB3YOcYhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YKFHH8J-es LVWIT Bombillas LED Golf E14 RGB Inteligente WiFi 5W 470...'
 sku: 'B07YKFHH8J-es'
 tags: [ 'alexa','google','home', ]

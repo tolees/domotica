@@ -5,7 +5,7 @@ date: 2020-05-22 18:42:09
 image: 'https://m.media-amazon.com/images/I/31J2v65Q7+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1K6SGQ-es Ecovacs Deebot OZMO 900 - Robot Aspirador 4 en 1: barre...'
 sku: 'B07N1K6SGQ-es'
 tags: [ 'alexa', ]

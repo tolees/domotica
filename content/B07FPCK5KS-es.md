@@ -5,7 +5,7 @@ date: 2020-05-30 05:24:59
 image: 'https://m.media-amazon.com/images/I/417olVJQIQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPCK5KS-es HENMI 10 A Interruptor WiFi DIY Módulo de Interruptor...'
 sku: 'B07FPCK5KS-es'
 tags: [ 'alexa','google','home', ]

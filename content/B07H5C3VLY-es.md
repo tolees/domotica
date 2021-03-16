@@ -5,7 +5,7 @@ date: 2020-05-18 12:42:10
 image: 'https://m.media-amazon.com/images/I/41JoLfISKgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5C3VLY-es Jabra Elite Active 65t - Auriculares inalámbricos para...'
 sku: 'B07H5C3VLY-es'
 tags: [ 'alexa', ]

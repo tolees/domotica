@@ -5,7 +5,7 @@ date: 2020-06-09 10:20:23
 image: 'https://m.media-amazon.com/images/I/41kqAnCgPWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPKV73M-es Philips Hue Pack de 2 Bombillas Inteligentes LED GU10 con...'
 sku: 'B07SPKV73M-es'
 tags: [ 'alexa','google','home','hue','philips', ]

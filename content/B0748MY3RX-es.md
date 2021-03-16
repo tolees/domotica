@@ -5,7 +5,7 @@ date: 2020-06-13 14:43:04
 image: 'https://m.media-amazon.com/images/I/31mJNLjG93L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0748MY3RX-es Philips Hue Kit 3 Bombillas Inteligentes LED E27 con...'
 sku: 'B0748MY3RX-es'
 tags: [ 'alexa','google','home','hue','philips', ]

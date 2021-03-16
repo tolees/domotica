@@ -5,7 +5,7 @@ date: 2020-02-29 21:35:21
 image: 'https://m.media-amazon.com/images/I/41FgprGcvjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWR3LC4-es Netvue Cámaras de Vigilancia WiFi Interior Full HD 1080P...'
 sku: 'B07VWR3LC4-es'
 tags: [ 'alexa', ]

@@ -5,7 +5,7 @@ date: 2020-07-09 17:02:14
 image: 'https://m.media-amazon.com/images/I/41UaXVMbybL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0833MW3DS-es Bombilla Inteligente E27 WIFI de 8W LED Compatible con...'
 sku: 'B0833MW3DS-es'
 tags: [ 'alexa','google','home', ]

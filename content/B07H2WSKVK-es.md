@@ -5,7 +5,7 @@ date: 2020-06-16 12:53:00
 image: 'https://m.media-amazon.com/images/I/41OAohc78IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2WSKVK-es Echo Plus 2.ª generación tela de color antracita + Philips...'
 sku: 'B07H2WSKVK-es'
 tags: [ 'hue','philips', ]

@@ -5,7 +5,7 @@ date: 2020-01-31 23:05:07
 image: 'https://m.media-amazon.com/images/I/41aAY-O-AvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTH5TMW-es SwitchBot Hub Mini - Control inteligente infrarrojo enlace...'
 sku: 'B07TTH5TMW-es'
 tags: [ 'alexa','google','home','ifttt', ]

@@ -5,7 +5,7 @@ date: 2020-02-28 15:12:41
 image: 'https://m.media-amazon.com/images/I/31z9X-+Zg5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X7V6XJ5-es Wifi Bombillas LED E27 Inteligente Regulable de blanco de...'
 sku: 'B07X7V6XJ5-es'
 tags: [ 'alexa','google','home', ]

@@ -5,7 +5,7 @@ date: 2020-05-15 07:30:59
 image: 'https://m.media-amazon.com/images/I/41FBbrc84WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LM64KT-es ACEMATE Bombilla inteligente LED 2.4G WiFi Regulable...'
 sku: 'B085LM64KT-es'
 tags: [ 'alexa','google','home','ifttt', ]

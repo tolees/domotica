@@ -5,7 +5,7 @@ date: 2020-06-20 10:19:12
 image: 'https://m.media-amazon.com/images/I/31u9EkMi4CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0848P3KJL-es 7hSevenOn Home Enchufe Inteligente WiFi con USB Control...'
 sku: 'B0848P3KJL-es'
 tags: [ 'enchufe','inteligente', ]

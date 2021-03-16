@@ -5,7 +5,7 @@ date: 2020-10-11 08:07:05
 image: 'https://m.media-amazon.com/images/I/41+7zsdZK3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08KH6Y89D-es Echo Show 5: mantén el contacto con la ayuda de Alexa...'
 sku: 'B08KH6Y89D-es'
 tags: [ 'alexa', ]

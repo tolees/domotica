@@ -5,7 +5,7 @@ date: 2020-07-20 05:39:15
 image: 'https://m.media-amazon.com/images/I/41SXZoOutML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P64LFFH-es Amazon Echo 3.ª generación - Altavoz inteligente con Alexa...'
 sku: 'B07P64LFFH-es'
 tags: [ 'alexa','amazon','echo', ]

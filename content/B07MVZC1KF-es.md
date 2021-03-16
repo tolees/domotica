@@ -5,7 +5,7 @@ date: 2020-04-16 18:52:30
 image: 'https://m.media-amazon.com/images/I/31HOZpGUFvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVZC1KF-es LoraTap Interruptor Persianas WiFi Interruptor Táctil de...'
 sku: 'B07MVZC1KF-es'
 tags: [ 'alexa', ]

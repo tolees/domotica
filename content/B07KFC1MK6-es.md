@@ -5,7 +5,7 @@ date: 2020-05-17 16:48:48
 image: 'https://m.media-amazon.com/images/I/41Nw-OzWkPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFC1MK6-es MustWin - Bombillas LED regulables B22 bayoneta de...'
 sku: 'B07KFC1MK6-es'
 tags: [ 'alexa','google','home','ifttt', ]

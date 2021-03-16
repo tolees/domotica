@@ -5,7 +5,7 @@ date: 2020-06-14 23:46:41
 image: 'https://m.media-amazon.com/images/I/51CaoywDgkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBZXCNF-es YISSVIC WIFI Tira LED Tiras de LED Inteligente 5m 5050RGB...'
 sku: 'B07WBZXCNF-es'
 tags: [ 'alexa','google','home','ifttt', ]

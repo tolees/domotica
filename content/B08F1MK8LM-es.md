@@ -5,7 +5,7 @@ date: 2020-09-17 19:57:22
 image: 'https://m.media-amazon.com/images/I/31gIq62mdoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F1MK8LM-es Lámpara de techo WiFi compatible con Amazon Alexa y Google...'
 sku: 'B08F1MK8LM-es'
 tags: [ 'alexa','google','home', ]

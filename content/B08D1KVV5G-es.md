@@ -5,7 +5,7 @@ date: 2020-08-11 10:28:45
 image: 'https://m.media-amazon.com/images/I/31sTY17fJIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D1KVV5G-es Echo Dot 3.ª generación - Altavoz inteligente con reloj y...'
 sku: 'B08D1KVV5G-es'
 tags: [ 'alexa','enchufe','inteligente', ]

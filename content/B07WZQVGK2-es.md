@@ -5,7 +5,7 @@ date: 2020-03-28 18:32:19
 image: 'https://m.media-amazon.com/images/I/51+aFlQfuqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZQVGK2-es Hydream Funda de Silicona para Fire TV Stick 4K Control...'
 sku: 'B07WZQVGK2-es'
 tags: [ 'alexa', ]

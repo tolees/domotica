@@ -5,7 +5,7 @@ date: 2020-06-14 17:13:54
 image: 'https://m.media-amazon.com/images/I/21Dfkui5rLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T8BHRBX-es Yamaha YAS-209 Barra de Sonido con Alexa Integrada Negro'
 sku: 'B07T8BHRBX-es'
 tags: [ 'alexa', ]

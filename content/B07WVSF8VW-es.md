@@ -5,7 +5,7 @@ date: 2020-05-07 22:03:39
 image: 'https://m.media-amazon.com/images/I/31CmojgMUHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVSF8VW-es Sonos Move - Altavoz Inteligente con Alexa integrada...'
 sku: 'B07WVSF8VW-es'
 tags: [ 'alexa', ]

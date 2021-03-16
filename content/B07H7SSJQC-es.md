@@ -5,7 +5,7 @@ date: 2020-02-07 08:03:58
 image: 'https://m.media-amazon.com/images/I/317ZSMrXu6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7SSJQC-es Ring Stick Up Cam Elite - Cámara de seguridad HD...'
 sku: 'B07H7SSJQC-es'
 tags: [ 'alexa', ]

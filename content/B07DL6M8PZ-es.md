@@ -5,7 +5,7 @@ date: 2020-02-28 13:31:32
 image: 'https://m.media-amazon.com/images/I/31aQhnf23TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DL6M8PZ-es SwitchBot Hub Plus - Mando a distancia inteligente IR para...'
 sku: 'B07DL6M8PZ-es'
 tags: [ 'alexa','google','home','ifttt', ]

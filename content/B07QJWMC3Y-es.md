@@ -5,7 +5,7 @@ date: 2020-03-02 08:43:15
 image: 'https://m.media-amazon.com/images/I/4113B1QseAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJWMC3Y-es Enchufe inteligente wifi，SOONAN Interruptor Control Remoto...'
 sku: 'B07QJWMC3Y-es'
 tags: [ 'alexa','enchufe','ifttt','inteligente', ]

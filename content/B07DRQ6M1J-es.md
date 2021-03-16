@@ -5,7 +5,7 @@ date: 2020-02-22 18:16:41
 image: 'https://m.media-amazon.com/images/I/31-Gk0PSfKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRQ6M1J-es Enchufe Inteligente Wifi AISIRER Monitor de Energía...'
 sku: 'B07DRQ6M1J-es'
 tags: [ 'alexa','enchufe','google','home','ifttt','inteligente', ]

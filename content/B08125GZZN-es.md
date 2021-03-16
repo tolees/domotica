@@ -5,7 +5,7 @@ date: 2020-06-10 22:16:57
 image: 'https://m.media-amazon.com/images/I/31A5ydPJwBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08125GZZN-es Echo Flex + Philips Hue White & Color Ambiance Pack de 2...'
 sku: 'B08125GZZN-es'
 tags: [ 'hue','philips', ]

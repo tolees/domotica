@@ -5,7 +5,7 @@ date: 2020-06-11 14:10:13
 image: 'https://m.media-amazon.com/images/I/31Q5yKNOlIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0148NMVJW-es Philips Hue Lightstrip Plus Tira Inteligente LED 1m...'
 sku: 'B0148NMVJW-es'
 tags: [ 'alexa','google','home','hue','philips', ]

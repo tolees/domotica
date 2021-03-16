@@ -5,7 +5,7 @@ date: 2020-01-11 10:10:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21n91GZo3WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G8FWQSN-es Bose - Barra de sonido 500 con Alexa integrada Bluetooth y...'
 sku: 'B07G8FWQSN-es'
 tags: [ 'alexa', ]

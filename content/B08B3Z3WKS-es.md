@@ -5,7 +5,7 @@ date: 2020-07-29 10:02:24
 image: 'https://m.media-amazon.com/images/I/410KwQT3dAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3Z3WKS-es 2P 63-90A Interruptor de circuito DIN WIFI Interruptor de...'
 sku: 'B08B3Z3WKS-es'
 tags: [ 'alexa', ]

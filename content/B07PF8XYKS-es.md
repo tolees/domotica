@@ -5,7 +5,7 @@ date: 2020-04-15 08:17:12
 image: 'https://m.media-amazon.com/images/I/41vrsc3EMOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PF8XYKS-es Enchufe Smart Zoozee Wi-Fi Enchufe Inteligente 16A...'
 sku: 'B07PF8XYKS-es'
 tags: [ 'alexa','enchufe','google','home','inteligente', ]

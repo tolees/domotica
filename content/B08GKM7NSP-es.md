@@ -5,7 +5,7 @@ date: 2020-09-12 21:32:22
 image: 'https://m.media-amazon.com/images/I/41lPG0jDo4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GKM7NSP-es Bombilla LED Inteligente WiFi Regulable 12W E27 Bombilla...'
 sku: 'B08GKM7NSP-es'
 tags: [ 'alexa','google','home','ifttt', ]

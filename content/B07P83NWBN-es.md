@@ -5,7 +5,7 @@ date: 2020-01-15 16:06:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3108HB-bh0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P83NWBN-es Yale SV-DAFX-W EU-Cámara All-in-1 para Interior y Exterior...'
 sku: 'B07P83NWBN-es'
 tags: [ 'alexa', ]

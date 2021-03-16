@@ -5,7 +5,7 @@ date: 2020-08-18 08:32:13
 image: 'https://m.media-amazon.com/images/I/4138T5+sefL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J8TGO18-es Bombilla Inteligente Anoopsyche Wifi LED Bombillas 9W...'
 sku: 'B00J8TGO18-es'
 tags: [ 'alexa','google','home', ]

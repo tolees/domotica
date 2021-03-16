@@ -5,7 +5,7 @@ date: 2020-05-23 13:05:36
 image: 'https://m.media-amazon.com/images/I/31UTsAvRT7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMYTDC8-es ETEKCITY ESW01-EU Enchufe WiFi Inteligente para Alexa...'
 sku: 'B07FMYTDC8-es'
 tags: [ 'alexa','google','home','ifttt', ]

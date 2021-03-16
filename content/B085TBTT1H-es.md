@@ -5,7 +5,7 @@ date: 2020-09-06 06:16:27
 image: 'https://m.media-amazon.com/images/I/41eIw8x2nYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TBTT1H-es Bombilla Inteligente LED WiFi Aogled E27 LED 9W Regulable...'
 sku: 'B085TBTT1H-es'
 tags: [ 'alexa','google','home', ]

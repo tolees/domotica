@@ -5,7 +5,7 @@ date: 2020-06-10 19:40:26
 image: 'https://m.media-amazon.com/images/I/41UeZ5RuHDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTVKPZH-es Cecotec Robot Aspirador Conga Serie 1690 Pro. 2700 Pa...'
 sku: 'B07WTVKPZH-es'
 tags: [ 'alexa','google','home', ]

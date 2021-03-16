@@ -5,7 +5,7 @@ date: 2020-08-04 15:28:12
 image: 'https://m.media-amazon.com/images/I/410SJ2YnfFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1QK2X3-es NETVUE Camaras de Vigilancia WiFi Exterior 1080P Visión...'
 sku: 'B07Z1QK2X3-es'
 tags: [ 'alexa', ]

@@ -5,7 +5,7 @@ date: 2020-07-16 07:04:53
 image: 'https://m.media-amazon.com/images/I/31dOf-UHTEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL9Q48H-es Enchufe Inteligente WiFi Lunvon Toma de Interruptor Remoto...'
 sku: 'B07XL9Q48H-es'
 tags: [ 'enchufe','google','home','inteligente', ]

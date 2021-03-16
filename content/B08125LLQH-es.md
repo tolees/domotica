@@ -5,7 +5,7 @@ date: 2020-10-08 21:14:35
 image: 'https://m.media-amazon.com/images/I/41j+pL3U+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08125LLQH-es Echo Show 5 blanco + Philips Hue White & Color Ambiance...'
 sku: 'B08125LLQH-es'
 tags: [ 'hue','philips', ]

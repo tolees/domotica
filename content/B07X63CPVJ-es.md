@@ -5,7 +5,7 @@ date: 2020-03-11 11:48:04
 image: 'https://m.media-amazon.com/images/I/41VgRUeOA7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X63CPVJ-es Amazon Fire TV Stick con mando por voz Alexa + Echo Dot...'
 sku: 'B07X63CPVJ-es'
 tags: [ 'alexa', ]

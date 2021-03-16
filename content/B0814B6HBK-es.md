@@ -5,7 +5,7 @@ date: 2020-01-15 14:08:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41A0LJ%2BlS7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814B6HBK-es Echo Show 5 negro + EZVIZ ezTube 1080p Cámara de Seguridad...'
 sku: 'B0814B6HBK-es'
 tags: [ 'alexa', ]

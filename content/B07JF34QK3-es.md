@@ -5,7 +5,7 @@ date: 2020-06-22 19:31:28
 image: 'https://m.media-amazon.com/images/I/41AEh3ErjXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JF34QK3-es KIWI design Batería Compatible con Home Mini de Google...'
 sku: 'B07JF34QK3-es'
 tags: [ 'google','home', ]

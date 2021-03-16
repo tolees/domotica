@@ -5,7 +5,7 @@ date: 2020-08-10 15:49:02
 image: 'https://m.media-amazon.com/images/I/41aRVyDN9zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY1PWLP-es Philips Hue Play Barra de luz regulable compatible con...'
 sku: 'B07FY1PWLP-es'
 tags: [ 'alexa','google','home','hue','philips', ]

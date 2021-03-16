@@ -5,7 +5,7 @@ date: 2020-06-19 18:03:41
 image: 'https://m.media-amazon.com/images/I/31xcLePrqML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7QKY6Y-es Zyxel Multy U sistema de malla WiFi AC2100 triple banda...'
 sku: 'B07P7QKY6Y-es'
 tags: [ 'alexa', ]

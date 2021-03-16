@@ -5,7 +5,7 @@ date: 2019-12-31 17:47:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OyyqRTHvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SS37Y3J-es Philips Hue White Ambiance bombilla LED inteligente E27...'
 sku: 'B07SS37Y3J-es'
 tags: [ 'alexa','google','home','hue','philips', ]

@@ -5,7 +5,7 @@ date: 2020-10-02 18:01:22
 image: 'https://m.media-amazon.com/images/I/3197H3SGRCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RVBZCW1-es Interruptor regulador de intensidad de luz inteligente 2 4...'
 sku: 'B07RVBZCW1-es'
 tags: [ 'alexa', ]

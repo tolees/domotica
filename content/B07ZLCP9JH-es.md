@@ -5,7 +5,7 @@ date: 2020-02-06 17:35:39
 image: 'https://m.media-amazon.com/images/I/31zucn+VabL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZLCP9JH-es Echo Dot 3.ª generación - Altavoz inteligente con Alexa...'
 sku: 'B07ZLCP9JH-es'
 tags: [ 'alexa', ]

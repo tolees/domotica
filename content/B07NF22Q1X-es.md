@@ -5,7 +5,7 @@ date: 2020-06-01 11:49:16
 image: 'https://m.media-amazon.com/images/I/41ROyk9aAzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NF22Q1X-es Base de batería para Amazon Echo Dot 3ª generación -...'
 sku: 'B07NF22Q1X-es'
 tags: [ 'amazon','echo', ]

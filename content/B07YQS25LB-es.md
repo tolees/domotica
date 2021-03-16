@@ -5,7 +5,7 @@ date: 2020-06-08 09:23:53
 image: 'https://m.media-amazon.com/images/I/31b5CKjnMcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQS25LB-es Enchufe Inteligente WiFi Koogeek Mini Smart Plug Control...'
 sku: 'B07YQS25LB-es'
 tags: [ 'enchufe','inteligente', ]

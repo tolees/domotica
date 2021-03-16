@@ -5,7 +5,7 @@ date: 2020-07-21 13:50:41
 image: 'https://m.media-amazon.com/images/I/41PSxSaIyrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08125HQJV-es Amazon Echo 3.ª generación tela de color gris oscuro +...'
 sku: 'B08125HQJV-es'
 tags: [ 'amazon','echo','hue','philips', ]

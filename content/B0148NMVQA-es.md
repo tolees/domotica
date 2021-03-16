@@ -5,7 +5,7 @@ date: 2020-02-12 14:58:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tGsvWXMQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0148NMVQA-es Philips Hue White and Color Ambiance - Lightstrip Plus...'
 sku: 'B0148NMVQA-es'
 tags: [ 'alexa','hue','philips', ]

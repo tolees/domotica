@@ -5,7 +5,7 @@ date: 2020-09-28 18:11:07
 image: 'https://m.media-amazon.com/images/I/41T900Ito1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRY13QN-es Philips Hue Pack de 3 Bombillas Inteligentes LED E27 con...'
 sku: 'B07SRY13QN-es'
 tags: [ 'alexa','google','home','hue','philips', ]

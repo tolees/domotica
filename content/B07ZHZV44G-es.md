@@ -5,7 +5,7 @@ date: 2020-09-26 11:12:25
 image: 'https://m.media-amazon.com/images/I/416lEu3S23L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHZV44G-es VOCOlinc Smart Home Bombilla LED L3 Regulable + Toma...'
 sku: 'B07ZHZV44G-es'
 tags: [ 'alexa', ]

@@ -5,7 +5,7 @@ date: 2020-05-27 17:17:56
 image: 'https://m.media-amazon.com/images/I/31Sbqgt6-wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013PUUKYW-es Gigaset S30851-H2519-R101 - Enchufe inteligente...'
 sku: 'B013PUUKYW-es'
 tags: [ 'enchufe','inteligente', ]

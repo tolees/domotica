@@ -5,7 +5,7 @@ date: 2020-03-26 19:46:18
 image: 'https://m.media-amazon.com/images/I/31ufcYAV7SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSMJ93P-es Camara Vigilancia Cámara de Seguridad WiFi 1080p Cámara de...'
 sku: 'B07PSMJ93P-es'
 tags: [ 'alexa', ]

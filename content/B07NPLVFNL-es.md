@@ -5,7 +5,7 @@ date: 2020-02-27 21:32:17
 image: 'https://m.media-amazon.com/images/I/31L8SOW3QXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPLVFNL-es Jabra Elite Active 45E Auriculares Deportivos Inalámbricos...'
 sku: 'B07NPLVFNL-es'
 tags: [ 'alexa', ]

@@ -5,7 +5,7 @@ date: 2020-02-25 10:34:09
 image: 'https://m.media-amazon.com/images/I/31dS9Gi82nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781V9FLS-es EZVIZ 720P FHD IP Cámara de Seguridad y Vigilancia 2.4 GHz...'
 sku: 'B0781V9FLS-es'
 tags: [ 'alexa','google','home','ifttt', ]

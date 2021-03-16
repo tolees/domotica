@@ -5,7 +5,7 @@ date: 2020-01-08 13:09:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41a-vKu%2BojL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMT4GF1-es Bombilla LED WiFi Inteligente 9W 900lm Lámpara Funciona...'
 sku: 'B07SMT4GF1-es'
 tags: [ 'alexa','google','home','ifttt', ]

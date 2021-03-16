@@ -5,7 +5,7 @@ date: 2020-02-09 11:40:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WqCpfiZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792MHLM4-es Echo Dot 3.ª generación - Altavoz inteligente con Alexa...'
 sku: 'B0792MHLM4-es'
 tags: [ 'alexa', ]

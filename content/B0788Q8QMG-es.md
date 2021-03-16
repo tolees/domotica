@@ -5,7 +5,7 @@ date: 2020-07-20 20:29:27
 image: 'https://m.media-amazon.com/images/I/318ev0NRRNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788Q8QMG-es singhong WiFi inteligentes RGBW bombilla LED Control de...'
 sku: 'B0788Q8QMG-es'
 tags: [ 'alexa', ]

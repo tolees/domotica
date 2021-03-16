@@ -5,7 +5,7 @@ date: 2020-02-24 17:04:33
 image: 'https://m.media-amazon.com/images/I/41X43HCMpGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDW69MF-es Funda de Silicona para Fire TV Stick 4K Control Remoto...'
 sku: 'B07QDW69MF-es'
 tags: [ 'alexa', ]

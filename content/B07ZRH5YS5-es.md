@@ -5,7 +5,7 @@ date: 2020-04-03 14:02:31
 image: 'https://m.media-amazon.com/images/I/315a2VA0vRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRH5YS5-es Bombilla Inteligente E14 WIFI de 9W LED Compatible con...'
 sku: 'B07ZRH5YS5-es'
 tags: [ 'alexa','google','home', ]

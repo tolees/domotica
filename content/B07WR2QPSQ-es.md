@@ -5,7 +5,7 @@ date: 2020-05-06 13:04:26
 image: 'https://m.media-amazon.com/images/I/41rfZ1vVZdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WR2QPSQ-es TENDOMI Humidificador Bebé Humidificador WiFi Inteligente...'
 sku: 'B07WR2QPSQ-es'
 tags: [ 'alexa','google','home', ]

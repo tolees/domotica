@@ -5,7 +5,7 @@ date: 2020-01-02 11:04:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316A7eurfGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08125LLPZ-es Echo Flex + Philips Hue White Pack de 2 bombillas LED...'
 sku: 'B08125LLPZ-es'
 tags: [ 'hue','philips', ]

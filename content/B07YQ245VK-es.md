@@ -5,7 +5,7 @@ date: 2020-07-23 19:02:47
 image: 'https://m.media-amazon.com/images/I/315joQLRtdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQ245VK-es TopHGC Enchufe WiFi Inteligente Panel de Toma de Corriente...'
 sku: 'B07YQ245VK-es'
 tags: [ 'alexa','google','home', ]

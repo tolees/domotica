@@ -5,7 +5,7 @@ date: 2020-01-20 10:14:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OGabIFtRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLS2V74-es Enchufe Inteligente Wifi REAFOO Mini Smart Plug...'
 sku: 'B07SLS2V74-es'
 tags: [ 'alexa','enchufe','inteligente', ]

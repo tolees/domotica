@@ -5,7 +5,7 @@ date: 2020-04-02 09:48:38
 image: 'https://m.media-amazon.com/images/I/51JfEIX+8kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FSCNODU-es Sonos Play: 1 - Altavoz Inteligente Compatible con...'
 sku: 'B00FSCNODU-es'
 tags: [ 'amazon','echo', ]

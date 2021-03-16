@@ -5,7 +5,7 @@ date: 2020-02-06 12:41:19
 image: 'https://m.media-amazon.com/images/I/41jBfhkEZUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFRCBMB-es NAPATEK Lámpara Escritorio LED Lámpara De Mesa Para El...'
 sku: 'B07YFRCBMB-es'
 tags: [ 'alexa', ]

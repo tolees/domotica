@@ -5,7 +5,7 @@ date: 2020-01-28 07:59:18
 image: 'https://m.media-amazon.com/images/I/4197D4rpmDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY1PV8K-es Philips Hue White bombilla LED inteligente GU10 luz blanca...'
 sku: 'B07FY1PV8K-es'
 tags: [ 'alexa','google','home','hue','philips', ]

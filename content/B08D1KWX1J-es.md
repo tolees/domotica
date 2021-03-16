@@ -5,7 +5,7 @@ date: 2020-08-05 22:06:51
 image: 'https://m.media-amazon.com/images/I/41D4sQfl-NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D1KWX1J-es Amazon Echo 3.ª generación Tela de color gris oscuro +...'
 sku: 'B08D1KWX1J-es'
 tags: [ 'alexa','amazon','echo','enchufe','inteligente', ]

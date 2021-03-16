@@ -5,7 +5,7 @@ date: 2020-03-02 21:15:37
 image: 'https://m.media-amazon.com/images/I/31PxsyDtZgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJ2CCVX-es meross Enchufe Inteligente Mide el Consumo 16A 3680W...'
 sku: 'B07HJ2CCVX-es'
 tags: [ 'alexa','enchufe','inteligente', ]

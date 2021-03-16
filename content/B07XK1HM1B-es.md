@@ -5,7 +5,7 @@ date: 2020-08-19 09:46:54
 image: 'https://m.media-amazon.com/images/I/41KPv+PpRTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XK1HM1B-es Enchufe Inteligente Wi-Fi Smart Plug 16A 3680W Mide el...'
 sku: 'B07XK1HM1B-es'
 tags: [ 'alexa','enchufe','inteligente', ]

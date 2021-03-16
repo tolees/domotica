@@ -5,7 +5,7 @@ date: 2020-02-25 13:30:53
 image: 'https://m.media-amazon.com/images/I/41RdvFnGPDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXNZL7B-es EZVIZ ezTube 720p Cámara de Seguridad WiFi Cámara de...'
 sku: 'B07BXNZL7B-es'
 tags: [ 'alexa', ]

@@ -5,7 +5,7 @@ date: 2020-08-04 20:24:16
 image: 'https://m.media-amazon.com/images/I/41qFa9KOa4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CR2MF9C-es Ornin Sense con altavoz inteligente con control de voz de...'
 sku: 'B07CR2MF9C-es'
 tags: [ 'alexa', ]

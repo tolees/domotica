@@ -5,7 +5,7 @@ date: 2020-05-05 09:59:40
 image: 'https://m.media-amazon.com/images/I/31bV-LAp4NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1D7JVV-es Enchufe Inteligente WiFi Mide el Consumo 16A 3680W...'
 sku: 'B07Y1D7JVV-es'
 tags: [ 'alexa','enchufe','inteligente', ]

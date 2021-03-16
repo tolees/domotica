@@ -5,7 +5,7 @@ date: 2020-09-15 17:42:09
 image: 'https://m.media-amazon.com/images/I/51XhicAsRxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZF8FWC3-es 10M Luces de Tiras LED WiFi TASMOR Tira de LED RGB...'
 sku: 'B07ZF8FWC3-es'
 tags: [ 'alexa','google','home', ]

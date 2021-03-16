@@ -5,7 +5,7 @@ date: 2020-06-06 19:45:57
 image: 'https://m.media-amazon.com/images/I/41dNePheEpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1X6MWW-es NEATSVOR X500 Robot Aspirador 4 en 1 Control por App y...'
 sku: 'B07W1X6MWW-es'
 tags: [ 'alexa', ]

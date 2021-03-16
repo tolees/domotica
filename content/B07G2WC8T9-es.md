@@ -5,7 +5,7 @@ date: 2020-02-05 18:46:10
 image: 'https://m.media-amazon.com/images/I/41Dkah+SE9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2WC8T9-es Bombilla WiFi Inteligente Smart LED WiFi Lámpara E27 7W...'
 sku: 'B07G2WC8T9-es'
 tags: [ 'alexa','google','home', ]

@@ -5,7 +5,7 @@ date: 2020-02-20 11:32:35
 image: 'https://m.media-amazon.com/images/I/31bMsANT32L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZWG7NQ-es Lámparas de Pie WIFI Wellwerks Lámpara de Salón...'
 sku: 'B07QZWG7NQ-es'
 tags: [ 'alexa', ]

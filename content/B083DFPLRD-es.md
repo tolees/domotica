@@ -5,7 +5,7 @@ date: 2020-08-28 15:32:09
 image: 'https://m.media-amazon.com/images/I/41AV-k52ZHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DFPLRD-es TopHGC Bombilla inteligente E14 WiFi 2PCS 6W Colores RGB...'
 sku: 'B083DFPLRD-es'
 tags: [ 'google','home', ]

@@ -5,7 +5,7 @@ date: 2020-08-21 16:41:36
 image: 'https://m.media-amazon.com/images/I/31TQEwRL1bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RX6ZXRW-es Enchufe inteligente con WiFi.'
 sku: 'B07RX6ZXRW-es'
 tags: [ 'enchufe','inteligente', ]

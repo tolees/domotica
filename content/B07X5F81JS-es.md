@@ -5,7 +5,7 @@ date: 2020-05-10 08:07:19
 image: 'https://m.media-amazon.com/images/I/3157Y7r-FvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5F81JS-es Bose 700 - Auriculares con cancelación de Ruido con Alexa...'
 sku: 'B07X5F81JS-es'
 tags: [ 'alexa', ]

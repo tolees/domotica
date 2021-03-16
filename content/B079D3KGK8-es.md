@@ -5,7 +5,7 @@ date: 2020-09-09 09:03:23
 image: 'https://m.media-amazon.com/images/I/41MkUWuqp1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079D3KGK8-es EZVIZ EZ360 720P Cámara de Seguridad Pan/Tilt Wi-Fi con...'
 sku: 'B079D3KGK8-es'
 tags: [ 'alexa','google','home','ifttt', ]

@@ -5,7 +5,7 @@ date: 2020-09-13 12:45:44
 image: 'https://m.media-amazon.com/images/I/31AvpRu9q-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0886KFKCY-es Enchufe de pared inteligente 15A con 2 USB Wifi Si Smart...'
 sku: 'B0886KFKCY-es'
 tags: [ 'alexa','google','home', ]
