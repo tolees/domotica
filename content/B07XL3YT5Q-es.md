@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XL3YT5Q-es ECOOLBUY WiFi Inteligente Bajo Techo en Exteriores...'
 sku: 'B07XL3YT5Q-es'
-tags: [ 'alexa','google','home','ifttt', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','google','home','ifttt', ]
 actualPrice: 25.91 EUR
 currency: EUR
 price: 25.91

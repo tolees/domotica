@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RL1N7MX-es Edison LED Bombilla Alexa-Lumary WiFi Bombilla E27 Edison...'
 sku: 'B07RL1N7MX-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZZ78G-es Inalámbrico Smart Portalámpara con WIFI para E27 iHaper...'
 sku: 'B07LFZZ78G-es'
-tags: [ 'alexa','google','home', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

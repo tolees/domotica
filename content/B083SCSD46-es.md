@@ -28,15 +28,15 @@ Está [Samsung QLED 2020 65Q80T - Smart TV de 65" 4K UHD  Direct Full Array HDR 
 
 ℹ️:
 
-- Ots (object tracking sound) gracias a sus 6 altavoces y la inteligencia artificial, el sonido se reproduce solo en el lugar exacto donde ocurre la acción
-- Direct full array hdr 1500 con un brillo de hasta 1500 nits, qled controla la iluminación trasera analizando escena por escena y mejora el contraste añadiendo profundidad en los detalles
+- Wide viewing angle la calidad de imagen e intensidad de los colores se mantienen independientemente del lugar donde estés sentado
+- Smart tv con tizen y guía universal descubre una amplia plataforma de contenidos y accede fácilmente a ellos de forma personalizada
+- One remote control accede a todas las aplicaciones de tu smart tv, decodificador o consola desde un solo mando
+- Hdr 10+ la tecnología hdr crea negros más profundos y potencía el nivel de detalle de cada escena
 - Inteligencia artifical 4k samsung aplica tecnología de inteligencia artificial para transformar y mejorar la calidad de sonido e imagen, independientemente de la fuente de origen
+- Direct full array hdr 1500 con un brillo de hasta 1500 nits, qled controla la iluminación trasera analizando escena por escena y mejora el contraste añadiendo profundidad en los detalles
 - Qled tv con quantum dot tecnología inorgánica que reproduce el 100% del volumen de color con cualquier nivel de brillo con Alexa integrada
 - Active voice amplifier (ava) el televisor ajusta el volumen y claridad de los diálogos cuando detecta un ruido constante a su alrededor
-- Smart tv con tizen y guía universal descubre una amplia plataforma de contenidos y accede fácilmente a ellos de forma personalizada
-- Hdr 10+ la tecnología hdr crea negros más profundos y potencía el nivel de detalle de cada escena
 - Asistentes de voz: accede a tu contenido favorito a través de los asistentes de voz, como alexa, ahora integrados en el propio televisor. Puedes hablar con Alexa y controlar tu tele. Con Alexa, puedes reproducir música, escuchar noticias, conocer la previsión del tiempo, controlar dispositivos de Hogar digital y más.
-- One remote control accede a todas las aplicaciones de tu smart tv, decodificador o consola desde un solo mando
-- Wide viewing angle la calidad de imagen e intensidad de los colores se mantienen independientemente del lugar donde estés sentado
+- Ots (object tracking sound) gracias a sus 6 altavoces y la inteligencia artificial, el sonido se reproduce solo en el lugar exacto donde ocurre la acción
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083SCSD46/?tag=tolees-21)

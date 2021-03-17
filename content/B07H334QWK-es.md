@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H334QWK-es Echo Plus 2.ª generación tela de color gris claro +...'
 sku: 'B07H334QWK-es'
-tags: [ 'hue','philips', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','hue','philips', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

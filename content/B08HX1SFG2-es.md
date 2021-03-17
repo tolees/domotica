@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HX1SFG2-es Tiras LED Alexa WiFi 5M Tira LED RGB Inteligente con...'
 sku: 'B08HX1SFG2-es'
-tags: [ 'alexa','google','home', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5YN8Y6-es Echo Plus 2.ª generación tela de color gris oscuro +...'
 sku: 'B08B5YN8Y6-es'
-tags: [ 'hue','philips', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','hue','philips', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

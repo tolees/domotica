@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7SSJQC-es Ring Stick Up Cam Elite - Cámara de seguridad HD...'
 sku: 'B07H7SSJQC-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

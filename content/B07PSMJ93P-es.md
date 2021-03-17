@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSMJ93P-es Camara Vigilancia Cámara de Seguridad WiFi 1080p Cámara de...'
 sku: 'B07PSMJ93P-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

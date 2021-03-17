@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0833MW3DS-es Bombilla Inteligente E27 WIFI de 8W LED Compatible con...'
 sku: 'B0833MW3DS-es'
-tags: [ 'alexa','google','home', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

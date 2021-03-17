@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J8TGO18-es Bombilla Inteligente Anoopsyche Wifi LED Bombillas 9W...'
 sku: 'B00J8TGO18-es'
-tags: [ 'alexa','google','home', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

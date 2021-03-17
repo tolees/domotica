@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797WGVWW-es Philips Hue Kit 2 Bombillas Inteligentes LED E27 9.5 W y...'
 sku: 'B0797WGVWW-es'
-tags: [ 'hue','philips', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','hue','philips', ]
 actualPrice: 107.35 EUR
 currency: EUR
 price: 107.35

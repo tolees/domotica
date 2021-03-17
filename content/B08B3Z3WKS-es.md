@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3Z3WKS-es 2P 63-90A Interruptor de circuito DIN WIFI Interruptor de...'
 sku: 'B08B3Z3WKS-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

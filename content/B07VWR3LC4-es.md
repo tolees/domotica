@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWR3LC4-es Netvue Cámaras de Vigilancia WiFi Interior Full HD 1080P...'
 sku: 'B07VWR3LC4-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

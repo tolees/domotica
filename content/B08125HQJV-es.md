@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08125HQJV-es Amazon Echo 3.ª generación tela de color gris oscuro +...'
 sku: 'B08125HQJV-es'
-tags: [ 'amazon','echo','hue','philips', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','amazon','echo','hue','philips', ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

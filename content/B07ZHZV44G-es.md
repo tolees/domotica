@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZHZV44G-es VOCOlinc Smart Home Bombilla LED L3 Regulable + Toma...'
 sku: 'B07ZHZV44G-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 37.1 EUR
 currency: EUR
 price: 37.1

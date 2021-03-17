@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QH3KFJJ-es LG Magic Control AN-MR19BA - Mando a distancia añade...'
 sku: 'B07QH3KFJJ-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 24.87 EUR
 currency: EUR
 price: 24.87

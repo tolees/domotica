@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPLVFNL-es Jabra Elite Active 45E Auriculares Deportivos Inalámbricos...'
 sku: 'B07NPLVFNL-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 82.52 EUR
 currency: EUR
 price: 82.52

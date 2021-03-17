@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVSF8VW-es Sonos Move - Altavoz Inteligente con Alexa integrada...'
 sku: 'B07WVSF8VW-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 319.2 EUR
 currency: EUR
 price: 319.2

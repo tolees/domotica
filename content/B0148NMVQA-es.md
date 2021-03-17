@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0148NMVQA-es Philips Hue White and Color Ambiance - Lightstrip Plus...'
 sku: 'B0148NMVQA-es'
-tags: [ 'alexa','hue','philips', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','hue','philips', ]
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

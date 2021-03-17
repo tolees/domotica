@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08125GZZN-es Echo Flex + Philips Hue White & Color Ambiance Pack de 2...'
 sku: 'B08125GZZN-es'
-tags: [ 'hue','philips', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','hue','philips', ]
 actualPrice: 88.98 EUR
 currency: EUR
 price: 88.98

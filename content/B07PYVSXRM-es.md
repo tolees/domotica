@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYVSXRM-es Cámara de seguridad al aire libre Panamalar Smart 1080p...'
 sku: 'B07PYVSXRM-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 62.27 EUR
 currency: EUR
 price: 62.27

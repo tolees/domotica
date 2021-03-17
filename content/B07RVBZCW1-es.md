@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RVBZCW1-es Interruptor regulador de intensidad de luz inteligente 2 4...'
 sku: 'B07RVBZCW1-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XL9Q48H-es Enchufe Inteligente WiFi Lunvon Toma de Interruptor Remoto...'
 sku: 'B07XL9Q48H-es'
-tags: [ 'enchufe','google','home','inteligente', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','enchufe','google','home','inteligente', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

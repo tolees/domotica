@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5C3VLY-es Jabra Elite Active 65t - Auriculares inalámbricos para...'
 sku: 'B07H5C3VLY-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079D8Y2VW-es Enchufe Inteligente Mide el Consumo 16A 3680W Wi-Fi Smart...'
 sku: 'B079D8Y2VW-es'
-tags: [ 'alexa','enchufe','inteligente', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','enchufe','inteligente', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

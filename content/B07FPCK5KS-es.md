@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPCK5KS-es HENMI 10 A Interruptor WiFi DIY Módulo de Interruptor...'
 sku: 'B07FPCK5KS-es'
-tags: [ 'alexa','google','home', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

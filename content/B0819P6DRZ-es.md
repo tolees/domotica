@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0819P6DRZ-es TENVIS Cámara Vigilancia IP WiFi - 1080P FHD Cámara...'
 sku: 'B0819P6DRZ-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

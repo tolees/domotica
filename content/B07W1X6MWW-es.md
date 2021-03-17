@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W1X6MWW-es NEATSVOR X500 Robot Aspirador 4 en 1 Control por App y...'
 sku: 'B07W1X6MWW-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 161.0 EUR
 currency: EUR
 price: 161.0

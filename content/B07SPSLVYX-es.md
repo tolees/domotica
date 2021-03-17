@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPSLVYX-es Tiras de LED REAFOO WiFi Tira LED impermeable 5M 5050...'
 sku: 'B07SPSLVYX-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

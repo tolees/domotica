@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HZVQ8DA-es Philips Hue Bloom Lámpara de Mesa Inteligente LED Luz...'
 sku: 'B00HZVQ8DA-es'
-tags: [ 'alexa','google','home','hue','philips', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','google','home','hue','philips', ]
 actualPrice: 56.98 EUR
 currency: EUR
 price: 56.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KH6YPP4-es Echo Show 5: mantén el contacto con la ayuda de Alexa...'
 sku: 'B08KH6YPP4-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 214.99 EUR
 currency: EUR
 price: 214.99

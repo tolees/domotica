@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CR2MF9C-es Ornin Sense con altavoz inteligente con control de voz de...'
 sku: 'B07CR2MF9C-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 35.78 EUR
 currency: EUR
 price: 35.78

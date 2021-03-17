@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RTSR3Q8-es koulate Bombillas WiFi Regulables RGBCW Cambio de Color...'
 sku: 'B07RTSR3Q8-es'
-tags: [ 'alexa','google','home', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

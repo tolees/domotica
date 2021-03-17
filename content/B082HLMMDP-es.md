@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HLMMDP-es proscenic Novedad de 2020 Robot Aspirador con Alexa...'
 sku: 'B082HLMMDP-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 179.25 EUR
 currency: EUR
 price: 179.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814B6HBK-es Echo Show 5 negro + EZVIZ ezTube 1080p Cámara de Seguridad...'
 sku: 'B0814B6HBK-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 144.75 EUR
 currency: EUR
 price: 144.75

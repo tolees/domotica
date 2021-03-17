@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTTWCK1-es Wenger/SwissGear Alexa 16 40 6 cm 16" Mochila Negro -...'
 sku: 'B01MTTWCK1-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

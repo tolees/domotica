@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079D3KGK8-es EZVIZ EZ360 720P Cámara de Seguridad Pan/Tilt Wi-Fi con...'
 sku: 'B079D3KGK8-es'
-tags: [ 'alexa','google','home','ifttt', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','google','home','ifttt', ]
 actualPrice: 22.31 EUR
 currency: EUR
 price: 22.31

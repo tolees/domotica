@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRXWFGF-es BLUEMYTH Robot Aspirador y Fregasuelos 3 en 1 Navegación...'
 sku: 'B07ZRXWFGF-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

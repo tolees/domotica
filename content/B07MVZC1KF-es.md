@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVZC1KF-es LoraTap Interruptor Persianas WiFi Interruptor Táctil de...'
 sku: 'B07MVZC1KF-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

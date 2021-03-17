@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DFPLRD-es TopHGC Bombilla inteligente E14 WiFi 2PCS 6W Colores RGB...'
 sku: 'B083DFPLRD-es'
-tags: [ 'google','home', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','google','home', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

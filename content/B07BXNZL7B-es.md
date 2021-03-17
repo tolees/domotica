@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BXNZL7B-es EZVIZ ezTube 720p Cámara de Seguridad WiFi Cámara de...'
 sku: 'B07BXNZL7B-es'
-tags: [ 'alexa', ]
+tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99
