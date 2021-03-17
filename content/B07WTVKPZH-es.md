@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTVKPZH-es Cecotec Robot Aspirador Conga Serie 1690 Pro. 2700 Pa...'
 sku: 'B07WTVKPZH-es'
-tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
+tags: [ 'Accesorios para Echo Dot (3.ª generación)','Accesorios para dispositivos Amazon','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Bombillas','Bombillas LED','Bricolaje y herramientas','Custom Stores','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Equipos de audio y Hi-Fi','Iluminación','Instalación eléctrica','Pantallas inteligentes','Paquetes de dispositivos','Specialty Stores','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

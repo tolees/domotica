@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P64LFFH-es Amazon Echo 3.ª generación - Altavoz inteligente con Alexa...'
 sku: 'B07P64LFFH-es'
-tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','amazon','echo', ]
+tags: [ 'Accesorios para Echo Dot (3.ª generación)','Accesorios para dispositivos Amazon','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Bombillas','Bombillas LED','Bricolaje y herramientas','Custom Stores','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Equipos de audio y Hi-Fi','Iluminación','Instalación eléctrica','Pantallas inteligentes','Paquetes de dispositivos','Specialty Stores','TV, vídeo y home cinema','Televisores','alexa','amazon','echo', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

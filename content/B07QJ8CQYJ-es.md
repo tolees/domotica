@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJ8CQYJ-es Funda de Silicona para Fire TV Stick 4K Control Remoto...'
 sku: 'B07QJ8CQYJ-es'
-tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa', ]
+tags: [ 'Accesorios para Echo Dot (3.ª generación)','Accesorios para dispositivos Amazon','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Bombillas','Bombillas LED','Bricolaje y herramientas','Custom Stores','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Equipos de audio y Hi-Fi','Iluminación','Instalación eléctrica','Pantallas inteligentes','Paquetes de dispositivos','Specialty Stores','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

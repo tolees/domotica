@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085TBTT1H-es Bombilla Inteligente LED WiFi Aogled E27 LED 9W Regulable...'
 sku: 'B085TBTT1H-es'
-tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
+tags: [ 'Accesorios para Echo Dot (3.ª generación)','Accesorios para dispositivos Amazon','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Bombillas','Bombillas LED','Bricolaje y herramientas','Custom Stores','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Equipos de audio y Hi-Fi','Iluminación','Instalación eléctrica','Pantallas inteligentes','Paquetes de dispositivos','Specialty Stores','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079D3KGK8-es EZVIZ EZ360 720P Cámara de Seguridad Pan/Tilt Wi-Fi con...'
 sku: 'B079D3KGK8-es'
-tags: [ 'Bricolaje y herramientas','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Instalación eléctrica','TV, vídeo y home cinema','Televisores','alexa','google','home','ifttt', ]
+tags: [ 'Accesorios para Echo Dot (3.ª generación)','Accesorios para dispositivos Amazon','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Bombillas','Bombillas LED','Bricolaje y herramientas','Custom Stores','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Equipos de audio y Hi-Fi','Iluminación','Instalación eléctrica','Pantallas inteligentes','Paquetes de dispositivos','Specialty Stores','TV, vídeo y home cinema','Televisores','alexa','google','home','ifttt', ]
 actualPrice: 22.31 EUR
 currency: EUR
 price: 22.31
