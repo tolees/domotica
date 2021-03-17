@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0148NMVJW-es Philips Hue Lightstrip Plus Tira Inteligente LED 1m...'
 sku: 'B0148NMVJW-es'
-tags: [ 'alexa','google','home','hue','philips', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home','hue','philips', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

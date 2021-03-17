@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08125GZZN-es Echo Flex + Philips Hue White & Color Ambiance Pack de 2...'
 sku: 'B08125GZZN-es'
-tags: [ 'hue','philips', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','hue','philips', ]
 actualPrice: 88.98 EUR
 currency: EUR
 price: 88.98

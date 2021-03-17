@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z1QK2X3-es NETVUE Camaras de Vigilancia WiFi Exterior 1080P Visión...'
 sku: 'B07Z1QK2X3-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

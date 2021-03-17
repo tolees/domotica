@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8DBY97-es Rhodesy Interruptor Luz Tapa para Philips Hue Interruptor...'
 sku: 'B07P8DBY97-es'
-tags: [ 'hue','philips', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','hue','philips', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

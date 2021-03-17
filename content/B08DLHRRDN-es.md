@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DLHRRDN-es Sensor de Detector de Humo eWeLink Inalámbrico 433MHz...'
 sku: 'B08DLHRRDN-es'
-tags: [ 'sonoff', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','sonoff', ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

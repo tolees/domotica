@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWR3LC4-es Netvue Cámaras de Vigilancia WiFi Interior Full HD 1080P...'
 sku: 'B07VWR3LC4-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

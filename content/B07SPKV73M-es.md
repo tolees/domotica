@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPKV73M-es Philips Hue Pack de 2 Bombillas Inteligentes LED GU10 con...'
 sku: 'B07SPKV73M-es'
-tags: [ 'alexa','google','home','hue','philips', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home','hue','philips', ]
 actualPrice: 37.7 EUR
 currency: EUR
 price: 37.7

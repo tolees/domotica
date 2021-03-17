@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRH5YS5-es Bombilla Inteligente E14 WIFI de 9W LED Compatible con...'
 sku: 'B07ZRH5YS5-es'
-tags: [ 'alexa','google','home', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home', ]
 actualPrice: 19.02 EUR
 currency: EUR
 price: 19.02

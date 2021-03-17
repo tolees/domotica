@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8QXLCK-es Bose Portable Smart Speaker - Altavoz portátil con control...'
 sku: 'B07W8QXLCK-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 254.91 EUR
 currency: EUR
 price: 254.91

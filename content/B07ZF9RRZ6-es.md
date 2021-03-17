@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZF9RRZ6-es Wake Up Light Despertador Luz Inteligente - 2019 Upgrade...'
 sku: 'B07ZF9RRZ6-es'
-tags: [ 'alexa','google','home', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

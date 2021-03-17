@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FY1PV8K-es Philips Hue White bombilla LED inteligente GU10 luz blanca...'
 sku: 'B07FY1PV8K-es'
-tags: [ 'alexa','google','home','hue','philips', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home','hue','philips', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

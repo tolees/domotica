@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P72SSSQ-es Amazon Echo 3.ª generación reacondicionado certificado...'
 sku: 'B07P72SSSQ-es'
-tags: [ 'alexa','amazon','echo', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','amazon','echo', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

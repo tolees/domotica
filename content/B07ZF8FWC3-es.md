@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZF8FWC3-es 10M Luces de Tiras LED WiFi TASMOR Tira de LED RGB...'
 sku: 'B07ZF8FWC3-es'
-tags: [ 'alexa','google','home', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

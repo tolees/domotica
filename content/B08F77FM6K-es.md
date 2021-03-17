@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F77FM6K-es 10M Luces de Tiras LED WiFi，Amouhom Tira de Luz se Puede...'
 sku: 'B08F77FM6K-es'
-tags: [ 'alexa','google','home', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

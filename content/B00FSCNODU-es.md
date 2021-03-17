@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FSCNODU-es Sonos Play: 1 - Altavoz Inteligente Compatible con...'
 sku: 'B00FSCNODU-es'
-tags: [ 'amazon','echo', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','amazon','echo', ]
 actualPrice: 135.33 EUR
 currency: EUR
 price: 135.33

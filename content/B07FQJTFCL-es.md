@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQJTFCL-es ETEKCITY ESW01-EU Enchufe WiFi Inteligente Programable...'
 sku: 'B07FQJTFCL-es'
-tags: [ 'alexa','google','home','ifttt', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home','ifttt', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H334QWK-es Echo Plus 2.ª generación tela de color gris claro +...'
 sku: 'B07H334QWK-es'
-tags: [ 'hue','philips', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','hue','philips', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

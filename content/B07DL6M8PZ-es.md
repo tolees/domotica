@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DL6M8PZ-es SwitchBot Hub Plus - Mando a distancia inteligente IR para...'
 sku: 'B07DL6M8PZ-es'
-tags: [ 'alexa','google','home','ifttt', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home','ifttt', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

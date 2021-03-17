@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7SSJQC-es Ring Stick Up Cam Elite - Cámara de seguridad HD...'
 sku: 'B07H7SSJQC-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

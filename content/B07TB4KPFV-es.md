@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB4KPFV-es NetVue Camara Vigilancia WiFi Interior 1080P Smart A.I....'
 sku: 'B07TB4KPFV-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

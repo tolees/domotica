@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QDW69MF-es Funda de Silicona para Fire TV Stick 4K Control Remoto...'
 sku: 'B07QDW69MF-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

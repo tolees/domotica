@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZWG7NQ-es Lámparas de Pie WIFI Wellwerks Lámpara de Salón...'
 sku: 'B07QZWG7NQ-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 59.39 EUR
 currency: EUR
 price: 59.39

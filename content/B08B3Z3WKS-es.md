@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3Z3WKS-es 2P 63-90A Interruptor de circuito DIN WIFI Interruptor de...'
 sku: 'B08B3Z3WKS-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

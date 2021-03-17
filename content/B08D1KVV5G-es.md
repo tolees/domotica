@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D1KVV5G-es Echo Dot 3.ª generación - Altavoz inteligente con reloj y...'
 sku: 'B08D1KVV5G-es'
-tags: [ 'alexa','enchufe','inteligente', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','enchufe','inteligente', ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

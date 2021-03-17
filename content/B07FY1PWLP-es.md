@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FY1PWLP-es Philips Hue Play Barra de luz regulable compatible con...'
 sku: 'B07FY1PWLP-es'
-tags: [ 'alexa','google','home','hue','philips', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home','hue','philips', ]
 actualPrice: 93.89 EUR
 currency: EUR
 price: 93.89

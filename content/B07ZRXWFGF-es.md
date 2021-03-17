@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRXWFGF-es BLUEMYTH Robot Aspirador y Fregasuelos 3 en 1 Navegación...'
 sku: 'B07ZRXWFGF-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

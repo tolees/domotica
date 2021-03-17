@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GRQ1F2P-es Bovon Estante de Pared Pequeña Estante Mural para Echo Dot...'
 sku: 'B07GRQ1F2P-es'
-tags: [ 'google','wifi', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','google','wifi', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

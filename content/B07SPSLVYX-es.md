@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPSLVYX-es Tiras de LED REAFOO WiFi Tira LED impermeable 5M 5050...'
 sku: 'B07SPSLVYX-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

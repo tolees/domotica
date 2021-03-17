@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BXNZL7B-es EZVIZ ezTube 720p Cámara de Seguridad WiFi Cámara de...'
 sku: 'B07BXNZL7B-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788Q8QMG-es singhong WiFi inteligentes RGBW bombilla LED Control de...'
 sku: 'B0788Q8QMG-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 10.38 EUR
 currency: EUR
 price: 10.38

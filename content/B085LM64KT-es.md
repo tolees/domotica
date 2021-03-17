@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085LM64KT-es ACEMATE Bombilla inteligente LED 2.4G WiFi Regulable...'
 sku: 'B085LM64KT-es'
-tags: [ 'alexa','google','home','ifttt', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home','ifttt', ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

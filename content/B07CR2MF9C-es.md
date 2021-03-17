@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CR2MF9C-es Ornin Sense con altavoz inteligente con control de voz de...'
 sku: 'B07CR2MF9C-es'
-tags: [ 'alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
 actualPrice: 35.78 EUR
 currency: EUR
 price: 35.78

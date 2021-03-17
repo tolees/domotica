@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRM8TWF-es RGB Tira Led Alexa Uzone WiFi 5050 RGB 5m Luces de Tira...'
 sku: 'B07RRM8TWF-es'
-tags: [ 'alexa','google','home', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

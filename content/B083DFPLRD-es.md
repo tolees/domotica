@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DFPLRD-es TopHGC Bombilla inteligente E14 WiFi 2PCS 6W Colores RGB...'
 sku: 'B083DFPLRD-es'
-tags: [ 'google','home', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','google','home', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
