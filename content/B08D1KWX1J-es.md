@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D1KWX1J-es Amazon Echo 3.ª generación Tela de color gris oscuro +...'
 sku: 'B08D1KWX1J-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','amazon','echo','enchufe','inteligente', ]
+tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Bricolaje y herramientas','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Informática','Instalación eléctrica','Interruptores de persianas y puertas automáticas','Interruptores y reguladores de luz','Pantallas inteligentes','Routers','Sistemas WiFi Mesh','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','Televisores','alexa','amazon','echo','enchufe','inteligente', ]
 actualPrice: 84.98 EUR
 currency: EUR
 price: 84.98

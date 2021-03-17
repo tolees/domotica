@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DMLKJ1M-es LEDMOMO 2Pcs Full LED Protectores de pantalla para Amazon...'
 sku: 'B07DMLKJ1M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','amazon','echo', ]
+tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Bricolaje y herramientas','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Informática','Instalación eléctrica','Interruptores de persianas y puertas automáticas','Interruptores y reguladores de luz','Pantallas inteligentes','Routers','Sistemas WiFi Mesh','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','Televisores','amazon','echo', ]
 actualPrice: 0.6 EUR
 currency: EUR
 price: 0.6

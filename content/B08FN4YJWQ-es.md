@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Amazfit Band 5 Smartwatch Tracker Fitnes al 35.76 % de rebaja'
-date: 2021-03-12 20:12:21
+date: 2021-03-17 16:23:31
 image: 'https://m.media-amazon.com/images/I/4187dogN+IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FN4YJWQ-es Amazfit Band 5 Smartwatch Tracker Fitness Reloj...'
 sku: 'B08FN4YJWQ-es'
-tags: [ 'alexa', ]
+tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Bricolaje y herramientas','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Informática','Instalación eléctrica','Interruptores de persianas y puertas automáticas','Interruptores y reguladores de luz','Pantallas inteligentes','Routers','Sistemas WiFi Mesh','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','Televisores','alexa','amazfit', ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B08FN4YJWQ/?tag=tolees-21'
 descuento: '35.76'
-average: '30.9'
+average: '30.5'
 ---
 
 Tienes [Amazfit Band 5 Smartwatch Tracker Fitness Reloj Inteligente Deporte Duración de batería 15 días Oxigeno en Sangre Ritmo Cardiaco Monitoreo del Sueño Voz Soporta con Alexa Verde](https://www.amazon.es/dp/B08FN4YJWQ/?tag=tolees-21) con precio final de  28.9 EUR (original: 44.99 EUR) (35.76 %  de rebaja) aqui!

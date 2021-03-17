@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814B6HBK-es Echo Show 5 negro + EZVIZ ezTube 1080p Cámara de Seguridad...'
 sku: 'B0814B6HBK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa', ]
+tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Bricolaje y herramientas','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Informática','Instalación eléctrica','Interruptores de persianas y puertas automáticas','Interruptores y reguladores de luz','Pantallas inteligentes','Routers','Sistemas WiFi Mesh','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','Televisores','alexa', ]
 actualPrice: 144.75 EUR
 currency: EUR
 price: 144.75

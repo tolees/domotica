@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTVKPZH-es Cecotec Robot Aspirador Conga Serie 1690 Pro. 2700 Pa...'
 sku: 'B07WTVKPZH-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','google','home', ]
+tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Bricolaje y herramientas','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Informática','Instalación eléctrica','Interruptores de persianas y puertas automáticas','Interruptores y reguladores de luz','Pantallas inteligentes','Routers','Sistemas WiFi Mesh','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','Televisores','alexa','google','home', ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0
