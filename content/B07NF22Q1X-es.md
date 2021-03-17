@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NF22Q1X-es Base de batería para Amazon Echo Dot 3ª generación -...'
 sku: 'B07NF22Q1X-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Dispositivos de red','Hogar y cocina','Iluminación','Informática','Robots aspiradores','Routers','Sistemas WiFi Mesh','amazon','echo', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Electrónica','Hogar y cocina','Iluminación','Robots aspiradores','TV, vídeo y home cinema','Televisores','amazon','echo', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

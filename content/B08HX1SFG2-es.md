@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HX1SFG2-es Tiras LED Alexa WiFi 5M Tira LED RGB Inteligente con...'
 sku: 'B08HX1SFG2-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Dispositivos de red','Hogar y cocina','Iluminación','Informática','Robots aspiradores','Routers','Sistemas WiFi Mesh','alexa','google','home', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Electrónica','Hogar y cocina','Iluminación','Robots aspiradores','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

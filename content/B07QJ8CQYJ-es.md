@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJ8CQYJ-es Funda de Silicona para Fire TV Stick 4K Control Remoto...'
 sku: 'B07QJ8CQYJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Dispositivos de red','Hogar y cocina','Iluminación','Informática','Robots aspiradores','Routers','Sistemas WiFi Mesh','alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Electrónica','Hogar y cocina','Iluminación','Robots aspiradores','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

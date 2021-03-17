@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013PUUKYW-es Gigaset S30851-H2519-R101 - Enchufe inteligente...'
 sku: 'B013PUUKYW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Dispositivos de red','Hogar y cocina','Iluminación','Informática','Robots aspiradores','Routers','Sistemas WiFi Mesh','enchufe','inteligente', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Electrónica','Hogar y cocina','Iluminación','Robots aspiradores','TV, vídeo y home cinema','Televisores','enchufe','inteligente', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

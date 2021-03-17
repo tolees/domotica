@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08125LLPZ-es Echo Flex + Philips Hue White Pack de 2 bombillas LED...'
 sku: 'B08125LLPZ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Dispositivos de red','Hogar y cocina','Iluminación','Informática','Robots aspiradores','Routers','Sistemas WiFi Mesh','hue','philips', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Electrónica','Hogar y cocina','Iluminación','Robots aspiradores','TV, vídeo y home cinema','Televisores','hue','philips', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KH6YPP4-es Echo Show 5: mantén el contacto con la ayuda de Alexa...'
 sku: 'B08KH6YPP4-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Dispositivos de red','Hogar y cocina','Iluminación','Informática','Robots aspiradores','Routers','Sistemas WiFi Mesh','alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Electrónica','Hogar y cocina','Iluminación','Robots aspiradores','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 214.99 EUR
 currency: EUR
 price: 214.99

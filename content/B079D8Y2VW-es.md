@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079D8Y2VW-es Enchufe Inteligente Mide el Consumo 16A 3680W Wi-Fi Smart...'
 sku: 'B079D8Y2VW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Dispositivos de red','Hogar y cocina','Iluminación','Informática','Robots aspiradores','Routers','Sistemas WiFi Mesh','alexa','enchufe','inteligente', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Electrónica','Hogar y cocina','Iluminación','Robots aspiradores','TV, vídeo y home cinema','Televisores','alexa','enchufe','inteligente', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59
