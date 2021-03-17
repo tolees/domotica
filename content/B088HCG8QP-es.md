@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088HCG8QP-es Mando a distancia WiFi IR funciona con Alexa Google Home...'
 sku: 'B088HCG8QP-es'
-tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Informática','Pantallas inteligentes','Routers','Sistemas WiFi Mesh','alexa','google','home', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Dispositivos de red','Hogar y cocina','Iluminación','Informática','Robots aspiradores','Routers','Sistemas WiFi Mesh','alexa','google','home', ]
 actualPrice: 15.91 EUR
 currency: EUR
 price: 15.91
