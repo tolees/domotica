@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T8BHRBX-es Yamaha YAS-209 Barra de Sonido con Alexa Integrada Negro'
 sku: 'B07T8BHRBX-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 253.72 EUR
 currency: EUR
 price: 253.72

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RVBZCW1-es Interruptor regulador de intensidad de luz inteligente 2 4...'
 sku: 'B07RVBZCW1-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

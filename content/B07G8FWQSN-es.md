@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G8FWQSN-es Bose - Barra de sonido 500 con Alexa integrada Bluetooth y...'
 sku: 'B07G8FWQSN-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 432.23 EUR
 currency: EUR
 price: 432.23

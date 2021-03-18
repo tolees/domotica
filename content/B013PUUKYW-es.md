@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013PUUKYW-es Gigaset S30851-H2519-R101 - Enchufe inteligente...'
 sku: 'B013PUUKYW-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','enchufe','inteligente', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','enchufe','inteligente', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

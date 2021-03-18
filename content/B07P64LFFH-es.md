@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P64LFFH-es Amazon Echo 3.ª generación - Altavoz inteligente con Alexa...'
 sku: 'B07P64LFFH-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','amazon','echo', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','amazon','echo', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RX6ZXRW-es Enchufe inteligente con WiFi.'
 sku: 'B07RX6ZXRW-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','enchufe','inteligente', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','enchufe','inteligente', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

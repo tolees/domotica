@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB68LQZ-es OurLeeme Enchufe Inteligente de WiFi tomacorriente de...'
 sku: 'B07TB68LQZ-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','enchufe','inteligente', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','enchufe','inteligente', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

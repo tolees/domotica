@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NF22Q1X-es Base de batería para Amazon Echo Dot 3ª generación -...'
 sku: 'B07NF22Q1X-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','amazon','echo', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','amazon','echo', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

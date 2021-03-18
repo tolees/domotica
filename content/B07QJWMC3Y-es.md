@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJWMC3Y-es Enchufe inteligente wifi，SOONAN Interruptor Control Remoto...'
 sku: 'B07QJWMC3Y-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','enchufe','ifttt','inteligente', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','enchufe','ifttt','inteligente', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

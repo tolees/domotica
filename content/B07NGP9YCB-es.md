@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGP9YCB-es DAM. DMZ107BK. Soporte Giratorio para Amazon Echo Spot....'
 sku: 'B07NGP9YCB-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','amazon','echo', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','amazon','echo', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FSCNODU-es Sonos Play: 1 - Altavoz Inteligente Compatible con...'
 sku: 'B00FSCNODU-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','amazon','echo', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','amazon','echo', ]
 actualPrice: 135.33 EUR
 currency: EUR
 price: 135.33

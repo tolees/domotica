@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KH6YPP4-es Echo Show 5: mantén el contacto con la ayuda de Alexa...'
 sku: 'B08KH6YPP4-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa', ]
 actualPrice: 214.99 EUR
 currency: EUR
 price: 214.99

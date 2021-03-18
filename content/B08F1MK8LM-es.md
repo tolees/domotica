@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F1MK8LM-es Lámpara de techo WiFi compatible con Amazon Alexa y Google...'
 sku: 'B08F1MK8LM-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','google','home', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
 actualPrice: 29.09 EUR
 currency: EUR
 price: 29.09

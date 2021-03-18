@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WR2QPSQ-es TENDOMI Humidificador Bebé Humidificador WiFi Inteligente...'
 sku: 'B07WR2QPSQ-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','google','home', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
 actualPrice: 45.58 EUR
 currency: EUR
 price: 45.58

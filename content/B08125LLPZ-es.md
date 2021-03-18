@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08125LLPZ-es Echo Flex + Philips Hue White Pack de 2 bombillas LED...'
 sku: 'B08125LLPZ-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','hue','philips', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','hue','philips', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

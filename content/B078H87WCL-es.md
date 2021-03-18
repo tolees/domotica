@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078H87WCL-es ASUS Blue Cave - Router Inalámbrico AC2600 Doble Banda...'
 sku: 'B078H87WCL-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','ifttt', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','ifttt', ]
 actualPrice: 133.55 EUR
 currency: EUR
 price: 133.55

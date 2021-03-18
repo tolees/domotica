@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0848P3KJL-es 7hSevenOn Home Enchufe Inteligente WiFi con USB Control...'
 sku: 'B0848P3KJL-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','enchufe','inteligente', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','enchufe','inteligente', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8DBY97-es Rhodesy Interruptor Luz Tapa para Philips Hue Interruptor...'
 sku: 'B07P8DBY97-es'
-tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','hue','philips', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','hue','philips', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
