@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P9BLDKR-es Amazon Echo 3.ª generación - Altavoz inteligente con Alexa...'
 sku: 'B07P9BLDKR-es'
+tags: [ 'alexa','amazon','echo', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

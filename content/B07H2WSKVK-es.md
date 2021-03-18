@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2WSKVK-es Echo Plus 2.ª generación tela de color antracita + Philips...'
 sku: 'B07H2WSKVK-es'
+tags: [ 'hue','philips', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

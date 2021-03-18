@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013PUUKYW-es Gigaset S30851-H2519-R101 - Enchufe inteligente...'
 sku: 'B013PUUKYW-es'
+tags: [ 'enchufe','inteligente', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

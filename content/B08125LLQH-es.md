@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08125LLQH-es Echo Show 5 blanco + Philips Hue White & Color Ambiance...'
 sku: 'B08125LLQH-es'
+tags: [ 'hue','philips', ]
 actualPrice: 124.16 EUR
 currency: EUR
 price: 124.16

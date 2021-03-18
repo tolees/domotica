@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0781V9FLS-es EZVIZ 720P FHD IP Cámara de Seguridad y Vigilancia 2.4 GHz...'
 sku: 'B0781V9FLS-es'
+tags: [ 'alexa','google','home','ifttt', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

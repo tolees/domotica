@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088HCG8QP-es Mando a distancia WiFi IR funciona con Alexa Google Home...'
 sku: 'B088HCG8QP-es'
+tags: [ 'alexa','google','home', ]
 actualPrice: 15.91 EUR
 currency: EUR
 price: 15.91
