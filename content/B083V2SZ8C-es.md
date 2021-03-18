@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083V2SZ8C-es Bombilla LED Inteligente Wi-Fi Bombilla Luces...'
 sku: 'B083V2SZ8C-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

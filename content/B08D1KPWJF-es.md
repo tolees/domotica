@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D1KPWJF-es Echo Show 5 Negro + Amazon Smart Plug enchufe inteligente...'
 sku: 'B08D1KPWJF-es'
-tags: [ 'alexa','enchufe','inteligente', ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

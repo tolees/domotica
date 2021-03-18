@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JJ8CVR6-es THOMSON 65UG6300 - Televisor LED de 65 pulgadas Smart TV...'
 sku: 'B08JJ8CVR6-es'
-tags: [ 'alexa', ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

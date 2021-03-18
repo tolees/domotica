@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084XSXKMG-es LG 75UN71006LC - Smart TV 4K UHD 189 cm 75" con...'
 sku: 'B084XSXKMG-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','alexa','lg', ]
 actualPrice: 870.18 EUR
 currency: EUR
 price: 870.18

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D9FMCLN-es Hisense 43AE7400F UHD TV 2020 - Smart TV Resolución 4K...'
 sku: 'B08D9FMCLN-es'
-tags: [ 'alexa', ]
 actualPrice: 389.0 EUR
 currency: EUR
 price: 389.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QXC6VL-es Samsung QLED 4K 2020 50Q60T - Smart TV de 50" con...'
 sku: 'B083QXC6VL-es'
-tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Informática','Pantallas inteligentes','Routers','Sistemas WiFi Mesh','TV, vídeo y home cinema','Televisores','alexa','samsung', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

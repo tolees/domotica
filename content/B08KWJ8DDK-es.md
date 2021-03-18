@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KWJ8DDK-es D-Link DCS-6100LH Cámara IP WiFi para...'
 sku: 'B08KWJ8DDK-es'
-tags: [ 'alexa', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

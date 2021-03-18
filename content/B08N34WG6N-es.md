@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N34WG6N-es Amazon - Nuevo Echo Dot 4.ª generación Azul grisáceo +...'
 sku: 'B08N34WG6N-es'
-tags: [ 'alexa','philips','hue', ]
 actualPrice: 64.89 EUR
 currency: EUR
 price: 64.89

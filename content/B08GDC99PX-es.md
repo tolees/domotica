@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GDC99PX-es 【NUEVO】TP-Link - Bombilla LED Inteligente Bombilla WiFi...'
 sku: 'B08GDC99PX-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJRMPHZ-es Amazon - Echo Show 5 reacondicionado certificado una...'
 sku: 'B07NJRMPHZ-es'
-tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Informática','Pantallas inteligentes','Routers','Sistemas WiFi Mesh','alexa','amazon', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

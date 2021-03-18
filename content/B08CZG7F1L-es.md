@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CZG7F1L-es Plafón LED Techo Alexa Lámparas LED Techo WiFi Etersky...'
 sku: 'B08CZG7F1L-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

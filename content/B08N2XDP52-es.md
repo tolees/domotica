@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N2XDP52-es Amazon - Echo Show 5 Blanco + Philips Hue Bombilla...'
 sku: 'B08N2XDP52-es'
-tags: [ 'alexa','philips','hue', ]
 actualPrice: 71.9 EUR
 currency: EUR
 price: 71.9

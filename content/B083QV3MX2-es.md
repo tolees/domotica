@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QV3MX2-es Samsung QLED 4K 2020 43Q60T - Smart TV de 43" con...'
 sku: 'B083QV3MX2-es'
-tags: [ 'Televisores','alexa','samsung', ]
 actualPrice: 497.0 EUR
 currency: EUR
 price: 497.0

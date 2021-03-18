@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084XT2D3C-es LG 82UN85006LA - Smart TV 4K UHD 207 cm 82" con...'
 sku: 'B084XT2D3C-es'
-tags: [ 'alexa', ]
 actualPrice: 800.0 EUR
 currency: EUR
 price: 800.0

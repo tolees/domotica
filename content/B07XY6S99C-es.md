@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XY6S99C-es Philips Hue Enchufe conectado'
 sku: 'B07XY6S99C-es'
-tags: [ 'hue','philips', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

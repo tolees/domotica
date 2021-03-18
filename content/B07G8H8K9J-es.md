@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G8H8K9J-es Bose - Home Speaker 500 sonido estéreo con Alexa integrada...'
 sku: 'B07G8H8K9J-es'
-tags: [ 'alexa', ]
 actualPrice: 338.99 EUR
 currency: EUR
 price: 338.99

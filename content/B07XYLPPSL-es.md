@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XYLPPSL-es Sennheiser PXC 550 II Auriculares Plegables Wireless con...'
 sku: 'B07XYLPPSL-es'
-tags: [ 'alexa', ]
 actualPrice: 198.16 EUR
 currency: EUR
 price: 198.16

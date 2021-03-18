@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084XT6K7G-es LG 49NANO80 - Smart TV 4K NanoCell 123 cm 49" con...'
 sku: 'B084XT6K7G-es'
-tags: [ 'alexa', ]
 actualPrice: 519.99 EUR
 currency: EUR
 price: 519.99

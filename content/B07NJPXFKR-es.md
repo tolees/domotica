@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NJPXFKR-es Amazon - Echo Show 5 reacondicionado certificado una...'
 sku: 'B07NJPXFKR-es'
-tags: [ 'alexa', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

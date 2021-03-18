@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XNGSYFV-es Philips 65OLED854/12 - Televisor Smart TV OLED 4K UHD 65...'
 sku: 'B07XNGSYFV-es'
-tags: [ 'alexa', ]
 actualPrice: 1899.99 EUR
 currency: EUR
 price: 1899.99

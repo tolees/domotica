@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B3SSSVL-es Cecotec Robot aspirador y fregasuelos Conga 1790 Vital...'
 sku: 'B08B3SSSVL-es'
-tags: [ 'alexa', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

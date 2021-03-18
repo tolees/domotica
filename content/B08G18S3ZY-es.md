@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G18S3ZY-es WiFi Tiras LED 20M RGB Música Compatible con Alexa y...'
 sku: 'B08G18S3ZY-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

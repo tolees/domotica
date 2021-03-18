@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RSVN89-es Regleta Inteligente con 3 Zócalos Control Individual...'
 sku: 'B085RSVN89-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Bricolaje y herramientas','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Instalación eléctrica','Robots aspiradores','Tiras LED de interior','alexa','google','gosund','home', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

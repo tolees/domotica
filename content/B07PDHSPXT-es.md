@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDHSPXT-es Amazon - Echo Dot 3.ª generación - Altavoz inteligente con...'
 sku: 'B07PDHSPXT-es'
-tags: [ 'alexa','amazon', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

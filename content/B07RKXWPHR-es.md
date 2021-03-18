@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RKXWPHR-es TECKIN Enchufe Inteligente Exterior Impermeable 16A 4000W...'
 sku: 'B07RKXWPHR-es'
-tags: [ 'Accesorios para Echo Dot (3.ª generación)','Accesorios para dispositivos Amazon','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Bombillas','Bombillas LED','Bricolaje y herramientas','Custom Stores','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Equipos de audio y Hi-Fi','Iluminación','Instalación eléctrica','Pantallas inteligentes','Paquetes de dispositivos','Specialty Stores','TV, vídeo y home cinema','Televisores','alexa','enchufe','google','home','inteligente','teckin', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

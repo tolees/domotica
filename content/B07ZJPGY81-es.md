@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZJPGY81-es NGS Smart WI-FI Led Bulb Gleam 510C – Bombilla Inteligente...'
 sku: 'B07ZJPGY81-es'
-tags: [ 'alexa','ifttt','google','home', ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

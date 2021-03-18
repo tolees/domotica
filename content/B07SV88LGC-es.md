@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SV88LGC-es Philips Hue Bombilla Inteligente LED E27 con Bluetooth Luz...'
 sku: 'B07SV88LGC-es'
-tags: [ 'alexa','google','home','philips','hue', ]
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

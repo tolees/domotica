@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GTHMPK5-es TECKIN Bombilla LED inteligente con Luz Cálida WiFi...'
 sku: 'B07GTHMPK5-es'
-tags: [ 'google','home', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

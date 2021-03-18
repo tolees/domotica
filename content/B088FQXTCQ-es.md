@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088FQXTCQ-es Cecotec Robot aspirador y fregasuelos Conga 1090 Connected...'
 sku: 'B088FQXTCQ-es'
-tags: [ 'alexa','cecotec', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RBRKXH1-es LG 65UM7610PLB - Smart TV 4K UHD de 164 cm 65" con Alexa...'
 sku: 'B07RBRKXH1-es'
-tags: [ 'alexa', ]
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

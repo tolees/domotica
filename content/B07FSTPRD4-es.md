@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FSTPRD4-es Slabo Funda Universal para Amazon Fire HD 8-Tablet | Fire...'
 sku: 'B07FSTPRD4-es'
-tags: [ 'alexa', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

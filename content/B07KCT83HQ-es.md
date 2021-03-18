@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KCT83HQ-es TECKIN WiFi Enchufe Inteligente 16A 3300W Mini Smart Plug...'
 sku: 'B07KCT83HQ-es'
-tags: [ 'alexa','enchufe','inteligente','google','home', ]
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084XT2D3K-es LG 43UN7390 - Smart TV 4K UHD 108 cm 43" con Inteligencia...'
 sku: 'B084XT2D3K-es'
-tags: [ 'alexa', ]
 actualPrice: 369.98 EUR
 currency: EUR
 price: 369.98

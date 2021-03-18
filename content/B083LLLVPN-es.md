@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083LLLVPN-es BroadLink RM4 Pro IR y RF Mando a Distancia Universal Code...'
 sku: 'B083LLLVPN-es'
-tags: [ 'alexa', ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

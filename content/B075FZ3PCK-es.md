@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075FZ3PCK-es D-Link DCS-8000LH - Cámara IP WiFi de vigilancia con...'
 sku: 'B075FZ3PCK-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07THTQHWV-es Cecotec Robot Aspirador Conga Serie 1099 Connected. 1400...'
 sku: 'B07THTQHWV-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

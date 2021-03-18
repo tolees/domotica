@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RD5XV4L-es 【20M WiFi】Alexa Tiras LED 20 metros Lijun WiFi Tiras de...'
 sku: 'B08RD5XV4L-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

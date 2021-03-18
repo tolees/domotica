@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082Y3DT8Z-es Zigma Robot Aspirador Navegación Láser Captura Alérgeno...'
 sku: 'B082Y3DT8Z-es'
-tags: [ 'alexa', ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

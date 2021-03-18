@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DFLG5SP-es Fitbit Sense - Smartwatch avanzado de salud con...'
 sku: 'B08DFLG5SP-es'
-tags: [ 'alexa', ]
 actualPrice: 269.95 EUR
 currency: EUR
 price: 269.95

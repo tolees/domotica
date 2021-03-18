@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083KXVRF1-es Gillette Labs Heated Razor Máquina de Afeitar + Base de...'
 sku: 'B083KXVRF1-es'
-tags: [ 'enchufe','inteligente', ]
 actualPrice: 132.79 EUR
 currency: EUR
 price: 132.79

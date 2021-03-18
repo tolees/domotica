@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RZVBQW-es TP-Link -Bombilla LED Inteligente Bombilla WiFi sin...'
 sku: 'B087RZVBQW-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Informática','Robots aspiradores','Sistemas WiFi Mesh','alexa','google','home','tp-link', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

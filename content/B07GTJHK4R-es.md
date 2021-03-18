@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GTJHK4R-es TECKIN Bombilla LED Inteligente WiFi Luces Cálidas RGB...'
 sku: 'B07GTJHK4R-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Electrónica','Hogar y cocina','Iluminación','Robots aspiradores','TV, vídeo y home cinema','Televisores','alexa','google','home','teckin', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

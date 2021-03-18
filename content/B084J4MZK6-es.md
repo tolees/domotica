@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084J4MZK6-es Amazon - Nuevo Echo Dot 4.ª generación | Altavoz...'
 sku: 'B084J4MZK6-es'
-tags: [ 'alexa', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

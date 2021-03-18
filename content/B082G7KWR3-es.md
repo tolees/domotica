@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082G7KWR3-es Wansview Cámara IP WiFi 1080P Cámara Vigilancia WiFi con...'
 sku: 'B082G7KWR3-es'
-tags: [ 'alexa', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

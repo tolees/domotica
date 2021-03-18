@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SCSD46-es Samsung QLED 2020 65Q80T - Smart TV de 65" 4K UHD Direct...'
 sku: 'B083SCSD46-es'
-tags: [ 'Televisores','alexa','samsung', ]
 actualPrice: 1498.0 EUR
 currency: EUR
 price: 1498.0

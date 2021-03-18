@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QPR8W3F-es WiFi Difusor Aromaterapia Maxcio Humidificador Ultrasónico...'
 sku: 'B07QPR8W3F-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 33.8 EUR
 currency: EUR
 price: 33.8

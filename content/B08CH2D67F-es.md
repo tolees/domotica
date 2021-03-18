@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CH2D67F-es ECOVACS DEEBOT OZMO T8 - Robot Aspirador 2 en 1 con...'
 sku: 'B08CH2D67F-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 549.0 EUR
 currency: EUR
 price: 549.0

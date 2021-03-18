@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FCDJDZ9-es 【Última versión 2021】 1296P Cámara de Vigilancia Interior...'
 sku: 'B08FCDJDZ9-es'
-tags: [ 'alexa', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

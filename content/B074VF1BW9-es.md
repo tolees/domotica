@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074VF1BW9-es Sony WHH900N - Auriculares de diadema inalámbricos H.ear...'
 sku: 'B074VF1BW9-es'
-tags: [ 'alexa', ]
 actualPrice: 183.32 EUR
 currency: EUR
 price: 183.32

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084DWG2VQ-es Amazon - Nuevo Echo Dot 4.ª generación | Altavoz...'
 sku: 'B084DWG2VQ-es'
-tags: [ 'alexa','amazon', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

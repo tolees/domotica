@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q4R7VWN-es Ring Stick Up Cam Battery cámara de seguridad HD con...'
 sku: 'B07Q4R7VWN-es'
-tags: [ 'alexa', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

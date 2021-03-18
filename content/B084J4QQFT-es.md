@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084J4QQFT-es Amazon - Nuevo Echo Dot 4.ª generación | Altavoz...'
 sku: 'B084J4QQFT-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','amazon', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

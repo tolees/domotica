@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KLS61D4-es EZVIZ Cámara de vigilancia Exterior cámara IP WiFi cámara...'
 sku: 'B07KLS61D4-es'
-tags: [ 'alexa', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

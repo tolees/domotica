@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P975PTN-es SPC Aperio – Sensor Apertura Puertas y Ventanas...'
 sku: 'B07P975PTN-es'
-tags: [ 'alexa', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

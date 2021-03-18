@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KH6Y89D-es Echo Show 5: mantén el contacto con la ayuda de Alexa...'
 sku: 'B08KH6Y89D-es'
-tags: [ 'alexa', ]
 actualPrice: 214.99 EUR
 currency: EUR
 price: 214.99

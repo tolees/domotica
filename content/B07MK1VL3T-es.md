@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MK1VL3T-es Enchufe Múltiple Inteligente Wi-Fi Regleta Compatible con...'
 sku: 'B07MK1VL3T-es'
-tags: [ 'alexa', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

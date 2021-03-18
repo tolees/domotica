@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084XSRM96-es LG 43UN7100 - Smart TV 4K UHD 108 cm 43" con Inteligencia...'
 sku: 'B084XSRM96-es'
-tags: [ 'alexa', ]
 actualPrice: 342.4 EUR
 currency: EUR
 price: 342.4

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZMFD2T-es Gosund 2.8M Tira Led TV/PC Tira LED Wifi USB Control...'
 sku: 'B085ZMFD2T-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','google','gosund','home', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

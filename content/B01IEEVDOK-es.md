@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IEEVDOK-es iRobot Roomba 960 Robot Aspirador Succión 5 Veces Superior...'
 sku: 'B01IEEVDOK-es'
-tags: [ 'alexa', ]
 actualPrice: 655.1 EUR
 currency: EUR
 price: 655.1

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q8T3VS3-es Bose Home Speaker 300 - Altavoz con Amazon Alexa integrada...'
 sku: 'B07Q8T3VS3-es'
-tags: [ 'alexa', ]
 actualPrice: 211.0 EUR
 currency: EUR
 price: 211.0

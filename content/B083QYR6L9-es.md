@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083QYR6L9-es Samsung QLED 2020 55Q80T - Smart TV de 55" 4K UHD Direct...'
 sku: 'B083QYR6L9-es'
-tags: [ 'alexa', ]
 actualPrice: 945.0 EUR
 currency: EUR
 price: 945.0

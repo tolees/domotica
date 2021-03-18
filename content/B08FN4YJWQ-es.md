@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FN4YJWQ-es Amazfit Band 5 Smartwatch Tracker Fitness Reloj...'
 sku: 'B08FN4YJWQ-es'
-tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Bricolaje y herramientas','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Informática','Instalación eléctrica','Interruptores de persianas y puertas automáticas','Interruptores y reguladores de luz','Pantallas inteligentes','Routers','Sistemas WiFi Mesh','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','Televisores','alexa','amazfit', ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

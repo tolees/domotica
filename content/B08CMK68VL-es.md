@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CMK68VL-es Gosund 5M Tira de LED Alexa WiFi Luces Led Rgb Inteligente...'
 sku: 'B08CMK68VL-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

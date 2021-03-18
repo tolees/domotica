@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RT9MTTC-es Xiaomi Yeelight Lightstrip Plus'
 sku: 'B07RT9MTTC-es'
-tags: [ 'yeelight', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PVDDEPE-es D-Link DSP-W115 - Enchufe Inteligente WiFi Control Desde...'
 sku: 'B00PVDDEPE-es'
-tags: [ 'alexa','ifttt','enchufe','inteligente','google','home', ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

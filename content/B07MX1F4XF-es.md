@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MX1F4XF-es 【LED Controlable】Interruptor Persiana WiFi Maxcio...'
 sku: 'B07MX1F4XF-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

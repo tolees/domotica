@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078VGTTNC-es Sony WFSP700NW.CE7 - Auriculares deportivos totalmente...'
 sku: 'B078VGTTNC-es'
-tags: [ 'alexa', ]
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

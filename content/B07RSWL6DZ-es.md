@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RSWL6DZ-es Cecotec Robot aspirador y fregasuelos Conga 1090 Connected...'
 sku: 'B07RSWL6DZ-es'
-tags: [ 'alexa', ]
 actualPrice: 137.62 EUR
 currency: EUR
 price: 137.62

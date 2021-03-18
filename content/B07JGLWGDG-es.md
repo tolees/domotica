@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JGLWGDG-es Energy Sistem Smart Speaker 5 Home - Altavoz con Alexa...'
 sku: 'B07JGLWGDG-es'
-tags: [ 'alexa', ]
 actualPrice: 74.47 EUR
 currency: EUR
 price: 74.47

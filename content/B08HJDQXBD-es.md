@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HJDQXBD-es Xiaomi Mi 10T Pro Pantalla 6.67" FHD+ 8GB+256GB Cámara de...'
 sku: 'B08HJDQXBD-es'
-tags: [ 'alexa','xiaomi', ]
 actualPrice: 515.0 EUR
 currency: EUR
 price: 515.0

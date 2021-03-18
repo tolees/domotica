@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X37DT9M-es Blink Home Security - Presentamos la Blink Mini cámara de...'
 sku: 'B07X37DT9M-es'
-tags: [ 'alexa', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

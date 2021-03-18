@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB68LQZ-es OurLeeme Enchufe Inteligente de WiFi tomacorriente de...'
 sku: 'B07TB68LQZ-es'
-tags: [ 'alexa','enchufe','inteligente', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

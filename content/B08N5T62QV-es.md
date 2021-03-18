@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N5T62QV-es Enchufe Inteligente 16A 3680W con Control Remoto Meross...'
 sku: 'B08N5T62QV-es'
-tags: [ 'alexa','enchufe','inteligente', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

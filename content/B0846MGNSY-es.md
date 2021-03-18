@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846MGNSY-es SuperChef Robot Aspirador SF425 CleanPro WiFi App...'
 sku: 'B0846MGNSY-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 135.15 EUR
 currency: EUR
 price: 135.15

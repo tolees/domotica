@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNPKX63-es Amazon - Echo Show 8: mantén el contacto con la ayuda de...'
 sku: 'B07SNPKX63-es'
-tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','amazon', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

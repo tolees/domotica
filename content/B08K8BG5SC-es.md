@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K8BG5SC-es Nuevo Echo Dot 4.ª generación Antracita + Amazon Smart...'
 sku: 'B08K8BG5SC-es'
-tags: [ 'alexa','enchufe','inteligente', ]
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

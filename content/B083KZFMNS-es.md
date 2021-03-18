@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083KZFMNS-es Gillette Labs Heated Razor Máquina de Afeitar Caliente + 1...'
 sku: 'B083KZFMNS-es'
-tags: [ 'enchufe','inteligente', ]
 actualPrice: 132.0 EUR
 currency: EUR
 price: 132.0

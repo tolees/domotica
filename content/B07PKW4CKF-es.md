@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PKW4CKF-es Amazon - Echo Dot 3.ª generación Reacondicionado...'
 sku: 'B07PKW4CKF-es'
-tags: [ 'alexa', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

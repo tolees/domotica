@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086B8KBHY-es Hisense ULED 2020 55U71QF - Smart TV 55" Resolución 4K...'
 sku: 'B086B8KBHY-es'
-tags: [ 'alexa', ]
 actualPrice: 569.99 EUR
 currency: EUR
 price: 569.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XT8J3HZ-es Govee Tiras LED WiFi 5m Tira Luces LED RGB Inteligente con...'
 sku: 'B07XT8J3HZ-es'
-tags: [ 'alexa', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

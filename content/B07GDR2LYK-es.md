@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDR2LYK-es Sony WH1000XM3 - Auriculares inalámbricos Noise Cancelling...'
 sku: 'B07GDR2LYK-es'
-tags: [ 'alexa','sony', ]
 actualPrice: 245.21 EUR
 currency: EUR
 price: 245.21

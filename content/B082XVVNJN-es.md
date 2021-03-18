@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XVVNJN-es Coredy R750 Robot Aspirador y Fregasuelos 3 en 1 con...'
 sku: 'B082XVVNJN-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 202.29 EUR
 currency: EUR
 price: 202.29

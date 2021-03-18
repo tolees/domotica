@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HJB26DB-es TECKIN WiFi Enchufe Inteligente 16A 3300W Mini Smart Plug...'
 sku: 'B07HJB26DB-es'
-tags: [ 'alexa','enchufe','inteligente','google','home', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

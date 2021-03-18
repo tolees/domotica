@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084MGCZHL-es Refoss - Enchufe inteligente con Wi-Fi 16A 3680W...'
 sku: 'B084MGCZHL-es'
-tags: [ 'alexa','enchufe','inteligente', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

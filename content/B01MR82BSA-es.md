@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MR82BSA-es YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia...'
 sku: 'B01MR82BSA-es'
-tags: [ 'alexa','yi', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

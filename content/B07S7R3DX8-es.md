@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S7R3DX8-es LG 49SM8500ALEXA - Smart TV NanoCell 4K UHD de 123 cm 49"...'
 sku: 'B07S7R3DX8-es'
-tags: [ 'alexa', ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

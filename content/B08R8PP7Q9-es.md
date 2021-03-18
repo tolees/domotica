@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R8PP7Q9-es Bombilla LED Inteligente WiFi Regulable 9W 806 Lm Lámpara...'
 sku: 'B08R8PP7Q9-es'
-tags: [ 'google','home', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

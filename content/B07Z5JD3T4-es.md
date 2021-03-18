@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5JD3T4-es TP-Link Tapo P100 - WiFi Enchufe Inteligente Mini tamaño...'
 sku: 'B07Z5JD3T4-es'
-tags: [ 'alexa','enchufe','inteligente','google','home', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

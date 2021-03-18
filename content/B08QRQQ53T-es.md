@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QRQQ53T-es Tapo 【Nuevo】 TP-Link - Bombilla LED Inteligente Bombilla...'
 sku: 'B08QRQQ53T-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

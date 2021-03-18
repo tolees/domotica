@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085FXHR38-es Amazon - Nuevo Echo 4.ª generación | Sonido de alta...'
 sku: 'B085FXHR38-es'
-tags: [ 'alexa','amazon', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

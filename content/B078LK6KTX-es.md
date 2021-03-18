@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078LK6KTX-es Motorola Lifestyle - Motorola VerveLoop 2+ - In Ear Sport...'
 sku: 'B078LK6KTX-es'
-tags: [ 'alexa', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

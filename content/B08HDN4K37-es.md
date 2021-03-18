@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HDN4K37-es Cecotec Robot aspirador y fregasuelos Conga 1790 Titanium...'
 sku: 'B08HDN4K37-es'
-tags: [ 'alexa','cecotec', ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PFG54H7-es Amazon - Presentamos el Echo Flex - Controla con la voz...'
 sku: 'B07PFG54H7-es'
-tags: [ 'alexa', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CNP9MGS-es BroadLink RM4 Pro IR y RF Mando a Distancia Universal Code...'
 sku: 'B07CNP9MGS-es'
-tags: [ 'alexa', ]
 actualPrice: 37.24 EUR
 currency: EUR
 price: 37.24

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2WC8T9-es Bombilla WiFi Inteligente Smart LED WiFi Lámpara E27 7W...'
 sku: 'B07G2WC8T9-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

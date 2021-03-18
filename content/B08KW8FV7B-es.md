@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KW8FV7B-es Aigostar Bombilla LED inteligente WiFi A60 9W E27 rosca...'
 sku: 'B08KW8FV7B-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CDCYLQ6-es TECKIN Enchufe Inteligente 16A 3680W Enchufe WiFi Con...'
 sku: 'B07CDCYLQ6-es'
-tags: [ 'alexa','enchufe','inteligente','enchufes','inteligentes','google','home', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HYZM8T6-es Amazfit GTR 2 Smartwatch Reloj Inteligente Fitness 12...'
 sku: 'B08HYZM8T6-es'
-tags: [ 'alexa', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

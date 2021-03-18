@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VMLYHJ-es Cecotec Conga 2690 - Robot aspirador y fregasuelos iTech...'
 sku: 'B084VMLYHJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Electrónica','Hogar y cocina','Robots aspiradores','TV, vídeo y home cinema','Televisores','alexa','cecotec', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

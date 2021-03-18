@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TK6R9J8-es 【LED Controlable】 Interruptor Persiana Maxcio Interruptor...'
 sku: 'B07TK6R9J8-es'
-tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Bricolaje y herramientas','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Informática','Instalación eléctrica','Interruptores de persianas y puertas automáticas','Interruptores y reguladores de luz','Pantallas inteligentes','Routers','Sistemas WiFi Mesh','TV, vídeo y home cinema','Televisores','alexa','google','home','maxcio', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

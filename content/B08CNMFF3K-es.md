@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CNMFF3K-es Hoover HGO330HC Hydro Pro - Robot Aspirador Aspira Barre...'
 sku: 'B08CNMFF3K-es'
-tags: [ 'alexa', ]
 actualPrice: 143.78 EUR
 currency: EUR
 price: 143.78

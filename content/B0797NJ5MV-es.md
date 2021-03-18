@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0797NJ5MV-es Technaxx MusicMan BT-X34 - Altavoz Bluetooth con Alexa...'
 sku: 'B0797NJ5MV-es'
-tags: [ 'alexa', ]
 actualPrice: 71.17 EUR
 currency: EUR
 price: 71.17

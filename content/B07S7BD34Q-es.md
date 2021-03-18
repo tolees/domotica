@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7BD34Q-es Bombilla LED Inteligente WiFi AISIRER 10W 1000LM E27...'
 sku: 'B07S7BD34Q-es'
-tags: [ 'Bombillas Wi-Fi','aisirer','alexa','google','home', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

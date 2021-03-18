@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XY7WJ4W-es TP-Link Deco P9 3-pack - PLC Mesh Wi-Fi Híbrido con...'
 sku: 'B07XY7WJ4W-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Dispositivos de red','Hogar y cocina','Iluminación','Informática','Robots aspiradores','Routers','Sistemas WiFi Mesh','alexa','tp-link', ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X5F81JS-es Bose 700 - Auriculares con cancelación de Ruido con Alexa...'
 sku: 'B07X5F81JS-es'
-tags: [ 'alexa', ]
 actualPrice: 309.99 EUR
 currency: EUR
 price: 309.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086V42DNT-es proscenic Robot Aspirador M6 Pro función de Limpieza 3 en...'
 sku: 'B086V42DNT-es'
-tags: [ 'alexa', ]
 actualPrice: 295.2 EUR
 currency: EUR
 price: 295.2

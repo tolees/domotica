@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083T4N3GJ-es Samsung UHD 2020 75TU8005 - Smart TV de 75" 4K HDR 10+...'
 sku: 'B083T4N3GJ-es'
-tags: [ 'alexa', ]
 actualPrice: 869.99 EUR
 currency: EUR
 price: 869.99

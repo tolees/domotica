@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084XSS8MH-es LG 65UN7100 - Smart TV 4K UHD 164 cm 65" con Inteligencia...'
 sku: 'B084XSS8MH-es'
-tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','lg', ]
 actualPrice: 648.0 EUR
 currency: EUR
 price: 648.0

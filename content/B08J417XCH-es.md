@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J417XCH-es Samsung Crystal UHD 2020 43TU7095 - Smart TV de 43" 4K HDR...'
 sku: 'B08J417XCH-es'
-tags: [ 'alexa', ]
 actualPrice: 369.99 EUR
 currency: EUR
 price: 369.99

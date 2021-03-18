@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZF9GM37-es WIFI Tiras LED Alexa Inteligente TASMOR Luces LED RGB 5M...'
 sku: 'B07ZF9GM37-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

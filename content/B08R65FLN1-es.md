@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R65FLN1-es Bombillas LED GU10 Smart WIFI LED luz blanca cálida...'
 sku: 'B08R65FLN1-es'
-tags: [ 'alexa','google','home', ]
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

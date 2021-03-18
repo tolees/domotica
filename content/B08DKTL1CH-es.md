@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKTL1CH-es Amazfit Banda 5 Rastreador de ejercicios con Alexa...'
 sku: 'B08DKTL1CH-es'
-tags: [ 'alexa', ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9
