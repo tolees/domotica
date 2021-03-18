@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQJTFCL-es ETEKCITY ESW01-EU Enchufe WiFi Inteligente Programable...'
 sku: 'B07FQJTFCL-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home','ifttt', ]
+tags: [ 'alexa','google','home','ifttt', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

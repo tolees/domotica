@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XNW4VL5-es LEFANT Robot Aspirador WiFi Aspirador de Limpieza con App...'
 sku: 'B07XNW4VL5-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SS37Y3J-es Philips Hue White Ambiance bombilla LED inteligente E27...'
 sku: 'B07SS37Y3J-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home','hue','philips', ]
+tags: [ 'alexa','google','home','hue','philips', ]
 actualPrice: 22.85 EUR
 currency: EUR
 price: 22.85

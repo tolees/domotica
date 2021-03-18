@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3Z3WKS-es 2P 63-90A Interruptor de circuito DIN WIFI Interruptor de...'
 sku: 'B08B3Z3WKS-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

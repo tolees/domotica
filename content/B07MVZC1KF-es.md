@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVZC1KF-es LoraTap Interruptor Persianas WiFi Interruptor Táctil de...'
 sku: 'B07MVZC1KF-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

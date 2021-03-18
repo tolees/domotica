@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQ2FZTK-es Philips Hue Go Lámpara de Mesa Inteligente LED con...'
 sku: 'B07SQ2FZTK-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home','hue','philips', ]
+tags: [ 'alexa','google','home','hue','philips', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

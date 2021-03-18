@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PF8XYKS-es Enchufe Smart Zoozee Wi-Fi Enchufe Inteligente 16A...'
 sku: 'B07PF8XYKS-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','enchufe','google','home','inteligente', ]
+tags: [ 'alexa','enchufe','google','home','inteligente', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

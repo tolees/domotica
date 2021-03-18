@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQS25LB-es Enchufe Inteligente WiFi Koogeek Mini Smart Plug Control...'
 sku: 'B07YQS25LB-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','enchufe','inteligente', ]
+tags: [ 'enchufe','inteligente', ]
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

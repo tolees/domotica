@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X7V6XJ5-es Wifi Bombillas LED E27 Inteligente Regulable de blanco de...'
 sku: 'B07X7V6XJ5-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home', ]
+tags: [ 'alexa','google','home', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFRCBMB-es NAPATEK Lámpara Escritorio LED Lámpara De Mesa Para El...'
 sku: 'B07YFRCBMB-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

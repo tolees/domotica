@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GKM7NSP-es Bombilla LED Inteligente WiFi Regulable 12W E27 Bombilla...'
 sku: 'B08GKM7NSP-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home','ifttt', ]
+tags: [ 'alexa','google','home','ifttt', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

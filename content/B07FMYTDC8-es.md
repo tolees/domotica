@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMYTDC8-es ETEKCITY ESW01-EU Enchufe WiFi Inteligente para Alexa...'
 sku: 'B07FMYTDC8-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home','ifttt', ]
+tags: [ 'alexa','google','home','ifttt', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

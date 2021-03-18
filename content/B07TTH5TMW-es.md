@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTH5TMW-es SwitchBot Hub Mini - Control inteligente infrarrojo enlace...'
 sku: 'B07TTH5TMW-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home','ifttt', ]
+tags: [ 'alexa','google','home','ifttt', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

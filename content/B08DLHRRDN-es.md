@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DLHRRDN-es Sensor de Detector de Humo eWeLink Inalámbrico 433MHz...'
 sku: 'B08DLHRRDN-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','sonoff', ]
+tags: [ 'sonoff', ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

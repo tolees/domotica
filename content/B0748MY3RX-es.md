@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0748MY3RX-es Philips Hue Kit 3 Bombillas Inteligentes LED E27 con...'
 sku: 'B0748MY3RX-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home','hue','philips', ]
+tags: [ 'alexa','google','home','hue','philips', ]
 actualPrice: 159.03 EUR
 currency: EUR
 price: 159.03

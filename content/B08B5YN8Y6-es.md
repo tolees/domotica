@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5YN8Y6-es Echo Plus 2.ª generación tela de color gris oscuro +...'
 sku: 'B08B5YN8Y6-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','hue','philips', ]
+tags: [ 'hue','philips', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

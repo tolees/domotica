@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08125HQJV-es Amazon Echo 3.ª generación tela de color gris oscuro +...'
 sku: 'B08125HQJV-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','amazon','echo','hue','philips', ]
+tags: [ 'amazon','echo','hue','philips', ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

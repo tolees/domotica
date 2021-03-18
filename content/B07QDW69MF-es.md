@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QDW69MF-es Funda de Silicona para Fire TV Stick 4K Control Remoto...'
 sku: 'B07QDW69MF-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRM8TWF-es RGB Tira Led Alexa Uzone WiFi 5050 RGB 5m Luces de Tira...'
 sku: 'B07RRM8TWF-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home', ]
+tags: [ 'alexa','google','home', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

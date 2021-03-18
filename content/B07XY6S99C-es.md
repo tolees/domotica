@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XY6S99C-es Philips Hue Enchufe conectado'
 sku: 'B07XY6S99C-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','hue','philips', ]
+tags: [ 'hue','philips', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

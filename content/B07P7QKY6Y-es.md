@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7QKY6Y-es Zyxel Multy U sistema de malla WiFi AC2100 triple banda...'
 sku: 'B07P7QKY6Y-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
+tags: [ 'alexa', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0
