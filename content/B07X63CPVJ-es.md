@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X63CPVJ-es Amazon Fire TV Stick con mando por voz Alexa + Echo Dot...'
 sku: 'B07X63CPVJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Bricolaje y herramientas','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Instalación eléctrica','Robots aspiradores','Tiras LED de interior','alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa', ]
 actualPrice: 79.98 EUR
 currency: EUR
 price: 79.98

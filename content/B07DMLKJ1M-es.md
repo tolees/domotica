@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DMLKJ1M-es LEDMOMO 2Pcs Full LED Protectores de pantalla para Amazon...'
 sku: 'B07DMLKJ1M-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Bricolaje y herramientas','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Instalación eléctrica','Robots aspiradores','Tiras LED de interior','amazon','echo', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','amazon','echo', ]
 actualPrice: 0.6 EUR
 currency: EUR
 price: 0.6

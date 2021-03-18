@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYVSXRM-es Cámara de seguridad al aire libre Panamalar Smart 1080p...'
 sku: 'B07PYVSXRM-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Bricolaje y herramientas','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Instalación eléctrica','Robots aspiradores','Tiras LED de interior','alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa', ]
 actualPrice: 62.27 EUR
 currency: EUR
 price: 62.27

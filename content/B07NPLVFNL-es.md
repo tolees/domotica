@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPLVFNL-es Jabra Elite Active 45E Auriculares Deportivos Inalámbricos...'
 sku: 'B07NPLVFNL-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Bricolaje y herramientas','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Instalación eléctrica','Robots aspiradores','Tiras LED de interior','alexa', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa', ]
 actualPrice: 82.52 EUR
 currency: EUR
 price: 82.52

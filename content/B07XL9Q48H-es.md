@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XL9Q48H-es Enchufe Inteligente WiFi Lunvon Toma de Interruptor Remoto...'
 sku: 'B07XL9Q48H-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Bricolaje y herramientas','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Instalación eléctrica','Robots aspiradores','Tiras LED de interior','enchufe','google','home','inteligente', ]
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','enchufe','google','home','inteligente', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
