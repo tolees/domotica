@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792MHLM4-es Echo Dot 3.ª generación - Altavoz inteligente con Alexa...'
 sku: 'B0792MHLM4-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XK1HM1B-es Enchufe Inteligente Wi-Fi Smart Plug 16A 3680W Mide el...'
 sku: 'B07XK1HM1B-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','enchufe','inteligente', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','enchufe','inteligente', ]
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

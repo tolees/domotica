@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085LM64KT-es ACEMATE Bombilla inteligente LED 2.4G WiFi Regulable...'
 sku: 'B085LM64KT-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','google','home','ifttt', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home','ifttt', ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

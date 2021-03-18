@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V1KGPM4-es Amazon Echo 3.ª generación reacondicionado certificado...'
 sku: 'B07V1KGPM4-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','amazon','echo', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','amazon','echo', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J8TGO18-es Bombilla Inteligente Anoopsyche Wifi LED Bombillas 9W...'
 sku: 'B00J8TGO18-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

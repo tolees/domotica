@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788Q8QMG-es singhong WiFi inteligentes RGBW bombilla LED Control de...'
 sku: 'B0788Q8QMG-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
 actualPrice: 10.38 EUR
 currency: EUR
 price: 10.38

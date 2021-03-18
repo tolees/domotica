@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPCK5KS-es HENMI 10 A Interruptor WiFi DIY Módulo de Interruptor...'
 sku: 'B07FPCK5KS-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','google','home', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

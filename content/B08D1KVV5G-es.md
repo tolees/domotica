@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D1KVV5G-es Echo Dot 3.ª generación - Altavoz inteligente con reloj y...'
 sku: 'B08D1KVV5G-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','enchufe','inteligente', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','enchufe','inteligente', ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

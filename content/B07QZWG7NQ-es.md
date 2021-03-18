@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZWG7NQ-es Lámparas de Pie WIFI Wellwerks Lámpara de Salón...'
 sku: 'B07QZWG7NQ-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
 actualPrice: 59.39 EUR
 currency: EUR
 price: 59.39

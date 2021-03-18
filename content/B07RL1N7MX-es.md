@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RL1N7MX-es Edison LED Bombilla Alexa-Lumary WiFi Bombilla E27 Edison...'
 sku: 'B07RL1N7MX-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

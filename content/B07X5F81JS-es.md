@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X5F81JS-es Bose 700 - Auriculares con cancelación de Ruido con Alexa...'
 sku: 'B07X5F81JS-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
 actualPrice: 309.99 EUR
 currency: EUR
 price: 309.99

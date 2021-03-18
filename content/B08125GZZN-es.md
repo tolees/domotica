@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08125GZZN-es Echo Flex + Philips Hue White & Color Ambiance Pack de 2...'
 sku: 'B08125GZZN-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','hue','philips', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','hue','philips', ]
 actualPrice: 88.98 EUR
 currency: EUR
 price: 88.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X63CPVJ-es Amazon Fire TV Stick con mando por voz Alexa + Echo Dot...'
 sku: 'B07X63CPVJ-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
 actualPrice: 79.98 EUR
 currency: EUR
 price: 79.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DFPLRD-es TopHGC Bombilla inteligente E14 WiFi 2PCS 6W Colores RGB...'
 sku: 'B083DFPLRD-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','google','home', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','google','home', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

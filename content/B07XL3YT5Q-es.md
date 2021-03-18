@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XL3YT5Q-es ECOOLBUY WiFi Inteligente Bajo Techo en Exteriores...'
 sku: 'B07XL3YT5Q-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','google','home','ifttt', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home','ifttt', ]
 actualPrice: 25.91 EUR
 currency: EUR
 price: 25.91

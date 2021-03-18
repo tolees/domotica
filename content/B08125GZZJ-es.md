@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08125GZZJ-es Echo Show 5 negro + Philips Hue White & Color Ambiance...'
 sku: 'B08125GZZJ-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','hue','philips', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','hue','philips', ]
 actualPrice: 124.16 EUR
 currency: EUR
 price: 124.16

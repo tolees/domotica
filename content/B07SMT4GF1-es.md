@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMT4GF1-es Bombilla LED WiFi Inteligente 9W 900lm Lámpara Funciona...'
 sku: 'B07SMT4GF1-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','google','home','ifttt', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home','ifttt', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GRQ1F2P-es Bovon Estante de Pared Pequeña Estante Mural para Echo Dot...'
 sku: 'B07GRQ1F2P-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','google','wifi', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','google','wifi', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

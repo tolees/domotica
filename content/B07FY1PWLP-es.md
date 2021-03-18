@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FY1PWLP-es Philips Hue Play Barra de luz regulable compatible con...'
 sku: 'B07FY1PWLP-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','google','home','hue','philips', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home','hue','philips', ]
 actualPrice: 93.89 EUR
 currency: EUR
 price: 93.89

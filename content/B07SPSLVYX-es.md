@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPSLVYX-es Tiras de LED REAFOO WiFi Tira LED impermeable 5M 5050...'
 sku: 'B07SPSLVYX-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJ2CCVX-es meross Enchufe Inteligente Mide el Consumo 16A 3680W...'
 sku: 'B07HJ2CCVX-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','enchufe','inteligente', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','enchufe','inteligente', ]
 actualPrice: 35.86 EUR
 currency: EUR
 price: 35.86

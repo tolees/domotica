@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2WSKVK-es Echo Plus 2.ª generación tela de color antracita + Philips...'
 sku: 'B07H2WSKVK-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','hue','philips', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','hue','philips', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

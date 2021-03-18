@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WBZXCNF-es YISSVIC WIFI Tira LED Tiras de LED Inteligente 5m 5050RGB...'
 sku: 'B07WBZXCNF-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa','google','home','ifttt', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa','google','home','ifttt', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZLCP9JH-es Echo Dot 3.ª generación - Altavoz inteligente con Alexa...'
 sku: 'B07ZLCP9JH-es'
-tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','TV, vídeo y home cinema','Televisores','alexa', ]
+tags: [ 'Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Pantallas inteligentes','alexa', ]
 actualPrice: 149.98 EUR
 currency: EUR
 price: 149.98
