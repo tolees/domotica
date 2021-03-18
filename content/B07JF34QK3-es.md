@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JF34QK3-es KIWI design Batería Compatible con Home Mini de Google...'
 sku: 'B07JF34QK3-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','google','home', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','google','home', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

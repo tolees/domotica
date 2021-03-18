@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08125HQJV-es Amazon Echo 3.ª generación tela de color gris oscuro +...'
 sku: 'B08125HQJV-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','amazon','echo','hue','philips', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','amazon','echo','hue','philips', ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

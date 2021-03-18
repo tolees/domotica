@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRXWFGF-es BLUEMYTH Robot Aspirador y Fregasuelos 3 en 1 Navegación...'
 sku: 'B07ZRXWFGF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

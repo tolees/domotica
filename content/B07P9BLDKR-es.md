@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P9BLDKR-es Amazon Echo 3.ª generación - Altavoz inteligente con Alexa...'
 sku: 'B07P9BLDKR-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa','amazon','echo', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','amazon','echo', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

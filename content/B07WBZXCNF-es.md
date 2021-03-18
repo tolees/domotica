@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WBZXCNF-es YISSVIC WIFI Tira LED Tiras de LED Inteligente 5m 5050RGB...'
 sku: 'B07WBZXCNF-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa','google','home','ifttt', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','google','home','ifttt', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

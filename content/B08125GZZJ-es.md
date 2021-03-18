@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08125GZZJ-es Echo Show 5 negro + Philips Hue White & Color Ambiance...'
 sku: 'B08125GZZJ-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','hue','philips', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','hue','philips', ]
 actualPrice: 124.16 EUR
 currency: EUR
 price: 124.16

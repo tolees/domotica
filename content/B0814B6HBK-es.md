@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814B6HBK-es Echo Show 5 negro + EZVIZ ezTube 1080p Cámara de Seguridad...'
 sku: 'B0814B6HBK-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa', ]
 actualPrice: 144.75 EUR
 currency: EUR
 price: 144.75

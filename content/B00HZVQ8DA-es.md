@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HZVQ8DA-es Philips Hue Bloom Lámpara de Mesa Inteligente LED Luz...'
 sku: 'B00HZVQ8DA-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa','google','home','hue','philips', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','google','home','hue','philips', ]
 actualPrice: 56.98 EUR
 currency: EUR
 price: 56.98

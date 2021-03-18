@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YKFHH8J-es LVWIT Bombillas LED Golf E14 RGB Inteligente WiFi 5W 470...'
 sku: 'B07YKFHH8J-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa','google','home', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','google','home', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

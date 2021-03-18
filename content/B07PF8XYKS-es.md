@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PF8XYKS-es Enchufe Smart Zoozee Wi-Fi Enchufe Inteligente 16A...'
 sku: 'B07PF8XYKS-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa','enchufe','google','home','inteligente', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','enchufe','google','home','inteligente', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

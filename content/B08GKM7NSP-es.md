@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GKM7NSP-es Bombilla LED Inteligente WiFi Regulable 12W E27 Bombilla...'
 sku: 'B08GKM7NSP-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa','google','home','ifttt', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','google','home','ifttt', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

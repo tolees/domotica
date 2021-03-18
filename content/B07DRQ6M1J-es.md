@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRQ6M1J-es Enchufe Inteligente Wifi AISIRER Monitor de Energía...'
 sku: 'B07DRQ6M1J-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa','enchufe','google','home','ifttt','inteligente', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','enchufe','google','home','ifttt','inteligente', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

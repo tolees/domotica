@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFRCBMB-es NAPATEK Lámpara Escritorio LED Lámpara De Mesa Para El...'
 sku: 'B07YFRCBMB-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

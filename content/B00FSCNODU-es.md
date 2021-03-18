@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FSCNODU-es Sonos Play: 1 - Altavoz Inteligente Compatible con...'
 sku: 'B00FSCNODU-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','amazon','echo', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','amazon','echo', ]
 actualPrice: 135.33 EUR
 currency: EUR
 price: 135.33

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJWMC3Y-es Enchufe inteligente wifi，SOONAN Interruptor Control Remoto...'
 sku: 'B07QJWMC3Y-es'
-tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Dispositivos de red','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Robots aspiradores','Sistemas WiFi Mesh','Tiras LED de interior','alexa','enchufe','ifttt','inteligente', ]
+tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','alexa','enchufe','ifttt','inteligente', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75
