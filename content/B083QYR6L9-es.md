@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung QLED 2020 55Q80T - Smart TV de 5 al 43.79 % de rebaja'
-date: 2021-03-19 07:57:48
+title: 'Samsung QLED 2020 55Q80T - Smart TV de 5 al 26.54 % de rebaja'
+date: 2021-03-20 07:59:33
 image: 'https://m.media-amazon.com/images/I/41rZ6haDKWL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,34 +9,34 @@ author: 'tole.es'
 slug: 'B083QYR6L9-es Samsung QLED 2020 55Q80T - Smart TV de 55" 4K UHD Direct...'
 sku: 'B083QYR6L9-es'
 tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','alexa','samsung', ]
-actualPrice: 799.0 EUR
+actualPrice: 1044.29 EUR
 currency: EUR
-price: 799.0
+price: 1044.29
 comparePrice: 1421.49 EUR
 prodname: 'Samsung QLED 2020 55Q80T - Smart TV de 55" 4K UHD  Direct Full Array HDR 1500  Inteligencia Artificial  HDR 10+  Ambient Mode+  One Remote Control y Asistentes de Voz integrado  con Alexa integrada'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B083QYR6L9/?tag=tolees-21'
-descuento: '43.79'
-average: '963.333333333333'
+descuento: '26.54'
+average: '983.5725'
 ---
 
-Tienes [Samsung QLED 2020 55Q80T - Smart TV de 55" 4K UHD  Direct Full Array HDR 1500  Inteligencia Artificial  HDR 10+  Ambient Mode+  One Remote Control y Asistentes de Voz integrado  con Alexa integrada](https://www.amazon.es/dp/B083QYR6L9/?tag=tolees-21) con precio final de  799.0 EUR (original: 1421.49 EUR) (43.79 %  de rebaja) aqui!
+Tienes [Samsung QLED 2020 55Q80T - Smart TV de 55" 4K UHD  Direct Full Array HDR 1500  Inteligencia Artificial  HDR 10+  Ambient Mode+  One Remote Control y Asistentes de Voz integrado  con Alexa integrada](https://www.amazon.es/dp/B083QYR6L9/?tag=tolees-21) con precio final de  1044.29 EUR (original: 1421.49 EUR) (26.54 %  de rebaja) aqui!
 
 [![Samsung QLED 2020 55Q80T - Smart TV de 5](https://m.media-amazon.com/images/I/41rZ6haDKWL._SL400_.jpg)](https://www.amazon.es/dp/B083QYR6L9/?tag=tolees-21)
 
 🔎:
 
-- Active voice amplifier (ava) el televisor ajusta el volumen y claridad de los diálogos cuando detecta un ruido constante a su alrededor
-- Smart tv con tizen y guía universal descubre una amplia plataforma de contenidos y accede fácilmente a ellos de forma personalizada
-- Asistentes de voz: accede a tu contenido favorito a través de los asistentes de voz, como alexa, ahora integrados en el propio televisor. Puedes hablar con Alexa y controlar tu tele. Con Alexa, puedes reproducir música, escuchar noticias, conocer la previsión del tiempo, controlar dispositivos de Hogar digital y más.
 - Inteligencia artifical 4k samsung aplica tecnología de inteligencia artificial para transformar y mejorar la calidad de sonido e imagen, independientemente de la fuente de origen
-- One remote control accede a todas las aplicaciones de tu smart tv, decodificador o consola desde un solo mando
-- Hdr 10+ la tecnología hdr crea negros más profundos y potencía el nivel de detalle de cada escena
-- Wide viewing angle la calidad de imagen e intensidad de los colores se mantienen independientemente del lugar donde estés sentado
-- Qled tv con quantum dot tecnología inorgánica que reproduce el 100% del volumen de color con cualquier nivel de brillo con Alexa integrada
 - Direct full array hdr 1500 con un brillo de hasta 1500 nits, qled controla la iluminación trasera analizando escena por escena y mejora el contraste añadiendo profundidad en los detalles
+- Wide viewing angle la calidad de imagen e intensidad de los colores se mantienen independientemente del lugar donde estés sentado
+- Asistentes de voz: accede a tu contenido favorito a través de los asistentes de voz, como alexa, ahora integrados en el propio televisor. Puedes hablar con Alexa y controlar tu tele. Con Alexa, puedes reproducir música, escuchar noticias, conocer la previsión del tiempo, controlar dispositivos de Hogar digital y más.
+- Qled tv con quantum dot tecnología inorgánica que reproduce el 100% del volumen de color con cualquier nivel de brillo con Alexa integrada
+- One remote control accede a todas las aplicaciones de tu smart tv, decodificador o consola desde un solo mando
+- Active voice amplifier (ava) el televisor ajusta el volumen y claridad de los diálogos cuando detecta un ruido constante a su alrededor
 - Ots (object tracking sound) gracias a sus 6 altavoces y la inteligencia artificial, el sonido se reproduce solo en el lugar exacto donde ocurre la acción
+- Smart tv con tizen y guía universal descubre una amplia plataforma de contenidos y accede fácilmente a ellos de forma personalizada
+- Hdr 10+ la tecnología hdr crea negros más profundos y potencía el nivel de detalle de cada escena
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083QYR6L9/?tag=tolees-21)
