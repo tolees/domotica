@@ -29,10 +29,10 @@ En este momento está [LG 65UN7100 - Smart TV 4K UHD 164 cm  65"  con Inteligenc
 🔎:
 
 - Sistema operativo SmartTV webOS 5.0
+- Caja reforzada para Amazon (certificación ISTA 6) con diseño genérico LG 65UN71006LB
 - Disfruta de la experiencia del Sonido Ultra Surround
 - Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, no incluido, Compatible con Alexa
 - Compatible con HDR10 Pro y HLG
-- Caja reforzada para Amazon (certificación ISTA 6) con diseño genérico LG 65UN71006LB
 - LG UHD, el Smart TV 4K UHD de 164 cm (65") compatible con Inteligencia Artificial
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084XSS8MH/?tag=tolees-21)
