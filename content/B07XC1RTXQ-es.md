@@ -28,12 +28,12 @@ Está [Philips Hue Bluetooth Pack 2 Bombillas Inteligentes LED E27 y Puente  Luz
 
 ℹ️:
 
-- Regulación sin instalación: experimenta luz LED blanca y de colores; temperatura de color: 2000 a 6500 kelvin; elige entre 16 millones de colores y sincroniza la luz con música y películas
-- Con el puente Hue puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa cuando no sea así
-- El paquete incluye: 2 bombillas inteligentes LED E27 + puente de conexión
-- Si utilizas el puente usa la app Philips Hue y saca el potencial a la iluminación inteligente
-- Controla las luces desde tu smartphone o tableta: para control por Bluetooth descárgate la app gratis Hue Bluetooth
 - Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa y Google Home
+- El paquete incluye: 2 bombillas inteligentes LED E27 + puente de conexión
+- Con el puente Hue puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa cuando no sea así
+- Regulación sin instalación: experimenta luz LED blanca y de colores; temperatura de color: 2000 a 6500 kelvin; elige entre 16 millones de colores y sincroniza la luz con música y películas
+- Si utilizas el puente usa la app Philips Hue y saca el potencial a la iluminación inteligente
 - Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue incluido en el pack controla la luz de toda la casa, hasta 50 bombillas
+- Controla las luces desde tu smartphone o tableta: para control por Bluetooth descárgate la app gratis Hue Bluetooth
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XC1RTXQ/?tag=tolees-21)
