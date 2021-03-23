@@ -28,10 +28,10 @@ Tienes [proscenic 808C Humidificador 5.3L ultrasónico e Inteligente Compatible 
 
 ℹ️:
 
-- Humidificador inteligente: Detecta la humedad y la temperatura en cualquier momento del aire.Cuando la humedad del aire configurada es alta que la del aire, el humidificador deja de trabajar automaticámente e inteligentemente.
-- Multi-funciones:Función de reserva;Modo de Bebé;Función de iones negativos;Función de memoria;Apagado automático;Boquilla rociadora de 360 grados;Dormir sin ruido y molestia;Gran capacidad
 - Control de aplicación y Nombre: ProscenicHome: Se puede seleccionar fácilmente el modo solo con un toque y ofrece más funciones elegibles que el tradicional. Te muestra la información rica en la pantalla y la app. Puedes pedir tarea retrasada,adjustas el nivel de niebla,hace la niebla calentar en 15 minutos que ayuda aliviar el tos y te deja dormir mejor por la noche. *Nombre de Alexa: Proscenic Humidifier
 - Dormir sin ruido y molestia: Produce menos de 38 dB que incluso los bebés no sienten nada, más silencioso que el ruido de voltear libro. Además,la luz de la pantalla se permite apagar, es amigable para un sueño bueno.
 - Gran capacidad 5.3L: El tanque de agua soporta 30 horas de emisión al máximo. Para tener mejor efecto, es recomendable ponerlo en la mesa,sino en el suelo. Consejo: no se permite agregar agua caliente. Hay que limpiar el tanque de agua cada 5-7 días por bien de salud.
+- Multi-funciones:Función de reserva;Modo de Bebé;Función de iones negativos;Función de memoria;Apagado automático;Boquilla rociadora de 360 grados;Dormir sin ruido y molestia;Gran capacidad
+- Humidificador inteligente: Detecta la humedad y la temperatura en cualquier momento del aire.Cuando la humedad del aire configurada es alta que la del aire, el humidificador deja de trabajar automaticámente e inteligentemente.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B083XCZGM5/?tag=tolees-21)
