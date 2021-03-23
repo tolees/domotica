@@ -28,10 +28,10 @@ Está [TECKIN WiFi Enchufe Inteligente 16A 3300W Mini Smart Plug Funciona con Si
 
 ℹ️:
 
+- Establecer el horario y los temporizadores: Con la aplicación Smart Life, puede programar una lámpara para que se encienda al atardecer o mantener su casa cómoda programando un ventilador para que se encienda antes de llegar.
+- Mini plug e potente: Teckin Mini Smart Plug presenta un nuovo design elegante e ti farà risparmiare spazio, Facile da usare e installare, richiede una connessione Wi-Fi protetta a 2,4 GHz, funziona con AC100-240 V, carico massimo di 16 A. Puoi anche creare un gruppo per tutti i tuoi dispositivi intelligenti e controllarli tutti con un solo comando.
 - Control remoto voz: Enchufe inteligente TECKIN, descargue la aplicación Smart Life y controle sus luces y electrodomésticos desde su teléfono y su voz a través de Amazon Alexa o el Asistente de Google. Solo necesita Wi-Fi. No se requiere hub o suscripción.
 - Consejos Cálidos: Si encuentra algún problema o necesita más ayuda, infórmenos a través de Amazon directamente. Nos complace recibir sus sugerencias para nuestros productos.
-- Mini plug e potente: Teckin Mini Smart Plug presenta un nuovo design elegante e ti farà risparmiare spazio, Facile da usare e installare, richiede una connessione Wi-Fi protetta a 2,4 GHz, funziona con AC100-240 V, carico massimo di 16 A. Puoi anche creare un gruppo per tutti i tuoi dispositivi intelligenti e controllarli tutti con un solo comando.
-- Establecer el horario y los temporizadores: Con la aplicación Smart Life, puede programar una lámpara para que se encienda al atardecer o mantener su casa cómoda programando un ventilador para que se encienda antes de llegar.
 - Fácil de usar e instalar: Todo lo que necesita hacer es configurar su enchufe inteligente con red Wi-Fi, conectar y registrar los dispositivos. El enchufe inteligente es compatible con la red inalámbrica de 2.4GHz. (No es compatible con la red inalámbrica de 5 GHz). El enchufe inteligente es compatible con el sistema operativo Android e IOS. Puede usar un teléfono inteligente para conectar y controlar múltiples dispositivos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HJB26DB/?tag=tolees-21)
