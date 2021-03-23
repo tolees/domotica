@@ -28,14 +28,14 @@ En este momento está [Netatmo Estación Meteorológica Inalámbrica Interior Ex
 
 🔎:
 
-- Analiza el pasado: accede el histórial de tus datos para observar lo que sucede cuando no estás o analiza los gráficos para entender las tendencias meteorológicas
-- Accede a tus datos a distancia y con tu voz: accede con total facilidad y en todo momento a tus mediciones meteorológicas desde tu smartphone, tableta u ordenador, o utilizando tu voz para interactuar con alexa en amazon echo o con siri gracias a la compatibilidad con apple homekit
 - Únete a la comunidad netatmo: comparte tus datos meteorológicos con tus amigos y consulta nuestro weathermap para comparar tus datos con los de nuestra comunidad de estaciones meteorológicas
-- Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
-- Recibe alertas en tiempo real: con nuestra estación meteorológica, configura alertas interiores y exteriores y recibe notificaciones en tu smartphone; sabrás cuando hay que ventilar con la alerta de ventilación
-- Fácil instalación y aplicación gratuita: la instalación de tu estación meteorológica wifi es fácil y la aplicación es gratuita para siempre
 - Apuesta por una concepción francesa y un diseño elegante: se acabaron las estaciones meteorológicas poco estéticas, la estación meteorológica interior exterior netatmo se integra en tu casa
-- Controla en tiempo real tu ambiente interior y exterior: temperatura, humedad y calidad del aire al interior y exterior, nivel del ruido interior, presión barométrica
+- Recibe alertas en tiempo real: con nuestra estación meteorológica, configura alertas interiores y exteriores y recibe notificaciones en tu smartphone; sabrás cuando hay que ventilar con la alerta de ventilación
+- Analiza el pasado: accede el histórial de tus datos para observar lo que sucede cuando no estás o analiza los gráficos para entender las tendencias meteorológicas
 - Prevé el futuro: consulta las previsiones meteorológicas de 7 días para adaptar tu vestimenta y tus actividades en el exterior
+- Fácil instalación y aplicación gratuita: la instalación de tu estación meteorológica wifi es fácil y la aplicación es gratuita para siempre
+- Controla en tiempo real tu ambiente interior y exterior: temperatura, humedad y calidad del aire al interior y exterior, nivel del ruido interior, presión barométrica
+- Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
+- Accede a tus datos a distancia y con tu voz: accede con total facilidad y en todo momento a tus mediciones meteorológicas desde tu smartphone, tableta u ordenador, o utilizando tu voz para interactuar con alexa en amazon echo o con siri gracias a la compatibilidad con apple homekit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0098MGWA8/?tag=tolees-21)
