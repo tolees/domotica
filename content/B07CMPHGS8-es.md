@@ -28,12 +28,12 @@ En este momento está [D-Link DCS-8525LH - Cámara de vigilancia/seguridad WiFi 
 
 🔎:
 
-- Movimiento de hasta 340° en horizontal y 110° en vertical, con infrarrojos, para poder ver incluso en la más completa oscuridad, y con zoom digital táctil desde la propia app gratuita
-- Compatible con Amazon Alexa, Google Home o IFTTT, que permite usar tu voz para enviar el vídeo de la cámara a un SmartTV, o activar el modo de privacidad
-- Video vigilancia sin cuotas mensuales, ver y oír lo que ocurra en tu casa exclusivamente desde tu móvil o tableta estés donde estés con la app gratuita mydlink para iOS o Android, fácil de usar
-- Notificaciones push: recibe notificaciones emergentes si la cámara detecta movimiento o sonido, con parámetros de detección personalizables
-- Graba vídeos y fotos en tu móvil, en la nube o en microSD: En la nube gratuitamente hasta 3 cámaras y hasta 24h atrás (existen opciones de pago); también graba en móvil o tarjeta microSD (no incluida)
-- Interactúa con otros dispositivos de la familia de productos mydlink, de forma que puede encenderse una luz cuando la cámara detecta movimiento, y acciones similares
 - Sonido bidireccional: Micrófono y altavoz integrados, que permiten tener una comunicación oral bidireccional
+- Compatible con Amazon Alexa, Google Home o IFTTT, que permite usar tu voz para enviar el vídeo de la cámara a un SmartTV, o activar el modo de privacidad
+- Movimiento de hasta 340° en horizontal y 110° en vertical, con infrarrojos, para poder ver incluso en la más completa oscuridad, y con zoom digital táctil desde la propia app gratuita
+- Notificaciones push: recibe notificaciones emergentes si la cámara detecta movimiento o sonido, con parámetros de detección personalizables
+- Video vigilancia sin cuotas mensuales, ver y oír lo que ocurra en tu casa exclusivamente desde tu móvil o tableta estés donde estés con la app gratuita mydlink para iOS o Android, fácil de usar
+- Interactúa con otros dispositivos de la familia de productos mydlink, de forma que puede encenderse una luz cuando la cámara detecta movimiento, y acciones similares
+- Graba vídeos y fotos en tu móvil, en la nube o en microSD: En la nube gratuitamente hasta 3 cámaras y hasta 24h atrás (existen opciones de pago); también graba en móvil o tarjeta microSD (no incluida)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CMPHGS8/?tag=tolees-21)
