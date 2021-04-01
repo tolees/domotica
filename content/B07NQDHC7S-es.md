@@ -28,11 +28,11 @@ Ahora mismo tienes [Amazon - Echo Studio - Altavoz inteligente con sonido de alt
 
 🔎:
 
+- Controla la música con la voz: reproduce en streaming canciones de Amazon Music, Apple Music, Spotify, Deezer y más.
 - Diseñado para proteger tu privacidad: fabricado con varias capas de controles de la privacidad, como un botón que desconecta los micrófonos electrónicamente.
 - Lista para ayudarte: pídele a Alexa que reproduzca música, narre las noticias y responda a preguntas.
-- Controla la música con la voz: reproduce en streaming canciones de Amazon Music, Apple Music, Spotify, Deezer y más.
-- Comunícate con los de casa: usa los dispositivos de Alexa como un intercomunicador y habla con cualquier estancia de la casa con Drop In y la función de comunicados.
 - Controlador de Hogar digital integrado: pídele a Alexa que controle dispositivos Zigbee compatibles.
+- Comunícate con los de casa: usa los dispositivos de Alexa como un intercomunicador y habla con cualquier estancia de la casa con Drop In y la función de comunicados.
 - Sonido inmersivo: los 5 altavoces brindan graves potentes, medios dinámicos y agudos nítidos. La tecnología Dolby Atmos añade dimensión espacial, claridad y profundidad.
 - Se adapta a cualquier estancia: detecta automáticamente las características acústicas del espacio y ajusta la reproducción para ofrecer un sonido óptimo.
 
