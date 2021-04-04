@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TAOCOCO Regleta inteligente  Smart Power al 27.77 % de rebaja'
-date: 2021-03-28 15:34:11
+date: 2021-04-04 07:50:01
 image: 'https://m.media-amazon.com/images/I/41oBengadvL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TAOCOCO'
 buyurl: 'https://www.amazon.es/dp/B07VXW29TJ/?tag=tolees-21'
 descuento: '27.77'
-average: '36.09'
+average: '34.5172727272727'
 ---
 
 Tienes [TAOCOCO Regleta inteligente  Smart Power Strip con 4 zócalos y 3 USB  Admite control por voz/Control remoto/Temporizador para la aplicación/Compatible con Alexa Google Home e IFTTT Multiplex Smart](https://www.amazon.es/dp/B07VXW29TJ/?tag=tolees-21) con precio final de  27.44 EUR (original: 37.99 EUR) (27.77 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [TAOCOCO Regleta inteligente  Smart Power Strip con 4 zócalos y 3 USB  A
 
 🔎:
 
-- 🔌 【Función de temporizador】 Cree su propio programa para cada uno de sus dispositivos. Active / desactive sus dispositivos automáticamente en diferentes momentos. Evite sobrecargas y sobrecalentamiento, reduzca las facturas de electricidad y extienda la vida útil de sus productos. Por ejemplo, puede configurarlo para encender el calentador de agua eléctrico a las 6.30 a.m., apagar la luz todos los días a las 11.00 p.m. También puede configurar la rutina del temporizador de apagado automático.
-- 🔌 【Control de voz】 Compatible con Amazon Alexa, el asistente doméstico de Google para control de voz e IFTTT. Ingrese los nombres de los enchufes inteligentes para controlarlos verbalmente, luego funcionará como un mayordomo personal. Por ejemplo, puede hablar con Alexa o Google Home para encender las luces o la cafetera.
 - 🔌 【 Garantía Seguridad y fuerte compatibilidad protection Protección contra sobrecargas y sobretensiones】material ABS de alta calidad, material ignífugo, la seguridad siempre es lo primero. Esta toma de corriente wifi cuenta con certificaciones aprobadas (FCC CE Rohs) que garantizan una protección completa para usted y su equipo y controla la mayoría de los dispositivos, como luces, refrigeradores, ventiladores, aires acondicionados, televisores, computadoras de escritorio y otros equipos.
 - 🔌 【Instalación sencilla y diseño exquisito】 Escanee el código QR en el manual del usuario o descargue la aplicación "Smart Life" a través de App Store / Google Playstore e instálela en minutos. La aplicación es compatible con toda la red móvil (Android e iOS 2G / 3G / 4G / WIFI, etc.). Multi-socket Equipado con 4 enchufes multipropósito y 3 puertos de carga USB (NOTA: los 4 enchufes se pueden controlar individualmente, 3 puertos USB se controlan como una sola unidad). Será más conveniente para
 - 🔌 【Aplicación remota y uso compartido familiar】 El enchufe inteligente le permite controlar sus dispositivos desde cualquier parte del mundo con la aplicación Smart Life. Asegúrese de que su teléfono inteligente esté conectado a Internet (a través de WiFi o red móvil) y que el enchufe inteligente esté conectado a la red Wi-Fi de su hogar. Solo admite la red inalámbrica de 2,4 GHz. Puede administrar la regleta en varios dispositivos simultáneamente.
+- 🔌 【Función de temporizador】 Cree su propio programa para cada uno de sus dispositivos. Active / desactive sus dispositivos automáticamente en diferentes momentos. Evite sobrecargas y sobrecalentamiento, reduzca las facturas de electricidad y extienda la vida útil de sus productos. Por ejemplo, puede configurarlo para encender el calentador de agua eléctrico a las 6.30 a.m., apagar la luz todos los días a las 11.00 p.m. También puede configurar la rutina del temporizador de apagado automático.
+- 🔌 【Control de voz】 Compatible con Amazon Alexa, el asistente doméstico de Google para control de voz e IFTTT. Ingrese los nombres de los enchufes inteligentes para controlarlos verbalmente, luego funcionará como un mayordomo personal. Por ejemplo, puede hablar con Alexa o Google Home para encender las luces o la cafetera.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VXW29TJ/?tag=tolees-21)
