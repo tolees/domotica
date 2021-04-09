@@ -28,10 +28,10 @@ Ahora mismo tienes [TP-Link Tapo P100 - Enchufe Inteligente 2990 W  Inalámbrico
 
 🔎:
 
-- Programación: preestablezca una programación para administrar dispositivos automáticamente
-- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
 - Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
 - Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
 - Control de voz: administre su socket inteligente con comandos de voz a través de Alexa o el asistente de google
+- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
+- Programación: preestablezca una programación para administrar dispositivos automáticamente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GDD17BS/?tag=tolees-21)
