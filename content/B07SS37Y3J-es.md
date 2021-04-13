@@ -28,13 +28,13 @@ En este momento está [Philips Hue Bombilla Inteligente LED E27  con Bluetooth  
 
 🔎:
 
-- Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue controla la luz de toda la casa, hasta 50 bombillas
-- Saca el potencial a tus bombillas Hue agregando el puente (se vende a parte); con él puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa cuando no sea así
-- Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa, Google Home o Apple HomeKit
-- Controla las luces desde tu smartphone o tableta
 - Compatible con Bluetooth y Zigbee (Puente Hue opcional), compatible con Alexa, Google Home y Apple HomeKit
-- Regulación sin instalación: experimenta luz led de blanca cálida a fría (2200 a 6500 k); en la app hue, elige entre luz blanca cálida para relajarte y luz fría para activarte
-- Para control por Bluetooth descárgate la app gratis hue bluetooth, si utilizas el puente usa la app Philips Hue y saca el potencial a la iluminación inteligente
+- Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue controla la luz de toda la casa, hasta 50 bombillas
 - Funciona con los altavoces inteligentes Echo y dispositivos Google Nest (se requiere un puente Hue para Echo, 1ª generación, y Echo Dot, 1.a generación)
+- Saca el potencial a tus bombillas Hue agregando el puente (se vende a parte); con él puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa cuando no sea así
+- Para control por Bluetooth descárgate la app gratis hue bluetooth, si utilizas el puente usa la app Philips Hue y saca el potencial a la iluminación inteligente
+- Controla las luces desde tu smartphone o tableta
+- Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa, Google Home o Apple HomeKit
+- Regulación sin instalación: experimenta luz led de blanca cálida a fría (2200 a 6500 k); en la app hue, elige entre luz blanca cálida para relajarte y luz fría para activarte
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SS37Y3J/?tag=tolees-21)
