@@ -1,32 +1,40 @@
 ---
 layout: post
-title: 'Philips Hue White Ambiance bombilla LED  con un 23.71 % de descuento'
-date: 2019-12-31 17:47:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OyyqRTHvL._SL400_.jpg'
+title: 'Philips Hue Bombilla Inteligente LED E27 con un 15.13 % de descuento'
+date: 2021-04-13 15:46:42
+image: 'https://m.media-amazon.com/images/I/41OyyqRTHvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07SS37Y3J-es Philips Hue White Ambiance bombilla LED inteligente E27...'
+slug: 'B07SS37Y3J-es Philips Hue Bombilla Inteligente LED E27 con Bluetooth Luz...'
 sku: 'B07SS37Y3J-es'
-tags: [ 'alexa','google','home','hue','philips', ]
-actualPrice: 22.85 EUR
+tags: [ 'Bombillas','Bombillas LED','Iluminación','Iluminación de interior','alexa','google','home','hue','philips','philips hue', ]
+actualPrice: 25.42 EUR
 currency: EUR
-price: 22.85
+price: 25.42
 comparePrice: 29.95 EUR
-prodname: 'Philips Hue White Ambiance bombilla LED inteligente E27  luz blanca de cálida a fría  compatible con Bluetooth y Zigbee  Puente Hue opcional   funciona con Alexa y Google Home'
+prodname: 'Philips Hue Bombilla Inteligente LED E27  con Bluetooth  Luz Blanca de Cálida a Fría  Compatible con Alexa y Google Home'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Philips Hue'
 buyurl: 'https://www.amazon.es/dp/B07SS37Y3J/?tag=tolees-21'
-descuento: '23.71'
-average: '22.85'
+descuento: '15.13'
+average: '23.7066666666667'
 ---
 
-En este momento está [Philips Hue White Ambiance bombilla LED inteligente E27  luz blanca de cálida a fría  compatible con Bluetooth y Zigbee  Puente Hue opcional   funciona con Alexa y Google Home](https://www.amazon.es/dp/B07SS37Y3J/?tag=tolees-21) a 22.85 EUR (original: 29.95 EUR) (23.71 %  de descuento) en el siguiente enlace!
+En este momento está [Philips Hue Bombilla Inteligente LED E27  con Bluetooth  Luz Blanca de Cálida a Fría  Compatible con Alexa y Google Home](https://www.amazon.es/dp/B07SS37Y3J/?tag=tolees-21) a 25.42 EUR (original: 29.95 EUR) (15.13 %  de descuento) en el siguiente enlace!
 
-[![Philips Hue White Ambiance bombilla LED ](https://images-eu.ssl-images-amazon.com/images/I/41OyyqRTHvL._SL400_.jpg)](https://www.amazon.es/dp/B07SS37Y3J/?tag=tolees-21)
+[![Philips Hue Bombilla Inteligente LED E27](https://m.media-amazon.com/images/I/41OyyqRTHvL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07SS37Y3J/?tag=tolees-21)
 
 🔎:
 
+- Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue controla la luz de toda la casa, hasta 50 bombillas
+- Compatible con Bluetooth y Zigbee (Puente Hue opcional), compatible con Alexa, Google Home y Apple HomeKit
+- Controla las luces desde tu smartphone o tableta
+- Saca el potencial a tus bombillas Hue agregando el puente (se vende a parte); con él puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa cuando no sea así
+- Funciona con los altavoces inteligentes Echo y dispositivos Google Nest (se requiere un puente Hue para Echo, 1ª generación, y Echo Dot, 1.a generación)
+- Regulación sin instalación: experimenta luz led de blanca cálida a fría (2200 a 6500 k); en la app hue, elige entre luz blanca cálida para relajarte y luz fría para activarte
+- Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa, Google Home o Apple HomeKit
+- Para control por Bluetooth descárgate la app gratis hue bluetooth, si utilizas el puente usa la app Philips Hue y saca el potencial a la iluminación inteligente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SS37Y3J/?tag=tolees-21)
