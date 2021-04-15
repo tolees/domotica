@@ -28,10 +28,10 @@ Ahora mismo tienes [Woox User manual Enchufe Inteligente Wifi Smart Plug  Blanco
 
 🔎:
 
-- Fácil de instalar sólo se necesitan menos de cinco minutos para ponerlo en marcha descarga la aplicación Woox Home App crea una cuenta y sigue unos sencillos pasos para ponerla en marcha
-- Función de programación y temporizador Establezca un programa para que su electrodoméstico encienda y apague automáticamente su dispositivo electrónico según sea necesario
 - Control por voz El Woox enchufe inteligente es compatible con el Alexa (Echo y Echo Dot) y el asistente de Google por lo que puedes controlar fácilmente los dispositivos por voz woox hace tu vida más fácil e inteligente
 - Mando a distancia controla tus electrodomésticos desde cualquier lugar y en cualquier momento con Woox Home App en tu tableta o teléfono inteligente
+- Función de programación y temporizador Establezca un programa para que su electrodoméstico encienda y apague automáticamente su dispositivo electrónico según sea necesario
 - Servicio profesional y 2 años de garantía si encuentras un problema con el producto Woox por favor contáctanos nuestro servicio de atención al cliente profesional está disponible las 24 horas del día también ofrecemos una garantía de 2 años en el Woox enchufe Smart
+- Fácil de instalar sólo se necesitan menos de cinco minutos para ponerlo en marcha descarga la aplicación Woox Home App crea una cuenta y sigue unos sencillos pasos para ponerla en marcha
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N7B7NXF/?tag=tolees-21)
