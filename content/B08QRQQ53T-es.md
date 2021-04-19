@@ -28,10 +28,10 @@ En este momento está [TP-Link 【Nuevo】 Bombilla LED Inteligente  Bombilla Wi
 
 🔎:
 
-- MULTICOLOR – Crea fácilmente escenarios para tu rutina diaria o actividades ajustando el brillo, la temperatura de la luz y los colores – con 16.000.000 colores a elegir
 - PROGRAMACIÓN Y TEMPORIZADOR– La aplicación Teather para crear sus efectos de luz favoritos ajustando los colores a su gusto y que se puede guardar. También puede configurar múltiples horarios de acuerdo con sus necesidades que se pueden repetir diariamente o semanalmente
-- CONTROL POR VOZ - Conecta tu bombilla inteligente con Amazon Alexa o Google Assistant. El control es fácil mediante voz
 - CONTROL REMOTO – No se requiere hub y se conecta a la red wi-fi de tu hogar. Puede controlar esta bombilla inteligente de forma remota en su Smartphone a través de la App Teather pudiendo encender, apagar o cambiar los colores incluso estando fuera de casa
+- CONTROL POR VOZ - Conecta tu bombilla inteligente con Amazon Alexa o Google Assistant. El control es fácil mediante voz
+- MULTICOLOR – Crea fácilmente escenarios para tu rutina diaria o actividades ajustando el brillo, la temperatura de la luz y los colores – con 16.000.000 colores a elegir
 - AHORRO Y SEGUIMIENTO CONSUMO DE ENERGÍA - Mismo brillo con un bajo consumo de energía de 8,7 W en comparación con las bombillas normales de 60 W
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QRQQ53T/?tag=tolees-21)
