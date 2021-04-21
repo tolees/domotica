@@ -28,10 +28,10 @@ Ahora mismo tienes [Imou Cámara Vigilancia Bebés WiFi Interior 1080P  Vigilabe
 
 🔎:
 
-- PROTECCIÓN DE LA PRIVACIDAD: cumpla al 100% con el Reglamento general de protección de datos de la UE para mejorar su protección de la privacidad
 - PROTECCIÓN 24/7: 1080P Full HD y visión nocturna de 30 m brindan transmisión de video nítida tanto de día como de noche
-- DETECCIÓN DEL LLORAMIENTO DEL BEBÉ: reciba notificaciones instantáneas cuando detecte el llanto del bebé
-- FILTRAR FALSAS ALARMAS: active la detección humana para evitar toneladas de falsas alarmas de animales, insectos o gotas de lluvia
 - ZONA DE ALARMA / HORARIO: defina el área de su hogar que más le importa y haga un horario de supervisión
+- FILTRAR FALSAS ALARMAS: active la detección humana para evitar toneladas de falsas alarmas de animales, insectos o gotas de lluvia
+- PROTECCIÓN DE LA PRIVACIDAD: cumpla al 100% con el Reglamento general de protección de datos de la UE para mejorar su protección de la privacidad
+- DETECCIÓN DEL LLORAMIENTO DEL BEBÉ: reciba notificaciones instantáneas cuando detecte el llanto del bebé
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CKC2ZK2/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Refoss Bombilla LED Inteligente WiFi - Multicolor Regulable  Mando a dis
 
 🔎:
 
-- 💡Varios Colores Ajustables : Lluminación ideal para cualquier ocasión. No solo se puede ajustar a luz fría / cálida, también hay una variedad de luces de colores RGB brillantes para elegir.
-- 💡Horarios y Ahorro de Energía : Cree horarios de encendido/apagado, se enciende automáticamente al amanecer y se apaga automáticamente antes de acostarse. Solo 9 W de consumo de energía, lo que corresponde a la luminosidad de una bombilla de 60 W. Ahorre hasta 78,3 % de energía en comparación con las bombillas incandescentes con un brillo similar.
 - 💡HomeKit : Esta Refoss Bombilla Inteligente se puede usar con Apple HomeKit (iOS 13 o superior), Apple Watch, Alexa y Google Home para administrar su dispositivo. Las bombillas compatible con HomeKit pueden crear posibilidades ilimitadas según sus necesidades.
+- 💡Horarios y Ahorro de Energía : Cree horarios de encendido/apagado, se enciende automáticamente al amanecer y se apaga automáticamente antes de acostarse. Solo 9 W de consumo de energía, lo que corresponde a la luminosidad de una bombilla de 60 W. Ahorre hasta 78,3 % de energía en comparación con las bombillas incandescentes con un brillo similar.
+- 💡Varios Colores Ajustables : Lluminación ideal para cualquier ocasión. No solo se puede ajustar a luz fría / cálida, también hay una variedad de luces de colores RGB brillantes para elegir.
 - 💡Conexión Fiable : La bombilla inteligente Refoss con chipset Mediatek IoT ofrece una cobertura inalámbrica más amplia y una tasa de desconexión menor que otras. Funciona con cualquier router WiFi de doble banda o de 2,4 GHz. No requiere concentrador.
 - 💡Sistema de Control por Voz : La bombilla WiFi inteligente puede trabajar con las aplicaciones compatibles anteriores para gestionar la luz y colores a través del control por voz. Simplemente diga "Hola Siri, encienda la luz" para experimentar una vida inteligente y cómoda.
 
