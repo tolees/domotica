@@ -28,12 +28,12 @@ Ahora mismo tienes [YI Cámara de Vigilancia para Exteriores  Camara Exterior Im
 
 🔎:
 
-- Zoom digital: 4.0 multiplier_x
-- Tipo de montaje: En pared
-- Espere unos días más Full Full y Excellent Night Vision - La resolución de 1080p / 20fps, lente gran angular de 110 ° y montura universal de bola brinda una imagen nítida en cualquier dirección, la visión nocturna infrarroja de 12 * 850n se ve en la oscuridad hasta 50
-- Configuración rápida de Wi-Fi a través de un dispositivo iOS o Android con YI Home App, transmitir video directamente a su teléfono móvil, puede compartir la transmisión en vivo con hasta 5 personas diferentes
-- La clasificación Weatherproof Guard - IP65 hace que la cámara de seguridad para exteriores YI sea ideal para uso en el exterior y siga grabando en el entorno exterior siempre cambiante sin importar la lluvia o el sol
 - Opciones flexibles de almacenamiento - usted tiene control total sobre su material de archivo y puede administrarlo usando la tarjeta MicroSD o el antirrobo y rentable YI Cloud
+- Tipo de montaje: En pared
+- Configuración rápida de Wi-Fi a través de un dispositivo iOS o Android con YI Home App, transmitir video directamente a su teléfono móvil, puede compartir la transmisión en vivo con hasta 5 personas diferentes
+- Espere unos días más Full Full y Excellent Night Vision - La resolución de 1080p / 20fps, lente gran angular de 110 ° y montura universal de bola brinda una imagen nítida en cualquier dirección, la visión nocturna infrarroja de 12 * 850n se ve en la oscuridad hasta 50
+- La clasificación Weatherproof Guard - IP65 hace que la cámara de seguridad para exteriores YI sea ideal para uso en el exterior y siga grabando en el entorno exterior siempre cambiante sin importar la lluvia o el sol
 - Audio bidireccional - un micrófono integrado y un altavoz de alta potencia le permiten comunicarse con los huéspedes bienvenidos con claridad
+- Zoom digital: 4.0 multiplier_x
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075ZRW2RJ/?tag=tolees-21)
