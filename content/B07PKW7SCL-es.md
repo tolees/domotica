@@ -28,10 +28,10 @@ Ahora mismo tienes [Asus Lyra Voice - Sistema WiFi de Red Mesh AC2200  Altavoces
 
 🔎:
 
+- [amazon alexa integrado] el servicio de voz alexa te permite escuchar noticias y música, controlar dispositivos inteligentes y acceder a miles de habilidades alexa
+- [ wi-fi en toda la casa] red mallada de tres bandas compatible con la serie lyra para cubrir todo tu hogar con wi-fi de alta velocidad
 - [seguridad completa para tu familia] el servicio gratuito aiprotection con tecnología trend micro protege todos los dispositivos conectados, incluso los electrodomésticos que se conectan a internet
 - [sonido potente y repleto de detalles] el exclusivo sistema de sonido produce una experiencia estéreo envolvente que se extiende hasta las frecuencias graves
-- [ wi-fi en toda la casa] red mallada de tres bandas compatible con la serie lyra para cubrir todo tu hogar con wi-fi de alta velocidad
 - [toma el control] la aplicación móvil asus lyra permite configurar la red, administrar el ancho de banda y te informa acerca de cualquier problema técnico
-- [amazon alexa integrado] el servicio de voz alexa te permite escuchar noticias y música, controlar dispositivos inteligentes y acceder a miles de habilidades alexa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PKW7SCL/?tag=tolees-21)
