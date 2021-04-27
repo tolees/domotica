@@ -31,9 +31,9 @@ Tienes [TP-Link Tapo P100 - WiFi Enchufe Inteligente Mini tamaño para Controlar
 - Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
 - Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
 - Fácil configuración y uso: no se requiere concentrador, configúrelo rápidamente y adminístrelo fácilmente a través de la aplicación
-- Diseño compacto: tamaño pequeño para evitar el bloqueo de tomas adyacente; (solo para toma hembra tipo C (o tomas)
-- Programación: preestablezca una programación para administrar dispositivos automáticamente
-- Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
 - Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
+- Diseño compacto: tamaño pequeño para evitar el bloqueo de tomas adyacente; (solo para toma hembra tipo C (o tomas)
+- Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
+- Programación: preestablezca una programación para administrar dispositivos automáticamente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z5JD3T4/?tag=tolees-21)
