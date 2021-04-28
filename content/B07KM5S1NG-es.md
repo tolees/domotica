@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'EZVIZ Cámara de Vigilancia Exterior  Cám al 33.34 % de descuento'
-date: 2021-04-01 19:17:30
-image: 'https://m.media-amazon.com/images/I/41kIMwOcewL._SL400_.jpg'
+date: 2021-04-28 08:10:24
+image: 'https://m.media-amazon.com/images/I/41kIMwOcewL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'EZVIZ'
 buyurl: 'https://www.amazon.es/dp/B07KM5S1NG/?tag=tolees-21'
 descuento: '33.34'
-average: '49.3584210526316'
+average: '49.648536585366'
 ---
 
 Está [EZVIZ Cámara de Vigilancia Exterior  Cámara IP WiFi Bala de Seguridad IP66  con Visión Nocturna 30m Luz  Sirena  Compatible con Alexa  CTQ3W](https://www.amazon.es/dp/B07KM5S1NG/?tag=tolees-21) con 33.34 de descuento por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![EZVIZ Cámara de Vigilancia Exterior  Cám](https://m.media-amazon.com/images/I/41kIMwOcewL._SL400_.jpg)](https://www.amazon.es/dp/B07KM5S1NG/?tag=tolees-21)
+[![EZVIZ Cámara de Vigilancia Exterior  Cám](https://m.media-amazon.com/images/I/41kIMwOcewL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07KM5S1NG/?tag=tolees-21)
 
 ℹ️:
 
-- HABILITADO PARA EL SMART HOME - Compatible con Alexa! Esta Cámara de Seguridad y vigilancia wifi puede ser controlada mediante alexa Echo Show. Simplemente pídele que te enseñe cualquier sitio donde tengas una cámara Ezviz. También puede ser conectado con otros sistemas de casa inteligentes como Google Home o IFTTT y mantener todo sincronizado.
-- ALMACENAMIENTO EN NUBE EZVIZ - Con una combinación innovadora de tecnologías, conectamos todo para ti, para crear un espacio seguro, conveniente y una vida inteligente. Todos el tráfico de datos entre el dispositivo y el app al servidores están seguras con un banco de encriptación y IOS/IEC 27001 certificados de seguridad.
 - IP66 DE AGUA Y POLVO - Diseñada para una duradera seguridad exterior, la cámara de seguridad EZVIZ cuenta con el certificado ip66 es una duradera y cámara de confianza que te protege en todos los diferentes tipos de tiempo: lluvia, luz solar o incluso nieve.
-- TODO LO VE LUZ NOCTURNA (30M) - Gracias a la integración de eficientes luces infrarrojas, un panel anti reflejo y un filtro ICR con infrarrojos la cámara ip EZVIZ permite una excelente visión nocturna hasta 30m.
 - LUZ ESTROBOSCÓPICA Y ALARMA DE SIRENA - La EZVIZ Cámara de vigilancia exterior se mantiene viendo las partes importantes de tu casa todos los días. Una vez se detecte movimiento, empieza a grabar automáticamente y una notificación se envía a tu móvil. Si se detecta a alguien, la cámara activa una sirena y luz estroboscópica para asustar a los instrusos. Puedes activar o desactivar la sirena y luz separadamente.
+- ALMACENAMIENTO EN NUBE EZVIZ - Con una combinación innovadora de tecnologías, conectamos todo para ti, para crear un espacio seguro, conveniente y una vida inteligente. Todos el tráfico de datos entre el dispositivo y el app al servidores están seguras con un banco de encriptación y IOS/IEC 27001 certificados de seguridad.
+- TODO LO VE LUZ NOCTURNA (30M) - Gracias a la integración de eficientes luces infrarrojas, un panel anti reflejo y un filtro ICR con infrarrojos la cámara ip EZVIZ permite una excelente visión nocturna hasta 30m.
+- HABILITADO PARA EL SMART HOME - Compatible con Alexa! Esta Cámara de Seguridad y vigilancia wifi puede ser controlada mediante alexa Echo Show. Simplemente pídele que te enseñe cualquier sitio donde tengas una cámara Ezviz. También puede ser conectado con otros sistemas de casa inteligentes como Google Home o IFTTT y mantener todo sincronizado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KM5S1NG/?tag=tolees-21)
