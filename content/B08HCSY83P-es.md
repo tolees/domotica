@@ -28,11 +28,11 @@ En este momento está [EZVIZ Wi-Fi Cámara de Vigilancia Exterior 1080p  IP FHD 
 
 🔎:
 
-- Tres métodos de almacenamiento para usted: puede grabar videos / imágenes en la tarjeta SD (hasta 256 GB, no incluidos), EZVIZ NVR, EZVIZ Cloud Service (puede obtener un mes gratis)
-- Visión nocturna: incluso en la oscuridad total, puede ver claramente lo que sucede hasta 30 metros de distancia
-- Dos antenas externas: el C3WN está equipado con dos antenas externas, para asegurar una amplia cobertura de wi-fi y una conexión estable; transmisión de video en vivo 24/7 en Full HD
-- IP66 Clasificado: esto significa que es resistente al polvo y al agua, puede instalarlo donde lo necesite
-- Aviso de movimiento instantáneo: cuando la cámara detecte movimientos o intrusos, recibirá alertas de inmediato, solo verifique y asegúrese de que todo vaya bien en su hogar cuando y donde sea
 - Fácil instalación solo 3 pasos: descargue y registre la aplicación; enciende la cámara; escanear el código QR
+- Tres métodos de almacenamiento para usted: puede grabar videos / imágenes en la tarjeta SD (hasta 256 GB, no incluidos), EZVIZ NVR, EZVIZ Cloud Service (puede obtener un mes gratis)
+- IP66 Clasificado: esto significa que es resistente al polvo y al agua, puede instalarlo donde lo necesite
+- Visión nocturna: incluso en la oscuridad total, puede ver claramente lo que sucede hasta 30 metros de distancia
+- Aviso de movimiento instantáneo: cuando la cámara detecte movimientos o intrusos, recibirá alertas de inmediato, solo verifique y asegúrese de que todo vaya bien en su hogar cuando y donde sea
+- Dos antenas externas: el C3WN está equipado con dos antenas externas, para asegurar una amplia cobertura de wi-fi y una conexión estable; transmisión de video en vivo 24/7 en Full HD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HCSY83P/?tag=tolees-21)
