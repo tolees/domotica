@@ -28,10 +28,10 @@ En este momento está [Zigma Robot Aspirador 2000Pa  Navegación Láser  Captura
 
 🔎:
 
-- Memoriza diferentes mapas el Zigma robot aspirador y fregasuelos y lo muestra en la Zigma APP. Con Room Plan podrá editar y gestionar sus habitaciones y planes de limpieza personalizados.
-- El robot aspirador Zigma cuenta con función de 3 modos de limpieza y friega con autonomía hasta de 140min.
-- Prevenga las alergias y protege usted y sus familias con el filtro hepa en este período especial. También puede controlar por voz del robot via Alexa, Siri, Google Assistant.
 - El Zigma robot aspirador alexa apto para la red de 2.4Ghz. También contrólalo con la máxima comodidad desde su mando a distancia cuando no dispongas de Wi-Fi.
 - Incluye manual en varios idiomas. Tenemos una garantía libre de preocupaciones de 24 meses.
+- Memoriza diferentes mapas el Zigma robot aspirador y fregasuelos y lo muestra en la Zigma APP. Con Room Plan podrá editar y gestionar sus habitaciones y planes de limpieza personalizados.
+- Prevenga las alergias y protege usted y sus familias con el filtro hepa en este período especial. También puede controlar por voz del robot via Alexa, Siri, Google Assistant.
+- El robot aspirador Zigma cuenta con función de 3 modos de limpieza y friega con autonomía hasta de 140min.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082Y3DT8Z/?tag=tolees-21)
