@@ -28,10 +28,10 @@ Está [Ledvance Smart + Plug Zigbee  enchufe inteligente](https://www.amazon.es/
 
 ℹ️:
 
+- Compatible con ZigBee y Alexa -> Directamente controlable a través de Alexa Echo Plus y Echo Show. Por lo demás, es necesaria una puerta de enlace compatible con Zigbee.
+- Conexión simple de dispositivos eléctricos a través de conexiones estándar.
+- Permite el cambio de fuentes de luz tradicionales y otros dispositivos electrónicos.
 - Protocolo de red: ZigBee. Debe integrarse en la aplicación ZigBee Gateway (en este caso, la aplicación Alexa). No hay una aplicación LEDVANCE disponible para productos ZigBee
 - Integra equipos eléctricos convencionales en sistemas Smart Home compatibles.
-- Compatible con ZigBee y Alexa -> Directamente controlable a través de Alexa Echo Plus y Echo Show. Por lo demás, es necesaria una puerta de enlace compatible con Zigbee.
-- Permite el cambio de fuentes de luz tradicionales y otros dispositivos electrónicos.
-- Conexión simple de dispositivos eléctricos a través de conexiones estándar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SFZ81SK/?tag=tolees-21)
