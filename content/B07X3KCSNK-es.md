@@ -28,10 +28,10 @@ En este momento está [Nooie Bombilla LED inteligente  E27 WiFi Multicolor Encen
 
 🔎:
 
-- 12-MES DE GARANTÍA + 24/7 SOPORTE - Nuestro primer objetivo es 100% satisfacción del cliente y estamos orgullosos de estar detrás de todos los dispositivos Nooie. Póngase en contacto con el soporte de Nooie por cualquier razón.
-- 20 AÑOS DE VIDA + SIN PUNTO DE CONEXION REQUERIDO - Aurora le ahorra dinero con 20 años de vida útil (media 3 horas/ día), y el 90% de ahorro en el uso de energía en comparación con las bombillas incandescentes. Se instala en 3 minutos - descargar aplicación, emparejar y usar. ¡No hay necesidad de comprar un punto de conexión por separado!
 - LED BLANCO SUAVE, BLANCO FRESCO Y 16 MILLONES DE COLORES MÁS - Elija la mejor luz (2800K-6000K) para cada ocasión por ejemplo; cocina, aficiones, lectura, luz de noche, habitación del bebé, fiesta y mucho más.
 - CONTROL INTELIGENTE DE VOZ O APLICACIÓN - Iluminación perfecta a su orden con Alexa o Google Home - encender/apagar, atenuar, seleccionar tonos de blancos, y cambiar la configuración de colores para adaptarse a su tarea o estado de ánimo a través del control de voz o la aplicación Nooie.
+- 20 AÑOS DE VIDA + SIN PUNTO DE CONEXION REQUERIDO - Aurora le ahorra dinero con 20 años de vida útil (media 3 horas/ día), y el 90% de ahorro en el uso de energía en comparación con las bombillas incandescentes. Se instala en 3 minutos - descargar aplicación, emparejar y usar. ¡No hay necesidad de comprar un punto de conexión por separado!
 - DISEÑADO PARA LA SEGURIDAD - Los materiales especiales de refrigeración aseguran que la bombilla LED de Aurora nunca se sobrecalienta, por lo que puede manipular la bombilla incluso cuando la luz está encendida.
+- 12-MES DE GARANTÍA + 24/7 SOPORTE - Nuestro primer objetivo es 100% satisfacción del cliente y estamos orgullosos de estar detrás de todos los dispositivos Nooie. Póngase en contacto con el soporte de Nooie por cualquier razón.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X3KCSNK/?tag=tolees-21)
