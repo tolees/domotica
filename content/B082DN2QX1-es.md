@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'Amazon - Echo Dot  3.ª generación   tela al 23.22 % de descuento'
+date: 2021-05-06 12:38:19
+image: 'https://m.media-amazon.com/images/I/319GxcvsIyL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B082DN2QX1-es Amazon - Echo Dot 3.ª generación tela de color antracita +...'
+sku: 'B082DN2QX1-es'
+tags: [ 'Altavoces','Altavoces y pantallas inteligentes Echo','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Paquetes de dispositivos','amazon','hue','philips', ]
+actualPrice: 53.7 EUR
+currency: EUR
+price: 53.7
+comparePrice: 69.94 EUR
+prodname: 'Amazon - Echo Dot  3.ª generación   tela de color antracita + Bombilla inteligente LED Philips Hue White  compatible con Bluetooth y Zigbee  no se requiere controlador'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Amazon'
+buyurl: 'https://www.amazon.es/dp/B082DN2QX1/?tag=tolees-21'
+descuento: '23.22'
+average: '27.1984615384615'
+---
+
+Está [Amazon - Echo Dot  3.ª generación   tela de color antracita + Bombilla inteligente LED Philips Hue White  compatible con Bluetooth y Zigbee  no se requiere controlador](https://www.amazon.es/dp/B082DN2QX1/?tag=tolees-21) con 23.22 de descuento por 53.7 EUR (original: 69.94 EUR) en el siguiente enlace!
+
+[![Amazon - Echo Dot  3.ª generación   tela](https://m.media-amazon.com/images/I/319GxcvsIyL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B082DN2QX1/?tag=tolees-21)
+
+ℹ️:
+
+- Esta bombilla inteligente es compatible con Bluetooth. Aun así, funciona con el puente Philips Hue y puede integrarse con facilidad en cualquier sistema de iluminación Philips Hue que ya tengas configurado. Ilumina tu hogar de forma más inteligente con Philips Hue.
+- Este lote incluye un Echo Dot (3.ª generación) y una bombilla inteligente Philips Hue White: todo lo que necesitas para entrar en el mundo del Hogar digital.
+- Control por voz manos libres: crea un ambiente relajante antes de irte a dormir simplemente desde tu teléfono. Simplemente di "Alexa, atenúa las luces". ¿Tienes las manos ocupadas en la cocina? Dile a Alexa que aumente la intensidad de las luces para ver mejor la receta.
+- Lista para ayudarte: pídele a Alexa que reproduzca música, responda a preguntas, narre las noticias, consulte la previsión del tiempo, configure alarmas, controle dispositivos de Hogar digital compatibles y mucho más.
+- Mejor con Alexa: conecta las bombillas inteligentes Philips Hue a Alexa para controlarlas fácilmente con la voz. Simplemente di "Alexa, enciende la luz del salón".
+- Nuestro altavoz inteligente más vendido: ahora con un acabado en tela y un altavoz mejorado que ofrece un sonido más profundo e intenso.
+- Fáciles de configurar: conecta las bombillas inteligentes Philips Hue cómodamente al dispositivo Echo a través de Bluetooth, sin necesidad de controlador. Solo tienes que encender la bombilla y decir "Alexa, busca mis dispositivos".
+- 2 opciones de bombillas inteligentes: entra en el mundo de la iluminación inteligente con las bombillas Philips Hue y el dispositivo Echo, que puede controlar hasta 5 bombillas inteligentes Philips Hue Bluetooth que sean compatibles. Añade el puente de Philips Hue, al que puedes conectar 50 bombillas y que proporciona un mayor rango y funcionalidades adicionales, para dotar todo tu hogar de iluminación inteligente.
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B082DN2QX1/?tag=tolees-21)
