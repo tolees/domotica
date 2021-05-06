@@ -28,13 +28,13 @@ Está [Amazon - Echo Dot  3.ª generación   tela de color antracita + Bombilla 
 
 ℹ️:
 
-- Esta bombilla inteligente es compatible con Bluetooth. Aun así, funciona con el puente Philips Hue y puede integrarse con facilidad en cualquier sistema de iluminación Philips Hue que ya tengas configurado. Ilumina tu hogar de forma más inteligente con Philips Hue.
-- Este lote incluye un Echo Dot (3.ª generación) y una bombilla inteligente Philips Hue White: todo lo que necesitas para entrar en el mundo del Hogar digital.
-- Control por voz manos libres: crea un ambiente relajante antes de irte a dormir simplemente desde tu teléfono. Simplemente di "Alexa, atenúa las luces". ¿Tienes las manos ocupadas en la cocina? Dile a Alexa que aumente la intensidad de las luces para ver mejor la receta.
-- Lista para ayudarte: pídele a Alexa que reproduzca música, responda a preguntas, narre las noticias, consulte la previsión del tiempo, configure alarmas, controle dispositivos de Hogar digital compatibles y mucho más.
-- Mejor con Alexa: conecta las bombillas inteligentes Philips Hue a Alexa para controlarlas fácilmente con la voz. Simplemente di "Alexa, enciende la luz del salón".
 - Nuestro altavoz inteligente más vendido: ahora con un acabado en tela y un altavoz mejorado que ofrece un sonido más profundo e intenso.
+- Lista para ayudarte: pídele a Alexa que reproduzca música, responda a preguntas, narre las noticias, consulte la previsión del tiempo, configure alarmas, controle dispositivos de Hogar digital compatibles y mucho más.
 - Fáciles de configurar: conecta las bombillas inteligentes Philips Hue cómodamente al dispositivo Echo a través de Bluetooth, sin necesidad de controlador. Solo tienes que encender la bombilla y decir "Alexa, busca mis dispositivos".
+- Control por voz manos libres: crea un ambiente relajante antes de irte a dormir simplemente desde tu teléfono. Simplemente di "Alexa, atenúa las luces". ¿Tienes las manos ocupadas en la cocina? Dile a Alexa que aumente la intensidad de las luces para ver mejor la receta.
 - 2 opciones de bombillas inteligentes: entra en el mundo de la iluminación inteligente con las bombillas Philips Hue y el dispositivo Echo, que puede controlar hasta 5 bombillas inteligentes Philips Hue Bluetooth que sean compatibles. Añade el puente de Philips Hue, al que puedes conectar 50 bombillas y que proporciona un mayor rango y funcionalidades adicionales, para dotar todo tu hogar de iluminación inteligente.
+- Esta bombilla inteligente es compatible con Bluetooth. Aun así, funciona con el puente Philips Hue y puede integrarse con facilidad en cualquier sistema de iluminación Philips Hue que ya tengas configurado. Ilumina tu hogar de forma más inteligente con Philips Hue.
+- Mejor con Alexa: conecta las bombillas inteligentes Philips Hue a Alexa para controlarlas fácilmente con la voz. Simplemente di "Alexa, enciende la luz del salón".
+- Este lote incluye un Echo Dot (3.ª generación) y una bombilla inteligente Philips Hue White: todo lo que necesitas para entrar en el mundo del Hogar digital.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082DN2QX1/?tag=tolees-21)
