@@ -29,9 +29,9 @@ En este momento está [Garmin DriveSmart 65 MT-S con Amazon Alexa – Navegador 
 🔎:
 
 - Alexa integrado; pide a Alexa que reproduzca música de Amazon Music, iHeartRadio y más
-- Fácil de usar, con un borde de 17 cm a borde, pantalla de alta resolución y Amazon Alexa.
-- Usa Alexa para crear listas de tareas, comprueba tu calendario, clima y tráfico, controla los dispositivos de hogar inteligentes y juega juegos interactivos.
-- Pregunte por el control de voz Garmin para direcciones, puntos de acceso a lo largo de la ruta y más, mientras mantiene las manos en la rueda y los ojos en la carretera.
 - Combina con un smartphone compatible para llamadas con manos libres, notificaciones inteligentes y funciones en tiempo real como tráfico vivo, clima y aparcamiento.
+- Usa Alexa para crear listas de tareas, comprueba tu calendario, clima y tráfico, controla los dispositivos de hogar inteligentes y juega juegos interactivos.
+- Fácil de usar, con un borde de 17 cm a borde, pantalla de alta resolución y Amazon Alexa.
+- Pregunte por el control de voz Garmin para direcciones, puntos de acceso a lo largo de la ruta y más, mientras mantiene las manos en la rueda y los ojos en la carretera.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SJ27R8H/?tag=tolees-21)
