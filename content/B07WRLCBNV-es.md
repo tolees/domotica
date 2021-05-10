@@ -28,10 +28,10 @@ Ahora mismo tienes [EZVIZ Wi-Fi Cámara de Vigilancia 1080p Interior  2.4GHz IP 
 
 🔎:
 
-- Visión nocturna: con led de infrarrojos, le permite vigilar toda la habitación a una distancia de hasta 10 metros en la oscuridad
+- Audio bidireccional: puede comunicarse con su familia o sus mascotas o asustar a los intrusos gracias al micrófono y al altavoz integrados
 - Fácil instalación solo 3 pasos: descargue y registre la aplicación; enciende la cámara ; escanear el código qr
 - Tres métodos de almacenamiento para usted: puede grabar videos/imágenes en la tarjeta sd (hasta 256 gb, no incluidos), ezviz nvr, ezviz cloud service (puede obtener un mes gratis)
-- Audio bidireccional: puede comunicarse con su familia o sus mascotas o asustar a los intrusos gracias al micrófono y al altavoz integrados
 - Aviso de movimiento instantáneo: cuando la cámara detecte movimientos o intrusos, recibirá alertas de inmediato, solo verifique y asegúrese de que todo vaya bien en su hogar cuando y donde sea
+- Visión nocturna: con led de infrarrojos, le permite vigilar toda la habitación a una distancia de hasta 10 metros en la oscuridad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WRLCBNV/?tag=tolees-21)
