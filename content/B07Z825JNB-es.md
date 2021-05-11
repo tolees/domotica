@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.96 % en Philips Hue White Ambiance Pack 2 bombil'
-date: 2021-05-10 11:08:32
+date: 2021-05-11 13:31:11
 image: 'https://m.media-amazon.com/images/I/315b910FCyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,10 +30,10 @@ Tienes [Philips Hue White Ambiance Pack 2 bombillas LED inteligentes GU10  luz b
 
 - Este pack incluye el puente a través del cual podrás programar y personalizar la iluminación de tu casa
 - El puente de Philips Hue es la herramienta que permite la conexión y manejo de las bombillas LED, conéctalo con el router y descárgate la aplicación para disfrutar de todas las ventajas disponibles
-- 2 opciones de iluminación inteligente: con bluetooth controla hasta 10 bombillas con la app hue bluetooth. con el puente Philips Hue (no incluido) controla la luz de toda la casa, hasta 50 bombillas
-- Regulación cómoda sin instalación: experimenta luz led de blanca cálida a fría (2200 a 6500 k). en la app hue, elige entre luz blanca cálida para relajarte y luz fría y brillante para activarte
-- Controla las luces desde tu smartphone: para bluetooth descárgate la app hue bluetooth, si utilizas el puente usa la app Philips Hue y saca todo el potencial de la iluminación inteligente
 - Con el sistema Philips Hue podrás programar y personalizar la decoración de tu casa a través de la iluminación
+- Regulación cómoda sin instalación: experimenta luz led de blanca cálida a fría (2200 a 6500 k). en la app hue, elige entre luz blanca cálida para relajarte y luz fría y brillante para activarte
 - El paquete incluye: 2 bombillas inteligentes LED GU10 + puente de conexión
+- 2 opciones de iluminación inteligente: con bluetooth controla hasta 10 bombillas con la app hue bluetooth. con el puente Philips Hue (no incluido) controla la luz de toda la casa, hasta 50 bombillas
+- Controla las luces desde tu smartphone: para bluetooth descárgate la app hue bluetooth, si utilizas el puente usa la app Philips Hue y saca todo el potencial de la iluminación inteligente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Z825JNB/?tag=tolees-21)
