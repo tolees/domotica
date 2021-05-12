@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Philips Hue Kit 3 Bombillas Inteligentes con un 20.47 % de descuento'
-date: 2020-06-13 14:43:04
-image: 'https://m.media-amazon.com/images/I/31mJNLjG93L._SL400_.jpg'
+title: 'Philips Hue White and Color Ambiance - S con un 30.10 % de descuento'
+date: 2021-05-12 13:27:39
+image: 'https://m.media-amazon.com/images/I/31mJNLjG93L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0748MY3RX-es Philips Hue Kit 3 Bombillas Inteligentes LED E27 con...'
+slug: 'B0748MY3RX-es Philips Hue White and Color Ambiance - Set de 3 bombillas...'
 sku: 'B0748MY3RX-es'
-tags: [ 'alexa','google','home','hue','philips', ]
-actualPrice: 159.03 EUR
+tags: [ 'Bombillas','Bombillas LED','Iluminación','google','home','hue','philips','philips hue', ]
+actualPrice: 139.76 EUR
 currency: EUR
-price: 159.03
+price: 139.76
 comparePrice: 199.95 EUR
-prodname: 'Philips Hue Kit 3 Bombillas Inteligentes LED E27 con Puente y Mando  9.5 W  Luz Blanca y de Colores  Compatible con Alexa y Google Home'
+prodname: 'Philips Hue White and Color Ambiance - Set de 3 bombillas LED E27 con puente e interruptor  10 W  iluminación inteligente  cambian de color  compatible con Apple Homekit y Google Home'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Philips Hue'
 buyurl: 'https://www.amazon.es/dp/B0748MY3RX/?tag=tolees-21'
-descuento: '20.47'
-average: '130.6609090909091'
+descuento: '30.10'
+average: '131.419166666667'
 ---
 
-En este momento está [Philips Hue Kit 3 Bombillas Inteligentes LED E27 con Puente y Mando  9.5 W  Luz Blanca y de Colores  Compatible con Alexa y Google Home](https://www.amazon.es/dp/B0748MY3RX/?tag=tolees-21) a 159.03 EUR (original: 199.95 EUR) (20.47 %  de descuento) en el siguiente enlace!
+En este momento está [Philips Hue White and Color Ambiance - Set de 3 bombillas LED E27 con puente e interruptor  10 W  iluminación inteligente  cambian de color  compatible con Apple Homekit y Google Home](https://www.amazon.es/dp/B0748MY3RX/?tag=tolees-21) a 139.76 EUR (original: 199.95 EUR) (30.10 %  de descuento) en el siguiente enlace!
 
-[![Philips Hue Kit 3 Bombillas Inteligentes](https://m.media-amazon.com/images/I/31mJNLjG93L._SL400_.jpg)](https://www.amazon.es/dp/B0748MY3RX/?tag=tolees-21)
+[![Philips Hue White and Color Ambiance - S](https://m.media-amazon.com/images/I/31mJNLjG93L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0748MY3RX/?tag=tolees-21)
 
 🔎:
 
+- Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa, Google Home o Apple HomeKit
+- Con el Puente Philips Hue incluido en el pack controla la luz de toda la casa, hasta 50 bombillas
+- Controla las luces desde tu smartphone o tableta: usa la app Philips Hue y saca el potencial a la iluminación inteligente
+- Con el puente Hue puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa cuando no sea así
+- Regulación sin instalación: experimenta luz LED blanca y de colores; temperatura de color: 2000 a 6500 kelvin; elige entre 16 millones de colores y sincroniza la luz con música y películas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0748MY3RX/?tag=tolees-21)
