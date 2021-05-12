@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DCS-8325LH - Cámara WiFi de vigil al 43.51 % de descuento'
-date: 2021-05-10 14:48:04
+date: 2021-05-12 17:05:42
 image: 'https://m.media-amazon.com/images/I/31WPeWrCPaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [D-Link DCS-8325LH - Cámara WiFi de vigilancia con inteligen
 
 🔎:
 
-- Gestión completa desde la app gratuita mydlink para iOS/Android o acceso mediante navegador web en el portal mydlink.
 - Admite detección de personas, detección de movimiento multizona, detección de cruce de límites y zona prioritaria, estas alertas envian una notificación emergente e inician la grabación en la nube.
-- Fotos y videoclips: guarde videos e imágenes en su móvil a través de la aplicación mydlink o de forma remota en su almacenamiento personal en la nube de forma gratuita.
-- Amplio campo de visión: para ofrecer una visión más completa, con un ancho de imagen de 151 grados quepuede abarcar grandes estancias.
 - Cámara de alta calidad: zoom digital de 4x, visualización nocturna de hasta 5m, resolución Full HD de 1080p que proporciona una imagen clara de su hogar o negocio
+- Gestión completa desde la app gratuita mydlink para iOS/Android o acceso mediante navegador web en el portal mydlink.
+- Amplio campo de visión: para ofrecer una visión más completa, con un ancho de imagen de 151 grados quepuede abarcar grandes estancias.
+- Fotos y videoclips: guarde videos e imágenes en su móvil a través de la aplicación mydlink o de forma remota en su almacenamiento personal en la nube de forma gratuita.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082KZNNLH/?tag=tolees-21)
