@@ -30,9 +30,9 @@ Ahora mismo tienes [AIRZONE - Aidoo Control WiFi - Termostato WiFi - Compatible 
 
 - [PRUEBA LA DEMO] Importante confirmar con la compatibilidad de la unidad interior del equipo de aire acondicionado (ver PDF de compatibilidades más abajo en “Información de producto -> Especificaciones técnicas”). Confirma la compatibilidad de tu unidad interior y prueba la demo de la App Aidoo descargándola en Google Play o App Store.
 - [PRUEBA LA DEMO] Importante confirmar con la compatibilidad de la unidad interior del equipo de aire acondicionado (ver PDF de compatibilidades más abajo en “Información de producto -> Especificaciones técnicas”)
-- [CONEXIÓN DIRECTA] Se conecta directamente a la máquina para evitar fallos de comunicación y encendidos no deseados del equipo. La aplicación móvil muestra siempre el estado real del aire acondicionado.
-- [DESARROLLO OFICIAL] Desarrollado y validado en colaboración con el fabricante del equipo de aire acondicionado.
 - [CONTRÓLALO DESDE EL MÓVIL] Convierte tu móvil en el mando de tu aire acondicionado: Controla la temperatura, el modo de funcionamiento y demás opciones de tu equipo.
+- [DESARROLLO OFICIAL] Desarrollado y validado en colaboración con el fabricante del equipo de aire acondicionado.
+- [CONEXIÓN DIRECTA] Se conecta directamente a la máquina para evitar fallos de comunicación y encendidos no deseados del equipo. La aplicación móvil muestra siempre el estado real del aire acondicionado.
 - [CONTROL POR VOZ] Facilita el control por voz mediante Amazon Assistant o Google Home.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZHMBQQQ/?tag=tolees-21)
