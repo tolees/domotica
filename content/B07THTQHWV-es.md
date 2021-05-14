@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Robot Aspirador Conga Serie 1099 al 42.47 % de descuento'
-date: 2021-05-13 11:02:30
+date: 2021-05-14 11:08:50
 image: 'https://m.media-amazon.com/images/I/41UNpL1DEYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cecotec'
 buyurl: 'https://www.amazon.es/dp/B07THTQHWV/?tag=tolees-21'
 descuento: '42.47'
-average: '174.042599999999'
+average: '173.55156862745'
 ---
 
 Ahora mismo tienes [Cecotec Robot Aspirador Conga Serie 1099 Connected. 1400 Pa  Aspira  Barre  Friega y Pasa la Mopa  Cepillo Especial Mascotas  Mando a Distancia  Compatible con Alexa y Google Home  Muro Magnético](https://www.amazon.es/dp/B07THTQHWV/?tag=tolees-21) a 149.0 EUR (original: 259.0 EUR) (42.47 %  de descuento) en el siguiente enlace!
