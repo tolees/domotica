@@ -28,8 +28,8 @@ Está [Fitbit Versa 3 - Smartwatch de salud y forma física con GPS integrado  a
 
 ℹ️:
 
-- "Minutos en zona activa: Esta función te avisa en qué zona de frecuencia cardiaca te encuentras para que veas si te estás esforzando lo suficiente para alcanzar tus objetivos."
 - Duración de la batería: +6 días de batería con carga rápida
+- "Minutos en zona activa: Esta función te avisa en qué zona de frecuencia cardiaca te encuentras para que veas si te estás esforzando lo suficiente para alcanzar tus objetivos."
 - "Almacena y reproduce música: Almacena y reproduce música y podcasts con Spotify Connect & Control y agrega listas de Deezer. Los servicios de música requieren suscripciones; no disponibles en todos los países."
 - Asistente de voz integrado: Usa Amazon Alexa integrada para consultar las noticias y la predicción de El Tiempo rápidamente, configurar recordatorios y alarmas para acostarte, controlar dispositivos de hogar digital compatibles, etc. con tan solo hablarle a tu smartwatch. *La disponibilidad y funciones del asistente de voz pueden variar, consulta fitbit.com/es/voice.
 - Compatibilidad: Compatible con iOS12.2 o superior y Android OS 7.0 o superior
