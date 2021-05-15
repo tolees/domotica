@@ -28,11 +28,11 @@ Está [D-Link DCS-935L - Cámara IP de vigilancia-supervisión HD 720p  Compatib
 
 ℹ️:
 
-- Vídeo de alta calidad HD 720p a 30 fps. Ángulo de visión: H 78.44°, V 47.9°, D 86°
-- Posibilidad de grabar en disco duro externo mediante software instalado en un PC
 - Visualización a través de app gratuita para iOS y Android, y permite grabaciones en el propio smartphone
-- Incorpora la última tecnología WiFi: WiFi AC, con una velocidad máxima de hasta 433 Mbps. También compatible con routers WiFi N
-- Permite vigilar lo que más te importa de forma muy fácil desde tu Smartphone o tableta
 - Visión nocturna a plena oscuridad gracias a sus infrarrojos, permitiendo ver con nitidez hasta una distancia de 8m
+- Permite vigilar lo que más te importa de forma muy fácil desde tu Smartphone o tableta
+- Incorpora la última tecnología WiFi: WiFi AC, con una velocidad máxima de hasta 433 Mbps. También compatible con routers WiFi N
+- Posibilidad de grabar en disco duro externo mediante software instalado en un PC
+- Vídeo de alta calidad HD 720p a 30 fps. Ángulo de visión: H 78.44°, V 47.9°, D 86°
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NIOC5W6/?tag=tolees-21)
