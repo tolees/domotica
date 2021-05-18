@@ -28,8 +28,8 @@ En este momento está [Harman Kardon Astra  Altavoz Bluetooth  Amazon Alexa  Con
 
 🔎:
 
+- Sonido 360, cuenta con 3 tweeter de 20 mm, 2 altavoces pasivos y ors, 3 transductores de 1,75"
 - Disfruta de todos los comando de alexa a través de harman astra
 - Bluetooth con tecnología a2dp, wifi 2.5g/5g, de doble antena con soporte b/g/n, soporta streaming de música en la nube hasta 96khz/24bits
-- Sonido 360, cuenta con 3 tweeter de 20 mm, 2 altavoces pasivos y ors, 3 transductores de 1,75"
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KPYT18L/?tag=tolees-21)
