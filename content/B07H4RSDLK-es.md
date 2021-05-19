@@ -28,13 +28,13 @@ Tienes [Libratone Zipp Mini 2 - Altavoz inteligente con Alexa integrada multiroo
 
 🔎:
 
-- puede almacenar y reproducir sus 5 principales listas de reproducción o emisoras de radio y reproducir cada una de ellas con un simple toque o comando de voz
-- conecte hasta 10 altavoces en el mismo lugar o en varias habitaciones para obtener un sonido aún más audaz
+- Voltaje (W): 60.0 watts
 - la batería del zipp mini 2 dura aún más, hasta 12 horas de música, y con un diseño inalámbrico y una cómoda empuñadura, usted es libre de agarrarlo e ir a cualquier parte
+- puedes hablar con alexa en tu dispositivo. con alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de hogar digital y más.
 - el inteligente diseño acústico ha sido actualizado para asegurar el mejor sonido en todas las direcciones, sin importar la ubicación o posición
 - los dispositivos con alexa integrada te permiten conectarte a alexa para escuchar música, manejar tu hogar digital, obtener información, noticias, el tiempo y más, solo con tu voz.
+- puede almacenar y reproducir sus 5 principales listas de reproducción o emisoras de radio y reproducir cada una de ellas con un simple toque o comando de voz
 - el asistente de voz alexa está integrado con una matriz de micrófonos de campo lejano con 6 micrófonos
-- puedes hablar con alexa en tu dispositivo. con alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de hogar digital y más.
-- Voltaje (W): 60.0 watts
+- conecte hasta 10 altavoces en el mismo lugar o en varias habitaciones para obtener un sonido aún más audaz
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07H4RSDLK/?tag=tolees-21)
