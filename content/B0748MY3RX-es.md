@@ -28,10 +28,10 @@ En este momento está [Philips Hue White and Color Ambiance - Set de 3 bombillas
 
 🔎:
 
-- Con el Puente Philips Hue incluido en el pack controla la luz de toda la casa, hasta 50 bombillas
+- Controla las luces desde tu smartphone o tableta: usa la app Philips Hue y saca el potencial a la iluminación inteligente
 - Regulación sin instalación: experimenta luz LED blanca y de colores; temperatura de color: 2000 a 6500 kelvin; elige entre 16 millones de colores y sincroniza la luz con música y películas
 - Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa, Google Home o Apple HomeKit
-- Controla las luces desde tu smartphone o tableta: usa la app Philips Hue y saca el potencial a la iluminación inteligente
+- Con el Puente Philips Hue incluido en el pack controla la luz de toda la casa, hasta 50 bombillas
 - Con el puente Hue puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa cuando no sea así
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0748MY3RX/?tag=tolees-21)
