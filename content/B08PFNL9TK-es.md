@@ -29,9 +29,9 @@ Tienes [1296P Cámara de Vigilancia interior/exterior  Mibao Cámara visión pan
 🔎:
 
 - ⚠ 【Alarma de Detección de Movimiento】 con esta cámara de seguridad CCTV, se enviará una notificación a tu smartphone una vez que se detecte movimiento. Y puedes ajustar la sensibilidad de la detección de movimiento para evitar falsas alarmas.
+- 💖 【Instalación con un Solo Clic & Servicio en La Nube】solo necesitas escanear el código QR para completar la instalación o compartir. Puedes elegir guardar el vídeo por tarjeta o servicio en la nube.
 - 📹【Pan/Inclinación de 360°& Fácil de Configurar】Proporciona un rango de visión de rotación horizontal de 360° y vertical de 110°. Fácil de configurar con instrucciones paso a paso a través de la aplicación gratuita. Puedes acceder de forma remota a tu teléfono/dispositivo móvil.
 - 🌙【Imágenes HD 1296P & Visión Nocturna】 tecnología HD 1296P, la cámara de seguridad te proporciona una calidad de imagen clara para ver la situación en casa. Las luces infrarrojas en la oscuridad, lo que te da una experiencia de visión nocturna. Cámara de seguridad para exteriores Mibao CCTV captura detalles claros y proporciona seguridad para ti día y noche.
-- 💖 【Instalación con un Solo Clic & Servicio en La Nube】solo necesitas escanear el código QR para completar la instalación o compartir. Puedes elegir guardar el vídeo por tarjeta o servicio en la nube.
 - 💬【Hablar Bidireccional &Trabajar con Alexa】soporta llamadas de voz bidireccionales en tiempo real, como cara a cara. Ten una cálida conversación con tu familia cuando y donde quieras a través de la aplicación móvil YI IoT. Funciona con Alexa, pide a Alexa que muestre tu puerta principal, habitación de bebé.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PFNL9TK/?tag=tolees-21)
