@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 49SM8500PLA - Smart TV NanoCell 4K UH con un 23.20 % de descuento'
-date: 2021-05-24 09:15:31
+date: 2021-05-26 20:36:07
 image: 'https://m.media-amazon.com/images/I/51k++xHP-gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B07S7R3DX8/?tag=tolees-21'
 descuento: '23.20'
-average: '528.606216216216'
+average: '527.326842105263'
 ---
 
 En este momento está [LG 49SM8500PLA - Smart TV NanoCell 4K UHD de 123 cm  49"  con Alexa Integrada  procesador Inteligente Alpha 7 Gen. 2  Deep Learning  100% HDR y Dolby Atmos   color Negro](https://www.amazon.es/dp/B07S7R3DX8/?tag=tolees-21) a 479.99 EUR (original: 625.0 EUR) (23.20 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [LG 49SM8500PLA - Smart TV NanoCell 4K UHD de 123 cm  49" 
 
 🔎:
 
-- Panel IPS con 178º de visión: disfruta de los colores puros desde cualquier ángulo con la gran tecnología LED de las grandes pulgadas
-- Sonido Dolby ATMOS: captura el movimiento del objeto de forma realista y vive una experiencia audiovisual full 360º (20W)
-- TV compatible con el 100% de formatos HDR (HDR Dolby Vision, Technicolor, HDR10, HLG y HDR Conversor); disfruta de la auténtica experiencia cinematográfica en tu casa
-- Procesador Inteligente α7 gen. 2 de 12 Bit con Deep Learning integrado: calidad optimizada con Imagen IA y Sonido IA
-- Mando Magic Control AN-MR19BA, necesario para las funciones de Inteligencia Artificial, incluido
 - Smart TV webOS 4.5 es fácil, rápido y seguro - con inteligencia artificial y Deep Learning integrado: LG ThinQ AI, Asistente de Google y Amazon Alexa
+- Panel IPS con 178º de visión: disfruta de los colores puros desde cualquier ángulo con la gran tecnología LED de las grandes pulgadas
+- Mando Magic Control AN-MR19BA, necesario para las funciones de Inteligencia Artificial, incluido
+- Procesador Inteligente α7 gen. 2 de 12 Bit con Deep Learning integrado: calidad optimizada con Imagen IA y Sonido IA
+- TV compatible con el 100% de formatos HDR (HDR Dolby Vision, Technicolor, HDR10, HLG y HDR Conversor); disfruta de la auténtica experiencia cinematográfica en tu casa
+- Sonido Dolby ATMOS: captura el movimiento del objeto de forma realista y vive una experiencia audiovisual full 360º (20W)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S7R3DX8/?tag=tolees-21)
