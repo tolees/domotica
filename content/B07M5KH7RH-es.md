@@ -28,10 +28,10 @@ Ahora mismo tienes [Motorola Vervebuds 500 auriculares con Alexa  color Negro](h
 
 🔎:
 
-- Duración de la batería hasta 9 horas y consigue una mayor durabilidad alternándolos
 - Completamente inalámbrico, no te preocupes nunca más por los cables
-- Se pueden usar como auriculares mono o juntos como un par
 - Compatible con Amazon Alexa, Siri y Google Assistant
+- Duración de la batería hasta 9 horas y consigue una mayor durabilidad alternándolos
+- Se pueden usar como auriculares mono o juntos como un par
 - Emparejamiento y conexión instantáneos
 - Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
 
