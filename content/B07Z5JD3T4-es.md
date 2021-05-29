@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Tapo P100 - WiFi Enchufe Intelig al 40.03 % de rebaja'
-date: 2021-05-28 09:16:08
+date: 2021-05-29 19:14:16
 image: 'https://m.media-amazon.com/images/I/419fTbQWthL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07Z5JD3T4/?tag=tolees-21'
 descuento: '40.03'
-average: '10.6241481481481'
+average: '10.6121323529411'
 ---
 
 Tienes [TP-Link Tapo P100 - WiFi Enchufe Inteligente Mini tamaño para Controlar su Dispositivo Desde Cualquier Lugar  sin Necesidad de Concentrador  Funciona con Amazon Alexa y Google Home  1 Pack](https://www.amazon.es/dp/B07Z5JD3T4/?tag=tolees-21) con precio final de  8.99 EUR (original: 14.99 EUR) (40.03 %  de rebaja) aqui!
@@ -28,12 +28,12 @@ Tienes [TP-Link Tapo P100 - WiFi Enchufe Inteligente Mini tamaño para Controlar
 
 🔎:
 
-- Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
-- Diseño compacto: tamaño pequeño para evitar el bloqueo de tomas adyacente; (solo para toma hembra tipo C (o tomas)
+- Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
 - Fácil configuración y uso: no se requiere concentrador, configúrelo rápidamente y adminístrelo fácilmente a través de la aplicación
+- Diseño compacto: tamaño pequeño para evitar el bloqueo de tomas adyacente; (solo para toma hembra tipo C (o tomas)
+- Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
+- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
 - Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
 - Programación: preestablezca una programación para administrar dispositivos automáticamente
-- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
-- Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z5JD3T4/?tag=tolees-21)
