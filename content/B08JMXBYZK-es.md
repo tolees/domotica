@@ -29,9 +29,9 @@ En este momento está [Philips Hue Play Gradient Lightstrip Tira Inteligente LED
 🔎:
 
 - Philips Hue Play Gradient Lightstrip es una tira inteligente de luz LED puede generar múltiples colores de luz simultáneamente. Proporciona la experiencia de entretenimiento en casa mientras ves la televisión o juegas a tu videojuego favorito con luz envolvente
-- Luz blanca y de colores 2000-6500K. 20W, 1650 lúmenes y 25.000 horas de vida útil. Disfruta de una experiencia de luz envolvente por 3 lados, izquierda, arriba, derecha
 - Para usar esta tira de luz, necesitarás la aplicación de escritorio Hue Sync o la aplicación móvil Hue Sync emparejada con Philips Hue Play HDMI Sync Box
-- Los soportes incluidos están especialmente diseñados para esta tira, lo que facilita su instalación en la parte posterior de televisores de 55 pulgadas
+- Luz blanca y de colores 2000-6500K. 20W, 1650 lúmenes y 25.000 horas de vida útil. Disfruta de una experiencia de luz envolvente por 3 lados, izquierda, arriba, derecha
 - Cada detalle de la tira de luces Philips Hue Play Gradient Lightstrip ha sido diseñado para un efecto de luz óptimo, con una proyección de ángulo de 45 grados y un gradiente de luz mezclado
+- Los soportes incluidos están especialmente diseñados para esta tira, lo que facilita su instalación en la parte posterior de televisores de 55 pulgadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JMXBYZK/?tag=tolees-21)
