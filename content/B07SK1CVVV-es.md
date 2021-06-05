@@ -29,9 +29,9 @@ Está [Enchufe Inteligente WiFi TECKIN 16A 3680W Mini Smart Plug Funciona con Si
 ℹ️:
 
 - Configuración del temporizador: configure temporizadores para controlar automáticamente sus electrodomésticos con la aplicación Smart Life. Encienda o apague sus aparatos eléctricos en su demanda.
-- Potencia mínima: los mini enchufes inteligentes de Teckin adoptan un elegante diseño Nuovo. Los enchufes inteligentes de Teckin son fáciles de usar e instalar, la carga máxima es de 16 amperios y funcionan con un voltaje de CA de 100-240 V. Solo Wi-Fi de 2,4 GHz. También puede crear una única instrucción para todos sus dispositivos inteligentes y controlarlos a la vez.
 - Control remoto y por voz: descargue la aplicación Smart Life, agregue sus enchufes inteligentes y luego controle sus electrodomésticos mediante la aplicación o la voz. Compatible con Amazon Alexa o asistente de Google. Solo necesita Wi-Fi para funcionar. No se requiere suscripción.
-- Consejo cálido: si tiene alguna pregunta o ayuda, contáctenos directamente a través de Amazon. Estamos a su servicio para solucionar sus problemas.
 - Fácil instalación y uso: todo lo que necesita hacer es configurar y conectar sus enchufes inteligentes con su Wi-Fi. (solo 2.4Ghz) y agregue los enchufes en la aplicación Smart Life. Compatible con el sistema operativo Android e iOS. Puede utilizar su teléfono inteligente para conectar y controlar varios dispositivos.
+- Consejo cálido: si tiene alguna pregunta o ayuda, contáctenos directamente a través de Amazon. Estamos a su servicio para solucionar sus problemas.
+- Potencia mínima: los mini enchufes inteligentes de Teckin adoptan un elegante diseño Nuovo. Los enchufes inteligentes de Teckin son fáciles de usar e instalar, la carga máxima es de 16 amperios y funcionan con un voltaje de CA de 100-240 V. Solo Wi-Fi de 2,4 GHz. También puede crear una única instrucción para todos sus dispositivos inteligentes y controlarlos a la vez.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SK1CVVV/?tag=tolees-21)
