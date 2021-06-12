@@ -28,10 +28,10 @@ En este momento está [TP-LINK Bombilla LED funciona con Alexa altavoz inteligen
 
 🔎:
 
-- Multicolor – con una amplia gama de colores y capacidad de atenuación, ofrece posibilidades infinitas de iluminación; puedes elegir una luz para todo, desde una cena a una sesión de tarde de estudio
-- Escenas y programaciones – usa tu aplicación Kasa Smart para programar tu bombilla para que se encienda y apague automáticamente cuando estés en casa o fuera
 - Control de voz – funciona con amazon alexa y google assistant e ifttt para control de voz; simplemente dí a tu asistente de voz que atenúe sus luces y establece el ambiente perfecto para la noche de cine
-- No se requiere hub – La bombilla Kasa Smart KL130, se conecta a la red Wi-Fi de tu hogar; no hay necesidad de un hub o equipo extra
 - Título 20 – La bombilla de luz regulable Kasa Smart está certificada para reducir el consumo de energía sin perder calidad
+- Escenas y programaciones – usa tu aplicación Kasa Smart para programar tu bombilla para que se encienda y apague automáticamente cuando estés en casa o fuera
+- No se requiere hub – La bombilla Kasa Smart KL130, se conecta a la red Wi-Fi de tu hogar; no hay necesidad de un hub o equipo extra
+- Multicolor – con una amplia gama de colores y capacidad de atenuación, ofrece posibilidades infinitas de iluminación; puedes elegir una luz para todo, desde una cena a una sesión de tarde de estudio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KM8JFPC/?tag=tolees-21)
