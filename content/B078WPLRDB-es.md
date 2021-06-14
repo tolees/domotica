@@ -29,10 +29,10 @@ En este momento está [Tenda Nova MW6 Sistema Mesh WiFi  Router Inalámbrico has
 🔎:
 
 - Diseño sencillo y elegante que se integra en cualquier entorno dando un toque exclusivo a tu decoración
-- Te permite con el mismo nombre de red (ssid) moverte de una habitación a otra sin perder conexión gracias al tenda seamless roaming
-- Con la app tenda wifi, puedes establecer acceso de invitados, bloquear dispositivos, control parental y/o dar prioridad a distintos dispositivos de la red
-- Atraviesa las paredes con tecnología tenda beamforming mesh, diseñada para hogares y espacios con múltiples habitaciones
 - Conexión inalámbrica de mas de 180 metros de cobertura, puedes agregar hasta 9 nodos para conseguir para alcanzar mas de 1000 metros cuadrados de cobertura
 - Admite hasta 90 dispositivos conectados al mismo tiempo sin retardos ni interrupciones en la red gracias a la tecnología mu-mimo
+- Con la app tenda wifi, puedes establecer acceso de invitados, bloquear dispositivos, control parental y/o dar prioridad a distintos dispositivos de la red
+- Atraviesa las paredes con tecnología tenda beamforming mesh, diseñada para hogares y espacios con múltiples habitaciones
+- Te permite con el mismo nombre de red (ssid) moverte de una habitación a otra sin perder conexión gracias al tenda seamless roaming
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WPLRDB/?tag=tolees-21)
