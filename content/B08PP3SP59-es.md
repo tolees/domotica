@@ -28,10 +28,10 @@ Tienes [Ultenic D5 Robot Aspirador  controlado por WiFi & Alexa 2200Pa succión 
 
 🔎:
 
-- *{Eficiente,Sistémico y Sereno Limpio}el diseño profesional le permite limpiar los lugares necesarios científicamente y exhaustivamente sin ruido.
-- *{Controlado por wifi&voz}Este aspirador está equipado con un mando a distancia, también puede ser controlado por la aplicación, como plan de limpieza, tamaño de succión, cambio de modo de limpieza y así sucesivamente.También compatible con alexa y Google Home, puede controlar el robot por voz.
-- *{2200Pa Succión Potente}con 3 grados para ajustar la velocidad de limpieza,Puede elegir el modelo que desee en función de sus necesidades.La máxima succión puede alcanzar los dos mil, lo que puede limpiar fácilmente el polvo, el confeti, el cabello, etc.
-- *{500ml Grande Caja de Polvo}500ml caja de polvo le permite limpiar las cajas de polvo sin tener que limpiarlas a menudo.
 - *{Sobre Nosotros}Ultenic tiene una serie de productos de robot aspiradora, en muchos paises por ejemplo los Estados Unidos, Europa, China ,tiene una vasta base de clientes y comentarios. Hemos ido mejorando la funcionalidad y calidad de nuestros productos, creo que nuestros productos le harán satisfecho.
+- *{2200Pa Succión Potente}con 3 grados para ajustar la velocidad de limpieza,Puede elegir el modelo que desee en función de sus necesidades.La máxima succión puede alcanzar los dos mil, lo que puede limpiar fácilmente el polvo, el confeti, el cabello, etc.
+- *{Controlado por wifi&voz}Este aspirador está equipado con un mando a distancia, también puede ser controlado por la aplicación, como plan de limpieza, tamaño de succión, cambio de modo de limpieza y así sucesivamente.También compatible con alexa y Google Home, puede controlar el robot por voz.
+- *{Eficiente,Sistémico y Sereno Limpio}el diseño profesional le permite limpiar los lugares necesarios científicamente y exhaustivamente sin ruido.
+- *{500ml Grande Caja de Polvo}500ml caja de polvo le permite limpiar las cajas de polvo sin tener que limpiarlas a menudo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PP3SP59/?tag=tolees-21)
