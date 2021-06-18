@@ -28,12 +28,12 @@ Está [Philips Hue Bombilla Inteligente LED E27  con Bluetooth  Filamento ST64  
 
 ℹ️:
 
+- Compatible con Bluetooth y Zigbee (Puente Hue opcional), compatible con Alexa, Google Home y Apple HomeKit
 - Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa, Google Home o Apple HomeKit
-- Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue controla la luz de toda la casa, hasta 50 bombillas
+- Para control por Bluetooth descárgate la app gratis hue bluetooth, si utilizas el puente usa la app Philips Hue y saca el potencial a la iluminación inteligente
 - Regulación sin instalación: experimenta luz led blanca cálida para relajarse; 2100k regulables y apariencia retro; para regular la luz, utiliza el mando inalámbrico
 - Saca el potencial a tus bombillas Hue agregando el puente (se vende a parte); con él puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa cuando no sea así
-- Compatible con Bluetooth y Zigbee (Puente Hue opcional), compatible con Alexa, Google Home y Apple HomeKit
-- Para control por Bluetooth descárgate la app gratis hue bluetooth, si utilizas el puente usa la app Philips Hue y saca el potencial a la iluminación inteligente
+- Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue controla la luz de toda la casa, hasta 50 bombillas
 - Funciona con los altavoces inteligentes Echo y dispositivos Google Nest (se requiere un puente Hue para Echo, 1ª generación, y Echo Dot, 1.a generación)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SPHGQV6/?tag=tolees-21)
