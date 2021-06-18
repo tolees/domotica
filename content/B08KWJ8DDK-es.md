@@ -28,10 +28,10 @@ En este momento está [D-Link DCS-6100LH  Cámara IP WiFi para videovigilancia/S
 
 🔎:
 
-- Detección de movimiento y sonido que envía una notificación emergente con foto al móvil e inicia la grabación en la nube de un clip.
-- Funciona con cualquier router u operadora, configuración Plug&Play y gestión desde la app mydlink, no necesita ordenador.
 - Vea y escuche en directo desde la app mydlink, también puede usar el control por voz con Amazon Alexa y Google Assistant o interactuar con los enchufes inteligentes de D-Link mydlink.
+- Funciona con cualquier router u operadora, configuración Plug&Play y gestión desde la app mydlink, no necesita ordenador.
 - Modos de uso con 1 solo clic; modo "privacidad" si está en casa para desactivar el streaming de la cámara, modo "fuera" para activar el streaming y la notificación push y grabación en la nube si detecta movimiento o sonido.
+- Detección de movimiento y sonido que envía una notificación emergente con foto al móvil e inicia la grabación en la nube de un clip.
 - Resolución Full HD, amplio ángulo de visión de 110° y visión nocturna.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KWJ8DDK/?tag=tolees-21)
