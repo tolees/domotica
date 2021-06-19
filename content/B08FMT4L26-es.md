@@ -28,10 +28,10 @@ Está [Innr WiFi E27 Bombilla LED conectada  Compatible con Alexa & Hey Google  
 
 ℹ️:
 
-- Fácil instalación. Estas bombillas Wi-Fi encajan en sus lámparas existentes con casquillo roscado E27. Descarga la aplicación Innr for WiFi, escanea el código QR y tu bombilla WiFi está lista para funcionar.
-- Nota importante: bombilla WiFi, no requiere puente. Conéctese usando la aplicación y estará listo para controlar sus luces inteligentes. NO funciona con sistemas Zigbee como Philips Hue
-- Controlado por voz. Funciona con Amazon Alexa y Hey Google usando su conexión WiFi (2.4 GHz). Funciona sin puente.
-- Ahorra energía. Las bombillas Innr utilizan hasta un 80% menos de energía que las bombillas tradicionales. La comodidad de la iluminación automática, siempre la luz perfecta para cada momento del día, gracias al programa semanal automático.
 - La bombilla WiFi se puede atenuar de forma inalámbrica con una hermosa luz LED blanca cálida. 2700K con reproducción de color natural.
+- Ahorra energía. Las bombillas Innr utilizan hasta un 80% menos de energía que las bombillas tradicionales. La comodidad de la iluminación automática, siempre la luz perfecta para cada momento del día, gracias al programa semanal automático.
+- Fácil instalación. Estas bombillas Wi-Fi encajan en sus lámparas existentes con casquillo roscado E27. Descarga la aplicación Innr for WiFi, escanea el código QR y tu bombilla WiFi está lista para funcionar.
+- Controlado por voz. Funciona con Amazon Alexa y Hey Google usando su conexión WiFi (2.4 GHz). Funciona sin puente.
+- Nota importante: bombilla WiFi, no requiere puente. Conéctese usando la aplicación y estará listo para controlar sus luces inteligentes. NO funciona con sistemas Zigbee como Philips Hue
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FMT4L26/?tag=tolees-21)
