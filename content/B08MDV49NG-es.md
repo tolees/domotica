@@ -28,12 +28,12 @@ Tienes [Amazon Echo Dot  4.ª generación  tela de color antracita+ Amazon Music
 
 🔎:
 
-- Lista para ayudar: pídele a Alexa que te cuente un chiste, ponga música, responda a preguntas, lea las noticias, te dé la previsión del tiempo, cree alarmas y más.
-- Controla con la voz tu entretenimiento: escucha en streaming música de Amazon Music, Apple Music, Spotify, Deezer y más. Escucha música y pódcasts en cualquier parte de tu casa con la música multiestancia.
-- Diseñado para proteger tu privacidad: fabricado con varias capas de protección y controles de privacidad, incluido un botón que desconecta los micrófonos electrónicamente.
 - Presentamos el nuevo Echo Dot: nuestro altavoz inteligente con Alexa más vendido. El diseño elegante y compacto ofrece un sonido de calidad con voces claras y graves equilibrados.
-- Conecta con los que te importan: llama prácticamente a cualquier persona sin usar las manos. Llama a otras habitaciones al instante con Drop In o realiza comunicados a toda la casa para anunciar que la cena está lista.
-- Válido solo para nuevos clientes de Amazon Music Unlimited
+- Controla con la voz tu entretenimiento: escucha en streaming música de Amazon Music, Apple Music, Spotify, Deezer y más. Escucha música y pódcasts en cualquier parte de tu casa con la música multiestancia.
 - Controla tus dispositivos de Hogar digital: usa la voz para encender luces, ajustar termostatos y cerrar cerraduras usando dispositivos compatibles.
+- Lista para ayudar: pídele a Alexa que te cuente un chiste, ponga música, responda a preguntas, lea las noticias, te dé la previsión del tiempo, cree alarmas y más.
+- Conecta con los que te importan: llama prácticamente a cualquier persona sin usar las manos. Llama a otras habitaciones al instante con Drop In o realiza comunicados a toda la casa para anunciar que la cena está lista.
+- Diseñado para proteger tu privacidad: fabricado con varias capas de protección y controles de privacidad, incluido un botón que desconecta los micrófonos electrónicamente.
+- Válido solo para nuevos clientes de Amazon Music Unlimited
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MDV49NG/?tag=tolees-21)

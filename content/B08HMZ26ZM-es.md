@@ -28,14 +28,14 @@ Está [Amazon Echo Dot  3.ª generación  tela de color antracita + Amazon Music
 
 ℹ️:
 
-- Conecta con los que te importan: llama o envía mensajes a cualquiera que tenga un dispositivo Echo, la app Alexa o Skype sin mover un dedo. Usa Drop In para conectar con otras habitaciones de tu hogar en las que tengas un dispositivo Echo compatible.
-- Alexa tiene Skills: gracias a los cientos de Skills, Alexa aprende y añade nuevas funciones y formas de realizar tareas continuamente, como ayudarte en la cocina o jugar, entre otras.
-- Controla tus dispositivos de Hogar digital con la voz: enciende las luces, regula los termostatos, cierra las puertas con llave y mucho más con dispositivos de Hogar digital compatibles.
 - Controla la música con la voz: reproduce en streaming canciones en Amazon Music, Spotify, TuneIn y otros servicios.
+- Conecta con los que te importan: llama o envía mensajes a cualquiera que tenga un dispositivo Echo, la app Alexa o Skype sin mover un dedo. Usa Drop In para conectar con otras habitaciones de tu hogar en las que tengas un dispositivo Echo compatible.
 - Te presentamos el Echo Dot: nuestro altavoz inteligente más popular. Viene con un diseño con acabado en tela que se ajusta perfectamente a cualquier espacio pequeño.
-- Diseñado para proteger tu privacidad: fabricado con varias capas de controles de la privacidad, como un botón que desconecta los micrófonos electrónicamente.
-- Un sonido más intenso y de mayor calidad: vincula un segundo Echo Dot (3.ª generación) para obtener un sonido estéreo más profundo. Si tienes dispositivos Echo compatibles repartidos en varias habitaciones, podrás llenar de música toda tu casa.
 - Lista para ayudarte: pídele a Alexa que reproduzca música, responda a preguntas, narre las noticias, consulte la previsión del tiempo, configure alarmas, controle dispositivos de Hogar digital compatibles y mucho más.
 - Válido solo para nuevos clientes de Amazon Music Unlimited
+- Alexa tiene Skills: gracias a los cientos de Skills, Alexa aprende y añade nuevas funciones y formas de realizar tareas continuamente, como ayudarte en la cocina o jugar, entre otras.
+- Controla tus dispositivos de Hogar digital con la voz: enciende las luces, regula los termostatos, cierra las puertas con llave y mucho más con dispositivos de Hogar digital compatibles.
+- Un sonido más intenso y de mayor calidad: vincula un segundo Echo Dot (3.ª generación) para obtener un sonido estéreo más profundo. Si tienes dispositivos Echo compatibles repartidos en varias habitaciones, podrás llenar de música toda tu casa.
+- Diseñado para proteger tu privacidad: fabricado con varias capas de controles de la privacidad, como un botón que desconecta los micrófonos electrónicamente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HMZ26ZM/?tag=tolees-21)
