@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sensor de Puerta y Ventana WiFi Intelige con un 26.10 % de descuento'
-date: 2021-06-19 04:20:11
+date: 2021-06-20 15:50:09
 image: 'https://m.media-amazon.com/images/I/41kHWYjQ8bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Sensor de Puerta y Ventana WiFi Inteligente con Sensor ma
 
 🔎:
 
-- Bajo consumo de energía: la duración de la batería del sensor de puerta de bajo consumo es de aprox. 1 año. La larga duración de la batería evita el reemplazo frecuente y te ofrece una mejor experiencia. Esto también te ahorra mucho dinero
-- [Compatible con Alexa y Google Home]: nuestra aplicación Smartlife es compatible con el control de voz con Amazon Alexa o Google Assistant. Sin embargo, ten en cuenta que solo responde a la pregunta de si la puerta está abierta o cerrada. Si no quieres molestar el sonido de alarma en casa, puedes apagarla el sonido de alarma del sensor de puerta para que no te molesten el sonido de alarma incluso cuando abras la puerta. Nota: la función IFTTT de este dispositivo se ha bloqueado
 - [Conexión WiFi] Nuestro sensor de ventana de puerta WiFi soporta la conexión WiFi y se puede utilizar a través de la aplicación Smart Life. Cuando no estás en casa, puedes comprobar y supervisar en cualquier momento y en cualquier lugar a través de una conexión WiFi inteligente. Cuando se encienden o apagan, el sensor WiFi para puerta y ventana envía una alarma a tu aplicación que te informa de que la puerta/ventana se ha abierto o cerrado (Nota: solo admite Wi-Fi 2,4 GHz)
+- Bajo consumo de energía: la duración de la batería del sensor de puerta de bajo consumo es de aprox. 1 año. La larga duración de la batería evita el reemplazo frecuente y te ofrece una mejor experiencia. Esto también te ahorra mucho dinero
 - [Ampliamente utilizado y garantía de calidad] Nuestros sensores de alarma no solo se pueden instalar en la puerta delantera o ventana, sino también en puertas de garaje, armarios de vino, castillos, puertas de mascotas y otros lugares. En caso de problemas de calidad, ofrecemos un servicio de repuesto de un año. Por favor, póngase en contacto con nosotros por service@physen.net si tiene alguna pregunta o necesita ayuda
+- [Compatible con Alexa y Google Home]: nuestra aplicación Smartlife es compatible con el control de voz con Amazon Alexa o Google Assistant. Sin embargo, ten en cuenta que solo responde a la pregunta de si la puerta está abierta o cerrada. Si no quieres molestar el sonido de alarma en casa, puedes apagarla el sonido de alarma del sensor de puerta para que no te molesten el sonido de alarma incluso cuando abras la puerta. Nota: la función IFTTT de este dispositivo se ha bloqueado
 - Fácil de instalar: abre la cubierta antes de la instalación y retira la lámina aislante. Retire la cinta adhesiva del sensor de la puerta e instálala. No se necesitan herramientas. Descarga la aplicación Smartlife y conéctala a tu red Wi-Fi para usarla. Por favor, no lo instales en la puerta de metal que influye en la señal del sensor de la puerta y mantén la distancia entre dos sensores de puerta por debajo de 10 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JCTFBQQ/?tag=tolees-21)
