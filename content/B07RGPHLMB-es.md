@@ -28,8 +28,8 @@ Ahora mismo tienes [BSEED Enchufe de Pared WiFi Schuko Enchufe inteligente Compa
 
 🔎:
 
-- 【Protección de seguridad】: nuestra conexión wifi doméstica wifi es incombustible e impermeable. Protección contra descargas eléctricas para su familia.
 - ☀ Dimensión: Sugerencia para la caja trasera: largo x ancho x profundidad ≥60mm x 60mm x 40mm ☀Nota: El enrutador solo debe ser de 2,4 GHz (no se admite WiFi de 5,0 GHz)
+- 【Protección de seguridad】: nuestra conexión wifi doméstica wifi es incombustible e impermeable. Protección contra descargas eléctricas para su familia.
 - 【Control de voz】: Compatible con Amazon Alexa, el asistente para el hogar de Google, controle sus electrodomésticos con el zócalo inteligente simplemente dando comandos de voz a Amazon Alexa o al Asistente de Google.
 - 【Horario y temporizador】: prepárese para tener una casa inteligente y cree un horario personalizado para encender y apagar automáticamente cualquier electrónica o electrodoméstico como lámparas, iluminación navideña, etc.
 - 【Control remoto】: controle sus elementos eléctricos a través de su teléfono cuando y donde quiera que esté después de descargar la APLICACIÓN GRATUITA Smart Life, siempre que haya una red. Es adecuado para alguien que no puede moverse muy bien y necesita un acceso fácil para encender / apagar un dispositivo
