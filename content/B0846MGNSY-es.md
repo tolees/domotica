@@ -28,10 +28,10 @@ Está [SuperChef Robot Aspirador y Fregasuelos SF425 CleanPro WiFi  App  Compati
 
 ℹ️:
 
-- Programable 24 horas/ 7 días. Incluye dos depósitos de gran capacidad, mando a distancia, cepillos laterales y filtro HEPA
+- Baterías de litio de 2600mAh de alto rendimiento: 90 minutos, Vuelve de forma automáticamente a la base de carga.
 - Wifi y App, compatible con Alexa y Google Home. Navegación Gyroscópica Inteligente y Mapeo para evitar repetir zonas ya aspiradas. Anti caída y anti colisión.
 - Sistema de regulación inteligente de potencia de aspiración hasta 2100 Pa. Cepillo rotatorio central y dos cepillos laterales.
+- Programable 24 horas/ 7 días. Incluye dos depósitos de gran capacidad, mando a distancia, cepillos laterales y filtro HEPA
 - Robot Aspirador y friegasuelos. Barre, aspira, pasa la mopa y friega. Para todo tipo de suelos. Dispone de dos depósitos: Tanque electrónico de agua de 0,3L y tanque para el polvo de 0,6L.g
-- Baterías de litio de 2600mAh de alto rendimiento: 90 minutos, Vuelve de forma automáticamente a la base de carga.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0846MGNSY/?tag=tolees-21)
