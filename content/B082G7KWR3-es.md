@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wansview Cámara IP WiFi  1080P Cámara Vi con un 23.54 % de descuento'
-date: 2021-06-28 04:56:16
+date: 2021-06-29 23:53:05
 image: 'https://m.media-amazon.com/images/I/415YdeJB7qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'wansview'
 buyurl: 'https://www.amazon.es/dp/B082G7KWR3/?tag=tolees-21'
 descuento: '23.54'
-average: '26.7619607843135'
+average: '26.688269230769'
 ---
 
 En este momento está [Wansview Cámara IP WiFi  1080P Cámara Vigilancia WiFi con Visión Noturna Detección de Movimiento  Audio Bidireccional  Compatible con Alexa  Cámara de Seguridad Bebé Mascotas  Q6  NO Tiene autonomía ](https://www.amazon.es/dp/B082G7KWR3/?tag=tolees-21) a 22.93 EUR (original: 29.99 EUR) (23.54 %  de descuento) en el siguiente enlace!
