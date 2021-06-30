@@ -28,8 +28,8 @@ Tienes [Soporte Pared - Amazon Alexa Echo Dot 3 ª Generación Altavoz Inteligen
 
 ℹ️:
 
+- ECHO DOT Sólo Versión 3
 - Se incluyen tornillo y taco 3.5X25 E5
 - -------- NO SE INCLUYE EL DISPOSITIVO AMAZON ECHO DOT V3*********
-- ECHO DOT Sólo Versión 3
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075FDBZVF/?tag=tolees-21)
