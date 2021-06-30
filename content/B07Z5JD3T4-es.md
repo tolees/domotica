@@ -28,12 +28,12 @@ Tienes [TP-Link Tapo P100 - Mini Enchufe Inteligente Wi-Fi  ideal para programar
 
 🔎:
 
-- Fácil configuración y uso: no se requiere concentrador, configúrelo rápidamente y adminístrelo fácilmente a través de la aplicación
-- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
-- Programación: preestablezca una programación para administrar dispositivos automáticamente
 - Diseño compacto: tamaño pequeño para evitar el bloqueo de tomas adyacente; (solo para toma hembra tipo C (o tomas)
-- Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
-- Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
+- Programación: preestablezca una programación para administrar dispositivos automáticamente
 - Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
+- Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
+- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
+- Fácil configuración y uso: no se requiere concentrador, configúrelo rápidamente y adminístrelo fácilmente a través de la aplicación
+- Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z5JD3T4/?tag=tolees-21)
