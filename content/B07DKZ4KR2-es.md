@@ -28,9 +28,9 @@ Ahora mismo tienes [Tenda Nova MW3 Mesh - Router Sistema WiFi de Red en Malla  A
 
 🔎:
 
-- Gestión con la aplicación Tenda WiFi
-- MW3 realiza la transferencia automáticamente
 - Cubre hasta 300 metros cuadrados, para eliminar la zona Tote WLAN del hogar
 - Con la tecnología mesh MW3
+- MW3 realiza la transferencia automáticamente
+- Gestión con la aplicación Tenda WiFi
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DKZ4KR2/?tag=tolees-21)
