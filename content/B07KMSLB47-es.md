@@ -28,10 +28,10 @@ Ahora mismo tienes [Sonoff -   módulo DIY para hogar inteligente y mando a dist
 
 🔎:
 
-- * Soporta red WiFi. Soporta numerosos interruptores WiFi inteligentes en un teléfono inteligente.
-- * Soporta temporizadores programados y de cuenta atrás para cada dispositivo.
 - * Soporta encendido o apagado remoto de aparatos conectados, por ejemplo luz, hervidor eléctrico, cocina de arroz eléctrica, electrocoche, etc.
 - * Soporta el seguimiento de estado: el estado del dispositivo se proporciona oportunamente a EWeLink.
+- * Soporta temporizadores programados y de cuenta atrás para cada dispositivo.
 - *Control de voz: Compatible perfectamente con "Amazon" Alexa, para Google Home/Nest, IFTTT.
+- * Soporta red WiFi. Soporta numerosos interruptores WiFi inteligentes en un teléfono inteligente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KMSLB47/?tag=tolees-21)
