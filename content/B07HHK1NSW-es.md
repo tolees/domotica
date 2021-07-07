@@ -28,12 +28,12 @@ Está [Philips Hue - Philips Play Barra Regulable  Compatible con Apple HomeKit 
 
 ℹ️:
 
-- Experimenta la iluminación inteligente en tu hogar
-- Funciona con apple homekit y google home y el puente hue (se vende por separado)
-- Hue Play es el accesorio más versátil del portafolio de Hue y destaca por su diseño compacto
-- Hue Play se puede ubicar de muchas maneras, ya sea montado en el piso, detrás del gabinete o directamente detrás del televisor, es posible el posicionamiento horizontal y vertical
-- El paquete incluye: 2 lámparas LED Hue Play + puente de conexión
-- La lámpara es particularmente adecuada para la iluminación ambiental de la sala de estar, no deslumbra
 - Temperatura de color de 2.000 a 6.500 kelvin; elige entre 16 millones de colores en la aplicación hue y sincroniza la luz con música, películas y videojuegos a través de Hue Sync
+- El paquete incluye: 2 lámparas LED Hue Play + puente de conexión
+- Experimenta la iluminación inteligente en tu hogar
+- Hue Play se puede ubicar de muchas maneras, ya sea montado en el piso, detrás del gabinete o directamente detrás del televisor, es posible el posicionamiento horizontal y vertical
+- Hue Play es el accesorio más versátil del portafolio de Hue y destaca por su diseño compacto
+- Funciona con apple homekit y google home y el puente hue (se vende por separado)
+- La lámpara es particularmente adecuada para la iluminación ambiental de la sala de estar, no deslumbra
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HHK1NSW/?tag=tolees-21)
