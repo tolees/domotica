@@ -29,11 +29,11 @@ Ahora mismo tienes [Energy Sistem Smart Speaker 5 Home - Altavoz con Alexa integ
 🔎:
 
 - Además, podrás tranferir tu musica mediante conexión de audio jack de 3,5 mm
-- Reproduce tu musica en varios altavoces Energy compatibles gracias a su conectividad Wifi y crea tu propio sistema multiroom
 - Disfruta de todas las posibilidades que ofrece Amazon Alexa en este sistema estéreo 2.0 de 16W de potencia y sus bajos realzados gracias su membrana pasiva
-- Pídele a Alexa que reproduzca tu música preferida, consulta tu agenda o el tiempo que hará solo con tu voz y sin necesidad de usar tu smartphone
-- Los dispositivos con Alexa integrada te permiten conectarte a Alexa para escuchar música, manejar tu hogar digital, obtener información, noticias, el tiempo y más, solo con tu voz.
 - Reproduce cualquier cancion de tu smartphone transfiriendo tu musica sin cables al altavoz gracias a su conexion bluetooth
 - Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
+- Reproduce tu musica en varios altavoces Energy compatibles gracias a su conectividad Wifi y crea tu propio sistema multiroom
+- Los dispositivos con Alexa integrada te permiten conectarte a Alexa para escuchar música, manejar tu hogar digital, obtener información, noticias, el tiempo y más, solo con tu voz.
+- Pídele a Alexa que reproduzca tu música preferida, consulta tu agenda o el tiempo que hará solo con tu voz y sin necesidad de usar tu smartphone
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JGLWGDG/?tag=tolees-21)
