@@ -28,10 +28,10 @@ Tienes [LEDVANCE Smart+ LED ZigBee Bombilla con casquillo E27  luz blanca cálid
 
 ℹ️:
 
-- Bajo consumo de energía: LED de 8 W de bajo consumo con clase de eficiencia energética A+ y una potencia lumínica de 806 lúmenes.
 - Sistemas Smart Home compatibles: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You y muchos más.
 - Repuesto para una bombilla de 60 W – > bombilla LED con superficie mate y casquillo E27 para un fácil intercambio habitual.
 - Iluminación individual – > la luz blanca cálida (2700 Kelvin) proporciona bienestar y relajación. Regula la luz fácilmente a través de la aplicación, mediante comando de voz o también a distancia.
+- Bajo consumo de energía: LED de 8 W de bajo consumo con clase de eficiencia energética A+ y una potencia lumínica de 806 lúmenes.
 - Producto ZigBee -> Amplía tu Smart Home: Directamente controlable a través de Amazon Echo Show y Amazon Echo Plus. Para el uso con Amazon Echo, Amazon Echo Dot y Amazon Echo Spot es necesario un Gateway adicional.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VDG2KM5/?tag=tolees-21)
