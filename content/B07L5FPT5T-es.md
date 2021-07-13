@@ -28,10 +28,10 @@ Tienes [Amazfit Verge- Smartwatch Multisport con Alexa integrada  Bisel de cerá
 
 ℹ️:
 
-- Sensor de frecuencia cardíaca óptico de alta precisión capaz de registrar nuestros datos durante 24 horas, y el total control de mi home y nuestros dispositivos de domótica conectados de forma inteligente en nuestro hogar
-- A disposición 12 modalidades deportivas para obtener registros exhaustivos: correr, correr en interior, senderismo, caminar, elíptica, montañismo, tenis, esquí, fútbol, bicicleta, bicicleta en interior
-- Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
 - Batería con 370 mah de capacidad – en 2.5 horas – 5 días, tiempo de funcionamiento de la batería completamente cargada. Además, dispone del sistema nfc para realizar pagos móviles y de un módulo gps independiente
+- A disposición 12 modalidades deportivas para obtener registros exhaustivos: correr, correr en interior, senderismo, caminar, elíptica, montañismo, tenis, esquí, fútbol, bicicleta, bicicleta en interior
+- Sensor de frecuencia cardíaca óptico de alta precisión capaz de registrar nuestros datos durante 24 horas, y el total control de mi home y nuestros dispositivos de domótica conectados de forma inteligente en nuestro hogar
 - Permite acceder al entorno conectado de xiaomi mi home: al hacer uso de conexión wifi, se puede gestionar todos nuestros dispositivos conectados a la red para encender luces, apagar sockets, activar temporizadores, activar tu robot de limpieza y todo aquello que xiaomi te permita hacer en ámbito doméstico desde tu muñeca.
+- Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07L5FPT5T/?tag=tolees-21)
