@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony KD-43XH8196 - HDR Android TV  proce al 27.56 % de rebaja'
-date: 2021-07-12 12:09:02
+date: 2021-07-14 12:01:49
 image: 'https://m.media-amazon.com/images/I/5162QFrMdkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B084PVYVWD/?tag=tolees-21'
 descuento: '27.56'
-average: '588.5'
+average: '585.810810810811'
 ---
 
 Tienes [Sony KD-43XH8196 - HDR Android TV  procesador X1 4K HDR  Triluminos  X-Reality PRO  MotionFlow XR  Dolby Vision  Dolby Atmos  calibración automática caIMAN  control por voz   Compatible con Alexa](https://www.amazon.es/dp/B084PVYVWD/?tag=tolees-21) con precio final de  489.0 EUR (original: 675.0 EUR) (27.56 %  de rebaja) aqui!
