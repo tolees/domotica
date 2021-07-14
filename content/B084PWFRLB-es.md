@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony KD-49XH8196 - HDR Android TV  proce al 28.99 % de rebaja'
-date: 2021-07-13 11:20:45
+date: 2021-07-14 14:27:36
 image: 'https://m.media-amazon.com/images/I/5162QFrMdkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B084PWFRLB/?tag=tolees-21'
 descuento: '28.99'
-average: '662.322222222222'
+average: '658.718918918919'
 ---
 
 Tienes [Sony KD-49XH8196 - HDR Android TV  procesador X1 4K HDR  Triluminos  X-Reality PRO  MotionFlow XR  Dolby Vision  Dolby Atmos  calibración automática caIMAN  control por voz   Compatible con Alexa](https://www.amazon.es/dp/B084PWFRLB/?tag=tolees-21) con precio final de  529.0 EUR (original: 745.0 EUR) (28.99 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Sony KD-49XH8196 - HDR Android TV  procesador X1 4K HDR  Triluminos  X-R
 
 🔎:
 
-- Compatible con google assistant, compatible con Alexa, airplay, apple homekit
-- Calibración automática caiman
-- Televisor 4k hdr con 4k x-reality pro, pantalla triluminos y android tv
 - Busca opciones de entretenimiento con la voz gracias a android tv
 - Gran sonido e imagen gracias a dolby atmos y dolby vision
+- Calibración automática caiman
+- Televisor 4k hdr con 4k x-reality pro, pantalla triluminos y android tv
+- Compatible con google assistant, compatible con Alexa, airplay, apple homekit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084PWFRLB/?tag=tolees-21)
