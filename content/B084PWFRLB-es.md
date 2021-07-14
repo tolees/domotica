@@ -28,10 +28,10 @@ Tienes [Sony KD-49XH8196 - HDR Android TV  procesador X1 4K HDR  Triluminos  X-R
 
 🔎:
 
-- Busca opciones de entretenimiento con la voz gracias a android tv
 - Gran sonido e imagen gracias a dolby atmos y dolby vision
-- Televisor 4k hdr con 4k x-reality pro, pantalla triluminos y android tv
 - Compatible con google assistant, compatible con Alexa, airplay, apple homekit
+- Busca opciones de entretenimiento con la voz gracias a android tv
+- Televisor 4k hdr con 4k x-reality pro, pantalla triluminos y android tv
 - Calibración automática caiman
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084PWFRLB/?tag=tolees-21)
