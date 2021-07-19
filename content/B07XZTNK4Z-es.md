@@ -29,8 +29,8 @@ Tienes [Philips Hue White and Color Ambiance Pack 3 bombillas LED inteligentes E
 🔎:
 
 - 2 opciones de iluminación inteligente: con bluetooth controla hasta 10 bombillas con la app hue bluetooth con el puente Philips Hue (no incluido) controla la luz de toda la casa, hasta 50 bombillas
-- Controla las luces desde tu smartphone: para bluetooth descárgate la app hue bluetooth, si utilizas el puente usa la app Philips Hue y saca todo el potencial de la iluminación inteligente
 - El paquete incluye: 3 bombillas inteligentes LED E27
 - Regulación cómoda sin instalación: experimenta luz led blanca y de colores temperatura de color: 2000 a 6500 kelvin elige entre 16 millones de colores y sincroniza la luz con música y películas
+- Controla las luces desde tu smartphone: para bluetooth descárgate la app hue bluetooth, si utilizas el puente usa la app Philips Hue y saca todo el potencial de la iluminación inteligente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XZTNK4Z/?tag=tolees-21)
