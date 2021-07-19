@@ -28,9 +28,9 @@ Tienes [Philips Hue 2 Bombilla Inteligente VelaLED E14 + Philips Hue Hue Dimmer 
 
 🔎:
 
-- Tiene la particularidad de que también es un interruptor que puedes acoplar en cualquier pared de la casa
 - Regulación sin instalación: experimenta luz led de blanca cálida a fría (2200 a 6500 k y 470 lúmenes); en la app hue, elige entre luz blanca cálida para relajarte y luz fría para activarte. Despierta y ve a dormir de forma natural con luz que se adapta a tus rutinas. Lee, relájate, concéntrate y revitalízate con las recetas de luz predefinidas.
 - Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue (se vende a parte) controla la luz de toda la casa, hasta 50 bombillas
+- Tiene la particularidad de que también es un interruptor que puedes acoplar en cualquier pared de la casa
 - Portátil, posibilidad de montaje en pared, Zigbee
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WY39JJF/?tag=tolees-21)

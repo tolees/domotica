@@ -28,7 +28,7 @@ En este momento está [Philips Hue Pack de 2 Bombillas Inteligentes LED E27  con
 
 🔎:
 
-- Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue incluido en el pack controla la luz de toda la casa, hasta 50 bombillas
 - Este producto requiere el puente Philips Hue (se vende por separado) para la configuración inicial
+- Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue incluido en el pack controla la luz de toda la casa, hasta 50 bombillas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BJTYZCX/?tag=tolees-21)
