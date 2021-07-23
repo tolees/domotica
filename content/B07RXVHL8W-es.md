@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-XB402M  Altavoz Portátil Extra  con un 41.48 % de descuento'
-date: 2021-07-14 15:02:05
+date: 2021-07-23 08:22:58
 image: 'https://m.media-amazon.com/images/I/51LRT0m1DuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07RXVHL8W/?tag=tolees-21'
 descuento: '41.48'
-average: '182.899444444445'
+average: '181.588947368422'
 ---
 
 En este momento está [Sony SRS-XB402M  Altavoz Portátil Extra Bass  con Alexa integrada  Bluetooth  Modo Live Sound  Resistente Al Agua y Polvo IP67  Hasta 12H de Batería o Conexión a Corriente  Luces de Fiesta   Negro](https://www.amazon.es/dp/B07RXVHL8W/?tag=tolees-21) a 158.0 EUR (original: 270.0 EUR) (41.48 %  de descuento) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [Sony SRS-XB402M  Altavoz Portátil Extra Bass  con Alexa 
 
 🔎:
 
-- Anima tu fiesta con luces lineales y estroboscópicas
+- 25w
+- Hasta 12 horas de batería/extra bass: hasta 11 horas
 - Sonido extra bass con modo de sonido live
+- Resistente al agua y al polvo (calificación ip67)
+- Anima tu fiesta con luces lineales y estroboscópicas
 - Los dispositivos con Alexa integrada te permiten conectarte a Alexa para escuchar música, manejar tu hogar digital, obtener información, noticias, el tiempo y más, solo con tu voz.
 - Amazon alexa integrado
-- Hasta 12 horas de batería/extra bass: hasta 11 horas
-- Resistente al agua y al polvo (calificación ip67)
-- 25w
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RXVHL8W/?tag=tolees-21)
