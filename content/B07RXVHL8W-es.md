@@ -29,11 +29,11 @@ En este momento está [Sony SRS-XB402M  Altavoz Portátil Extra Bass  con Alexa 
 🔎:
 
 - 25w
-- Hasta 12 horas de batería/extra bass: hasta 11 horas
-- Sonido extra bass con modo de sonido live
-- Resistente al agua y al polvo (calificación ip67)
 - Anima tu fiesta con luces lineales y estroboscópicas
-- Los dispositivos con Alexa integrada te permiten conectarte a Alexa para escuchar música, manejar tu hogar digital, obtener información, noticias, el tiempo y más, solo con tu voz.
 - Amazon alexa integrado
+- Sonido extra bass con modo de sonido live
+- Hasta 12 horas de batería/extra bass: hasta 11 horas
+- Los dispositivos con Alexa integrada te permiten conectarte a Alexa para escuchar música, manejar tu hogar digital, obtener información, noticias, el tiempo y más, solo con tu voz.
+- Resistente al agua y al polvo (calificación ip67)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RXVHL8W/?tag=tolees-21)
