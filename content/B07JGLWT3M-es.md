@@ -28,12 +28,12 @@ En este momento está [Energy Sistem Smart Speaker 7 Tower - Sistema De Sonido c
 
 🔎:
 
-- Conectividad sin límites: transfiere tu música sin cables gracias a la conexión bluetooth o crea tu propio sistema multiroom con altavoces Energy compatibles gracias a su conectividad Wifi
-- Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
-- Además, podrás reproducir tus archivos MP3 desde tarjetas microSD y memorias USB con capacidad de hasta 128 GB o transferir tu musica mediante conexión de audio jack de 3,5 mm
 - Pídele a Alexa que reproduzca tu música preferida, consulta tu agenda o el tiempo que hará solo con tu voz y sin necesidad de usar tu smartphone
+- Conectividad sin límites: transfiere tu música sin cables gracias a la conexión bluetooth o crea tu propio sistema multiroom con altavoces Energy compatibles gracias a su conectividad Wifi
+- Si lo prefieres, usa el mando a distancia para controlar todas las funciones o activar a Alexa de una manera cómoda y sencilla
 - Los dispositivos con Alexa integrada te permiten conectarte a Alexa para escuchar música, manejar tu hogar digital, obtener información, noticias, el tiempo y más, solo con tu voz.
 - Disfruta de todas las posibilidades que ofrece Amazon Alexa en este sistema de sonido de 40W de potencia real, en formato de torre
-- Si lo prefieres, usa el mando a distancia para controlar todas las funciones o activar a Alexa de una manera cómoda y sencilla
+- Además, podrás reproducir tus archivos MP3 desde tarjetas microSD y memorias USB con capacidad de hasta 128 GB o transferir tu musica mediante conexión de audio jack de 3,5 mm
+- Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JGLWT3M/?tag=tolees-21)
