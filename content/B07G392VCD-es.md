@@ -28,11 +28,11 @@ Ahora mismo tienes [TP-Link Wi-Fi 6 AX1800 Wi-Fi Mesh - Doble Banda hasta 370 m�
 
 🔎:
 
-- WI-FI 6 MESH WiFi -Velocidades de hasta 1800Mbps, doble banda con una cobertura hasta 370 m2 con señal WiFi más clara y fuerte
-- CONECTA MÁS DISPOSITIVOS - tecnología OFDMA y MU-MIMO cuadruplica la capacidad lo que permite la transmisión simultánea hasta 150 dispositivos
-- UNA RED UNIFICADA - Cada uno de los Deco forman una red para todo el hogar que selecciona automáticamente la mejor conexión a medida que te desplazas por tu hogar para que nunca pierdas la conexión
-- LATENCIA ULTRABAJA - Una mayor reducción en la latencia permite una mejor respuesta en juegos y video llamadas
-- SEGURIDAD Y CONTROL TOTAL - El cifrado WPA3 y TP-Link HomeCareTM ofrecen funciones personalizadas, que incluyen control parental, antivirus y calidad de servicio (QoS) para garantizar una experiencia en línea más segura
 - FÁCIL CONFIGURACIÓN Y ADMINISTRACIÓN - La aplicación Deco te ayuda a configurar tu red en minutos con una guía visual clara y te mantiene en control incluso cuando no estás en casa; También funciona con Alexa; Enciende / apaga el Guest WiFi mediante simples comandos de voz
+- WI-FI 6 MESH WiFi -Velocidades de hasta 1800Mbps, doble banda con una cobertura hasta 370 m2 con señal WiFi más clara y fuerte
+- LATENCIA ULTRABAJA - Una mayor reducción en la latencia permite una mejor respuesta en juegos y video llamadas
+- CONECTA MÁS DISPOSITIVOS - tecnología OFDMA y MU-MIMO cuadruplica la capacidad lo que permite la transmisión simultánea hasta 150 dispositivos
+- SEGURIDAD Y CONTROL TOTAL - El cifrado WPA3 y TP-Link HomeCareTM ofrecen funciones personalizadas, que incluyen control parental, antivirus y calidad de servicio (QoS) para garantizar una experiencia en línea más segura
+- UNA RED UNIFICADA - Cada uno de los Deco forman una red para todo el hogar que selecciona automáticamente la mejor conexión a medida que te desplazas por tu hogar para que nunca pierdas la conexión
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07G392VCD/?tag=tolees-21)
