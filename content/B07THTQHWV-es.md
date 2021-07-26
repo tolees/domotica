@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Cecotec Robot Aspirador Conga Serie 1099 al 50.89 % de descuento'
-date: 2021-07-23 11:35:25
+title: 'Cecotec Robot Aspirador Conga Serie 1099 al 38.61 % de descuento'
+date: 2021-07-26 07:49:26
 image: 'https://m.media-amazon.com/images/I/41UNpL1DEYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07THTQHWV-es Cecotec Robot Aspirador Conga Serie 1099 Connected. 1400...'
 sku: 'B07THTQHWV-es'
 tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','alexa','cecotec','google','home', ]
-actualPrice: 127.2 EUR
+actualPrice: 159.0 EUR
 currency: EUR
-price: 127.2
+price: 159.0
 comparePrice: 259.0 EUR
 prodname: 'Cecotec Robot Aspirador Conga Serie 1099 Connected. 1400 Pa  Aspira  Barre  Friega y Pasa la Mopa  Cepillo Especial Mascotas  Mando a Distancia  Compatible con Alexa y Google Home  Muro Magnético'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Cecotec'
 buyurl: 'https://www.amazon.es/dp/B07THTQHWV/?tag=tolees-21'
-descuento: '50.89'
-average: '171.605614035087'
+descuento: '38.61'
+average: '171.388275862068'
 ---
 
-Ahora mismo tienes [Cecotec Robot Aspirador Conga Serie 1099 Connected. 1400 Pa  Aspira  Barre  Friega y Pasa la Mopa  Cepillo Especial Mascotas  Mando a Distancia  Compatible con Alexa y Google Home  Muro Magnético](https://www.amazon.es/dp/B07THTQHWV/?tag=tolees-21) a 127.2 EUR (original: 259.0 EUR) (50.89 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Cecotec Robot Aspirador Conga Serie 1099 Connected. 1400 Pa  Aspira  Barre  Friega y Pasa la Mopa  Cepillo Especial Mascotas  Mando a Distancia  Compatible con Alexa y Google Home  Muro Magnético](https://www.amazon.es/dp/B07THTQHWV/?tag=tolees-21) a 159.0 EUR (original: 259.0 EUR) (38.61 %  de descuento) en el siguiente enlace!
 
 [![Cecotec Robot Aspirador Conga Serie 1099](https://m.media-amazon.com/images/I/41UNpL1DEYL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07THTQHWV/?tag=tolees-21)
 
