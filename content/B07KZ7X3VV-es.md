@@ -29,9 +29,9 @@ En este momento está [EZVIZ Cámara vigilancia WiFi Interior 720p cámara IP 36
 🔎:
 
 - 【Modo de privacidad】A veces quieres un poco de tiempo a solas. No te preocupes. El diseño de esta cámara te permite apagar la lente cuando quieras para que descanses tranquilamente.
-- 【Detección de movimiento avanzada 】Cuando se detecta movimiento, la cámara captura y rastrea automáticamente el movimiento, mientras envía una notificación y graba video en tiempo real. Con la función de detección de movimiento inteligente la cámara le seguirá automáticamente ante cualquier movimiento.
-- 【Cámara HD 720p y visión panorámica de 360° 】Resolución 720p gran calidad tanto de día como de noche. Lente diagonal de 90º con una visión amplia horizontal de 340 °, rotación vertical de 120 °.
 - 【Compatible con ALEXA】Esta cámara WiFi ahora puede ser controlada con Alexa mediante Echo Show. Simplemente pídele que te enseñe cualquier sitio donde tengas instalada tu cámara EZVIZ. También se puede conectar a otras sistemas de casa inteligente como Google Home o IFTTT y mantener todo sincronizado.
 - 【Audio bidireccional en tiempo real】Habla con tu familia, tus mascotas o incluso ahuyente a los intrusos con el audio bidireccional. Simplemente pulsa el botón de audio en la app y habla como si estuvieras ahí.
+- 【Cámara HD 720p y visión panorámica de 360° 】Resolución 720p gran calidad tanto de día como de noche. Lente diagonal de 90º con una visión amplia horizontal de 340 °, rotación vertical de 120 °.
+- 【Detección de movimiento avanzada 】Cuando se detecta movimiento, la cámara captura y rastrea automáticamente el movimiento, mientras envía una notificación y graba video en tiempo real. Con la función de detección de movimiento inteligente la cámara le seguirá automáticamente ante cualquier movimiento.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KZ7X3VV/?tag=tolees-21)
