@@ -28,10 +28,10 @@ En este momento está [Lomota  Bombilla LED Inteligente Alexa WiFi  Bombilla Mul
 
 🔎:
 
-- ★Automatización y Programación★ Proporciona funciones de conmutación automática para diferentes condiciones personalizadas, como la salida del sol, la temperatura, el horario, el tiempo restante. Puedes crear la escena de acuerdo con tus hábitos habituales, establecer el color y el brillo de la luz por adelantado, como: leer, dormir, celebrar, etc.
-- ★Control a Distancia★ Enciende y apaga la bombilla inteligente Lomota Wi-Fi a través de la aplicación Smartlife, eWiseHome o Tuya. Puedes comprobar el estado de la luz. Puedes controlar la bombilla inteligente en cualquier momento y lugar. Nota: Sólo funciona con una red Wi-Fi de 2,4 GHz.
-- ★Entorno Ilimitado★ 16 millones de colores, 2700K-6500K RGB, bombillas inteligentes que cambian de color regulables, ajuste el brillo, el color y el modo de flash para perfeccionar los colores de su hogar. Bombilla LED 810LMS de 9w con casquillo E27, ahorra hasta un 78,3% de energía, por lo que también ayuda a ahorrar en la factura de la luz.
-- ★Control de Grupo★ Al crear un grupo para todas las bombillas Wi-Fi de la misma zona, puedes controlar el dispositivo combinado con un solo comando.
 - ★ Control de Voz ★ La bombilla inteligente lomota es compatible con Amazon Alexa, Google Assistant, con los comandos de voz se puede Encender el dispositivo, apagar el dispositivo, ajustar el brillo, no se requiere un hub, muy fácil de instalar.Puedes controlar tu bombilla inteligente sin tenerla en la mano.
+- ★Control de Grupo★ Al crear un grupo para todas las bombillas Wi-Fi de la misma zona, puedes controlar el dispositivo combinado con un solo comando.
+- ★Automatización y Programación★ Proporciona funciones de conmutación automática para diferentes condiciones personalizadas, como la salida del sol, la temperatura, el horario, el tiempo restante. Puedes crear la escena de acuerdo con tus hábitos habituales, establecer el color y el brillo de la luz por adelantado, como: leer, dormir, celebrar, etc.
+- ★Entorno Ilimitado★ 16 millones de colores, 2700K-6500K RGB, bombillas inteligentes que cambian de color regulables, ajuste el brillo, el color y el modo de flash para perfeccionar los colores de su hogar. Bombilla LED 810LMS de 9w con casquillo E27, ahorra hasta un 78,3% de energía, por lo que también ayuda a ahorrar en la factura de la luz.
+- ★Control a Distancia★ Enciende y apaga la bombilla inteligente Lomota Wi-Fi a través de la aplicación Smartlife, eWiseHome o Tuya. Puedes comprobar el estado de la luz. Puedes controlar la bombilla inteligente en cualquier momento y lugar. Nota: Sólo funciona con una red Wi-Fi de 2,4 GHz.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DFSTBZZ/?tag=tolees-21)
