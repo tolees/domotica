@@ -28,10 +28,10 @@ Está [Nivian–Bombilla inteligente-Wifi 2.4Ghz–Colores RGB ajustable–Casqu
 
 ℹ️:
 
-- Configura el color y brillo a tu gusto –16 millones de colores y diferentes intensidades con lo que podrás personalizar la luz de tu hogar
-- Conexión estable Wifi 2.4Ghz
 - Escenas inteligentes - A través de la conexión de todos los dispositivos inteligentes Nivian Smart es posible configurar escenas automatizadas e inteligentes para hacer el día a día más sencillo
 - Bombilla inteligente que ahorra energía – Gracias a la tecnología Led, la bombilla con casquillo E27 de 8W y 800 lúmenes genera una luminosidad equivalente a las bombillas incandescentes tradicionales de 80W. Ahorrando un 80% de energía.
+- Configura el color y brillo a tu gusto –16 millones de colores y diferentes intensidades con lo que podrás personalizar la luz de tu hogar
+- Conexión estable Wifi 2.4Ghz
 - Control remoto y asistentes de voz - Apaga, enciende, cambia de color o la intensidad de la bombilla inteligente a través de tu smartphone o a través de los asistentes de voz Amazon Alexa y Google Home
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081QDYSNT/?tag=tolees-21)
