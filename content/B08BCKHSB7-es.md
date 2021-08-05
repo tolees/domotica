@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZigBee Movimiento Sensor SONOFF SNZB-03  al 28.43 % de descuento'
-date: 2021-08-04 15:15:46
+date: 2021-08-05 20:14:50
 image: 'https://m.media-amazon.com/images/I/31ijSl8UtyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [ZigBee Movimiento Sensor SONOFF SNZB-03  Permite Recibir not
 
 🔎:
 
-- ✔Se requiere el SONOFF ZBBridge para su funcionamiento. Puede conectar el sensor al ZBBridge para activar los dispositivos WiFi y ZigBee. Por ejemplo, pu
-- ✔ Fácil instalación sin herramientas, Incluye adhesivo 3M que permite ahorrar tiempo al momento de realizar la instalación. Coloque en el pasillo, baño, cocina o cualquier rincón del hogar.
-- ✔ Conecte una cámara al sensor de movimiento y coloque el sensor en cualquier lugar, Visualice lo que sucede a través de la cámara con la aplicación.
 - ✔ Cuenta con una distancia de detección de 6 metros y un ángulo de visión de 110°. Comparta el control del sensor y verifique lo que sucede. Revise el historial del dispositivo de los últimos 3 meses.
+- ✔Se requiere el SONOFF ZBBridge para su funcionamiento. Puede conectar el sensor al ZBBridge para activar los dispositivos WiFi y ZigBee. Por ejemplo, pu
+- ✔ Conecte una cámara al sensor de movimiento y coloque el sensor en cualquier lugar, Visualice lo que sucede a través de la cámara con la aplicación.
+- ✔ Fácil instalación sin herramientas, Incluye adhesivo 3M que permite ahorrar tiempo al momento de realizar la instalación. Coloque en el pasillo, baño, cocina o cualquier rincón del hogar.
 - ✔ El Sensor de Movimiento ZigBee enviará una notificación de alerta al teléfono móvil cada vez que se detecte movimiento.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BCKHSB7/?tag=tolees-21)
