@@ -29,10 +29,10 @@ Tienes [Polk Audio - COMMAND BAR con Alexa integrada](https://www.amazon.es/dp/B
 ℹ️:
 
 - Muy fácil de instalar la barra de sonido en la pared para ahorrar espacio
-- Conecta el televisor con un único cable gracias a HDMI
-- Barra sonido compatible Alexa
-- Conectividad Bluetooth para la transmisión inalámbrica de audio
 - Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
+- Conectividad Bluetooth para la transmisión inalámbrica de audio
+- Barra sonido compatible Alexa
+- Conecta el televisor con un único cable gracias a HDMI
 - Compatibilidad con mando a distancia de TV integrada
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CRHF5BZ/?tag=tolees-21)
