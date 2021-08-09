@@ -28,10 +28,10 @@ En este momento está [Taurus Homeland Laser  La Elegancia Hecha Robot Aspirador
 
 🔎:
 
-- 10 MODOS DE LIMPIEZA: Robot aspirador que aspira, barre, pasa la mopa y friega con 10 modos de limpieza distintos programables: auto, select room, perimetral, espiral, manual, vuelta a casa, óptima potencia, restriction area, restriction wall, spot cleaning
+- APP CONTROL: Controla todo el funcionamiento y programación del robot aspirador con una aplicación en tu smartphone que dibuja tu hogar, compatible también con Alexa & Google Assistant, también cuenta con control remoto, el robot aspirador vuelve automáticamente a su base de carga una vez finalizada la tarea, restriction area, spot cleaning
 - TECNOLOGÍA ELEGANTLASER: Navegación inteligente con memoria y láser que mapea y dibuja todas las habitaciones, obstáculos y esquinas de tu hogar para una limpieza efectiva
 - POTENTE SUCCIÓN: Distinguido motor potente con 1800 PA, que junto con su cepillo central y sus dos cepillos laterales es capaz de arrastrar la suciedad más incrustada incluso de esquinas, apto para todo tipo de suelos baldosas, parquets, alfombras, moquetas
+- 10 MODOS DE LIMPIEZA: Robot aspirador que aspira, barre, pasa la mopa y friega con 10 modos de limpieza distintos programables: auto, select room, perimetral, espiral, manual, vuelta a casa, óptima potencia, restriction area, restriction wall, spot cleaning
 - ELEGANTE: Robot aspirador con el diseño más elegante, hazte con la elegancia hecha robot aspirador; acabados en negro y dorado rose
-- APP CONTROL: Controla todo el funcionamiento y programación del robot aspirador con una aplicación en tu smartphone que dibuja tu hogar, compatible también con Alexa & Google Assistant, también cuenta con control remoto, el robot aspirador vuelve automáticamente a su base de carga una vez finalizada la tarea, restriction area, spot cleaning
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DXJPBJW/?tag=tolees-21)
