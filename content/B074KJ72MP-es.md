@@ -28,9 +28,9 @@ Ahora mismo tienes [Osram Smart + LED  lámpara ZigBee con zócalo E27  blanco c
 
 🔎:
 
-- Luz regulable
 - Iluminación LED controlable de encendido instantáneo
-- Consumo energético muy bajo; ahorra al menos el 80%
+- Luz regulable
 - El control de accesorios a través de la aplicación requiere un sistema LIGHTIFY (aplicación y pasarela) u otro sistema de casa inteligente compatible
+- Consumo energético muy bajo; ahorra al menos el 80%
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074KJ72MP/?tag=tolees-21)
