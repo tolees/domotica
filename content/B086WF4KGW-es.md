@@ -28,9 +28,9 @@ Tienes [Meross Enchufe Inteligente WiFi Mini - Smart Plug 10A con Control Remoto
 
 🔎:
 
-- 👍SERVICIO👍: No te tengas que preocupar por nada, con soporte técnico 24 horas al día. Si tienes algún problema o duda, ponte en contacto con nosotros, estamos aquí para solucionarlas.
 - 👍FUNCIÓN DEL TEMPORIZADOR 👍: Puede crear un horario o utilizar las funciones de amanecer y atardecer según sus requisitos. Utilice los dispositivos eléctricos de manera eficiente y no tendrá que preocuparse por olvidar apagarlos, lo que le ahorrará muchos costos de electricidad. La toma de WiFi al aire libre puede encender las luces de la calle y los calentadores de agua antes de irse a casa.
 - 👍TAMAÑO PEQUEÑO 👍: El mini enchufe ahorra más espacio y es más adecuado para viajes y transporte. Simplemente descargue la aplicación Meross y siga los pasos de instalación. La conexión es muy estable.
+- 👍SERVICIO👍: No te tengas que preocupar por nada, con soporte técnico 24 horas al día. Si tienes algún problema o duda, ponte en contacto con nosotros, estamos aquí para solucionarlas.
 - 👍CONTROL POR VOZ👍: Enchufe mini wifi puede funcionar con Alexa, Google Home para administrar dispositivos a través de comandos de voz. No se requieren concentradores ni accesorios. Es simple y te ofrece una vida cómoda y relajada.
 - 👍LARGO RANGO DE CONEXIÓN Wi-Fi👍: ¿Le molesta la alta tasa de desconexión de Wi-Fi? El chipset Mediatek IoT permite que nuestro meross enchufe inteligente pueda alcanzar un rango de conexión Wi-Fi más largo y una tasa de desconexión más baja que la mayoría de sus competidores. Funciona con cualquier enrutador Wi-Fi de 2.4GHz o doble banda. (★NOTA: Al conectar este producto, seleccione 2,4 GHz★.) No requiere hub.
 
