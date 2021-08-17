@@ -28,11 +28,11 @@ Ahora mismo tienes [Midea M7 Robot Aspirador y Fregasuelos Mapeo  4000PA  con L�
 
 🔎:
 
-- 【Navegación Laser LDS】puede lograr un posicionamiento preciso de todo el hogar, reconocimiento de obstáculos, anticaída, escalada (hasta 2 cm), cruce de obstáculos y planificación inteligente Z de rutas, resuelve perfectamente las deficiencias de las aspiradoras tradicionales.
 - 【Super potente succión 4000PA】cepillo eléctrico de alta potencia NIDEC, hasta 4000PA, 3 niveles de succión. Al limpiar la alfombra, la presión aumenta automáticamente con una tasa de limpieza hasta 99%.Robot aspirador satisfacer la limpieza diaria y la limpieza profunda.
-- 🌹 3 años de garantía, Si el robot aspirador inteligente falla o no está en buenas condiciones, póngase en contacto con nosotros. Haremos todo lo posible para resolver sus problemas y dificultades.
-- 【4 en 1, Aspira, Barre, Friega y Pasa la Mopa】 se adoptan diferentes modos para diferentes materiales como paneles de madera, alfombras. Modo Barre de limpieza, aspirar barrer y fregar Mopa al mismo tiempo, sin dejar marcas de arrastre, con 5200 mAh batería, duración hasta 3 horas, 250 ㎡.
 - 【Memoria de Mapa Multicapa】 El robot puede memorizar y editar varios mapas al mismo tiempo y reconocer automáticamente a las plantas de arriba y abajo. Cuando el robot está limpiando, puede reconocer automáticamente su entorno, abrir el mapa correspondiente para empezar a trabajar.
+- 🌹 3 años de garantía, Si el robot aspirador inteligente falla o no está en buenas condiciones, póngase en contacto con nosotros. Haremos todo lo posible para resolver sus problemas y dificultades.
+- 【Navegación Laser LDS】puede lograr un posicionamiento preciso de todo el hogar, reconocimiento de obstáculos, anticaída, escalada (hasta 2 cm), cruce de obstáculos y planificación inteligente Z de rutas, resuelve perfectamente las deficiencias de las aspiradoras tradicionales.
 - 【Control APP & Voz 】 se puede conectar a la aplicación MSmartLife de Midea a través de WIFI （Solo 2,4 GHz）para una limpieza programada, y seleccionar el modo para establecer áreas restringidas y limpieza de particiones, compatible con Alexa y Google Home.
+- 【4 en 1, Aspira, Barre, Friega y Pasa la Mopa】 se adoptan diferentes modos para diferentes materiales como paneles de madera, alfombras. Modo Barre de limpieza, aspirar barrer y fregar Mopa al mismo tiempo, sin dejar marcas de arrastre, con 5200 mAh batería, duración hasta 3 horas, 250 ㎡.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08W22XJVR/?tag=tolees-21)
