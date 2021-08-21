@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Osram Smart + LED  lámpara ZigBee con zó al 30.36 % de descuento'
-date: 2021-08-15 22:21:36
+date: 2021-08-21 17:45:12
 image: 'https://m.media-amazon.com/images/I/31nxwSmJNJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Osram'
 buyurl: 'https://www.amazon.es/dp/B074KJ72MP/?tag=tolees-21'
 descuento: '30.36'
-average: '8.27666666666669'
+average: '8.27882352941179'
 ---
 
 Ahora mismo tienes [Osram Smart + LED  lámpara ZigBee con zócalo E27  blanco cálido  atenuable  directamente compatible con Echo Plus y Echo Show  2ª generación   compatible con Philips Hue Bridge](https://www.amazon.es/dp/B074KJ72MP/?tag=tolees-21) a 8.35 EUR (original: 11.99 EUR) (30.36 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Osram Smart + LED  lámpara ZigBee con zócalo E27  blanco c
 
 🔎:
 
+- Luz regulable
 - Consumo energético muy bajo; ahorra al menos el 80%
 - El control de accesorios a través de la aplicación requiere un sistema LIGHTIFY (aplicación y pasarela) u otro sistema de casa inteligente compatible
 - Iluminación LED controlable de encendido instantáneo
-- Luz regulable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074KJ72MP/?tag=tolees-21)
