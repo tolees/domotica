@@ -28,10 +28,10 @@ Tienes [CNBINGO Enchufe inteligente compatible con Alexa/Google Home/dispositivo
 
 🔎:
 
+- Tiempos y escenas: crea un horario para encender y apagar automáticamente el dispositivo. Crea un modelo para viajar. Comparte el control con la familia.
 - Botón y panel de control: se controla manualmente a través de un pequeño botón con una pantalla. La placa está hecha de material PC ignífugo, es segura y no destiñe.
 - Datos técnicos: soporte CA 16 A 240 V máx. Conéctate a 2,4 GWiFi (no 5G). Certificado CE y RoHS. Material de PC ignífugo, protección infantil.
 - Mando a distancia: establece una conexión a WiFi / WiFi (no requiere concentrador) y controle a través de la aplicación Smart Life. Compatible con iOS y Android.
-- Tiempos y escenas: crea un horario para encender y apagar automáticamente el dispositivo. Crea un modelo para viajar. Comparte el control con la familia.
 - Compatibilidad: a través de Alexa, Google Assistant o dispositivos IFTTT. Disfruta del control de voz.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NFVZH49/?tag=tolees-21)
