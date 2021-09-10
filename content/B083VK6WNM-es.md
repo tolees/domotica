@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung QLED 4K 2020 50Q64T - Smart TV d al 23.74 % de descuento'
-date: 2021-09-05 19:33:22
+date: 2021-09-10 00:23:29
 image: 'https://m.media-amazon.com/images/I/413tQ21efzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B083VK6WNM/?tag=tolees-21'
 descuento: '23.74'
-average: '827.388684210527'
+average: '812.518750000001'
 ---
 
 Está [Samsung QLED 4K 2020 50Q64T - Smart TV de 50" con Resolución 4K UHD  con Alexa Integrada  Inteligencia Artificial 4K Wide Viewing Angle  Sonido Inteligente  Premium One Remote](https://www.amazon.es/dp/B083VK6WNM/?tag=tolees-21) con 23.74 de descuento por 529.99 EUR (original: 695.0 EUR) en el siguiente enlace!
@@ -28,15 +28,15 @@ Está [Samsung QLED 4K 2020 50Q64T - Smart TV de 50" con Resolución 4K UHD  con
 
 ℹ️:
 
-- Sonido Inteligente: ajusta el sonido al detectar variaciones, adaptándose al tipo de escena gracias a la Inteligencia
 - HDR 10+: la tecnología HDR crea negros más profundos y potencia el nivel de detalle de cada escena.
-- Multi View: permite ver la pantalla de tu smartphone en el televisor a la vez que se reproduce el contenido en él.
-- Asistentes de voz: accede a tu contenido favorito a través de los asistentes de voz integrados en tu televisor. Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
-- Paquete con embalado genérico: Serie Q60T
-- One Remote Control: accede a todas las aplicaciones de tu Smart TV, decodificador o consola desde un solo mando
-- Inteligencia Artificial 4K: capaz de mejorar la imagen y el sonido a calidad 4K en tiempo real gracias al Procesador de Samsung
-- Smart tv con Tizen y Guía Universal: descubre una amplia plataforma de contenidos y accede fácilmente a ellos de forma personalizada.
-- QLED TV con Quantum dot: tecnología inorgánica que reproduce el 100% del Volumen de color con cualquier nivel de brillo.
 - Ambient Mode: olvida las pantallas y personaliza tu televisor con fotos o tu música favorita
+- Multi View: permite ver la pantalla de tu smartphone en el televisor a la vez que se reproduce el contenido en él.
+- Sonido Inteligente: ajusta el sonido al detectar variaciones, adaptándose al tipo de escena gracias a la Inteligencia
+- Paquete con embalado genérico: Serie Q60T
+- Smart tv con Tizen y Guía Universal: descubre una amplia plataforma de contenidos y accede fácilmente a ellos de forma personalizada.
+- Asistentes de voz: accede a tu contenido favorito a través de los asistentes de voz integrados en tu televisor. Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
+- Inteligencia Artificial 4K: capaz de mejorar la imagen y el sonido a calidad 4K en tiempo real gracias al Procesador de Samsung
+- QLED TV con Quantum dot: tecnología inorgánica que reproduce el 100% del Volumen de color con cualquier nivel de brillo.
+- One Remote Control: accede a todas las aplicaciones de tu Smart TV, decodificador o consola desde un solo mando
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083VK6WNM/?tag=tolees-21)
