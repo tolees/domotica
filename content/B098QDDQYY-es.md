@@ -28,10 +28,10 @@ En este momento está [DODOSOUL - 1296P Cámara Vigilancia WiFi Interior  Cámar
 
 🔎:
 
-- 👀【Seguimiento de IA Móvil】 Cuando un objeto se mueve dentro Del rango de vigilancia, la cámara gira automáticamente después de que el objeto detectado se mueve, rastrea el objeto en movimiento, hasta que el campo de visión del objeto en movimiento desaparezca o la cámara no pueda continuar girando.
 - 🌙【Visión Nocturna】 La cámara está equipada con lámparas nocturnas infrarrojas de 6 * 850 nm, para brindarle efectos de visión nocturna más destacados. Protegerte a ti y a tu familia en todo momento. Deja que la noche ya no dé miedo, hacer que se sienta más cómodo.
 - 🔍【Nueva Tecnología 1296P 】 En comparación con las cámaras ordinarias de 720P y 1080P, esta cámara está equipada con píxeles ultraaltos de 1296P, que pueden brindarle una calidad de imagen más clara. Proporcionarle las imágenes más realistas en cualquier momento y lugar, no te pierdas todos los detalles.
-- 📷【Control Remoto de 360 ° 】 Panorámica de 355 ° + inclinación de 115 ° + campo de disparo de 100 ° = ángulo de visión de 360 ​​°. Puede observar la situación en su hogar en cualquier momento, en cualquier lugar, incluso cuando se encuentre a miles de kilómetros de distancia.
 - 📱【Audio Bidireccional 】 Habla a través de la cámara en cualquier momento y lugar. Puede recordarles a sus hijos que se queden en casa en silencio, recordarles a los padres mayores que coman a tiempo y recordarles a sus mascotas que no corran.
+- 📷【Control Remoto de 360 ° 】 Panorámica de 355 ° + inclinación de 115 ° + campo de disparo de 100 ° = ángulo de visión de 360 ​​°. Puede observar la situación en su hogar en cualquier momento, en cualquier lugar, incluso cuando se encuentre a miles de kilómetros de distancia.
+- 👀【Seguimiento de IA Móvil】 Cuando un objeto se mueve dentro Del rango de vigilancia, la cámara gira automáticamente después de que el objeto detectado se mueve, rastrea el objeto en movimiento, hasta que el campo de visión del objeto en movimiento desaparezca o la cámara no pueda continuar girando.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B098QDDQYY/?tag=tolees-21)
