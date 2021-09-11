@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEDVANCE SMART + Enchufe controlable par con un 43.29 % de descuento'
-date: 2021-09-09 19:25:15
+date: 2021-09-11 15:37:30
 image: 'https://m.media-amazon.com/images/I/418bm3A5ySL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEDVANCE'
 buyurl: 'https://www.amazon.es/dp/B08DVFKZPT/?tag=tolees-21'
 descuento: '43.29'
-average: '29.4964285714285'
+average: '29.7979999999999'
 ---
 
 En este momento está [LEDVANCE SMART + Enchufe controlable para WiFi  con medición de corriente  compatible con Google y Alexa Voice Control  paquete de 4](https://www.amazon.es/dp/B08DVFKZPT/?tag=tolees-21) a 34.02 EUR (original: 59.99 EUR) (43.29 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [LEDVANCE SMART + Enchufe controlable para WiFi  con medic
 🔎:
 
 - Conexión sencilla de los dispositivos eléctricos a través de un enchufe estándar
+- Permite el encendido y apagado de fuentes de luz convencionales y otros dispositivos eléctricos
+- Controlable a través de la aplicación LEDVANCE SMART + WiFi (con Android 6.0 o posterior e iOS 10 o posterior); no compatible con el mando a distancia WiFi LEDVANCE
 - Controlable a través del control de voz disponible: Google Assistant o Amazon Alexa
 - Integra el equipo eléctrico convencional en los sistemas Smart Home compatibles
-- Controlable a través de la aplicación LEDVANCE SMART + WiFi (con Android 6.0 o posterior e iOS 10 o posterior); no compatible con el mando a distancia WiFi LEDVANCE
-- Permite el encendido y apagado de fuentes de luz convencionales y otros dispositivos eléctricos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DVFKZPT/?tag=tolees-21)
