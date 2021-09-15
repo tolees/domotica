@@ -28,11 +28,11 @@ Ahora mismo tienes [Ledvance Smart+ LED Gartenleuchte  ZigBee  RGB Farbwechsel  
 
 🔎:
 
-- Sistemas Smart Home compatibles: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You y muchos más.
+- Ampliación posible: la lámpara LED de jardín tiene cinco focos de 36,5 cm de alto en una longitud de 8,5 m (más 5,4 m de cable) y es ampliable hasta 11 focos.
 - Producto ZigBee -> Amplía tu Smart Home: Directamente controlable a través de Amazon Echo Show y Amazon Echo Plus. Para el uso con Amazon Echo, Amazon Echo Dot y Amazon Echo Spot es necesario un Gateway adicional.
 - Bajo consumo de energía: LED de 8,5 W de bajo consumo con clase de eficiencia energética A y una potencia lumínica de 420 lúmenes.
-- Tecnología LED más novedosa y sostenible; no incluye bombilla normal
 - Iluminación individual – > Control de la temperatura del color desde blanco cálido (2000 K) hasta blanco de luz diurna (6500 K), atenuación y cambio de color RGB, fácil a través de la aplicación, mediante comunicación de voz o también de lejos.
-- Ampliación posible: la lámpara LED de jardín tiene cinco focos de 36,5 cm de alto en una longitud de 8,5 m (más 5,4 m de cable) y es ampliable hasta 11 focos.
+- Tecnología LED más novedosa y sostenible; no incluye bombilla normal
+- Sistemas Smart Home compatibles: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You y muchos más.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MG5D2N7/?tag=tolees-21)
