@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEFANT Robot Aspirador y Fregasuelos  Su al 20.00 % de descuento'
-date: 2021-09-16 10:54:54
+date: 2021-09-17 21:25:07
 image: 'https://m.media-amazon.com/images/I/41cbo7RQDRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEFANT'
 buyurl: 'https://www.amazon.es/dp/B0836RBJZV/?tag=tolees-21'
 descuento: '20.00'
-average: '188.377096774194'
+average: '188.74'
 ---
 
 Está [LEFANT Robot Aspirador y Fregasuelos  Succión Fuerte 2000Pa con Sensores Anticaída  Programable App  Autocarga  Aspira  Barre  Friega y Pasa la Mopa  Alexa y Google Home M501A](https://www.amazon.es/dp/B0836RBJZV/?tag=tolees-21) con 20.00 de descuento por 199.99 EUR (original: 249.99 EUR) en el siguiente enlace!
