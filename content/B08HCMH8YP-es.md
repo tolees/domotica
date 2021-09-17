@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'EZVIZ 1080P Cámara de Vigilancia Exterio con un 40.01 % de descuento'
-date: 2021-08-31 11:50:23
+title: 'EZVIZ Cámara de Vigilancia Exterior de V con un 25.00 % de descuento'
+date: 2021-09-17 16:48:27
 image: 'https://m.media-amazon.com/images/I/31Io3EH1ygL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08HCMH8YP-es EZVIZ 1080P Cámara de Vigilancia Exterior de Seguridad...'
+slug: 'B08HCMH8YP-es EZVIZ Cámara de Vigilancia Exterior de Visión Nocturna en...'
 sku: 'B08HCMH8YP-es'
 tags: [ 'Cámaras bala de vigilancia','Cámaras de vigilancia','Electrónica','Fotografía y videocámaras','alexa','ezviz', ]
-actualPrice: 47.99 EUR
+actualPrice: 59.99 EUR
 currency: EUR
-price: 47.99
+price: 59.99
 comparePrice: 79.99 EUR
-prodname: 'EZVIZ 1080P Cámara de Vigilancia Exterior de Seguridad H.265 Compresión  Visión Nocturna en Color  AI Detección Humana  IP67 Impermeable  Compatible con Alexa y Google. CTQ3N'
+prodname: 'EZVIZ Cámara de Vigilancia Exterior de Visión Nocturna en Color  Cámara Bala de Seguridad con Defensa Activa Luz Estroboscópica  AI Detección Humana  IP67  Compatible con Alexa y Google. CTQ3N 1080P'
 country: 'es'
 flag: '🇪🇸'
 brand: 'EZVIZ'
 buyurl: 'https://www.amazon.es/dp/B08HCMH8YP/?tag=tolees-21'
-descuento: '40.01'
-average: '59.365'
+descuento: '25.00'
+average: '59.4344444444444'
 ---
 
-En este momento está [EZVIZ 1080P Cámara de Vigilancia Exterior de Seguridad H.265 Compresión  Visión Nocturna en Color  AI Detección Humana  IP67 Impermeable  Compatible con Alexa y Google. CTQ3N](https://www.amazon.es/dp/B08HCMH8YP/?tag=tolees-21) a 47.99 EUR (original: 79.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
+En este momento está [EZVIZ Cámara de Vigilancia Exterior de Visión Nocturna en Color  Cámara Bala de Seguridad con Defensa Activa Luz Estroboscópica  AI Detección Humana  IP67  Compatible con Alexa y Google. CTQ3N 1080P](https://www.amazon.es/dp/B08HCMH8YP/?tag=tolees-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![EZVIZ 1080P Cámara de Vigilancia Exterio](https://m.media-amazon.com/images/I/31Io3EH1ygL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08HCMH8YP/?tag=tolees-21)
+[![EZVIZ Cámara de Vigilancia Exterior de V](https://m.media-amazon.com/images/I/31Io3EH1ygL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08HCMH8YP/?tag=tolees-21)
 
 🔎:
 
-- 【Resolución de video 1080P HD y IP67 Impermeable】Cámara de vigilancia con asombroso video Full HD 1920 * 1080 y visualización en vivo, mayor claridad de imágenes que le brindan una sensación de inmersión. Y la cámara es fuerte y robusta para soportar condiciones climáticas adversa.
 - 【Protección proactiva】 Al detectar movimiento humano, la cámara IP de CTQ3N puede parpadear automáticamente o configurarse manualmente para iluminar los dos focos y disuadir a los visitantes no deseados.
+- 【Detección Humana AI】Como una mejora de la detección de movimiento simple, el algoritmo de Inteligencia Artificial AI integrado detecta de forma precisa el movimiento de las formas humanas en tiempo real. Cuando las personas ingresen a su área de detección personalizada, recibirá una alerta de inmediato.
 - 【Visión Nocturna en Color】Equipado con lentes ópticas profesionales, dos focos integrados y dos luces infrarrojas (IR), la cámara de vigilancia CTQ3N ofrece imágenes en color nítidas incluso en total oscuridad. Además, los focos también se pueden usar como reflectores para iluminar áreas ocultas alrededor de su propiedad.
 - 【Tres modos de visión nocturna】Además del Modo blanco y negro y Modo de visión nocturna en color, dispones del modo de visión nocturna inteligente. Activándolo, Ezviz CTQ3N cambiará automáticamente del monitoreo en blanco y negro al monitoreo en color, encendiendo los focos cuando detecte movimiento humano. El video de alerta se grabará a todo color, para que obtenga todos los detalles necesarios.
-- 【Detección Humana AI】Como una mejora de la detección de movimiento simple, el algoritmo de Inteligencia Artificial AI integrado detecta de forma precisa el movimiento de las formas humanas en tiempo real. Cuando las personas ingresen a su área de detección personalizada, recibirá una alerta de inmediato.
+- 【Resolución de video 1080P HD y IP67 Impermeable】Cámara de vigilancia con asombroso video Full HD 1920 * 1080 y visualización en vivo, mayor claridad de imágenes que le brindan una sensación de inmersión. Y la cámara es fuerte y robusta para soportar condiciones climáticas adversa.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HCMH8YP/?tag=tolees-21)
