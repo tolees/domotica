@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Xiaomi Smart TV P1 43 Pulgadas  Frameles al 15.59 % de descuento'
-date: 2021-09-11 08:16:36
+title: 'Xiaomi Smart TV P1 43 Pulgadas  Frameles al 15.39 % de descuento'
+date: 2021-09-20 08:39:55
 image: 'https://m.media-amazon.com/images/I/419M4ghA75S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,32 +9,32 @@ author: 'tole.es'
 slug: 'B093TNQ2LT-es Xiaomi Smart TV P1 43 Pulgadas Frameless UHD Sintonizador...'
 sku: 'B093TNQ2LT-es'
 tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','alexa','xiaomi', ]
-actualPrice: 379.0 EUR
+actualPrice: 379.9 EUR
 currency: EUR
-price: 379.0
+price: 379.9
 comparePrice: 449.0 EUR
 prodname: 'Xiaomi Smart TV P1 43 Pulgadas  Frameless  UHD  Sintonizador Triple  Android 10.0  Prime Video  Netflix  Google Assistant  Compatible con Alexa  Bluetooth  3 HDMI  2 USB  [Model 2021]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B093TNQ2LT/?tag=tolees-21'
-descuento: '15.59'
-average: '391.165555555555'
+descuento: '15.39'
+average: '390.039'
 ---
 
-Ahora mismo tienes [Xiaomi Smart TV P1 43 Pulgadas  Frameless  UHD  Sintonizador Triple  Android 10.0  Prime Video  Netflix  Google Assistant  Compatible con Alexa  Bluetooth  3 HDMI  2 USB  [Model 2021]](https://www.amazon.es/dp/B093TNQ2LT/?tag=tolees-21) a 379.0 EUR (original: 449.0 EUR) (15.59 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Xiaomi Smart TV P1 43 Pulgadas  Frameless  UHD  Sintonizador Triple  Android 10.0  Prime Video  Netflix  Google Assistant  Compatible con Alexa  Bluetooth  3 HDMI  2 USB  [Model 2021]](https://www.amazon.es/dp/B093TNQ2LT/?tag=tolees-21) a 379.9 EUR (original: 449.0 EUR) (15.39 %  de descuento) en el siguiente enlace!
 
 [![Xiaomi Smart TV P1 43 Pulgadas  Frameles](https://m.media-amazon.com/images/I/419M4ghA75S._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B093TNQ2LT/?tag=tolees-21)
 
 🔎:
 
-- Sintonizador Triple HD para DVB-S2, DVB-C y DVB-T2
-- Android TV 10.0 con Google Assistant y acceso a Google Play Store, 2 GB RAM, memoria interna de 16GB, Compatible con Alexa
-- Dimensiones, incluida la base (L. x An. x Al.): 962.2 X  205.2mm X 624.6 mm, Dimensiones sin incluir la base (L. x An. x Al.): 862.2 X 84.8 X 556.1 mm
 - Prime Video, Netflix, YouTube, Chromcast, Hbbtv 2.0, ect
-- Tipo: UHD LED TV - 43 Pulgadas (108cm), Flat, 3,840 x 2160 pixeles , frameless Design
 - Bluetooth: Mando a distancia Bluetooth con 2 micrófonos, botón de acceso directo a Prime Video y Netflix
-- Imagen: Dolby Vision, HDR, MEMC UHD 60Hz
 - Conectividad: HDMI eARC 2.1 x 1, HDMI 2.0 x 2, USB 2.0 x 2, entrada AV, Ethernet LAN (RJ45), WLAN, salida de auriculares, ranura CI +
+- Sintonizador Triple HD para DVB-S2, DVB-C y DVB-T2
+- Imagen: Dolby Vision, HDR, MEMC UHD 60Hz
+- Android TV 10.0 con Google Assistant y acceso a Google Play Store, 2 GB RAM, memoria interna de 16GB, Compatible con Alexa
+- Tipo: UHD LED TV - 43 Pulgadas (108cm), Flat, 3,840 x 2160 pixeles , frameless Design
+- Dimensiones, incluida la base (L. x An. x Al.): 962.2 X  205.2mm X 624.6 mm, Dimensiones sin incluir la base (L. x An. x Al.): 862.2 X 84.8 X 556.1 mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B093TNQ2LT/?tag=tolees-21)
