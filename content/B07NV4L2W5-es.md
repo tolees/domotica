@@ -28,10 +28,10 @@ Tienes [Interruptor Universal Inteligente con Wi-Fi  con Control Remoto Meross A
 
 ℹ️:
 
-- ★Seguridad★: Meross interruptor inteligente aprobó la certificación europea CE y RoHS (número de certificación: BCTC-FYC180094182C). No permita que otros interruptores inteligentes de baja calidad pongan en peligro la seguridad de su familia. Meross Siempre le da mucha importancia a la seguridad del producto.
 - ★Control Remoto★: Controla desde cualquier lugar el interruptor inteligente de tu casa u oficina mediante la aplicación Meross, disponible para iOS y Android,( IOS 9 y superior, Android 4.1 y superior.)
-- ★Largo Rango de Conexión Wi-Fi★: ¿Le molesta la alta tasa de desconexión de Wi-Fi? El chipset Mediatek IoT permite que nuestro interruptor universal inteligente pueda alcanzar un rango de conexión Wi-Fi más largo y una tasa de desconexión más baja que la mayoría de sus competidores. Funciona con cualquier enrutador Wi-Fi de 2.4GHz o doble banda. (★NOTA: Al conectar este producto, seleccione 2,4 GHz★.) No requiere hub.
 - ★ Servicio ★: No te tengas que preocupar por nada, con soporte técnico 24 horas al día. Si tienes algún problema o duda, ponte en contacto con nosotros, estamos aquí para solucionarlas.
+- ★Largo Rango de Conexión Wi-Fi★: ¿Le molesta la alta tasa de desconexión de Wi-Fi? El chipset Mediatek IoT permite que nuestro interruptor universal inteligente pueda alcanzar un rango de conexión Wi-Fi más largo y una tasa de desconexión más baja que la mayoría de sus competidores. Funciona con cualquier enrutador Wi-Fi de 2.4GHz o doble banda. (★NOTA: Al conectar este producto, seleccione 2,4 GHz★.) No requiere hub.
+- ★Seguridad★: Meross interruptor inteligente aprobó la certificación europea CE y RoHS (número de certificación: BCTC-FYC180094182C). No permita que otros interruptores inteligentes de baja calidad pongan en peligro la seguridad de su familia. Meross Siempre le da mucha importancia a la seguridad del producto.
 - ★Control por Voz★: Compatible con Alexa, Google Assistant e IFTTT, disfrute de una vida inteligente. También muy adecuado para personas mayores o con movilidad reducida.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NV4L2W5/?tag=tolees-21)
