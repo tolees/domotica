@@ -28,10 +28,10 @@ Ahora mismo tienes [EZVIZ 1080p IP Cámara de Seguridad Interior  2.4GHz Wi-Fi F
 
 🔎:
 
-- Tres métodos de almacenamiento para usted: puede grabar videos/imágenes en la tarjeta SD (hasta 128 GB, no incluidos), EZVIZ NVR, EZVIZ Cloud Service (puede obtener un mes gratis)
-- Visión nocturna: con LED de infrarrojos, le permite vigilar toda la habitación a una distancia de hasta 10 metros en la oscuridad
-- Audio bidireccional: puede comunicarse con su familia o sus mascotas o asustar a los intrusos gracias al micrófono y al altavoz integrados
-- Aviso de movimiento instantáneo: cuando la cámara detecte movimientos o intrusos, recibirá alertas de inmediato, solo verifique y asegúrese de que todo vaya bien en su hogar cuando y donde sea
 - Fácil instalación solo 3 pasos: descargue y registre la aplicación; enciende la cámara; escanear el código QR
+- Tres métodos de almacenamiento para usted: puede grabar videos/imágenes en la tarjeta SD (hasta 128 GB, no incluidos), EZVIZ NVR, EZVIZ Cloud Service (puede obtener un mes gratis)
+- Aviso de movimiento instantáneo: cuando la cámara detecte movimientos o intrusos, recibirá alertas de inmediato, solo verifique y asegúrese de que todo vaya bien en su hogar cuando y donde sea
+- Audio bidireccional: puede comunicarse con su familia o sus mascotas o asustar a los intrusos gracias al micrófono y al altavoz integrados
+- Visión nocturna: con LED de infrarrojos, le permite vigilar toda la habitación a una distancia de hasta 10 metros en la oscuridad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RBZS7WC/?tag=tolees-21)
