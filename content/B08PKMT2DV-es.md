@@ -29,8 +29,8 @@ Ahora mismo tienes [Philips Hue Hue Dimmer Switch Interruptor inteligente  Blanc
 🔎:
 
 - Portátil, posibilidad de montaje en pared, Zigbee
+- Podrás programar desde la App de Philips Hue hasta 4 escenas con tus ambientes favoritos
 - Control por voz: Compatible con los asistentes de voz de Amazon Alexa, Google Home y Apple HomeKit
 - Tiene la particularidad de que también es un interruptor que puedes acoplar en cualquier pared de la casa
-- Podrás programar desde la App de Philips Hue hasta 4 escenas con tus ambientes favoritos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PKMT2DV/?tag=tolees-21)
