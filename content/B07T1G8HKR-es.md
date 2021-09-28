@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[2 Pack] PULEN Protector de Pantalla par con un 22.25 % de descuento'
-date: 2021-09-17 18:00:44
+date: 2021-09-28 18:48:56
 image: 'https://m.media-amazon.com/images/I/410tZCUTUCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
