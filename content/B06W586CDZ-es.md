@@ -28,9 +28,9 @@ Está [TP-Link HS100 - Enchufe Inteligente para Controlar Sus Dispositivos Desde
 
 ℹ️:
 
-- Programación: programa el enchufe inteligente para que automáticamente encienda o apague la alimentación de los electrodomésticos según sea necesario, como por ejemplo, encender la luz al anochecer o apagarla al amanecer
-- Acceso remoto: controla dispositivos conectados al enchufe inteligente donde tengas internet, utilizando la app gratuita kasa en tu smartphone
 - Control de voz google home: google home (se vende por separado) le permite controlar los dispositivos conectados al enchufe inteligente tan solo utilizando tu voz
 - Modo fuera de casa: enciende y apaga tus dispositivos a diferentes horarios para dar la apariencia de que alguien está en casa
+- Acceso remoto: controla dispositivos conectados al enchufe inteligente donde tengas internet, utilizando la app gratuita kasa en tu smartphone
+- Programación: programa el enchufe inteligente para que automáticamente encienda o apague la alimentación de los electrodomésticos según sea necesario, como por ejemplo, encender la luz al anochecer o apagarla al amanecer
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06W586CDZ/?tag=tolees-21)
