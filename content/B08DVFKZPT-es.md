@@ -29,9 +29,9 @@ En este momento está [LEDVANCE SMART + Enchufe controlable para WiFi  con medic
 🔎:
 
 - Integra el equipo eléctrico convencional en los sistemas Smart Home compatibles
-- Controlable a través de la aplicación LEDVANCE SMART + WiFi (con Android 6.0 o posterior e iOS 10 o posterior); no compatible con el mando a distancia WiFi LEDVANCE
 - Controlable a través del control de voz disponible: Google Assistant o Amazon Alexa
 - Permite el encendido y apagado de fuentes de luz convencionales y otros dispositivos eléctricos
 - Conexión sencilla de los dispositivos eléctricos a través de un enchufe estándar
+- Controlable a través de la aplicación LEDVANCE SMART + WiFi (con Android 6.0 o posterior e iOS 10 o posterior); no compatible con el mando a distancia WiFi LEDVANCE
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DVFKZPT/?tag=tolees-21)
