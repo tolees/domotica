@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link HS100 - Enchufe Inteligente para al 37.08 % de descuento'
-date: 2021-10-01 09:14:48
+date: 2021-10-09 15:50:39
 image: 'https://m.media-amazon.com/images/I/3179Pl-TRFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B06W586CDZ/?tag=tolees-21'
 descuento: '37.08'
-average: '16.1637777777777'
+average: '16.3593478260869'
 ---
 
 Está [TP-Link HS100 - Enchufe Inteligente para Controlar Sus Dispositivos Desde Cualquier Lugar  sin Necesidad de Concentrador  Funciona con Amazon Alexa y Google Home e Ifttt  Wi-Fi Ready](https://www.amazon.es/dp/B06W586CDZ/?tag=tolees-21) con 37.08 de descuento por 25.16 EUR (original: 39.99 EUR) en el siguiente enlace!
