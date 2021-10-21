@@ -28,10 +28,10 @@ Está [WiFi Tiras LED Inteligente  Meross 5M RGBW LED Tiras Funciona con Homekit
 
 ℹ️:
 
-- Control Remoto: con la App de Google Home o de Meross, puede usar su teléfono inteligente (compatible con iOS 13 o superior, Android 4.1 o superior) para controlar la Homekit tiras led de interior desde cualquier lugar, independientemente de la distancia.
-- Función de Sincronización: De acuerdo con sus hábitos, personalice sus propios escenarios de uso. Encienda la LED Tiras a las 7 en punto de la noche o apague la rgbw tiras a las 12 en punto para ahorrar energía. Además, también puede cortar la tira iluminaciòn para que se adapte a sus necesidades.
 - Múlti-color & Temperatura de Color Ajustable: Utilice la APP de Google Home o de Meross para elegir el color que desee. La temperatura de color de la tira luz LED se puede ajustar entre 2700K-6500K para adaptarse a los requisitos de brillo de diferentes atmósferas. Nota: HomeKit Strip no admite el ajuste de temperatura de color.
 - Fácil Instalación: El paquete tiene adaptador, 2 conectores y una tira LED de 5M, adhesivo original de 3M y 5 abrazaderas de fijación. Las inteligente Led tiras HomeKit vienen con una garantía de 2 años.
 - Hola Siri: Meross Wifi tiras led viene multi-modos de control. Es compatible con Apple Homekit, Alexa, Google Home y SmartThings, para manejar tu dispositivo con el control de voz. ¡Viva la vida de forma más inteligente!
+- Función de Sincronización: De acuerdo con sus hábitos, personalice sus propios escenarios de uso. Encienda la LED Tiras a las 7 en punto de la noche o apague la rgbw tiras a las 12 en punto para ahorrar energía. Además, también puede cortar la tira iluminaciòn para que se adapte a sus necesidades.
+- Control Remoto: con la App de Google Home o de Meross, puede usar su teléfono inteligente (compatible con iOS 13 o superior, Android 4.1 o superior) para controlar la Homekit tiras led de interior desde cualquier lugar, independientemente de la distancia.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08W51GN1Y/?tag=tolees-21)
