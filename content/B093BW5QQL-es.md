@@ -29,11 +29,11 @@ Tienes [Barra de Sonido Inteligente LG SP9YA de 520W de Potencia 5.1.2 Canales S
 ℹ️:
 
 - Wi-Fi (2.4G / 5G)
-- Potencia Total: 520W 5,1,2 canales
-- Enlaza tus contenidos con AirPlay 2, Spotify, Alexa, Asistente Google y Chromecast
 - Meridian Sound Music
+- Enlaza tus contenidos con AirPlay 2, Spotify, Alexa, Asistente Google y Chromecast
+- Potencia Total: 520W 5,1,2 canales
+- Amplia conectividad con HDMI eARC, Bluetooth 5.0, USB
 - Sonido Envolvente con Dolby Atmos y dts:X
 - Sonido de alta resolución Hi-Res Audio 24bit/192kHz
-- Amplia conectividad con HDMI eARC, Bluetooth 5.0, USB
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B093BW5QQL/?tag=tolees-21)
