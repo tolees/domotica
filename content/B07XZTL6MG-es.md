@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Hue White - Paquete de 2 bombill al 35.94 % de descuento'
-date: 2021-11-10 12:05:28
+date: 2021-11-11 15:57:17
 image: 'https://m.media-amazon.com/images/I/31Y13XX86bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips Hue'
 buyurl: 'https://www.amazon.es/dp/B07XZTL6MG/?tag=tolees-21'
 descuento: '35.94'
-average: '34.6566666666667'
+average: '33.99'
 ---
 
 Está [Philips Hue White - Paquete de 2 bombillas LED inteligentes E27  luz blanca cálida  compatible con Bluetooth y Zigbee + Botón/Interruptor Smart Button](https://www.amazon.es/dp/B07XZTL6MG/?tag=tolees-21) con 35.94 de descuento por 31.99 EUR (original: 49.94 EUR) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [Philips Hue White - Paquete de 2 bombillas LED inteligentes E27  luz blan
 
 ℹ️:
 
-- Experimenta la luz LED blanca cálida para relajarse; Temperatura de color: 2700 Kelvin
-- El botón Hue Smart Button se puede integrar fácilmente en un sistema Hue existente y configurar individualmente a través de la aplicación Philips Hue.
-- Colocación individual del interruptor en tu hogar: el botón Hue Smart Button se puede colocar en cualquier lugar con tornillos o con la cinta adhesiva incluida.
-- En el caso de que controles las luces mediante Bluetooth descargate la aplicación Hue Bluetooth, si utilizas el puente usa la app Philips Hue para exprimir al máximo todo el potencial de la iluminación inteligente
 - Accesorio para tu sistema inteligente Philips Hue: el botón inteligente te permite controlar la luz y regular cómodamente, sin instalación y está listo para usar.
-- El paquete incluye: 2 bombillas inteligentes LED E27 + Interruptor inteligente Smart button
+- En el caso de que controles las luces mediante Bluetooth descargate la aplicación Hue Bluetooth, si utilizas el puente usa la app Philips Hue para exprimir al máximo todo el potencial de la iluminación inteligente
+- Experimenta la luz LED blanca cálida para relajarse; Temperatura de color: 2700 Kelvin
+- Colocación individual del interruptor en tu hogar: el botón Hue Smart Button se puede colocar en cualquier lugar con tornillos o con la cinta adhesiva incluida.
+- El botón Hue Smart Button se puede integrar fácilmente en un sistema Hue existente y configurar individualmente a través de la aplicación Philips Hue.
 - Gracias a la tecnología Bluetooth puedes controlar hasta 10 bombillas
+- El paquete incluye: 2 bombillas inteligentes LED E27 + Interruptor inteligente Smart button
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XZTL6MG/?tag=tolees-21)
