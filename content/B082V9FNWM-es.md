@@ -28,10 +28,10 @@ Tienes [EZVIZ PT Cámara de Vigilancia 1080p Interior  Wi-Fi IP Cámara de Segur
 
 🔎:
 
-- 【Seguimiento inteligente del movimiento】cuando se detecta movimiento, la cámara puede moverse automáticamente para rastrear cualquier movimiento y grabar videos
-- 【Visión nocturna&Fácil instalación 】con LED de infrarrojos, le permite vigilar toda la habitación a una distancia de hasta 10 metros en la oscuridad.Solo 3 pasos: descargue y registre la aplicación; enciende la cámara; escanear el código QR
-- 【Audio bidireccional】puede comunicarse con su familia o sus mascotas o asustar a los intrusos gracias al micrófono y al altavoz integrados
 - 【La máscara de privacidad inteligente】la cámara vuelve a su casco, detiene inmediatamente la grabación de videos y desactiva la transmisión en vivo cuando es necesario
+- 【Visión nocturna&Fácil instalación 】con LED de infrarrojos, le permite vigilar toda la habitación a una distancia de hasta 10 metros en la oscuridad.Solo 3 pasos: descargue y registre la aplicación; enciende la cámara; escanear el código QR
+- 【Seguimiento inteligente del movimiento】cuando se detecta movimiento, la cámara puede moverse automáticamente para rastrear cualquier movimiento y grabar videos
+- 【Audio bidireccional】puede comunicarse con su familia o sus mascotas o asustar a los intrusos gracias al micrófono y al altavoz integrados
 - 【Aviso de movimiento instantáneo】cuando la cámara detecte movimientos o intrusos, recibirá alertas de inmediato, solo verifique y asegúrese de que todo vaya bien en su hogar cuando y donde sea
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082V9FNWM/?tag=tolees-21)

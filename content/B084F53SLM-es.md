@@ -28,12 +28,12 @@ En este momento está [EZVIZ Cámara de Vigilancia WiFi Visión Nocturna Colorid
 
 🔎:
 
+- Visión nocturna en color sin iluminación: el C3X utiliza lentes infrarrojos y LED para brindar imágenes en color incluso en las condiciones débiles de la luz solar; Ya no hay necesidad de iluminación
+- Puede elegir activar y desactivar manualmente el sistema de alarma; El C3X le permite grabar su propia voz para un saludo o disuasivo personalizado
+- Cuando se detecta un movimiento, la cámara de vigilancia activa una potente sirena de hasta 100 dB y emite un flash brillante para ahuyentar a los intrusos
+- Cámara 1080P y lente dual: la imagen en colores vivos se realiza con dos lentes de 2MP: una lente registra el brillo ambiental y la otra captura la información del color
+- H.265 e IP67 a prueba de agua y múltiples opciones de almacenamiento: usando la tecnología de compresión de video H.265, el C3X hace que el video sea claro y suave
 - Grabación activada por el movimiento de personas y vehículos, con un modelo de aprendizaje profundo integrado, el C3X puede detectar el movimiento de formas de personas y vehículos en tiempo real;
 - Ahora puede recibir alertas de movimiento precisas con las que siempre ha soñado; Cuando nadie está mirando, el C3X se hace cargo de usted
-- Cuando se detecta un movimiento, la cámara de vigilancia activa una potente sirena de hasta 100 dB y emite un flash brillante para ahuyentar a los intrusos
-- Puede elegir activar y desactivar manualmente el sistema de alarma; El C3X le permite grabar su propia voz para un saludo o disuasivo personalizado
-- H.265 e IP67 a prueba de agua y múltiples opciones de almacenamiento: usando la tecnología de compresión de video H.265, el C3X hace que el video sea claro y suave
-- Visión nocturna en color sin iluminación: el C3X utiliza lentes infrarrojos y LED para brindar imágenes en color incluso en las condiciones débiles de la luz solar; Ya no hay necesidad de iluminación
-- Cámara 1080P y lente dual: la imagen en colores vivos se realiza con dos lentes de 2MP: una lente registra el brillo ambiental y la otra captura la información del color
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084F53SLM/?tag=tolees-21)
