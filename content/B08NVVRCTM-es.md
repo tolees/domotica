@@ -28,10 +28,10 @@ En este momento está [Otterbox - Nuevo soporte Made for Amazon para Amazon Echo
 
 🔎:
 
-- Diseño de la recompensa más mona de la galaxia, ideal para romper el hielo con los invitados.
-- Diseñado exclusivamente para el Echo Dot (4.ª generación). Soporte no compatible con el Echo Dot de 1.ª, 2.ª ni 3.ª generación de Amazon. El Echo Dot (4.ª generación) se vende por separado.
-- Diseñado para durar, material resistente que soporta el uso diario.
 - Sujeta tu dispositivo Echo con seguridad para que disfrutes de Alexa como siempre. Ajuste de precisión y base antideslizante diseñada para una salida de audio óptima.
 - Incluido en la caja: soporte y guía de inicio rápido.
+- Diseñado para durar, material resistente que soporta el uso diario.
+- Diseñado exclusivamente para el Echo Dot (4.ª generación). Soporte no compatible con el Echo Dot de 1.ª, 2.ª ni 3.ª generación de Amazon. El Echo Dot (4.ª generación) se vende por separado.
+- Diseño de la recompensa más mona de la galaxia, ideal para romper el hielo con los invitados.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NVVRCTM/?tag=tolees-21)
