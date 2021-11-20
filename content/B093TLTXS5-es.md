@@ -28,13 +28,13 @@ Tienes [Xiaomi Smart TV P1 50 Pulgadas  Frameless  UHD  Sintonizador Triple  And
 
 ℹ️:
 
-- Tipo: UHD LED TV - 50 Pulgada (126cm), Flat, 3,840 x 2160 pixeles , diseño Frameles
-- Conectividad: HDMI eARC 2.1 x 1, HDMI 2.0 x 2, USB 2.0 x 2, entrada AV, Ethernet LAN (RJ45), WLAN, salida de auriculares, ranura CI +
 - Bluetooth: Mando a distancia Bluetooth con 2 micrófonos, botón de acceso directo a Prime Video y Netflix
-- Sintonizador Triple HD para DVB-S2, DVB-C y DVB-T3
 - Prime Video, Netflix, YouTube, Chromcast, Hbbtv 2.0, ect
 - Android TV 10.0 con Google Assistant y acceso a Google Play Store, 2 GB RAM, memoria interna de 16GB, Compatible con Alexa
-- Imagen: WCG NTSC 85% , dolby vision, HDR10+, MEMC UHD 60Hz
 - Dimensiones, incluida la base (L. x An. x Al.): 1117.2 X 276.8 X 710.6 mm, Dimensiones sin incluir la base (L. x An. x Al.): 1117.2 X 83.6 X 652.5 mm
+- Sintonizador Triple HD para DVB-S2, DVB-C y DVB-T3
+- Tipo: UHD LED TV - 50 Pulgada (126cm), Flat, 3,840 x 2160 pixeles , diseño Frameles
+- Imagen: WCG NTSC 85% , dolby vision, HDR10+, MEMC UHD 60Hz
+- Conectividad: HDMI eARC 2.1 x 1, HDMI 2.0 x 2, USB 2.0 x 2, entrada AV, Ethernet LAN (RJ45), WLAN, salida de auriculares, ranura CI +
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B093TLTXS5/?tag=tolees-21)
