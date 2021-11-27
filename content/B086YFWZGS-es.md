@@ -28,10 +28,10 @@ Está [WiFi Tira Led Rgb para TV  Etersky 3M USB Tira Luces Led Decorativas 5V C
 
 ℹ️:
 
+- 【Control remoto de la aplicación】 En la aplicación "Smart Life" puede controlar LED Stripe con su teléfono móvil en cualquier momento y cualquier lugar. El led rgb tiene varias funciones prácticas: brillo ajustable, configuración de color, función de temporizador, diferentes escenas o modo de bricolaje. (Advertencia: solo compatible con Wi-Fi de 2.4GHz)
+- 【TIra Led TV】 Las tiras luces led para TV, que se utilizan principalmente para la decoración de fondo de la pantalla de TV y el monitor de la PC, brindan una fantástica atmósfera de cine en casa, perfecta para monitores HDTV / PC.
 - 【Función de temporizador / música】 Puede utilizar la función de temporizador para configurar su hora preferida para encender / apagar automáticamente su tira LED wifi en diferentes momentos. Con el modo de música, la tira puede sincronizarse con cualquier música en el televisor o el altavoz, y las luces parpadean junto con los ritmos musicales. Obtén mejores efectos de juego o televisión.
 - 【Control de voz de Alexa】 La tira led usb es compatible con Alexa (Amazon Echo / Dot / Tap) y Google home. Simplemente encienda / apague mediante comandos de voz y ajuste los colores y el brillo.
-- 【TIra Led TV】 Las tiras luces led para TV, que se utilizan principalmente para la decoración de fondo de la pantalla de TV y el monitor de la PC, brindan una fantástica atmósfera de cine en casa, perfecta para monitores HDTV / PC.
-- 【Control remoto de la aplicación】 En la aplicación "Smart Life" puede controlar LED Stripe con su teléfono móvil en cualquier momento y cualquier lugar. El led rgb tiene varias funciones prácticas: brillo ajustable, configuración de color, función de temporizador, diferentes escenas o modo de bricolaje. (Advertencia: solo compatible con Wi-Fi de 2.4GHz)
 - 【RGB y seguridad】 Puede seleccionar fácilmente más de 16 millones de colores regulables con el control remoto o los comandos de voz. El panel de doble capa energéticamente eficiente garantiza una alta calidad, disipación de calor tabular y una larga vida útil.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086YFWZGS/?tag=tolees-21)
