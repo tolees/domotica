@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bombilla LED WiFi Inteligente 9W 900lm L al 46.01 % de descuento'
+title: 'Bombilla LED WiFi Inteligente 9W 900lm Lámpara Funciona con Alexa Echo Google Home y IFTTT  REAFOO Bombillas E27 RGBCW 2700K-6500K Control remoto con temporizador por SmartLife APP Tuya  paquete de 2 '
 date: 2020-01-08 13:09:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41a-vKu%2BojL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.01'
 average: '26.99'
 ---
 
-Está [Bombilla LED WiFi Inteligente 9W 900lm Lámpara Funciona con Alexa Echo Google Home y IFTTT  REAFOO Bombillas E27 RGBCW 2700K-6500K Control remoto con temporizador por SmartLife APP Tuya  paquete de 2 ](https://www.amazon.es/dp/B07SMT4GF1/?tag=tolees-21) con 46.01 de descuento por 26.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) con {{< param descuento >}} de descuento por {{< param actualPrice >}} (original: {{< param comparePrice>}}) en el siguiente enlace!
 
-[![Bombilla LED WiFi Inteligente 9W 900lm L](https://images-eu.ssl-images-amazon.com/images/I/41a-vKu%2BojL._SL400_.jpg)](https://www.amazon.es/dp/B07SMT4GF1/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SMT4GF1/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})
