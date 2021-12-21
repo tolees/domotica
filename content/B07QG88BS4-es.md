@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatible con las ‘recetas’ de IFTTT
-- Este Smart Plug funciona con Alexa o Google Home y permite controlar cualquier enchufe con la voz
 - Programe el encendido de lámparas o calefactores para que se enciendan y apaguen automáticamente a la hora que decida
 - Encienda o apague los electrodomésticos conectados a este enchufe inteligente, desde su teléfono inteligente o tableta, ya sea en casa o desde fuera
 - Diseño compacto, sólo 6 cm x 6 cm
 - Interactúa con otros dispositivos de la familia de productos mydlink, de forma que puede encenderse una luz cuando la cámara detecta movimiento, y acciones similares
 - Se conecta por WiFi al router de su casa u oficina, fácil de configurar e instalar
+- Este Smart Plug funciona con Alexa o Google Home y permite controlar cualquier enchufe con la voz
+- Compatible con las ‘recetas’ de IFTTT
 
 [🛒 Comprar!!!]({{< param buyurl >}})
