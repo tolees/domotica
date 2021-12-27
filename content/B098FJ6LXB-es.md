@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Tapo L900-5 - 5M Wi-Fi Tiras LED de 12 V  16 millones de colores con 2100 mcd  óptimo para la familia  sincronización con música  compatible con Google y Alexa'
-date: 2021-12-23 13:38:11
+date: 2021-12-27 12:32:22
 image: 'https://m.media-amazon.com/images/I/41qBrlAMHzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B098FJ6LXB/?tag=tolees-21'
 descuento: '26.68'
-average: '22.1117391304348'
+average: '22.1066666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
