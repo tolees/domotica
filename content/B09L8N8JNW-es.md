@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dolby Audio
-- HDR10 HLG, colores y contraste sobresalientes
+- Compatible con Alexa y Google
 - Maxima resolucion en formato medio 1920x10800 pixeles
 - Fuente de alimentación: alimentación eléctrica con cable
+- HDR10 HLG, colores y contraste sobresalientes
+- Dolby Audio
 - Tipo de conectividad: rf
-- Compatible con Alexa y Google
 
 [🛒 Aquí!!!]({{< param buyurl >}})
