@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Wifi - Router Wifi de Malla  3 Pack  Wi-Fi que Funciona  Cobertura hasta 85m² por Punto'
-date: 2022-01-08 22:37:23
+date: 2022-01-10 04:38:31
 image: 'https://m.media-amazon.com/images/I/21IgSa85GmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Google'
 buyurl: 'https://www.amazon.es/dp/B096L1JXR7/?tag=tolees-21'
 descuento: '17.36'
-average: '178.473786407768'
+average: '178.100673076924'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
