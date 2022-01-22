@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aigostar Lámpara De Techo Led inteligente， 18 W， CCT. Regulable de luz cálida a blanca 3000 a 6500K， 1300lm. Compatible con Alexa y Google Home. 34 x 8 cm alto. Equivalente a 75 W incandescente.'
-date: 2022-01-20 16:50:56
+date: 2022-01-22 09:55:02
 image: 'https://m.media-amazon.com/images/I/41uKLaDELKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Aigostar'
 buyurl: 'https://www.amazon.es/dp/B083BF6CT1/?tag=tolees-21'
 descuento: '31.72'
-average: '26.99'
+average: '27.19'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
