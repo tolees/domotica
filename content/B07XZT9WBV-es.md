@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - REGULACIÓN CÓMODA SIN INSTALACIÓN: experimenta luz LED blanca y de colores; temperatura de color: 2000 a 6500 Kelvin; elige entre 16 millones de colores y sincroniza la luz con música y películas
 - CONTROLA LAS LUCES DESDE TU SMARTPHONE: para Bluetooth descárgate la app Hue Bluetooth, si utilizas el puente usa la app Philips Hue y saca todo el potencial de la iluminación inteligente
-- 2 OPCIONES DE ILUMINACIÓN INTELIGENTE: con Bluetooth controla hasta 10 bombillas con la app Hue Bluetooth; con el Puente Philips Hue (no incluido) controla la luz de toda la casa, hasta 50 bombillas
-- El botón Hue Smart Button se puede integrar fácilmente en un sistema Hue existente y configurar individualmente a través de la aplicación Philips Hue.
-- El paquete incluye: 2 bombillas inteligentes LED E27 + Interruptor inteligente Smart button
-- Colocación individual del interruptor en tu hogar: el botón Hue Smart Button se puede colocar en cualquier lugar con tornillos o con la cinta adhesiva incluida.
 - Accesorio para tu sistema inteligente Philips Hue: el botón inteligente te permite controlar la luz y regular cómodamente, sin instalación y está listo para usar.
+- El paquete incluye: 2 bombillas inteligentes LED E27 + Interruptor inteligente Smart button
+- El botón Hue Smart Button se puede integrar fácilmente en un sistema Hue existente y configurar individualmente a través de la aplicación Philips Hue.
+- Colocación individual del interruptor en tu hogar: el botón Hue Smart Button se puede colocar en cualquier lugar con tornillos o con la cinta adhesiva incluida.
+- 2 OPCIONES DE ILUMINACIÓN INTELIGENTE: con Bluetooth controla hasta 10 bombillas con la app Hue Bluetooth; con el Puente Philips Hue (no incluido) controla la luz de toda la casa, hasta 50 bombillas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
