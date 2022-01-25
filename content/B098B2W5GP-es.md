@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Si la casa está vacía o se detectan ventanas abiertas, la app de tado° te enviará una notificación push para que bajes la calefacción
 - Más ventajas con Auto Assist (opcional): Si la casa está vacía o hay ventanas abiertas, tado° baja la calefacción; Cuidado y Protección te ayuda a resolver problemas de calefacción (compra desde la app, cancel. mensual; 2,99/mes)
-- Programación Inteligente=temperatura ideal en cada habitación y en cada momento.Solo si hay gente en casa.Se enciende y apaga desde la app con un clic
-- Confort Ambiental: Información sobre la calidad del aire en casa, con detalles como el exceso de humedad en el aire (riesgo de humedades)
+- Si la casa está vacía o se detectan ventanas abiertas, la app de tado° te enviará una notificación push para que bajes la calefacción
 - Controla la calefacción desde cualquier lado con la app de tado°, reduce tu consumo energético y ahorra dinero con las funciones inteligentes de tado°
-- Compatible con casi todos los sistemas de calefacción (incluyendo las calderas de gas, de gasoil, de condensación, los sistemas OpenTherm y la calefacción por suelo radiante de agua). Sustituye a los termostatos de ambiente tradicionales
 - Otras funciones: Adaptación Meteorológica, Informes Detallados, Informe de Ahorro Energético, control de habitaciones múltiples (se necesitan Cabezales Termostáticos Inteligentes adicionales), función de Max. Calefacción, protección contra heladas
+- Compatible con casi todos los sistemas de calefacción (incluyendo las calderas de gas, de gasoil, de condensación, los sistemas OpenTherm y la calefacción por suelo radiante de agua). Sustituye a los termostatos de ambiente tradicionales
+- Confort Ambiental: Información sobre la calidad del aire en casa, con detalles como el exceso de humedad en el aire (riesgo de humedades)
+- Programación Inteligente=temperatura ideal en cada habitación y en cada momento.Solo si hay gente en casa.Se enciende y apaga desde la app con un clic
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
