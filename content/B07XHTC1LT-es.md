@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Compatibilidad y ampliación continua de mandos infrarrojos】Soporta más de 80,000 dispositivos controlados por infrarrojos como aire acondicionado, TV, DVD, SAT, reproductores BluRay, ventiladores y mucho más. Y se añade diariamente bases de datos IR en la nube de nuevos productos.
 - 【Establecer el horarios y ajustes de programación】 A través de la APP, puedes programar horarios de encendido y apagado de las diferentes funciones de los productos, y programar acciones con múltiples dispositivos. (Brindamos Servicio al cliente de forma profesional, si tiene dudas o preguntas acerca de este producto puede enviarnos un mensaje en el chat de nuestra web o ver nuestros tutoriales en YouTube/ Si Smart)
+- 【Compatibilidad y ampliación continua de mandos infrarrojos】Soporta más de 80,000 dispositivos controlados por infrarrojos como aire acondicionado, TV, DVD, SAT, reproductores BluRay, ventiladores y mucho más. Y se añade diariamente bases de datos IR en la nube de nuevos productos.
+- 【Multiples mandos】Reemplace todos los controles remotos, puedes crear múltiples mandos a distancia a través de la APP gratuita "Smart Life".
 - 【Control remoto por APP y Control por voz】Además es compatible con Amazon Alexa, Google Home, el control de voz sólo sobre las funciones básicas. DEBE VINCULAR LA APP SMART LIFE CON LOS ASISTENTES VIRTUALES.
 - 【Mandos a distancia Infrarrojos IR】El control universal Wifi puede emitir amplios señales de infrarrojos, simulando el 99% de todos los mandos a distancia de diferentes productos. Función DIY replicar señales para copiar mandos especiales. NO es compatible con mandos RF (radiofrecuencia).
-- 【Multiples mandos】Reemplace todos los controles remotos, puedes crear múltiples mandos a distancia a través de la APP gratuita "Smart Life".
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
