@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TAPO L510E - Bombilla LED Inteligente  Bombilla WiFi sin necesidad de Hub  Blanco Cálido 2700K  Regulable E27  8.7W/ 806lm  Compatible Alexa  Echo y Google Home'
-date: 2022-01-28 09:15:48
+date: 2022-01-29 10:11:17
 image: 'https://m.media-amazon.com/images/I/41YBRgVYhdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B087RZVBQW/?tag=tolees-21'
 descuento: '58.68'
-average: '10.2477419354838'
+average: '10.2318399999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
