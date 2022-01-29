@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cámara Vigilancia WiFi Interior GNCC P1 1080P Vigilabebes con Camara 360°PTZ Visión Nocturna Audio Bidirectional Seguimiento de Movimiento y Sonido Alerta Compatible con Alexa  Manual Arriba y Abajo '
-date: 2022-01-28 06:45:17
+date: 2022-01-29 06:50:18
 image: 'https://m.media-amazon.com/images/I/41HJNyoayrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GNCC'
 buyurl: 'https://www.amazon.es/dp/B09HT51GPJ/?tag=tolees-21'
 descuento: '15.01'
-average: '31.8651282051283'
+average: '31.7055000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
