@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips 50PUS7406/12 Smart TV UHD LED Android de 50 Pulgadas  Imagen HDR Vibrante  Dolby Vision cinematográfico y Sonido Atmos  Compatible con Google Assistant y Alexa  Bisel Negro Mate'
-date: 2022-01-27 13:46:22
+date: 2022-01-30 18:09:38
 image: 'https://m.media-amazon.com/images/I/41HRaBxYftL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ENTREGA: Bisel negro mate Philips Smart TV 4K UHD de 50 pulgadas con aplicaciones preinstaladas: Amazon Prime Video, BBC iplayer, Netflix y YouTube, mando a distancia Philips TV, conectividad inalámbrica, tamaño de la pantalla en diagonal: 126 cm
 - SISTEMA DE SONIDO CINEMÁTICO: la mejor experiencia cinematográfica es clave para Philips, este televisor es compatible con el sistema de visión y sonido de primera calidad de Dolby y una experiencia multidimensional y clara para el entretenimiento digital
+- ENTREGA: Bisel negro mate Philips Smart TV 4K UHD de 50 pulgadas con aplicaciones preinstaladas: Amazon Prime Video, BBC iplayer, Netflix y YouTube, mando a distancia Philips TV, conectividad inalámbrica, tamaño de la pantalla en diagonal: 126 cm
 - SISTEMA DE SONIDO CINEMÁTICO: la mejor experiencia cinematográfica es la clave para Philips, este televisor es compatible con el sistema de visión y sonido premium de Dolby y con el entretenimiento digital multidimensional y de experiencia clara
 - IDEAL PARA JUGAR: Tiempo de latencia bajo en cualquier consola.Tu televisor Philips dispone de la conectividad HDMI más reciente y cambia automáticamente a un ajuste de baja latencia cuando empiezas a jugar en la consola.Tu televisor Philips dispone de la conectividad HDMI más reciente y cambia automáticamente a un ajuste de baja latencia cuando empiezas a jugar en la consola.
 - CALIDAD DE IMAGEN HDR: Para obtener la mejor calidad de imagen cinematográfica, este televisor inteligente Philips 4K UHD está equipado con HDR y nuestro motor Philips P5 hace que el contenido de la pantalla se vea más brillante y realista
