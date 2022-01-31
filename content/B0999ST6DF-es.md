@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✔📱 Control Remoto App - Controla tus luces inteligentes Desde tu Smart Phone con la App Smart Life o Tuya Smart, y programa desde Horarios. temportizadores, grupos de Bombillas Inteligentes, hasta automatizaciones para todo el hogar y todo esto desde cualquier parte del mundo ( Wifi 2,4 Ghz )
 - ✔✅Después de la venta - Brindamos servicio al cliente de forma profesional, si tiene dudas o preguntas acerca de este producto, App Smart Life o Alexa puede enviarnos un menaje en el chat de nuestra web o ver nuestros tutoriales en YouTube/ Si Smart. O envía un correo al info@sismart.es
+- ✔💡Ahorro y Control Energético - Bombillas Wifi de Si Smart poseen tecnología LED, lo que les permite tener 800 lumens con únicamente una potencia de 10W frente a las bombillas incandescentes tradicionales cuyo consumo es de 90W , podrás ahorrar hasta un 60% frente a una bombilla tradicional. Las bombillas Si Smart tienen una vida útil de 30.000 horas.
 - ✔ 🎨Millones de Colores y Sincronización Musical - RGB elije entre 16 millones de colores, la temperatura y el brillo de tus Bombillas LED Inteligentes, además tendrás la opción de que los colores cambien al ritmo de los sonidos. Podrá controlar cada una de las opciones de forma sencilla desde la aplicación Smart Life.
 - ✔🗣️ Control por Voz - Controla las Bombillas Inteligentes Si Smart, a través de la voz con Alexa / Google Assistant. Simplemente dé un comando de voz para encender / apagar o atenuar / iluminar su luz, incluso cambie su luz al color específico que necesite. No se requiere concentrador, fácil de instalar. No se necesita suscripción
-- ✔💡Ahorro y Control Energético - Bombillas Wifi de Si Smart poseen tecnología LED, lo que les permite tener 800 lumens con únicamente una potencia de 10W frente a las bombillas incandescentes tradicionales cuyo consumo es de 90W , podrás ahorrar hasta un 60% frente a una bombilla tradicional. Las bombillas Si Smart tienen una vida útil de 30.000 horas.
+- ✔📱 Control Remoto App - Controla tus luces inteligentes Desde tu Smart Phone con la App Smart Life o Tuya Smart, y programa desde Horarios. temportizadores, grupos de Bombillas Inteligentes, hasta automatizaciones para todo el hogar y todo esto desde cualquier parte del mundo ( Wifi 2,4 Ghz )
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
