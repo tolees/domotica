@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Interruptor Persianas WiFi  Maxcio Persiana WiFi Control por Porcentaje de APP Y Voz Compatible con Alexa y Google Home  con Temporizador para Motor Persiana Tublar  4 packs'
-date: 2022-02-08 05:40:28
+date: 2022-02-09 23:24:22
 image: 'https://m.media-amazon.com/images/I/319iyKi+MzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Maxcio'
 buyurl: 'https://www.amazon.es/dp/B091CPXPMB/?tag=tolees-21'
 descuento: '15.00'
-average: '86.015'
+average: '84.62'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
