@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TAPO C200 - Cámara IP WiFi 360°  Cámara de Vigilancia FHD 1080p  Visión nocturna  Admite tarjeta SD  Audio Doble Vía  Detección de movimiento  Control Remoto  Compatible con Alexa'
-date: 2022-02-16 20:46:32
+date: 2022-02-20 08:24:05
 image: 'https://m.media-amazon.com/images/I/41lglsIDeJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07XLML2YS/?tag=tolees-21'
 descuento: '39.26'
-average: '27.3243267108169'
+average: '27.3109890109891'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- INTERFAZ DE OPERACIÓN SIMPLE -Con la App TAPO para Android/IOS puedes configurar fácilmente el calendario, verificar videos anteriores, verificar múltiples vistas al mismo tiempo y dar acceso a otros usuarios
-- ALARMA DE SONIDO Y LUZ - ¿Invitado inesperado? activa los efectos de luz y sonido para ahuyentar
-- DETECCIÓN Y MOVIMIENTO - Reciba notificaciones al instante de la aplicación cuando se intercepta un movimiento; TP-link proporciona una función avanzada para configurar el tiempo de grabación específico
-- AUDIO BIDIRECCIONAL - Comunícate con los demás  al micrófono y altavoces incorporados
 - CALIDAD VIDEO FHD 1080P - Visión nocturna de hasta 8 metros, resolución de 1080P, con imágenes nítidas y claras
 - COMPATIBLE CON ALEXA: puedes probar el comando como "alexa, muestra la cámara de la puerta principal"; asegúrese de que el firmware se haya actualizado a la última versión
+- ALARMA DE SONIDO Y LUZ - ¿Invitado inesperado? activa los efectos de luz y sonido para ahuyentar
 - ADMITE GRABACIÓN EN BUCLE: Admite tarjetas Micro SD de hasta 128 Gb o en la nube con el software Ispy
-- FÁCIL INSTALACIÓN - Vea el video de desempaquetado y configuración en esta página, descubrirá lo fácil que es configurarlo
+- DETECCIÓN Y MOVIMIENTO - Reciba notificaciones al instante de la aplicación cuando se intercepta un movimiento; TP-link proporciona una función avanzada para configurar el tiempo de grabación específico
 - GRAN ANGULAR DE VISIÓN - Movimiento horizontal hasta 360 ° y movimiento vertical hasta 114 °
+- AUDIO BIDIRECCIONAL - Comunícate con los demás  al micrófono y altavoces incorporados
+- FÁCIL INSTALACIÓN - Vea el video de desempaquetado y configuración en esta página, descubrirá lo fácil que es configurarlo
+- INTERFAZ DE OPERACIÓN SIMPLE -Con la App TAPO para Android/IOS puedes configurar fácilmente el calendario, verificar videos anteriores, verificar múltiples vistas al mismo tiempo y dar acceso a otros usuarios
 
 [🛒 Visítala!!!]({{< param buyurl >}})
