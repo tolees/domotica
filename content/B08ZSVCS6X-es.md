@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HDR multiformato: Impresionante HDR sea cual sea la fuente (HDR10, HDR HLG, HDR10+, HDR DOLBY VISION y DOLBY VISION IQ)
 - GAME MASTER PRO: Con HDMI 2.1, ALLM y VRR, experimentarás la acción más fluida, la menor latencia y los mejores ajustes de imagen para los juegos, de forma automática
 - SONIDO ONKYO 2.1 CON DOLBY ATMOS: La barra de sonido ONKYO integrada en el frontal para mayor claridad y el subwoofer para graves profundos ofrece una experiencia Dolby Atmos envolvente en casa
-- QLED: La tecnología quantum dot ofrece mil millones de colores y matices diferentes para conseguir una imagen excepcionalmente viva y realista
-- PANTALLA MINI-LED DE ALTO RENDIMIENTO: La exclusiva tecnología de retroiluminación aporta contraste, brillo y uniformidad para una visualización increíble en cualquier entorno
-- ANDROID TV: Android TV para un entretenimiento fácil e ilimitado. Todo el contenido que te gusta, exactamente como lo quieres
 - 4K HDR PREMIUM: Con la tecnología de vanguardia High Dynamic Range, este televisor ofrece un brillo sorprendente, una resolución excepcional y colores vivos. Además, cuenta con 100 HZ MOTION CLARITY PRO para que los movimientos de los personajes y los efectos visuales deportivos sean nítidos
+- QLED: La tecnología quantum dot ofrece mil millones de colores y matices diferentes para conseguir una imagen excepcionalmente viva y realista
+- ANDROID TV: Android TV para un entretenimiento fácil e ilimitado. Todo el contenido que te gusta, exactamente como lo quieres
+- HDR multiformato: Impresionante HDR sea cual sea la fuente (HDR10, HDR HLG, HDR10+, HDR DOLBY VISION y DOLBY VISION IQ)
+- PANTALLA MINI-LED DE ALTO RENDIMIENTO: La exclusiva tecnología de retroiluminación aporta contraste, brillo y uniformidad para una visualización increíble en cualquier entorno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
