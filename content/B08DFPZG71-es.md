@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Asistente de voz integrado: Usa Amazon Alexa integrada para consultar las noticias y la predicción de El Tiempo rápidamente, configurar recordatorios y alarmas para acostarte, controlar dispositivos de hogar digital compatibles, etc. con tan solo hablarle a tu smartwatch. *La disponibilidad y funciones del asistente de voz pueden variar, consulta fitbit.com/es/voice.
-- Compatibilidad: Compatible con iOS12.2 o superior y Android OS 7.0 o superior
 - "Almacena y reproduce música: Almacena y reproduce música y podcasts con Spotify Connect & Control y agrega listas de Deezer. Los servicios de música requieren suscripciones; no disponibles en todos los países."
-- GPS integrado: Con el GPS integrado, no te hará falta llevar encima el móvil cuando quieras hacer ejercicio al aire libre, dado que podrás ver el ritmo seguido y la distancia recorrida en tu smartwatch en tiempo real. Además, cuando termines, podrás consultar en la aplicación un mapa de intensidad del entrenamiento que te mostrará la ruta y el esfuerzo realizado.
 - Duración de la batería: +6 días de batería con carga rápida
-- "Minutos en zona activa: Esta función te avisa en qué zona de frecuencia cardiaca te encuentras para que veas si te estás esforzando lo suficiente para alcanzar tus objetivos."
+- Asistente de voz integrado: Usa Amazon Alexa integrada para consultar las noticias y la predicción de El Tiempo rápidamente, configurar recordatorios y alarmas para acostarte, controlar dispositivos de hogar digital compatibles, etc. con tan solo hablarle a tu smartwatch. *La disponibilidad y funciones del asistente de voz pueden variar, consulta fitbit.com/es/voice.
 - "Monitorización continua de la frecuencia cardiaca: Utiliza la Monitorización continua de la frecuencia cardiaca para controlar mejor la quema de calorías, optimizar tus entrenamientos y conocer tus tendencias, lo que te inspirará a avanzar en tus objetivos de salud y forma física."
+- GPS integrado: Con el GPS integrado, no te hará falta llevar encima el móvil cuando quieras hacer ejercicio al aire libre, dado que podrás ver el ritmo seguido y la distancia recorrida en tu smartwatch en tiempo real. Además, cuando termines, podrás consultar en la aplicación un mapa de intensidad del entrenamiento que te mostrará la ruta y el esfuerzo realizado.
+- "Minutos en zona activa: Esta función te avisa en qué zona de frecuencia cardiaca te encuentras para que veas si te estás esforzando lo suficiente para alcanzar tus objetivos."
+- Compatibilidad: Compatible con iOS12.2 o superior y Android OS 7.0 o superior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
