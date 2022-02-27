@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Sistema de limpieza inteligente IPNAS 2.0】 El posicionamiento en tiempo real y un plano del apartamento pueden ayudar al robot a determinar su propia posición y limpieza de alta calidad. Se adapta a tu hogar, limpia debajo de los muebles, detecta obstáculos y evita caerse por las escaleras.
+- 【Super potente succión 3000Pa】 El robot aspirador 850T tiene una potencia de succión muy alta de 3000Pa que le permite aspirar fácilmente todo el polvo, el cabello y los desechos. Con 3 niveles ajustables, puede satisfacer sus diversos requisitos.
 - 【Control APP & voz】 Utilizando la aplicación ProscenicHome para Smartphone de Android o IOS puede realizar control remoto, como reservar tiempos de limpieza, ajustar la velocidad del flujo de agua y monitorear la ruta de limpieza, etc. Con Alexa y Google Assistant, puede controlar la limpieza mediante comando de voz.
 - 【Magnetic Strip para el límite】 Selecciona las áreas o habitaciones que no quiere limpiar con el accesorio Magnetic Strip. Si tiene algún problema con el robot aspirador 850T, no dude en contactarnos.
-- 【Super potente succión 3000Pa】 El robot aspirador 850T tiene una potencia de succión muy alta de 3000Pa que le permite aspirar fácilmente todo el polvo, el cabello y los desechos. Con 3 niveles ajustables, puede satisfacer sus diversos requisitos.
 - 【Depósito para sólidos de 500 ml y para líquidos eléctricos de 300 ml】 El robot aspirador 850T incluye 2 depósitos de gran capacidad. Puede realizar 4 modos de limpieza: barre, aspira, pasa la mopa y friega. Con el depósito de líquidos eléctricos puede ajustar la cantidad de agua según sus necesidades (a través de la APP).
+- 【Sistema de limpieza inteligente IPNAS 2.0】 El posicionamiento en tiempo real y un plano del apartamento pueden ayudar al robot a determinar su propia posición y limpieza de alta calidad. Se adapta a tu hogar, limpia debajo de los muebles, detecta obstáculos y evita caerse por las escaleras.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

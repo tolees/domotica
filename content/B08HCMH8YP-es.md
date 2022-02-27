@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EZVIZ Cámara de Vigilancia Exterior de Visión Nocturna en Color  Cámara Bala de Seguridad con Defensa Activa Luz Estroboscópica  AI Detección Humana  IP67  Compatible con Alexa y Google. CTQ3N 1080P'
-date: 2022-02-22 19:57:17
+date: 2022-02-27 14:39:07
 image: 'https://m.media-amazon.com/images/I/31Io3EH1ygL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EZVIZ'
 buyurl: 'https://www.amazon.es/dp/B08HCMH8YP/?tag=tolees-21'
 descuento: '40.01'
-average: '56.74'
+average: '56.3595652173913'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Tres modos de visión nocturna】Además del Modo blanco y negro y Modo de visión nocturna en color, dispones del modo de visión nocturna inteligente. Activándolo, Ezviz CTQ3N cambiará automáticamente del monitoreo en blanco y negro al monitoreo en color, encendiendo los focos cuando detecte movimiento humano. El video de alerta se grabará a todo color, para que obtenga todos los detalles necesarios.
-- 【Protección proactiva】 Al detectar movimiento humano, la cámara IP de CTQ3N puede parpadear automáticamente o configurarse manualmente para iluminar los dos focos y disuadir a los visitantes no deseados.
-- 【Resolución de video 1080P HD y IP67 Impermeable】Cámara de vigilancia con asombroso video Full HD 1920 * 1080 y visualización en vivo, mayor claridad de imágenes que le brindan una sensación de inmersión. Y la cámara es fuerte y robusta para soportar condiciones climáticas adversa.
-- 【Visión Nocturna en Color】Equipado con lentes ópticas profesionales, dos focos integrados y dos luces infrarrojas (IR), la cámara de vigilancia CTQ3N ofrece imágenes en color nítidas incluso en total oscuridad. Además, los focos también se pueden usar como reflectores para iluminar áreas ocultas alrededor de su propiedad.
 - 【Detección Humana AI】Como una mejora de la detección de movimiento simple, el algoritmo de Inteligencia Artificial AI integrado detecta de forma precisa el movimiento de las formas humanas en tiempo real. Cuando las personas ingresen a su área de detección personalizada, recibirá una alerta de inmediato.
+- 【Visión Nocturna en Color】Equipado con lentes ópticas profesionales, dos focos integrados y dos luces infrarrojas (IR), la cámara de vigilancia CTQ3N ofrece imágenes en color nítidas incluso en total oscuridad. Además, los focos también se pueden usar como reflectores para iluminar áreas ocultas alrededor de su propiedad.
+- 【Resolución de video 1080P HD y IP67 Impermeable】Cámara de vigilancia con asombroso video Full HD 1920 * 1080 y visualización en vivo, mayor claridad de imágenes que le brindan una sensación de inmersión. Y la cámara es fuerte y robusta para soportar condiciones climáticas adversa.
+- 【Protección proactiva】 Al detectar movimiento humano, la cámara IP de CTQ3N puede parpadear automáticamente o configurarse manualmente para iluminar los dos focos y disuadir a los visitantes no deseados.
+- 【Tres modos de visión nocturna】Además del Modo blanco y negro y Modo de visión nocturna en color, dispones del modo de visión nocturna inteligente. Activándolo, Ezviz CTQ3N cambiará automáticamente del monitoreo en blanco y negro al monitoreo en color, encendiendo los focos cuando detecte movimiento humano. El video de alerta se grabará a todo color, para que obtenga todos los detalles necesarios.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
