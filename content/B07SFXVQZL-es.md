@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Reemplazo real de una bombilla de 60 vatios - LED en forma de bombilla con superficie mate y casquillo B22d para la sustitución fácil habitual0
-- Bajo consumo de energía - LED de ahorro de energía de 10 W con clase de eficiencia energética A y una salida de luz de 806 lúmenes
-- Integración directa en los asistentes de voz Google Assistant y Alexa: controle los productos inteligentes LEDVANCE SMART + Bluetooth simplemente mediante un comando de voz
 - Posibilidad de integración simple en Alexa a través de la voz: acerque el producto Bluetooth al altavoz, enciéndalo e intégrelo con el comando "Buscar mis dispositivos" (nota: es posible que deba realizar una actualización de firmware a través de la aplicación LEDVANCE SMART + Bluetooth)
+- Integración directa en los asistentes de voz Google Assistant y Alexa: controle los productos inteligentes LEDVANCE SMART + Bluetooth simplemente mediante un comando de voz
 - Compatible con Siri: gracias a la integración en la aplicación Apple Home, puede controlar sus productos SMART + Bluetooth mediante comandos de voz
+- Bajo consumo de energía - LED de ahorro de energía de 10 W con clase de eficiencia energética A y una salida de luz de 806 lúmenes
+- Reemplazo real de una bombilla de 60 vatios - LED en forma de bombilla con superficie mate y casquillo B22d para la sustitución fácil habitual0
 
 [🛒 Visítala!!!]({{< param buyurl >}})
