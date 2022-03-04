@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología CCT que permite escoger entre luz fría, neutra o cálida (3000K, 4000K o 6500K) + Tecnología dimmable para cambiar y regular la intensidad de la luz + Tecnología RGB con cambio de color entre 16 millones de colores del aspecto cromático
-- Controla tu foco LED de forma remota desde varios dispositivos a través de las apps Garza Smart, Tuya Smart y Smart Life
-- Crea automatizaciones y escenas y programa el encendido/apagado de tu foco en función de la hora, un temporizador, una cuenta atrás
-- Compatible solo con Wifi 2,4GHz (No funciona con red de 5GHz); No compatible con ZigBee
-- Tamaño: 152x134x49 mm; Alimentación: 220V-240V - 50/60Hz
-- Con el Modo Música la luz de tu foco cambiará al ritmo de los sonidos captados por tu dispositivo móvil
-- Adecuado para animar tus fiestas, crear ambientes o para iluminar zonas de paso, jardines, porches, escaparates, etc.
 - Proyector LED WiFi inteligente de 24W y 1560 lm para iluminar y decorar el exterior de tu hogar
+- Compatible solo con Wifi 2,4GHz (No funciona con red de 5GHz); No compatible con ZigBee
+- Crea automatizaciones y escenas y programa el encendido/apagado de tu foco en función de la hora, un temporizador, una cuenta atrás
+- Tecnología CCT que permite escoger entre luz fría, neutra o cálida (3000K, 4000K o 6500K) + Tecnología dimmable para cambiar y regular la intensidad de la luz + Tecnología RGB con cambio de color entre 16 millones de colores del aspecto cromático
+- Con el Modo Música la luz de tu foco cambiará al ritmo de los sonidos captados por tu dispositivo móvil
+- Controla tu foco LED de forma remota desde varios dispositivos a través de las apps Garza Smart, Tuya Smart y Smart Life
+- Tamaño: 152x134x49 mm; Alimentación: 220V-240V - 50/60Hz
+- Adecuado para animar tus fiestas, crear ambientes o para iluminar zonas de paso, jardines, porches, escaparates, etc.
 - Protección IP65 que la hace impermeable y apta para su uso en exteriores, pudiendo resistir a cualquier inclemencia meteorológica como lluvia, nieve o polvo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
