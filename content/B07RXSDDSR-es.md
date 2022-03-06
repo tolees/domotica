@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 💡MILLONES COLORES REGULABLES Y ESCENAS --- 16 Millones de Colores con brillo y tono regulables, le crean la apariencia y la atmósfera instántaneamente. Puede añadir escenas a memoriar las atmósferas que le gustan para usos distintos como fiesta, lectura, noche, reunión, ocio y etc
-- 💡CONTROL POR VOZ --- Compatible con Amazon Alexa Google Home. Por un comando verbal sencillo puede encender/apagar/cambiar color/brillo/escena. Le libra las manos y le trae una vida inteligente y conveniente.(Se necesita habilitar la habilidad Maxcio en la aplicación Alexa o Google Asistent.)
 - 💡HORARIO PERSONALIZADO --- La función de temporizador le da una manera de vida más cómoda, a través de establecer por adelantado un horario de comandos como encender/apagar según sus hábitos. De ahora en adelante le despertará por luces suavemente, en lugar de alarma molstada de despertador
-- 💡COMPARTIR --- Compartir entre la familia el acceso al control mediante la aplicación, ¡vivir una vida inteligente con toda la familia juntos! Nos dedicamos a ofrecerle el mejor producto y servicio. Si tiene alguna pregunta, comuníquese con nosotros a través de la dirección de correo electrónico que figura en el manual.
+- 💡CONTROL POR VOZ --- Compatible con Amazon Alexa Google Home. Por un comando verbal sencillo puede encender/apagar/cambiar color/brillo/escena. Le libra las manos y le trae una vida inteligente y conveniente.(Se necesita habilitar la habilidad Maxcio en la aplicación Alexa o Google Asistent.)
 - 💡CONTROL REMOTO --- Maxcio Bombilla inteligente wifi le permite la posiblidad de controlarla a larga distancia mediante aplicación “Maxcio" o "SmartLife” en cualquier momento y lugar después de conectarse con wifi(2,4ghz), aunque no está en casa usted
+- 💡MILLONES COLORES REGULABLES Y ESCENAS --- 16 Millones de Colores con brillo y tono regulables, le crean la apariencia y la atmósfera instántaneamente. Puede añadir escenas a memoriar las atmósferas que le gustan para usos distintos como fiesta, lectura, noche, reunión, ocio y etc
+- 💡COMPARTIR --- Compartir entre la familia el acceso al control mediante la aplicación, ¡vivir una vida inteligente con toda la familia juntos! Nos dedicamos a ofrecerle el mejor producto y servicio. Si tiene alguna pregunta, comuníquese con nosotros a través de la dirección de correo electrónico que figura en el manual.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
