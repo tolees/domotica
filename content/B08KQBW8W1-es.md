@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Automatiza tu hogar con dispositvos mydlink Smart Home y contrólalos por voz usando los altavoces inteligentes Amazon Echo o Google Home.
-- Programa dispositivos como lámparas o estufas eléctricas para que se enciendan o apaguen dependiendo de la hora y el día de la semana.
 - Tamaño compacto, puede poner 2 enchufes inteligentes uno al lado del otro en un enchufe múltiple de pared o regleta y le permite dejar libres los enchufes adyacentes.
-- Enciende y apaga cualquier aparato con tu teléfono o tableta, desde casa o desde fuera de ella, gracias a la app gratuita mydlink para iOs y Android.
 - Monitoriza el consumo de energía de los dispositivos conectados al enchufe inteligente wifi.
+- Automatiza tu hogar con dispositvos mydlink Smart Home y contrólalos por voz usando los altavoces inteligentes Amazon Echo o Google Home.
+- Enciende y apaga cualquier aparato con tu teléfono o tableta, desde casa o desde fuera de ella, gracias a la app gratuita mydlink para iOs y Android.
+- Programa dispositivos como lámparas o estufas eléctricas para que se enciendan o apaguen dependiendo de la hora y el día de la semana.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
