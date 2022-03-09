@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Winees Bombilla Inteligente Alexa E27  Bombillas compatibles con Alexa/Google Home  smarte lámpara LED RGBW con Wi-Fi regulable  no requiere concentrador  8.5W 800Lm 4 Pack [clase energética F]'
-date: 2022-03-08 11:32:50
+date: 2022-03-09 21:19:34
 image: 'https://m.media-amazon.com/images/I/41aUvKrqaBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'winees'
 buyurl: 'https://www.amazon.es/dp/B08YN3X4F4/?tag=tolees-21'
 descuento: '15.00'
-average: '38.69'
+average: '38.1525'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 【Multicolor y regulable】 Nuestras bombillas de luz inteligente RGBW proporcionan 16 millones de colores, puede elegir un color que cumpla con su estándar. Simplemente configure las diferentes escenas / brillo / temperatura de color para lograr el ambiente perfecto para su fiesta, noche de cine, lectura, reunión, hora de dormir, etc.
 - 【Función de programación práctica】: puede programar y configurar el temporizador de cuenta regresiva a través de la aplicación para controlar estas bombillas inteligentes RGBW que funcionan con Alexa / Google, como tener una luz encendida cuando regrese a casa o configurar para apagar la bombilla LED a las 23 o reloj, individualmente o por grupo.
-- 【Fácil instalación】 No se requiere concentrador para esta bombilla de luz WiFi inteligente. 1. Atornille la bombilla en el portalámparas. 2. Descargue la aplicación "Linkind" y cree su cuenta. 3. Seleccione “WiFi RGB A60” en la lista de dispositivos y siga las instrucciones en pantalla. Conectó la bombilla a su WiFi de 2.4GHz (solo) en minutos.
-- 【Ahorro de energía】: nuestra bombilla wifi inteligente de colores con tornillo E27 es un buen reemplazo de la lámpara incandescente. Cuenta con 800 lm de blanco sintonizable y CRI ＞ 80, súper brillante para iluminación diaria. Equivalente a halógenos de 60W, pero AHORRE para usted más del 85% en la factura de la luz. La vida útil de nuestras bombillas inteligentes puede durar aproximadamente 25.000 horas.
 - 【Aplicación inteligente y control por voz Bombillas inteligentes】: las bombillas inteligentes que funcionan con Alexa, Google Home, te permiten controlar tu lámpara cuando no estás en casa. Puede atenuar / iluminar o establecer la temperatura del color mediante su aplicación y el comando de voz para las bombillas que cambian de color (por ejemplo, "Alexa, configure la cocina en naranja"). ¡Libera tus manos!
+- 【Ahorro de energía】: nuestra bombilla wifi inteligente de colores con tornillo E27 es un buen reemplazo de la lámpara incandescente. Cuenta con 800 lm de blanco sintonizable y CRI ＞ 80, súper brillante para iluminación diaria. Equivalente a halógenos de 60W, pero AHORRE para usted más del 85% en la factura de la luz. La vida útil de nuestras bombillas inteligentes puede durar aproximadamente 25.000 horas.
+- 【Fácil instalación】 No se requiere concentrador para esta bombilla de luz WiFi inteligente. 1. Atornille la bombilla en el portalámparas. 2. Descargue la aplicación "Linkind" y cree su cuenta. 3. Seleccione “WiFi RGB A60” en la lista de dispositivos y siga las instrucciones en pantalla. Conectó la bombilla a su WiFi de 2.4GHz (solo) en minutos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
