@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con bluetooth solo tienes que descargar la app gratuita Hue Bluetooth y podrás controlar hasta 10 bombillas, lámparas o accesorios Hue
-- Lámpara inteligente con batería recargable, puedes usar Hue Go donde quieras, en interior y exterior. Casi 3h de iluminación inteligente y hasta 18 horas usando el efecto de luz Cozy Candle
-- Lámpara inteligente portátil con escenas de luz predefinidas. Las recetas de luz han sido diseñadas por especialistas en iluminación inteligente
+- Saca el potencial a esta lámpara inteligente Hue agregando el puente (se vende a parte); con él puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa aunqe no sea así
 - Compatible con los asistentes de voz de Amazon Alexa, Google Home y Apple HomeKit
 - También puedes cambiar la luz con el botón en la parte posterior de la lámpara
-- Saca el potencial a esta lámpara inteligente Hue agregando el puente (se vende a parte); con él puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa aunqe no sea así
 - El paquete incluye: Lámpara + alimentador
+- Lámpara inteligente portátil con escenas de luz predefinidas. Las recetas de luz han sido diseñadas por especialistas en iluminación inteligente
+- Lámpara inteligente con batería recargable, puedes usar Hue Go donde quieras, en interior y exterior. Casi 3h de iluminación inteligente y hasta 18 horas usando el efecto de luz Cozy Candle
 
 [🛒 Visítala!!!]({{< param buyurl >}})
