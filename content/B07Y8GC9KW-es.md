@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Optimizado para uso en exteriores (ip 54), el sensor para exteriores tiene la suficiente potencia como para supervisar cada rincón de tu espacio exterior, capaz de soportar las condiciones climáticas
 - Esta lámpara inteligente exterior requiere el puente Philips Hue (se vende por separado) para la configuración inicial
-- Iluminación general para caminos y entradas; configura la iluminación puedes automatizarla según horarios de luz, prográmala para que la luz se encienda cuando llegas a casa o se apague cuando te vas
 - Distruta de luz blanca de cálida de hasta 2700K; luz blanca relajante que crea un espacio acogedor en tu jardín, patio o terraza
 - Esta lámpara inteligente exterior requiere el puente Philips Hue (se vende por separado) para la configuración inicial
 - Enciende y apaga tus luces automáticamente con montaje en la pared o en esquina
+- Iluminación general para caminos y entradas; configura la iluminación puedes automatizarla según horarios de luz, prográmala para que la luz se encienda cuando llegas a casa o se apague cuando te vas
+- Optimizado para uso en exteriores (ip 54), el sensor para exteriores tiene la suficiente potencia como para supervisar cada rincón de tu espacio exterior, capaz de soportar las condiciones climáticas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
