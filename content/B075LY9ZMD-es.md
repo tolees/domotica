@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Asociacion de indice de humedad y temperatura gracias a sensor de temperatura y humedad
-- Recomendaciones personalizadas para ahorrar en la factura de energia
-- Compatible con TaHoma
 - Modo de geolocalizacion para suida y bajada de temperatura según cercania de tu hogar
 - Control a distancia desde el móvi con app compatible con IO & Android
+- Compatible con TaHoma
+- Recomendaciones personalizadas para ahorrar en la factura de energia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
