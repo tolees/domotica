@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- CALIDAD VIDEO FHD 1080P - Visión nocturna de hasta 8 metros, resolución de 1080P, con imágenes nítidas y claras
+- ADMITE GRABACIÓN EN BUCLE: Admite tarjetas Micro SD de hasta 128 Gb o en la nube con el software Ispy
 - DETECCIÓN Y MOVIMIENTO - Reciba notificaciones al instante de la aplicación cuando se intercepta un movimiento; TP-link proporciona una función avanzada para configurar el tiempo de grabación específico
+- COMPATIBLE CON ALEXA: puedes probar el comando como "alexa, muestra la cámara de la puerta principal"; asegúrese de que el firmware se haya actualizado a la última versión
 - ALARMA DE SONIDO Y LUZ - ¿Invitado inesperado? activa los efectos de luz y sonido para ahuyentar
 - FÁCIL INSTALACIÓN - Vea el video de desempaquetado y configuración en esta página, descubrirá lo fácil que es configurarlo
-- INTERFAZ DE OPERACIÓN SIMPLE -Con la App TAPO para Android/IOS puedes configurar fácilmente el calendario, verificar videos anteriores, verificar múltiples vistas al mismo tiempo y dar acceso a otros usuarios
 - GRAN ANGULAR DE VISIÓN - Movimiento horizontal hasta 360 ° y movimiento vertical hasta 114 °
 - AUDIO BIDIRECCIONAL - Comunícate con los demás  al micrófono y altavoces incorporados
-- COMPATIBLE CON ALEXA: puedes probar el comando como "alexa, muestra la cámara de la puerta principal"; asegúrese de que el firmware se haya actualizado a la última versión
-- ADMITE GRABACIÓN EN BUCLE: Admite tarjetas Micro SD de hasta 128 Gb o en la nube con el software Ispy
-- CALIDAD VIDEO FHD 1080P - Visión nocturna de hasta 8 metros, resolución de 1080P, con imágenes nítidas y claras
+- INTERFAZ DE OPERACIÓN SIMPLE -Con la App TAPO para Android/IOS puedes configurar fácilmente el calendario, verificar videos anteriores, verificar múltiples vistas al mismo tiempo y dar acceso a otros usuarios
 
 [🛒 Visítala!!!]({{< param buyurl >}})
