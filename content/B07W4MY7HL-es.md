@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Imágenes de seguridad perfectas. Metraje con transmisión en directo o grabado nítidamente en alta definición 1080p, para que vea exactamente qué está pasando en su casa y sus alrededores.
+- Preparada para cualquier clima. Con un índice de protección impermeable IP67, la eufyCam 2C está construida para resistir a los elementos.
 - Medio año de seguridad con 1 carga. Evite las idas y venidas frecuentes para cargar la batería y disfrute de una autonomía de la batería de 180 días con solo una carga.
 - Pantalla a color, tanto de día como de noche. Observe sus grabaciones o la reproducción en directo a todo color, incluso por la noche, para ver claramente quién está al otro lado.
 - Alertas que importan. La tecnología de detección de personas permite a la cámara detectar de forma inteligente formas humanas y reconocer rostros. Así se asegura de que solo se le alerta cuando se acerca otra persona, y no un gato callejero.
-- Preparada para cualquier clima. Con un índice de protección impermeable IP67, la eufyCam 2C está construida para resistir a los elementos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
