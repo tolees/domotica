@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se puede acoplar. El diseño es perfecto para la mesita de noche. Ya sea en casa o en una habitación de hotel, tu teléfono se carga mientras proporciona la comodidad de Alexa.
 - Amazon Alexa en cualquier lugar. Solo tienes que preguntar y Alexa responderá, incluso cuando estés fuera. Reproduce música, recibe noticias, haz preguntas y mucho más. Cuatro potentes micrófonos aseguran que Alexa siempre te escuche si estás al otro lado de la habitación o fuera.
-- Un altavoz con cerebro. Escucha tu música favorita con potentes altavoces estéreo.
 - Mira lo que Alexa tiene que decir. Alexa utiliza la pantalla de tu teléfono para mostrar los controles de la música, las previsiones meteorológicas, tus listas de tareas y compras, y mucho más.
+- Un altavoz con cerebro. Escucha tu música favorita con potentes altavoces estéreo.
+- Se puede acoplar. El diseño es perfecto para la mesita de noche. Ya sea en casa o en una habitación de hotel, tu teléfono se carga mientras proporciona la comodidad de Alexa.
 - Batería de 10 horas integrada. No te preocupes porque tengas que usar la batería de tu teléfono para alimentar los altavoces. Altavoz inteligente Motorola con Amazon Alexa es compatible con cualquier teléfono de la familia Moto Z.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
