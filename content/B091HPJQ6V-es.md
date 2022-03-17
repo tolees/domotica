@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control Remoto: Encienda / Apague la WiFi toma de Apple a través de Meross APP desde cualquier lugar con Internet. Utilice iOS 13 o superior. Tenga en cuenta que si utiliza la Apple Home APP para controlar el dispositivo de forma remota, deberá instalar Apple Hub como iPad, HomePod o Apple TV en casa.
+- Siri & HomeKit: Puede controlar Mini WiFi enchufe a través de Siri: "Oye Siri, apaga la toma". Admite el control de dispositivos a través de la aplicación meross y Apple Home (Apple Watch / Apple TV / HomePod).
 - Programación & Temporizador: Puede configurar la hora de encendido o apagado en Meross APP según sus necesidades, de modo que pueda encenderla y apagarla automáticamente cuando se vaya o regrese. Se admiten los ajustes de salida y puesta del sol.
 - Tamaño Pequeño: El enchufe wifi inteligente ahorra más espacio y es más adecuado para viajes y transporte. Un chipset dedicado certificado por Apple y Wi-Fi Alliance garantiza una conexión HomeKit estable.
+- Control Remoto: Encienda / Apague la WiFi toma de Apple a través de Meross APP desde cualquier lugar con Internet. Utilice iOS 13 o superior. Tenga en cuenta que si utiliza la Apple Home APP para controlar el dispositivo de forma remota, deberá instalar Apple Hub como iPad, HomePod o Apple TV en casa.
 - Control por Voz: A travès del control por voz desde Apple Watch o iPhone para administrar inteligente enchufe. El enchufes inteligentes es compatible con Apple HomeKit, Siri, Alexa y Google Assistant.
-- Siri & HomeKit: Puede controlar Mini WiFi enchufe a través de Siri: "Oye Siri, apaga la toma". Admite el control de dispositivos a través de la aplicación meross y Apple Home (Apple Watch / Apple TV / HomePod).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
