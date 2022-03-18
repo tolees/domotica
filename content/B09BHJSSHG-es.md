@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bombillas Inteligentes Alexa  Lámparas LED Fitop E14 Wlan  Bombilla Regulable 4 9 W 470 Lm + 2200-6500K + RGB 16 Millones de Colores  Compatible con Alexa / Google Home  Control por voz  2 Pack'
-date: 2022-03-14 19:07:50
+date: 2022-03-18 19:23:19
 image: 'https://m.media-amazon.com/images/I/41IW7nHEVGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
