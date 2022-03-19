@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 💡[Bombilla inteligente gu10] La bombilla led gu10 es 5W, tiene 500 lúmenes y la tempteratura de color es 2700K-6500K. La bombilla inteligente es wifi (Apto para Red 2.4G), se puede controlar por alexa, google home y la aplicación“Smart Life”
 - 💡[Modos de control] Por un lado, podría controlar la bombilla inteligente gu10 por la aplicación“Smart Life”, a través de la APP, ajuste el color y el modo para crear su propia ambiente favorito. Por otro lado, la bombilla inteligente es compatible con alexa y google home, por eso, podría controlarla a través de voz
 - 💡[Temporizador y control de grupo]La bombilla inteligente gu10 tiene un función de temporizador, podría usar la aplicación para programar la luz para que se encienda y apague automáticamente, lo cual es muy conveniente. Y además, podría crear diferentes grupos de bombillas y controlarlas en grupos
-- 💡[Bombilla inteligente gu10] La bombilla led gu10 es 5W, tiene 500 lúmenes y la tempteratura de color es 2700K-6500K. La bombilla inteligente es wifi (Apto para Red 2.4G), se puede controlar por alexa, google home y la aplicación“Smart Life”
-- 💡[Fácil de instalar y usos amplios] La bombilla led gu10 es muy fácil de instalar, podría enchufarla direcctamente en el casquillo estándar gu10. Y además, no solo se puede usar como bombilla normal, sino también como la luz decorativa. Perfecto para la iluminación interior del hogar, hoteles, restaurantes, bares, cafeterías, fiestas, etc.
 - 💡[Color y brillo ajustable] La gu10 alexa es RGBW, por eso, tiene 16 millones de colores, podría elegirlo según su gusto. Y además, tiene 8 modos de escena, podría elegir cualquier que le guste y desee, y también podría hacer bricolaje en el modo que quiera
+- 💡[Fácil de instalar y usos amplios] La bombilla led gu10 es muy fácil de instalar, podría enchufarla direcctamente en el casquillo estándar gu10. Y además, no solo se puede usar como bombilla normal, sino también como la luz decorativa. Perfecto para la iluminación interior del hogar, hoteles, restaurantes, bares, cafeterías, fiestas, etc.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
