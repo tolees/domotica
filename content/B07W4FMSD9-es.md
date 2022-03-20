@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EZVIZ Cámara de Vigilancia 1080P WiFi Interior Cámara IP Domo 360º PTZ  Visión Nocturna  Detección de Movimiento  Audio Bidireccional  Compatible con Alexa y Google  Andriod/iOS  C6N'
-date: 2022-03-18 15:33:12
+date: 2022-03-20 20:55:51
 image: 'https://m.media-amazon.com/images/I/318AweT9KTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EZVIZ'
 buyurl: 'https://www.amazon.es/dp/B07W4FMSD9/?tag=tolees-21'
 descuento: '25.01'
-average: '29.6223574144486'
+average: '29.6237499999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
