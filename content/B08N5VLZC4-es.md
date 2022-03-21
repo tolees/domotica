@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ★Con Monitor de Energía★: Analizar el consumo de energía histórico y en tiempo real del dispositivo conectado, esta característica se puede ver directamente en la aplicación "Meross".
 - ★Servicio★: No te tengas que preocupar por nada, con soporte técnico 24 horas al día. Si tienes algún problema o duda, ponte en contacto con nosotros, estamos aquí para solucionarlas.
-- ★Largo rango de Conexión Wi-Fi★: ¿Le molesta la alta tasa de desconexión de Wi-Fi? El chipset Mediatek IoT permite que nuestro meross enchufe inteligente pueda alcanzar un rango de conexión Wi-Fi más largo y una tasa de desconexión más baja que la mayoría de sus competidores. Funciona con cualquier enrutador Wi-Fi de 2.4GHz o doble banda. (★NOTA: Al conectar este producto, seleccione 2,4 GHz★.) No requiere hub.
 - ★Seguridad★: Meross enchufe inteligente aprobó la certificación europea CE y RoHS (número de certificación:SZXEC1900724101). No permita que otros enchufes inteligentes de baja calidad pongan en peligro la seguridad de su familia. Meross Siempre le da mucha importancia a la seguridad del producto.
+- ★Largo rango de Conexión Wi-Fi★: ¿Le molesta la alta tasa de desconexión de Wi-Fi? El chipset Mediatek IoT permite que nuestro meross enchufe inteligente pueda alcanzar un rango de conexión Wi-Fi más largo y una tasa de desconexión más baja que la mayoría de sus competidores. Funciona con cualquier enrutador Wi-Fi de 2.4GHz o doble banda. (★NOTA: Al conectar este producto, seleccione 2,4 GHz★.) No requiere hub.
+- ★Con Monitor de Energía★: Analizar el consumo de energía histórico y en tiempo real del dispositivo conectado, esta característica se puede ver directamente en la aplicación "Meross".
 - ★Control Remoto★: Controla desde cualquier lugar los enchufes de tu casa u oficina mediante la aplicación Meross, disponible para iOS y Android,( IOS 9 y superior, Android 4.1 y superior.) Compatible con Amazon Alexa, Google Assistant e IFTTT. También muy adecuado para personas mayores o con movilidad reducida.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
