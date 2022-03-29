@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los auriculares tienen control por voz de Alexa
 - Potentes auriculares con cancelación de ruido: los 11 niveles de cancelación de ruido activa te permiten disfrutar de música, podcasts, vídeo y llamadas sin distracciones
 - Permite conectar tus auriculares QuietComfort a los sistemas de entretenimiento de los aviones
+- Los auriculares tienen control por voz de Alexa
 - Vienen con un adaptador de avión
 
 [🛒 Aquí!!!]({{< param buyurl >}})

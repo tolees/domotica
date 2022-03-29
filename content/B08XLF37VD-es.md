@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 【Control por voz】GU10 funciona con Alexa y Google Home. Puede encender / apagar / cambiar el color / ajustar el brillo a través de comandos de voz. También es compatible con el control de grupo. Puede controlar varias luces con el mismo comando.
+- 【Regulable multicolor】RGB regulable + luz cálida + luz fría, 16 millones de colores y 8 modos de escena pueden satisfacer sus diferentes estados de ánimo y hacer su vida más colorida. El brillo se puede configurar del 1% al 100% a través de la aplicación o la voz.
+- 【Ritmo musical】 Bombilla LED Inteligente GU10 tiene una función de ritmo musical. El color cambia según el ritmo de la música. Hará que tu fiesta sea más interesante.
 - 【Ajuste del temporizador】Configure la luz para que se encienda por la mañana y se despierte bajo una luz suave. Configure las luces para que se apaguen gradualmente por la noche, de modo que no tenga que preocuparse de que se enciendan.
 - 【Conexión rápida】Descargue la aplicación AvatarControls y active el Bluetooth del teléfono inteligente. Identifique rápidamente las bombillas inteligentes y podrá conectarlas en 15 segundos. En comparación con otras conexiones de bombilla inteligente que tardan 1 minuto, es más rápido y más estable.
-- 【Ritmo musical】 Bombilla LED Inteligente GU10 tiene una función de ritmo musical. El color cambia según el ritmo de la música. Hará que tu fiesta sea más interesante.
-- 【Regulable multicolor】RGB regulable + luz cálida + luz fría, 16 millones de colores y 8 modos de escena pueden satisfacer sus diferentes estados de ánimo y hacer su vida más colorida. El brillo se puede configurar del 1% al 100% a través de la aplicación o la voz.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
