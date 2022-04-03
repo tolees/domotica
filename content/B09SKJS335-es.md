@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit GTS 2 Mini New Version Smartwatch Fitness Tracker Pantalla AMOLED de 1.55" GPS 68 Modos deportivos 14 días de duración de la batería Monitor de frecuencia cardíaca sueño estrés y SpO2 Alexa'
-date: 2022-04-01 15:38:42
+date: 2022-04-02 23:01:44
 image: 'https://m.media-amazon.com/images/I/41eEK+FeFyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
