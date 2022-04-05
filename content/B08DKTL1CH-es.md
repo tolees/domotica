@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit Band 5 Rastreador de ejercicios con Alexa incorporada Duración de la batería de 15 días Oxigeno en sangre Ritmo cardiaco Monitoreo del sueño Seguimiento de la salud de la mujer Pantalla'
-date: 2022-04-03 16:47:25
+date: 2022-04-05 16:54:31
 image: 'https://m.media-amazon.com/images/I/41cOL1yyxXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B08DKTL1CH/?tag=tolees-21'
 descuento: '26.76'
-average: '28.2166666666665'
+average: '28.030882352941'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
