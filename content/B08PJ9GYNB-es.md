@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🌟【Color y Brillo Ajustable】Bombilla LED colores es RGB+W+C, la tempteratura de color es 2700K-6500K. LED gu10 que brinda 16 millones de colores para cambiar, tiene 8 modos de escena, El brillo se puede configurar del 1% al 100% y también podría hacer bricolaje en el modo que quiera.
-- 🌟【Modo de Música】Avatar Clnntrols bombilla inteligente GU10 Cuando el modo de música está activado, la luz emitida por la bombilla cambiará dependiendo del sonido de la música. Además, tienen una función de temporizador, así como de encendido y apagado automático.
-- 🌟【2.4G WiFi & Bluetooth Conectar】Necesita instalar la aplicación Avatar Controls, que funciona fácilmente mediante conectividad wifi con redes de 2.4GHz. encienda bluetooth, App encontrará automáticamente el dispositivo, que es más rápida y estable que otras bombillas en términos de conexión(Bluetooth solo se usa para configurar).
 - 🌟【Ahorro Energético+Control de rupo】Bombilla wifi alexa utiliza tecnología LED 5W 500LM, Su eficiencia energética es A+, pueden ahorrar hasta un 90% de energía que las tradicionales de filamento de 50 W, pasado las certificaciones CE / FCC / ROHS Y además, podría crear diferentes grupos de bombillas y controlarlas en grupos.
+- 🌟【Color y Brillo Ajustable】Bombilla LED colores es RGB+W+C, la tempteratura de color es 2700K-6500K. LED gu10 que brinda 16 millones de colores para cambiar, tiene 8 modos de escena, El brillo se puede configurar del 1% al 100% y también podría hacer bricolaje en el modo que quiera.
+- 🌟【2.4G WiFi & Bluetooth Conectar】Necesita instalar la aplicación Avatar Controls, que funciona fácilmente mediante conectividad wifi con redes de 2.4GHz. encienda bluetooth, App encontrará automáticamente el dispositivo, que es más rápida y estable que otras bombillas en términos de conexión(Bluetooth solo se usa para configurar).
+- 🌟【Modo de Música】Avatar Clnntrols bombilla inteligente GU10 Cuando el modo de música está activado, la luz emitida por la bombilla cambiará dependiendo del sonido de la música. Además, tienen una función de temporizador, así como de encendido y apagado automático.
 - 🌟【Bombilla Inteligente Alexa】La bombilla inteligente GU10 es compatible con Alexa y Google Home. Puede controlar las bombillas por voz como encender o apagar la bombilla, aregular la intensidad de la luz o cambiar el color, etc.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
