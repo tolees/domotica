@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'TP-Link Tapo L530E 2-Pack - Bombilla LED inteligente Wi-Fi  multicolor  regulable  E27  8.7 W 806 lm  compatible con Alexa y Google Home'
-date: 2022-04-04 05:50:51
+date: 2022-04-14 05:31:10
 image: 'https://m.media-amazon.com/images/I/41HsKI5zwdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08QRQQ53T-es TP-Link Tapo L530E 2-Pack - Bombilla LED inteligente Wi-Fi...'
 sku: 'B08QRQQ53T-es'
-tags: [ 'Bombillas','Bombillas Wi-Fi','Iluminación','alexa','google','home','tp-link', ]
-actualPrice: 27.99 EUR
+tags: [ 'Bombillas','Bombillas Wi-Fi','Iluminación','alexa','google','home','tp-link','🇪🇸', ]
+actualPrice: 22.99 EUR
 currency: EUR
-price: 27.99
+price: 22.99
 comparePrice: 34.99 EUR
 prodname: 'TP-Link Tapo L530E 2-Pack - Bombilla LED inteligente Wi-Fi  multicolor  regulable  E27  8.7 W 806 lm  compatible con Alexa y Google Home'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B08QRQQ53T/?tag=tolees-21'
-descuento: '20.01'
-average: '23.0661111111111'
+descuento: '34.30'
+average: '23.0621052631579'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
