@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aviso de movimiento instantáneo; cuando la cámara detecte movimientos o intrusos, recibirá alertas de inmediato, solo verifique y asegúrese de que todo vaya bien en su hogar cuando y donde sea
-- Alarma con sirena y luz estroboscópica; una vez que se detecta un movimiento, activa una sirena y emite una luz estroboscópica; puede decidir habilitar y deshabilitar el sistema de alarma manualmente
-- Su visión nocturna ahora está iluminada y vívidamente restaurada a todo color gracias a un eficiente sistema de visión nocturna compuesto por dos focos y dos luces infrarrojas
-- Alertas personalizadas; junto con los sonidos de alerta predeterminados, la cámara también te permite grabar tres mensajes de audio de 10 segundos para dar la bienvenida o disuadir a los visitantes
 - Ip67 clasificado; esto significa que es resistente al polvo y al agua, puede instalarlo donde lo necesite
+- Alertas personalizadas; junto con los sonidos de alerta predeterminados, la cámara también te permite grabar tres mensajes de audio de 10 segundos para dar la bienvenida o disuadir a los visitantes
+- Aviso de movimiento instantáneo; cuando la cámara detecte movimientos o intrusos, recibirá alertas de inmediato, solo verifique y asegúrese de que todo vaya bien en su hogar cuando y donde sea
+- Su visión nocturna ahora está iluminada y vívidamente restaurada a todo color gracias a un eficiente sistema de visión nocturna compuesto por dos focos y dos luces infrarrojas
 - Audio bidireccional; puede comunicarse con su familia o sus mascotas o asustar a los intrusos gracias al micrófono y al altavoz integrados
+- Alarma con sirena y luz estroboscópica; una vez que se detecta un movimiento, activa una sirena y emite una luz estroboscópica; puede decidir habilitar y deshabilitar el sistema de alarma manualmente
 - La cámara cuenta con la compresión de video H.265 de tecnología, logrando una óptima calidad de video con solo la mitad de ancho de banda y la mitad del espacio de almacenamiento que la H.264 estándar de compresión de video
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
