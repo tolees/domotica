@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Hue - Barra de luz  Hue Play  Luz blanca y colores  Compatible con Alexa y Google Home  Blanco - 1 Unidad'
-date: 2022-04-25 10:30:56
+date: 2022-04-26 12:16:14
 image: 'https://m.media-amazon.com/images/I/41mJI+vPAfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control por voz: Philips Hue funciona con Amazon Alexa y el Asistente de Google en combinación con un dispositivo Google Nest o Amazon Echo compatible. Con comandos de voz simples se pueden controlar varias luces en una habitación o solo una lámpara.
-- Conecta las luces Philips Hue con el puente para desbloquear las infinitas posibilidades del sistema.
-- Crea un amplio efecto de iluminación con la barra de luces Hue Play de diseño estilizado en color blanco. Se suministra con una fuente de alimentación que permite conectar hasta tres barras de luces y se puede posar en el suelo en vertical u horizontal o instalar en la parte posterior del televisor con los soportes incluidos.
 - Control total con el puente Hue
+- Crea un amplio efecto de iluminación con la barra de luces Hue Play de diseño estilizado en color blanco. Se suministra con una fuente de alimentación que permite conectar hasta tres barras de luces y se puede posar en el suelo en vertical u horizontal o instalar en la parte posterior del televisor con los soportes incluidos.
+- Control por voz: Philips Hue funciona con Amazon Alexa y el Asistente de Google en combinación con un dispositivo Google Nest o Amazon Echo compatible. Con comandos de voz simples se pueden controlar varias luces en una habitación o solo una lámpara.
 - Control absoluto desde dispositivos inteligentes con Hue bridge
+- Conecta las luces Philips Hue con el puente para desbloquear las infinitas posibilidades del sistema.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
