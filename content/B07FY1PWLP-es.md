@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Hue - Barra de luz  Hue Play  Luz blanca y colores  Compatible con Alexa y Google Home  Blanco - 2 Unidades'
-date: 2022-04-13 14:11:21
+date: 2022-04-26 16:51:31
 image: 'https://m.media-amazon.com/images/I/41+ATvmAZnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07FY1PWLP-es Philips Hue - Barra de luz Hue Play Luz blanca y colores...'
 sku: 'B07FY1PWLP-es'
 tags: [ 'Iluminación','Iluminación de interior','alexa','google','home','hue','philips','philips hue','🇪🇸', ]
-actualPrice: 109.0 EUR
+actualPrice: 90.07 EUR
 currency: EUR
-price: 109.0
+price: 90.07
 comparePrice: 129.95 EUR
 prodname: 'Philips Hue - Barra de luz  Hue Play  Luz blanca y colores  Compatible con Alexa y Google Home  Blanco - 2 Unidades'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Philips Hue'
 buyurl: 'https://www.amazon.es/dp/B07FY1PWLP/?tag=tolees-21'
-descuento: '16.12'
-average: '101.832941176471'
+descuento: '30.69'
+average: '101.179444444445'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
