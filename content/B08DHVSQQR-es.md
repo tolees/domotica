@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Robot Aspirador Xiaomi MI S6 Pure Black roborock Vacuum'
-date: 2022-04-25 18:46:04
+date: 2022-04-28 20:32:37
 image: 'https://m.media-amazon.com/images/I/31RPbc1fEfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'roborock'
 buyurl: 'https://www.amazon.es/dp/B08DHVSQQR/?tag=tolees-21'
 descuento: '30.28'
-average: '370.0'
+average: '368.895'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Función de limpieza y aspiración con una alta potencia de succión de 2000 Pa
-- Depósito de agua de 180 ml para una superficie de limpieza de hasta 75 m²
-- 13 sensores de distancia láser (LDS) para una cobertura de 360°
 - Función de limpieza con regulación variable de la cantidad de agua del limpiaparabrisas
+- 13 sensores de distancia láser (LDS) para una cobertura de 360°
+- Depósito de agua de 180 ml para una superficie de limpieza de hasta 75 m²
+- Función de limpieza y aspiración con una alta potencia de succión de 2000 Pa
 - Planificación inteligente con mapas espaciales en tiempo real y selectiva con zonas de bloqueo y succión virtuales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
