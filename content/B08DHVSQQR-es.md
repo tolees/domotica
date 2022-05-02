@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Planificación inteligente con mapas espaciales en tiempo real y selectiva con zonas de bloqueo y succión virtuales.
 - Función de limpieza con regulación variable de la cantidad de agua del limpiaparabrisas
-- 13 sensores de distancia láser (LDS) para una cobertura de 360°
 - Depósito de agua de 180 ml para una superficie de limpieza de hasta 75 m²
 - Función de limpieza y aspiración con una alta potencia de succión de 2000 Pa
+- 13 sensores de distancia láser (LDS) para una cobertura de 360°
+- Planificación inteligente con mapas espaciales en tiempo real y selectiva con zonas de bloqueo y succión virtuales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
