@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lepro - LE Lámpara De Techo 15W Inteligente 1250LM Plafón Led Techo Impermeable Colores Regulable  RGB + Blanco Cálido a Frío   Aplicación de Control Remoto  WIFI Compatible con Alexa / Google Assistant'
-date: 2022-04-18 15:49:17
+date: 2022-05-02 09:35:56
 image: 'https://m.media-amazon.com/images/I/31P4xHAyzDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lepro'
 buyurl: 'https://www.amazon.es/dp/B07RJN2VJ3/?tag=tolees-21'
 descuento: '29.92'
-average: '44.027037037037'
+average: '43.8810714285714'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
