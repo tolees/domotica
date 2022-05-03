@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ★ Seguridad Avanzada ★: Material ignífugo de alta seguridad que ha pasado la certificación CE, RoHS, WEEE. No es necesario comprar Hub adicional.
-- ★ Servicio ★: No te tengas que preocupar por nada, con soporte técnico 12 horas al día. Si tienes algún problema o duda, estamos en aquí para solucionarlas.
-- ★ Control Remoto ★: Controla desde cualquier lugar el interruptor de tu casa u oficina mediante la aplicación Meross, disponible para iOS y Android. También muy adecuado para personas mayores o con movilidad reducida.
 - ★ Control por Voz ★: Compatible con Apple HomeKit Siri,Amazon Alexa, Google Assistant y SmartThings: Controla tus dispositivos desde cualquier lugar, disfrute de una vida inteligente.
+- ★ Control Remoto ★: Controla desde cualquier lugar el interruptor de tu casa u oficina mediante la aplicación Meross, disponible para iOS y Android. También muy adecuado para personas mayores o con movilidad reducida.
+- ★ Seguridad Avanzada ★: Material ignífugo de alta seguridad que ha pasado la certificación CE, RoHS, WEEE. No es necesario comprar Hub adicional.
 - ★Apple HomeKit★: El interruptor meross inteligente se puede usar con Apple HomeKit (iOS 13 o superior), Apple Watch, Alexa, Google Home y SmartThings para administrar su dispositivo a través del control por voz. Simplemente diga "Hola Siri, encienda la luz" para experimentar una vida inteligente y cómoda. Los interruptores compatible con Apple HomeKit pueden crear posibilidades ilimitadas según sus necesidades.
+- ★ Servicio ★: No te tengas que preocupar por nada, con soporte técnico 12 horas al día. Si tienes algún problema o duda, estamos en aquí para solucionarlas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
