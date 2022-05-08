@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones del paquete (largo x ancho x alto): 562 x 176 x 367 mm.
 - Color: blanco.
+- Dimensiones del paquete (largo x ancho x alto): 562 x 176 x 367 mm.
 - Peso del paquete: 4.5 kg.
 - Origen: China.
 
