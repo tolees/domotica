@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '【Nueva Generación】Alexa Interruptor Persiana Wifi  Etersky Interruptor Porcentual Inteligente para Persiana  Motor Persiana y Toldos Electricos  Interruptor Cortina Compatible con Alexa y Google Home'
-date: 2022-04-26 18:08:40
+date: 2022-05-09 15:14:08
 image: 'https://m.media-amazon.com/images/I/31ah2ZUOlrS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Etersky'
 buyurl: 'https://www.amazon.es/dp/B08HRN5W8G/?tag=tolees-21'
 descuento: '15.01'
-average: '26.49'
+average: '26.3471428571429'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Control Porcentual: Adoptando la tecnología nueva, el interruptor persiana porcentual puede ajustarse desde 1% hasta 100%. Según su necesidad, puede configurar el grado de apertura y cierre de la persiana wifi. Para usar la funcion de porcentaje, la configuracion de calibracion debe realizarse en la APP
-- Control Remoto / Horario: Con la APP Smart Life / Tuya Smart puede controlar el interruptor persiana wifi remotamente en cualquier lugar y cualquier momento. Configurar un horario para su interruptor alexa, se enciende automáticamente por la mañana para despertarle y se apaga al atardecer
-- Panel Táctil y Facil de Instalar: El interruptor táctil inteligente adopta el material de vidrio de alta calidad, con un sensor más sensible, mejorar la experiencia de uso. Es facil para instalar un Etersky Interruptor persiana wifi segun el manual, necesita la linea neutral. Si tiene preguntas, no dude en ponerse con nosotros, le ayudamos en cualquier problema sobre la instalacion y otro sobre la calidad
 - Control por Voz - Alexa / Google Home: Con unos comandos sencillos de voz puede encender/apagar el interruptor persiana wifi: “Alexa, sube/baja la persiana”, además, puede detener o configurar el porcentaje de la persiana. “Alexa, puasa la persiana”, “Alexa, pon la persiana al 30%”
+- Panel Táctil y Facil de Instalar: El interruptor táctil inteligente adopta el material de vidrio de alta calidad, con un sensor más sensible, mejorar la experiencia de uso. Es facil para instalar un Etersky Interruptor persiana wifi segun el manual, necesita la linea neutral. Si tiene preguntas, no dude en ponerse con nosotros, le ayudamos en cualquier problema sobre la instalacion y otro sobre la calidad
 - Seguridad / Control en Grupos: La protección contra sobrecargas y el material ignífugo mejora en gran medida la seguridad de uso. Puede crear grupos para las persianas enrrollables y las controla a la vez
+- Control Remoto / Horario: Con la APP Smart Life / Tuya Smart puede controlar el interruptor persiana wifi remotamente en cualquier lugar y cualquier momento. Configurar un horario para su interruptor alexa, se enciende automáticamente por la mañana para despertarle y se apaga al atardecer
+- Control Porcentual: Adoptando la tecnología nueva, el interruptor persiana porcentual puede ajustarse desde 1% hasta 100%. Según su necesidad, puede configurar el grado de apertura y cierre de la persiana wifi. Para usar la funcion de porcentaje, la configuracion de calibracion debe realizarse en la APP
 
 [🛒 Aquí!!!]({{< param buyurl >}})
