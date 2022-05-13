@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '【Nueva Generación】Alexa Interruptor Persiana Wifi  Etersky Interruptor Porcentual Inteligente para Persiana  Motor Persiana y Toldos Electricos  Interruptor Cortina Compatible con Alexa y Google Home'
-date: 2022-05-09 15:14:08
+date: 2022-05-13 01:26:51
 image: 'https://m.media-amazon.com/images/I/31ah2ZUOlrS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Etersky'
 buyurl: 'https://www.amazon.es/dp/B08HRN5W8G/?tag=tolees-21'
 descuento: '15.01'
-average: '26.3471428571429'
+average: '26.24'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
