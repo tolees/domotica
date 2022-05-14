@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Robot Aspirador Xiaomi MI S6 Pure Black roborock Vacuum'
-date: 2022-05-08 06:52:18
+date: 2022-05-14 12:39:25
 image: 'https://m.media-amazon.com/images/I/31RPbc1fEfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08DHVSQQR-es Robot Aspirador Xiaomi MI S6 Pure Black roborock Vacuum'
 sku: 'B08DHVSQQR-es'
 tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','roborock','🇪🇸', ]
-actualPrice: 343.9 EUR
+actualPrice: 339.9 EUR
 currency: EUR
-price: 343.9
+price: 339.9
 comparePrice: 499.0 EUR
 prodname: 'Robot Aspirador Xiaomi MI S6 Pure Black roborock Vacuum'
 country: 'es'
 flag: '🇪🇸'
 brand: 'roborock'
 buyurl: 'https://www.amazon.es/dp/B08DHVSQQR/?tag=tolees-21'
-descuento: '31.08'
-average: '366.486363636364'
+descuento: '31.88'
+average: '365.330434782609'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
