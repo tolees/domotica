@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- RESOLUCIÓN 4K ULTRA HD – Ofrece cuatro veces más resolución que una televisión Full HD, para poder disfrutar de más detalles y colores.
-- ENTRETENIMIENTO SIN LÍMITES: con Fire TV integrado, podrás disfrutar de miles de apps y de canales como Netflix, Prime Video, Disney+, YouTube, DAZN, Atresplayer, Mitele, RTVE Play y muchos más (pueden aplicarse cargos de suscripción).
-- Se requiere una cuenta de Amazon para un uso completo de todas las funcionalidades. Pueden aplicarse cargos de suscripción para los servicios de reproducción en streaming.
-- GAMING - El modo de juego que incorpora funciona a través de los conectores 4x HDMI 2.1 con la función ALLM, para que el tiempo de respuesta sea corto. Todo ello hace que esta TV sea ideal para disfrutar de tus partidas.
 - COLORES - Visualiza todo el contenido con una mayor profundidad de color con la tecnología WCG y un brillo intensificado para una experiencia de visualización más realista gracias a HDR 10.
 - CONTROLA TU TV CON LA VOZ: controla fácilmente tu TV inteligente con la voz gracias al mando por voz Alexa incluido. Cambia de canal, ajusta el volumen, abre apps y mucho más. También puedes usarlo para controlar tus demás dispositivos de Hogar digital compatibles usando la voz.
+- ENTRETENIMIENTO SIN LÍMITES: con Fire TV integrado, podrás disfrutar de miles de apps y de canales como Netflix, Prime Video, Disney+, YouTube, DAZN, Atresplayer, Mitele, RTVE Play y muchos más (pueden aplicarse cargos de suscripción).
+- GAMING - El modo de juego que incorpora funciona a través de los conectores 4x HDMI 2.1 con la función ALLM, para que el tiempo de respuesta sea corto. Todo ello hace que esta TV sea ideal para disfrutar de tus partidas.
+- RESOLUCIÓN 4K ULTRA HD – Ofrece cuatro veces más resolución que una televisión Full HD, para poder disfrutar de más detalles y colores.
+- Se requiere una cuenta de Amazon para un uso completo de todas las funcionalidades. Pueden aplicarse cargos de suscripción para los servicios de reproducción en streaming.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
