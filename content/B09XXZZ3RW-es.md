@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONTROLA TU TV con la VOZ: controla fácilmente tu TV inteligente con la voz gracias al mando por voz Alexa incluido; cambia de canal, ajusta el volumen, abre apps y mucho más; también puedes usarlo para controlar tus demás dispositivos de Hogar digital compatibles usando la voz
-- Eficiencia energética: G
 - Voltaje: 220.0 volts
+- CONTROLA TU TV con la VOZ: controla fácilmente tu TV inteligente con la voz gracias al mando por voz Alexa incluido; cambia de canal, ajusta el volumen, abre apps y mucho más; también puedes usarlo para controlar tus demás dispositivos de Hogar digital compatibles usando la voz
 - Vataje (W): 140.0 watts
+- RESOLUCIÓN 4K ULTRA HD Ofrece cuatro veces más resolución que una televisión Full HD, para poder disfrutar de más detalles y colores
+- Se requiere una cuenta de Amazon para un uso completo de todas las funcionalidades; pueden aplicarse cargos de suscripción para los servicios de reproducción en streaming
+- Eficiencia energética: G
 - COLORES - Visualiza todo el contenido con una mayor profundidad de color con la tecnología WCG y un brillo intensificado para una experiencia de visualización más realista gracias a HDR 10
 - GAMING - El modo de juego que incorpora funciona a través de los conectores 4x HDMI 2.1 con la función ALLM, para que el tiempo de respuesta sea corto; todo ello hace que esta TV sea ideal para disfrutar de tus partidas
 - ENTRETENIMIENTO SIN LÍMITES: con Fire TV integrado, podrás disfrutar de miles de apps y de canales como Netflix, Prime Video, Disney, YouTube, DAZN, Atresplayer, Mitele, RTVE Play y muchos más (pueden aplicarse cargos de suscripción)
-- Se requiere una cuenta de Amazon para un uso completo de todas las funcionalidades; pueden aplicarse cargos de suscripción para los servicios de reproducción en streaming
-- RESOLUCIÓN 4K ULTRA HD Ofrece cuatro veces más resolución que una televisión Full HD, para poder disfrutar de más detalles y colores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
