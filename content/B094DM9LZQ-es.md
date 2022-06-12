@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TAPO C110 - Cámara Wi-Fi Interior  Resolución 3MP  Visión Nocturna Avanzada  Audio bidireccional  notificaciones en Tiempo Real  Compatible con Alexa y Google Home'
-date: 2022-06-03 12:03:31
+date: 2022-06-12 20:04:35
 image: 'https://m.media-amazon.com/images/I/41iz3BglAIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Visión nocturna avanzada: proporciona una distancia visual de hasta 30 pies
 - Detección de movimiento y notificaciones: le avisará cuando la cámara detecta movimiento
+- Visión nocturna avanzada: proporciona una distancia visual de hasta 30 pies
 - Vídeo de alta definición - Graba cada imagen en definición ultra alta de 3 megapíxeles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
