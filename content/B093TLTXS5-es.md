@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones, incluida la base (L. x An. x Al.): 1117.2 X 276.8 X 710.6 mm, Dimensiones sin incluir la base (L. x An. x Al.): 1117.2 X 83.6 X 652.5 mm
-- Conectividad: HDMI eARC 2.1 x 1, HDMI 2.0 x 2, USB 2.0 x 2, entrada AV, Ethernet LAN (RJ45), WLAN, salida de auriculares, ranura CI +
-- Imagen: WCG NTSC 85% , dolby vision, HDR10+, MEMC UHD 60Hz
 - Android TV 10.0 con Google Assistant y acceso a Google Play Store, 2 GB RAM, memoria interna de 16GB, Compatible con Alexa
 - Tipo: UHD LED TV - 50 Pulgada (126cm), Flat, 3,840 x 2160 pixeles , diseño Frameles
 - Prime Video, Netflix, YouTube, Chromcast, Hbbtv 2.0, ect
-- Bluetooth: Mando a distancia Bluetooth con 2 micrófonos, botón de acceso directo a Prime Video y Netflix
+- Imagen: WCG NTSC 85% , dolby vision, HDR10+, MEMC UHD 60Hz
+- Dimensiones, incluida la base (L. x An. x Al.): 1117.2 X 276.8 X 710.6 mm, Dimensiones sin incluir la base (L. x An. x Al.): 1117.2 X 83.6 X 652.5 mm
+- Conectividad: HDMI eARC 2.1 x 1, HDMI 2.0 x 2, USB 2.0 x 2, entrada AV, Ethernet LAN (RJ45), WLAN, salida de auriculares, ranura CI +
 - Sintonizador Triple HD para DVB-S2, DVB-C y DVB-T3
+- Bluetooth: Mando a distancia Bluetooth con 2 micrófonos, botón de acceso directo a Prime Video y Netflix
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
