@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de puertos HDMI: 3
-- Smart tv: el televisor presenta android tv con google assistant, google play store, chromecast integrado, compatible con Alexa, netflix y youtube en calidad 4k hdr
+- Calidad de la imagen: 4k hdr –increíble contraste y colores vibrantes y precisos con el máximo detalle
 - Este modelo incorpora micro dimming pro que adapta la luminosidad, lo que mejora la calidad de imagen y el contraste
 - Sonido: el televisor incorpora dolby audio que proporciona un sonido rico, nítido y potente
-- Calidad de la imagen: 4k hdr –increíble contraste y colores vibrantes y precisos con el máximo detalle
 - El modelo 55p615 de tcl de 55 pulgadas además incorpora un control remoto de fácil utilización con pilas, cable de alimentación y manual de instrucciones
+- Smart tv: el televisor presenta android tv con google assistant, google play store, chromecast integrado, compatible con Alexa, netflix y youtube en calidad 4k hdr
+- Número de puertos HDMI: 3
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
