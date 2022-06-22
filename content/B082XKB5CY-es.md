@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Yeelight 1S con 16 millones de colores y 1700-6500K regulable, establece el ambiente adecuado para cualquier momento ajustando la temperatura del color de blanco cálido a luz diurna.
 - La bombilla YL 1S utiliza el chip del módulo wifi más avanzado, ahora puede conectarse más rápidamente a hardware inteligente como Apple Homekit, Alexa, etc.
+- Agrupe y controle a distancia, ajuste las bombillas individualmente o agrupe varias bombillas para sincronizar la iluminación de toda una habitación y contrólelas sin importar dónde se encuentre.
+- Yeelight 1S con 16 millones de colores y 1700-6500K regulable, establece el ambiente adecuado para cualquier momento ajustando la temperatura del color de blanco cálido a luz diurna.
 - La bombilla inteligente Yeelight 1S funciona con sus plataformas domésticas inteligentes favoritas como Amazon Alexa, Google Assistant, Apple Homekit.
 - Hemos conservado todas las características de las bombillas de la generación anterior y las hemos optimizado. Bienvenido a las discusiones del foro Yeelight y comparta sus operaciones personalizadas.
-- Agrupe y controle a distancia, ajuste las bombillas individualmente o agrupe varias bombillas para sincronizar la iluminación de toda una habitación y contrólelas sin importar dónde se encuentre.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
