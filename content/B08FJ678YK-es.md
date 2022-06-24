@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Control por Voz y APP】El purificador Core 200S es compatible con ALEXA y Asistente de Google，también se puede controlar de forma remota conectándose a la aplicación Vesync
 - 【Multi-Funciones】El Core 200S está disponible diferentes niveles de ventilador bajo, medio, alto, se puede cambiarlo por su móvil inteligente o por la voz, y el temporizador del purificador de aire se puede configurar en 2/4/8 horas
 - 【3-Etapa de Purificación con Filtro HEPA】Los filtros de Core 200S cuentan con Prefiltro, True HEPA Filtro y Filtro de Carbón Activado. Con el CADR 170m³/h se puede eliminar el 99,97% de los contaminantes con un tamaño de 0,3µm, para que estés protegido de las alergias, polen, polvo, ácaros, caspas y pelo de mascotas, etc.
+- 【Filtros de Repuesto Originales】Para el mejor rendimiento y vida útil más larga, utiliza filtros de repuesto originales Levoit. Utiliza la función en la aplicación para controlar la vida de tu filtro. Cuando sea el momento de un filtro fresco, busca "Core 200S-RF" o “B08H214WGW”
+- 【Control por Voz y APP】El purificador Core 200S es compatible con ALEXA y Asistente de Google，también se puede controlar de forma remota conectándose a la aplicación Vesync
 - 【360° Filtración de Diseño Innovador】Debido al diseño cilíndrico del purificador inteligente, se absorbe y purifica el aire a su alrededor en todas las direcciones y se entrega aire limpio a toda la habitación a través de motor eléctrico de alta velocidad. Por el potente efecto a purificar el aire, lo limpia en una cobertura de 35 m² en menos de 30 minutos
 - 【Marcha Ultra-Silenciosa】Gracias a la tecnología VortexAir, en el modo sueño se produce niveles de ruido tan bajos como 24dB, el Core 200S limpia su aire sin molesta por toda la noche. Para un sueño completamente dulce, se puede apagar todas las luces nocturnas con el botón Display Off
-- 【Filtros de Repuesto Originales】Para el mejor rendimiento y vida útil más larga, utiliza filtros de repuesto originales Levoit. Utiliza la función en la aplicación para controlar la vida de tu filtro. Cuando sea el momento de un filtro fresco, busca "Core 200S-RF" o “B08H214WGW”
 - 【Certificado ECARF】El Core 200S ha sido probado a fondo para un rendimiento seguro como ECARF (Fundación Europea para la Investigación de Alergias) como apto para personas alérgicas. Asegura que respire aire saludable durante la temporada de polen, alta contaminación del aire y ácaros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
