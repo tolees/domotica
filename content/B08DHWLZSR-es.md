@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta calidad
-- Roborock S6 MaxV Black (S6V52-00)
-- De la marca Desconocido
 - Diseño funcional
+- Roborock S6 MaxV Black (S6V52-00)
+- Alta calidad
+- De la marca Desconocido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
