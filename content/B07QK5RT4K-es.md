@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil instalación solo 3 pasos: descargue y registre la aplicación; enciende la cámara ; escanear el código qr
-- Seguimiento inteligente del movimiento: cuando se detecta movimiento, la cámara puede moverse automáticamente para rastrear cualquier movimiento y grabar videos
-- Aviso de movimiento instantáneo: cuando la cámara detecte movimientos o intrusos, recibirá alertas de inmediato, solo verifique y asegúrese de que todo vaya bien en su hogar cuando y donde sea
 - Audio bidireccional: puede comunicarse con su familia o sus mascotas o asustar a los intrusos gracias al micrófono y al altavoz integrados
 - La máscara de privacidad inteligente: la cámara vuelve a su casco, detiene inmediatamente la grabación de videos y desactiva la transmisión en vivo cuando es necesario
+- Seguimiento inteligente del movimiento: cuando se detecta movimiento, la cámara puede moverse automáticamente para rastrear cualquier movimiento y grabar videos
+- Aviso de movimiento instantáneo: cuando la cámara detecte movimientos o intrusos, recibirá alertas de inmediato, solo verifique y asegúrese de que todo vaya bien en su hogar cuando y donde sea
+- Fácil instalación solo 3 pasos: descargue y registre la aplicación; enciende la cámara ; escanear el código qr
 
 [🛒 Comprar!!!]({{< param buyurl >}})
