@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Two-way Control】Al instalar ZBMINI-L en una de sus cajas de conexiones de control de dos o múltiples vías existentes para hacer que la luz conectada sea inteligente.
 - 【Interruptor externo conectado】Se admite el interruptor de luz de balancín y el interruptor de pared de botón.
+- 【Two-way Control】Al instalar ZBMINI-L en una de sus cajas de conexiones de control de dos o múltiples vías existentes para hacer que la luz conectada sea inteligente.
+- 【Seguridad y fiabilidad】Además de la certificación CE, FCC, ZBMINI-L también ha pasado la certificación TÜV.
 - 【Compatible con otros Zigbee Hubs】Soporta ser añadido a cualquier hub Zigbee desarrollado de acuerdo con el protocolo estándar, incluyendo Amazon Alexa Echo Speaker (Built-in Zigbee Hub), Samsung SmartThings Hub, SONOFF ZBBridge, SONOFF Zigbee Dongle Plus.
 - 【No se requiere cable neutro】Interruptor inteligente de protocolo Zigbee 3.0 de un solo cable vivo, se adapta a todas las situaciones del cableado eléctrico para el hogar.
-- 【Seguridad y fiabilidad】Además de la certificación CE, FCC, ZBMINI-L también ha pasado la certificación TÜV.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
