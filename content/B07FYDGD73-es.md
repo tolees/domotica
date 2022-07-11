@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amplía la configuración de barras de luces Play con el pack de extensión Hue Play en negro, que contiene una extensión de una sola barra de luces. No incluye fuente de alimentación.
 - Control total con el puente Hue
-- Conecta las luces Philips Hue con el puente para desbloquear las infinitas posibilidades del sistema.
 - Control por voz: Philips Hue funciona con Amazon Alexa y el Asistente de Google en combinación con un dispositivo Google Nest o Amazon Echo compatible. Con comandos de voz simples se pueden controlar varias luces en una habitación o solo una lámpara.
+- Conecta las luces Philips Hue con el puente para desbloquear las infinitas posibilidades del sistema.
+- Amplía la configuración de barras de luces Play con el pack de extensión Hue Play en negro, que contiene una extensión de una sola barra de luces. No incluye fuente de alimentación.
 - Control absoluto desde dispositivos inteligentes con Hue bridge
 
 [🛒 Aquí!!!]({{< param buyurl >}})
