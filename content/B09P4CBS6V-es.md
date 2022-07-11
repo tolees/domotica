@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimentación mediante la batería recargable integrada o mediante el cableado del timbre que tengas instalado para lograr un suministro continuo.
-- Fácil instalación: conecta tu Ring Video Doorbell a la red wifi a través de la app Ring e instálalo en la pared con las herramientas incluidas.
-- Videotimbre con resolución HD 1080p que te permite ver, escuchar y hablar con cualquiera a través de tu smartphone, tablet o PC.
-- Una actualización del Ring Video Doorbell original, con detección de movimiento mejorada y visión nocturna nítida.
-- Las funcionalidades básicas, como las notificaciones instantáneas, el vídeo en directo y la comunicación bidireccional, están disponibles de manera gratuita en todos los dispositivos Ring nada más sacarlos de la caja. Añade el plan Ring Protect (la suscripción se vende por separado) para grabar, revisar y compartir los momentos que te has perdido (prueba de 30 días gratis incluida con la compra).
-- Este lote incluye un Ring Video Doorbell, y un Echo Show 5 (2.ª generación, modelo de 2021)
-- Vincúlalo con los dispositivos que tengan Alexa integrada y activa las notificaciones. Siempre sabrás cuando alguien llama al timbre o se detecta movimiento.
 - Recibe notificaciones en tiempo real cuando alguien llama al timbre o activa los sensores de movimiento.
+- Este lote incluye un Ring Video Doorbell, y un Echo Show 5 (2.ª generación, modelo de 2021)
+- Alimentación mediante la batería recargable integrada o mediante el cableado del timbre que tengas instalado para lograr un suministro continuo.
+- Vincúlalo con los dispositivos que tengan Alexa integrada y activa las notificaciones. Siempre sabrás cuando alguien llama al timbre o se detecta movimiento.
+- Las funcionalidades básicas, como las notificaciones instantáneas, el vídeo en directo y la comunicación bidireccional, están disponibles de manera gratuita en todos los dispositivos Ring nada más sacarlos de la caja. Añade el plan Ring Protect (la suscripción se vende por separado) para grabar, revisar y compartir los momentos que te has perdido (prueba de 30 días gratis incluida con la compra).
+- Videotimbre con resolución HD 1080p que te permite ver, escuchar y hablar con cualquiera a través de tu smartphone, tablet o PC.
+- Fácil instalación: conecta tu Ring Video Doorbell a la red wifi a través de la app Ring e instálalo en la pared con las herramientas incluidas.
+- Una actualización del Ring Video Doorbell original, con detección de movimiento mejorada y visión nocturna nítida.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
