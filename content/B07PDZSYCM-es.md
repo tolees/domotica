@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MÁS VENTAJAS: domótica para el hogar con Auto – Assist: si la casa está vacía o hay ventanas abiertas, el programador de calefacción wifi o AC apaga automáticamente la emisión.
 - CONTROL DIGITAL: si la casa está vacía o el sensor de puertas y ventanas detecta alguna abierta, la app tado° te envía una notificación push para que apagues el aire acondicionado.
-- VOLUMEN DE SUMINISTRO: 1x Termostato digital inteligente para domótica, conexión wifi, compatible con el Asistente de Google, Amazon Alexa y Siri, de tado°.
-- AHORRO ENERGÉTICO: reduce tu consumo energético y ahorra con las funciones inteligentes de tado° v3, que avisa de las ventanas abiertas evitando la pérdida de temperatura.
-- CONFORT AMBIENTAL: controla tu aire acondicionado o bomba de calor desde cualquier lugar con la app de tado° fácil y cómodamente y aclimata la casa antes de la llegada.
 - COMPATIBILIDAD: el termostato de calefacción wifi es compatible con mando infrarrojo con pantalla de funciones y funciona manualmente y con el Asistente de Google, Amazon Alexa y Home Kit de Apple para casas inteligentes.
+- MÁS VENTAJAS: domótica para el hogar con Auto – Assist: si la casa está vacía o hay ventanas abiertas, el programador de calefacción wifi o AC apaga automáticamente la emisión.
+- AHORRO ENERGÉTICO: reduce tu consumo energético y ahorra con las funciones inteligentes de tado° v3, que avisa de las ventanas abiertas evitando la pérdida de temperatura.
 - HOLGAR INTELIGENTE: disfruta siempre de la temperatura perfecta en cualquier habitación con la programación inteligente y mantén la temperatura gracias al termómetro digital en casa.
+- VOLUMEN DE SUMINISTRO: 1x Termostato digital inteligente para domótica, conexión wifi, compatible con el Asistente de Google, Amazon Alexa y Siri, de tado°.
+- CONFORT AMBIENTAL: controla tu aire acondicionado o bomba de calor desde cualquier lugar con la app de tado° fácil y cómodamente y aclimata la casa antes de la llegada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
