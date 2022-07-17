@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hisense 50A6EG  50 Pulgadas  2022 Series - Smart TV 4K UHD con Dolby Vision HDR  DTS Virtual X  Freeview Play  Alexa Built-in  Bluetooth  Nuevo 2022 '
-date: 2022-07-08 07:33:11
+date: 2022-07-17 07:31:18
 image: 'https://m.media-amazon.com/images/I/51Y43HA4KZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09VL79JF3-es Hisense 50A6EG 50 Pulgadas 2022 Series - Smart TV 4K UHD...'
 sku: 'B09VL79JF3-es'
 tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','alexa','hisense','🇪🇸', ]
-actualPrice: 349.98 EUR
+actualPrice: 299.0 EUR
 currency: EUR
-price: 349.98
+price: 299.0
 comparePrice: 429.0 EUR
 prodname: 'Hisense 50A6EG  50 Pulgadas  2022 Series - Smart TV 4K UHD con Dolby Vision HDR  DTS Virtual X  Freeview Play  Alexa Built-in  Bluetooth  Nuevo 2022 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Hisense'
 buyurl: 'https://www.amazon.es/dp/B09VL79JF3/?tag=tolees-21'
-descuento: '18.42'
-average: '324.583076923077'
+descuento: '30.30'
+average: '322.50375'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dolby Vision: inspirado por la tecnología del cine, la tecnología Dolby Vision HDR trae un brillo y contraste mejorados hasta 40 veces más brillantes y negros 10 veces más oscuros que una imagen convencional.
-- Modo Deportes: Cuando una señal de deportes es detectada, se cambia al Modo Deportes para una experiencia inmersiva tal y como sería en el estadio, desde la imagen hasta el sonido.
-- 4K UHD: 4 veces más resolución que las TV Full HD. Disfruta de tus programas favoritos, introdúcete dentro de las últimas películas o emociónate en cada momento de los mejores videojuegos.
-- VIDAA U5: Un sistema operativo sencillo, inteligente e intuitivo. Accede fáclmente a contenidos y aplicaciones (Youtube, Netflix, Amazon Prime Video, Movistar+, DAZN y muchas más), haciendo de tu televisor una opción mucho más interesante.
-- Alexa Built-in: haz aún más en tu TV con tu voz. Pídele a Alexa que reproduzca música, te relate las últimas noticias, te de el informe del tiempo, controle tus dispositivos Smart y más.
-- DRS Virtual X: Disfruta del audio envolvente sin necesidad de añadir altavoces extra, la percepción de los graves te meterá en el centro de la actuación.
-- Modo Deportes: Cuando una señal de deportes es detectada, se cambia al Modo Deportes para una experiencia inmersiva tal y como sería en el estadio, desde la imagen hasta el sonido.
+- VIDAA U5: Un sistema operativo sencillo, inteligente e intuitivo. Accede fácilmente a contenidos y aplicaciones (Youtube, Netflix, Amazon Prime Video, Movistar+, DAZN y muchas más), haciendo de tu televisor una opción mucho más interesante
+- Dolby Vision: inspirado por la tecnología del cine, la tecnología Dolby Vision HDR trae un brillo y contraste mejorados hasta 40 veces más brillantes y negros 10 veces más oscuros que una imagen convencional
+- DRS Virtual X: Disfruta del audio envolvente sin necesidad de añadir altavoces extra, la percepción de los graves te meterá en el centro de la actuación
+- Alexa Built-in: haz aún más en tu TV con tu voz. Pídele a Alexa que reproduzca música, te relate las últimas noticias, te de el informe del tiempo, controle tus dispositivos Smart y más
+- 4K UHD: 4 veces más resolución que las TV Full HD. Disfruta de tus programas favoritos, introdúcete dentro de las últimas películas o emociónate en cada momento de los mejores videojuegos
+- Modo Deportes: Cuando una señal de deportes es detectada, se cambia al Modo Deportes para una experiencia inmersiva tal y como sería en el estadio, desde la imagen hasta el sonido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
