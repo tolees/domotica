@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TAPO P100 - Mini Enchufe Inteligente Wi-Fi  óptimo para programar el encendido/apagado y ahorrar energía  no necesita HUB  compatible con Alexa y Google Home  Color Blanco'
-date: 2022-07-31 01:16:24
+date: 2022-08-01 02:02:21
 image: 'https://m.media-amazon.com/images/I/419fTbQWthL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07Z5JD3T4/?tag=tolees-21'
 descuento: '30.02'
-average: '10.3268928571427'
+average: '10.3274733096084'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
-- Programación: preestablezca una programación para administrar dispositivos automáticamente
-- Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
-- Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
 - Diseño compacto: tamaño pequeño para evitar el bloqueo de tomas adyacente; (solo para toma hembra tipo C (o tomas)
-- Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
+- Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
+- Programación: preestablezca una programación para administrar dispositivos automáticamente
 - Fácil configuración y uso: no se requiere concentrador, configúrelo rápidamente y adminístrelo fácilmente a través de la aplicación
+- Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
+- Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
