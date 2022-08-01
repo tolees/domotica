@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de usar - El Hub Mini es muy fácil de configurar en la aplicación SwitchBot. Con el modo «Aprendizaje inteligente», puede imitar tu mando a distancia en tan sólo 5 segundos. Es alimentado por USB y es además portátil, puedes llevarlo y colocarlo en todas partes. (*SwitchBot Hub Mini sólo admite conexión Wi-Fi de 2,4 GHz)
-- Ahorra energía y ahorra dinero - ¿Te preguntas si has apagado el aire acondicionado del dormitorio o no? Simplemente apágalo desde la aplicación SwitchBot o establece un «Escenario» específico, NUNCA te olvidarás de apagar los aparatos
-- Un dispositivo para todo - Empareja tu aire acondicionado, TV y otros aparatos controlables por infrarrojos con el Hub Mini. Todos los dispositivos en UNA sola aplicación móvil. Disfruta de la comodidad al alcance de tu mano
 - Tu «Mini» paso hacia una casa inteligente - Es la puerta de entrada del ecosistema SwitchBot. Conecta todos los dispositivos SwitchBot y electrodomésticos a Internet; habilita el servicio en la nube de tus dispositivos SwitchBot. ¡Empieza a construir tu propia casa inteligente con SwitchBot!
+- Un dispositivo para todo - Empareja tu aire acondicionado, TV y otros aparatos controlables por infrarrojos con el Hub Mini. Todos los dispositivos en UNA sola aplicación móvil. Disfruta de la comodidad al alcance de tu mano
 - Disfruta del control de voz - Funciona con Alexa, el Asistente de Google y Siri. Controla tus dispositivos SwitchBot y electrodomésticos, con un sencillo comando de voz
+- Ahorra energía y ahorra dinero - ¿Te preguntas si has apagado el aire acondicionado del dormitorio o no? Simplemente apágalo desde la aplicación SwitchBot o establece un «Escenario» específico, NUNCA te olvidarás de apagar los aparatos
+- Fácil de usar - El Hub Mini es muy fácil de configurar en la aplicación SwitchBot. Con el modo «Aprendizaje inteligente», puede imitar tu mando a distancia en tan sólo 5 segundos. Es alimentado por USB y es además portátil, puedes llevarlo y colocarlo en todas partes. (*SwitchBot Hub Mini sólo admite conexión Wi-Fi de 2,4 GHz)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
