@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Roborock Q7 MAX  S5 MAX  Negro '
-date: 2022-08-04 17:46:32
+date: 2022-08-06 08:31:15
 image: 'https://m.media-amazon.com/images/I/41Ne9URBglL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
