@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Control de voz: funciona con Alexa y Google Assistant para control de voz; simplemente dile a tu asistente de voz que atenúe sus luces y establece el ambiente adecuado para la noche de cine
-- Control remoto: no se requiere Hub y se conecta a la red Wi-Fi de tu hogar; puede controlar esta bombilla inteligente de forma remota en su Smartphone a través de la App Teather pudiendo encender, apagar o cambiar los colores incluso estando fuera de casa
+- Programación y temporizador: usa la aplicación Tapo para crear sus efectos de luz favoritos ajustando la intensidad de la luz a su gusto y creando un aspecto y atmósfera que se adapte a cada situación; también puede configurar múltiples horarios de acuerdo con sus necesidades que se pueden repetir diariamente o semanalmente
 - Ahorro t seguimiento del consumo energía: la bombilla inteligente utiliza tecnología LED 9W 806Lm equivalente a uno normal de 60W con base E27 y está certificada para reducir el consumo de energía sin perder calidad; además desde la APP puedes tener un control y seguimiento del consumo de energía
 - Luz regulable: ajusta la luz (Blanco Neutro 4000K) y brillo desde 1% a 100% desde tu móvil creando la atmósfera adecuada en tu casa cuando quieras y según tus necesidades
-- Programación y temporizador: usa la aplicación Tapo para crear sus efectos de luz favoritos ajustando la intensidad de la luz a su gusto y creando un aspecto y atmósfera que se adapte a cada situación; también puede configurar múltiples horarios de acuerdo con sus necesidades que se pueden repetir diariamente o semanalmente
+- Control remoto: no se requiere Hub y se conecta a la red Wi-Fi de tu hogar; puede controlar esta bombilla inteligente de forma remota en su Smartphone a través de la App Teather pudiendo encender, apagar o cambiar los colores incluso estando fuera de casa
+- Control de voz: funciona con Alexa y Google Assistant para control de voz; simplemente dile a tu asistente de voz que atenúe sus luces y establece el ambiente adecuado para la noche de cine
 
 [🛒 Visítala!!!]({{< param buyurl >}})
