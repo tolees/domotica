@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vida útil: hasta 15.000 h
 - Protocolo de red: ZigBee
-- Lámpara Classic Edison con función smart lighting
+- Vida útil: hasta 15.000 h
 - Regulable a través de sistemas de smart home compatibles (gateway y app) o SMART+ Switch
+- Lámpara Classic Edison con función smart lighting
 - Regulable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
