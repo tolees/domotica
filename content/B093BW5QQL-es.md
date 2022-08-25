@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG SP9YA Barra de Sonido Inteligente de 520W de potencia 5.1.2 canales con calidad de Sonido Hi-Res Audio  Dolby Atmos y DTS:X. Compatible con AirPlay 2  Spotify  Alexa  Chromecast. El Sonido Absoluto'
-date: 2022-08-20 20:26:37
+date: 2022-08-25 14:49:44
 image: 'https://m.media-amazon.com/images/I/213Y8tHO8PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B093BW5QQL/?tag=tolees-21'
 descuento: '44.38'
-average: '538.243636363636'
+average: '535.055833333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sonido de alta resolución Hi-Res Audio 24bit/192kHz
-- Amplia conectividad con HDMI eARC, Bluetooth 5.0, USB
 - Meridian Sound Music
+- Sonido de alta resolución Hi-Res Audio 24bit/192kHz
 - Sonido Envolvente con Dolby Atmos y dts:X
 - Potencia Total: 520W 5,1,2 canales
+- Amplia conectividad con HDMI eARC, Bluetooth 5.0, USB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

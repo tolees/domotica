@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TAPO C200 - Cámara IP WiFi 360°  Cámara de Vigilancia FHD 1080p  Visión nocturna  Admite tarjeta SD  Audio Doble Vía  Detección de movimiento  Control Remoto  Compatible con Alexa  Multicolor'
-date: 2022-08-23 17:28:00
+date: 2022-08-25 16:00:41
 image: 'https://m.media-amazon.com/images/I/41SoUI3Aw8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07XLML2YS/?tag=tolees-21'
 descuento: '25.01'
-average: '27.2796168582378'
+average: '27.2847992351819'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ALARMA DE SONIDO Y LUZ - ¿Invitado inesperado? activa los efectos de luz y sonido para ahuyentar
+- CALIDAD VIDEO FHD 1080P - Visión nocturna de hasta 8 metros, resolución de 1080P, con imágenes nítidas y claras
 - FÁCIL INSTALACIÓN - Vea el video de desempaquetado y configuración en esta página, descubrirá lo fácil que es configurarlo
+- ADMITE GRABACIÓN EN BUCLE: Admite tarjetas Micro SD de hasta 128 Gb o en la nube con el software Ispy
+- TAPO CARE - Opción a suscripción de grabación de video en la nube. Se trata de una prueba "gratuita de 30 días" de almacenamiento en la nube, después de eso, se requerirá un pago adicional si desea mantener este servicio
+- INTERFAZ DE OPERACIÓN SIMPLE -Con la App TAPO para Android/IOS puedes configurar fácilmente el calendario, verificar videos anteriores, verificar múltiples vistas al mismo tiempo y dar acceso a otros usuarios
 - AUDIO BIDIRECCIONAL - Comunícate con los demás  al micrófono y altavoces incorporados
+- ALARMA DE SONIDO Y LUZ - ¿Invitado inesperado? activa los efectos de luz y sonido para ahuyentar
 - GRAN ANGULAR DE VISIÓN - Movimiento horizontal hasta 360 ° y movimiento vertical hasta 114 °
 - DETECCIÓN Y MOVIMIENTO - Reciba notificaciones al instante de la aplicación cuando se intercepta un movimiento; TP-link proporciona una función avanzada para configurar el tiempo de grabación específico
-- TAPO CARE - Opción a suscripción de grabación de video en la nube. Se trata de una prueba "gratuita de 30 días" de almacenamiento en la nube, después de eso, se requerirá un pago adicional si desea mantener este servicio
-- ADMITE GRABACIÓN EN BUCLE: Admite tarjetas Micro SD de hasta 128 Gb o en la nube con el software Ispy
-- CALIDAD VIDEO FHD 1080P - Visión nocturna de hasta 8 metros, resolución de 1080P, con imágenes nítidas y claras
-- INTERFAZ DE OPERACIÓN SIMPLE -Con la App TAPO para Android/IOS puedes configurar fácilmente el calendario, verificar videos anteriores, verificar múltiples vistas al mismo tiempo y dar acceso a otros usuarios
 
 [🛒 Visítala!!!]({{< param buyurl >}})
