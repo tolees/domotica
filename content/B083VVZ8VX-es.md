@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El Fire TV Cube está diseñado para proteger tu privacidad. Dispone de un botón específico para desconectar electrónicamente los micrófonos.
 - Controla barras de sonido y receptores AV compatibles y cambia la señal de entrada con la voz.
 - Desde cualquier lugar de la estancia, solo tienes que pedirle a Alexa que encienda el televisor, atenúe las luces compatibles y ponga lo que quieres ver.
 - Gracias a su procesador ultrarrápido Hexa-Core, el Fire TV Cube ofrece acceso a contenido Ultra HD 4K y además es compatible con Dolby Vision, HDR y HDR10+. Dolby Atmos solo está disponible en determinados títulos de Prime Video y Netflix.
-- El Fire TV Cube es el Fire TV más rápido y potente hasta la fecha, con un rendimiento veloz y fluido para que disfrutes de tus películas y series favoritas.
 - Disfruta de tu contenido favorito en Prime Video, Netflix, YouTube, DAZN, Atresplayer, RTVE A la carta, Movistar+ y otros servicios (es posible que se requieran suscripciones separadas).
-- El Fire TV Cube está diseñado para proteger tu privacidad. Dispone de un botón específico para desconectar electrónicamente los micrófonos.
+- El Fire TV Cube es el Fire TV más rápido y potente hasta la fecha, con un rendimiento veloz y fluido para que disfrutes de tus películas y series favoritas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
