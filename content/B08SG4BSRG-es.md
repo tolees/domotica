@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Compatible con Alexa: accede al vídeo en directo, el audio bidireccional, las notificaciones de movimiento y del timbre, arma y desarma el timbre y mucho más.
-- El pack incluye un Blink Video Doorbell, un Sync Module 2 y un kit de montaje (incluye accesorio para montaje en esquina, tornillos y tacos).
+- Puedes guardar y compartir grabaciones en la nube con el plan de suscripción de Blink o localmente con el Sync Module 2 incluido y la unidad USB (vendida por separado). Prueba válida hasta enero 2023. Recibirás una notificación al menos 30 días antes de que caduque la prueba gratuita con información sobre cómo suscribirte.
 - Responde siempre a la puerta desde tu móvil estés donde estés, con vídeo HD 1080p durante el día, vídeo por infrarrojos por la noche y audio bidireccional.
 - Se puede configurar en cuestión de minutos con las dos pilas AA incluidas y luego conectar al wifi desde la app. El nuevo sello interior se ha diseñado para garantizar una resistencia a la intemperie con un grado de protección IP54.
-- Puedes guardar y compartir grabaciones en la nube con el plan de suscripción de Blink o localmente con el Sync Module 2 incluido y la unidad USB (vendida por separado). Prueba válida hasta enero 2023. Recibirás una notificación al menos 30 días antes de que caduque la prueba gratuita con información sobre cómo suscribirte.
-- Hasta dos años de autonomía, notificaciones personalizadas, ajustes de privacidad y más.
+- El pack incluye un Blink Video Doorbell, un Sync Module 2 y un kit de montaje (incluye accesorio para montaje en esquina, tornillos y tacos).
 - Diseñado para adaptarse a cualquier hogar: puedes elegir entre la opción sin cables o conectarlo al cableado de tu timbre para que también suene el timbre de casa. Sin cableado, puedes usar la cámara Blink Mini (vendida por separado) como un timbre para interior conectado a un adaptador de corriente.
+- Hasta dos años de autonomía, notificaciones personalizadas, ajustes de privacidad y más.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
