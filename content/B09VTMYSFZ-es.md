@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Reconocimiento de peligros mejorado
+- Base de carga que vacía
+- Sistema de fregado VibraRise
 - Evitacion de obstaculos ReactiveAI 2.0
 - Potencia de succion de 5100 Pa
-- Base de carga que vacía
-- Reconocimiento de peligros mejorado
-- Sistema de fregado VibraRise
 
 [🛒 Comprar!!!]({{< param buyurl >}})
