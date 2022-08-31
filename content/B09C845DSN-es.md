@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lámpara inteligente WiZ Apoyado en foco A todo color Metal/NEGRO Wi-Fi + Bluetooth
 - Utiliza los tres focos ajustables y la luz inteligente a todo color para poner una nota decorativa en cualquier habitación con el spotlight inteligente WiZ Imageo en negro
 - WiZ funciona con tu router Wi-Fi, por lo que no necesitas ninguna conexión adicional; Simplemente enchufa la luz, descarga la aplicación WiZ y listo
-- Lámpara inteligente WiZ Apoyado en foco A todo color Metal/NEGRO Wi-Fi + Bluetooth
 - Controla las luces WiZ desde el lugar en el que te encuentres con tu smartphone; No tienes que preocuparte de si te dejas las luces encendidas antes de salir de casa, la aplicación WiZ está disponible para dispositivos iOS y Android
 - Consigue un control manos libres de tus luces y utiliza la voz y el Asistente de Google, Amazon Alexa o los atajos de Siri; Usa comandos de voz simples para encender o apagar las luces, intensificar o regular su brillo, cambiar de color y configurar escenas de iluminación personalizadas
 
