@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SONOFF Zigbee Sensor Inalámbrico de Ventana/Puerta ZigBee SNZB-04 2PCS  Funciona como Alarma antirrobo para el hogar  Funciona con Alexa/Google Home  SONOFF ZBBridge Requerido  Incluye baterías'
-date: 2022-08-29 11:52:36
+date: 2022-09-01 14:24:42
 image: 'https://m.media-amazon.com/images/I/21C7abeyhFS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✔ Comparta el sensor con su familia para darles la capacidad de controlar y monitorear rápidamente su hogar juntos. Tiene capacidad de almacenar 3 meses de registros en el historial.
-- ✔ Se requiere el SONOFF ZBBridge para su funcionamiento. Crea una escena inteligente con diferentes dispositivos ZigBee y WiF, Este sensor te permite crear un espacio inteligente. Funciona con el SONOFF ZBBridge, Crea una escena inteligente para iluminar el pasillo inmediatamente cuando se abre la puerta.
-- ✔ Instalación y configuración simple, El adhesivo 3M (incluido) ahorra significativamente el tiempo de instalación. Pegue en su ventana o puerta y listo para utilizar.
-- ✔ La función de cámara se puede habilitar desde la aplicación de eWeLink, Permite ver claramente quién ingresa al hogar; incluso puede usar la función de audio bidireccional para comunicarse con dicha persona.
 - ✔El sensor inalámbrico SONOFF se puede colocar en puertas o ventanas para informarle si están abiertas o cerradas por medio de una notificación. El sensor se sincroniza con la aplicación y esto permite revisar el estado de su ventana/puerta para saber si está abierta/cerrada.
+- ✔ Instalación y configuración simple, El adhesivo 3M (incluido) ahorra significativamente el tiempo de instalación. Pegue en su ventana o puerta y listo para utilizar.
+- ✔ Se requiere el SONOFF ZBBridge para su funcionamiento. Crea una escena inteligente con diferentes dispositivos ZigBee y WiF, Este sensor te permite crear un espacio inteligente. Funciona con el SONOFF ZBBridge, Crea una escena inteligente para iluminar el pasillo inmediatamente cuando se abre la puerta.
+- ✔ La función de cámara se puede habilitar desde la aplicación de eWeLink, Permite ver claramente quién ingresa al hogar; incluso puede usar la función de audio bidireccional para comunicarse con dicha persona.
+- ✔ Comparta el sensor con su familia para darles la capacidad de controlar y monitorear rápidamente su hogar juntos. Tiene capacidad de almacenar 3 meses de registros en el historial.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
