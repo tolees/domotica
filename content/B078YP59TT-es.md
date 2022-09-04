@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatibilidad: el Echo Auto no es compatible con todos los vehículos y teléfonos. Consulta la sección de compatibilidad a continuación.
-- Solo tienes que pedirlo: usa la voz para poner música, enterarte de las noticias, realizar llamadas, añadir elementos a la lista de tareas, crear recordatorios y más.
-- El Echo Auto también está diseñado para proteger tu privacidad: puedes pulsar el botón "Activar/Desactivar micrófonos" para desconectar electrónicamente los micrófonos.
-- Mucho más que una radio para el coche: controla el Echo Auto con la voz a través de la app Alexa para escuchar contenido en streaming con Amazon Music, Apple Music, Spotify y Deezer, o emisoras de radio de cualquier parte del mundo con TuneIn.
-- Pon Alexa en tu coche: el Echo Auto se conecta a la app Alexa de tu teléfono y suena en los altavoces de tu coche a través de la entrada de audio auxiliar o la conexión Bluetooth del teléfono. Soporte para la rejilla de ventilación incluido en la caja.
-- Concebido para la carretera: con 8 micrófonos y tecnología de largo alcance, el Echo Auto puede oírte incluso con música y con el ruido del aire acondicionado o de la carretera.
 - El modo Auto complementa el Echo Auto con funcionalidades específicas en la app Alexa.
+- Mucho más que una radio para el coche: controla el Echo Auto con la voz a través de la app Alexa para escuchar contenido en streaming con Amazon Music, Apple Music, Spotify y Deezer, o emisoras de radio de cualquier parte del mundo con TuneIn.
+- Concebido para la carretera: con 8 micrófonos y tecnología de largo alcance, el Echo Auto puede oírte incluso con música y con el ruido del aire acondicionado o de la carretera.
+- Compatibilidad: el Echo Auto no es compatible con todos los vehículos y teléfonos. Consulta la sección de compatibilidad a continuación.
+- El Echo Auto también está diseñado para proteger tu privacidad: puedes pulsar el botón "Activar/Desactivar micrófonos" para desconectar electrónicamente los micrófonos.
+- Solo tienes que pedirlo: usa la voz para poner música, enterarte de las noticias, realizar llamadas, añadir elementos a la lista de tareas, crear recordatorios y más.
+- Pon Alexa en tu coche: el Echo Auto se conecta a la app Alexa de tu teléfono y suena en los altavoces de tu coche a través de la entrada de audio auxiliar o la conexión Bluetooth del teléfono. Soporte para la rejilla de ventilación incluido en la caja.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
