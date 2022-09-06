@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Seguridad reforzada mediante encriptación de red WiFi WPA3, que es el nuevo protocolo de encriptación para redes inalámbricas, y con control parental
 - Wi-Fi 6 es el nuevo estándar que aumenta velocidad, rendimiento y cobertura de tu red WiFi, experimentado una velocidad y respuesta aún mayor comparado a los sistemas anteriores
+- 1 puerto WAN Gigabit y 4 de red LAN y Gigabit (1000 Mbps), para sacar el máximo partido a las conexiones por cable de red Ethernet RJ-45
 - Doble banda con velocidad combinada de 5400 Mbps y tecnología MU-MIMO para envio simultáneo a múltiples dispositivos conectados
 - Además de una experiencia de uso muy superior, WiFi-6 también aumenta la cobertura y la calidad cuando se conectan muchos usuarios al mismo tiempo
-- 1 puerto WAN Gigabit y 4 de red LAN y Gigabit (1000 Mbps), para sacar el máximo partido a las conexiones por cable de red Ethernet RJ-45
 
 [🛒 Aquí!!!]({{< param buyurl >}})
