@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DETECCIÓN Y MOVIMIENTO - Reciba notificaciones al instante de la aplicación cuando se intercepta un movimiento; TP-link proporciona una función avanzada para configurar el tiempo de grabación específico
-- GRAN ANGULAR DE VISIÓN - Movimiento horizontal hasta 360 ° y movimiento vertical hasta 114 °
-- CALIDAD VIDEO FHD 1080P - Visión nocturna de hasta 8 metros, resolución de 1080P, con imágenes nítidas y claras
 - INTERFAZ DE OPERACIÓN SIMPLE -Con la App TAPO para Android/IOS puedes configurar fácilmente el calendario, verificar videos anteriores, verificar múltiples vistas al mismo tiempo y dar acceso a otros usuarios
-- ADMITE GRABACIÓN EN BUCLE: Admite tarjetas Micro SD de hasta 128 Gb o en la nube con el software Ispy
-- AUDIO BIDIRECCIONAL - Comunícate con los demás  al micrófono y altavoces incorporados
-- TAPO CARE - Opción a suscripción de grabación de video en la nube. Se trata de una prueba "gratuita de 30 días" de almacenamiento en la nube, después de eso, se requerirá un pago adicional si desea mantener este servicio
-- FÁCIL INSTALACIÓN - Vea el video de desempaquetado y configuración en esta página, descubrirá lo fácil que es configurarlo
 - ALARMA DE SONIDO Y LUZ - ¿Invitado inesperado? activa los efectos de luz y sonido para ahuyentar
+- DETECCIÓN Y MOVIMIENTO - Reciba notificaciones al instante de la aplicación cuando se intercepta un movimiento; TP-link proporciona una función avanzada para configurar el tiempo de grabación específico
+- TAPO CARE - Opción a suscripción de grabación de video en la nube. Se trata de una prueba "gratuita de 30 días" de almacenamiento en la nube, después de eso, se requerirá un pago adicional si desea mantener este servicio
+- AUDIO BIDIRECCIONAL - Comunícate con los demás  al micrófono y altavoces incorporados
+- GRAN ANGULAR DE VISIÓN - Movimiento horizontal hasta 360 ° y movimiento vertical hasta 114 °
+- FÁCIL INSTALACIÓN - Vea el video de desempaquetado y configuración en esta página, descubrirá lo fácil que es configurarlo
+- ADMITE GRABACIÓN EN BUCLE: Admite tarjetas Micro SD de hasta 128 Gb o en la nube con el software Ispy
+- CALIDAD VIDEO FHD 1080P - Visión nocturna de hasta 8 metros, resolución de 1080P, con imágenes nítidas y claras
 
 [🛒 Visítala!!!]({{< param buyurl >}})
