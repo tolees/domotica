@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con Alexa y Google
 - Fuente de alimentación: alimentación eléctrica con cable
+- Compatible con Alexa y Google
 - Dolby Audio
-- HDR10 HLG, colores y contraste sobresalientes
-- Tipo de conectividad: rf
 - Maxima resolucion en formato medio 1920x10800 pixeles
+- Tipo de conectividad: rf
+- HDR10 HLG, colores y contraste sobresalientes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
