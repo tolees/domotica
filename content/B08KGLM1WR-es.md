@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El producto tiene la fuente de luz extraíble; estos productos pueden desmontarte para revisar de forma separada la fuente de luz contenida
-- Regulable rgb; hasta 16 millones de colores
-- Controlable a través de la aplicación Ledvance SMART+, con android 6.0 y posterior
-- Tecnología LED más novedosa y sostenible, no incluye bombilla normal
 - Carcasa de acero inoxidable
+- Regulable rgb; hasta 16 millones de colores
+- Tecnología LED más novedosa y sostenible, no incluye bombilla normal
+- Controlable a través de la aplicación Ledvance SMART+, con android 6.0 y posterior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
