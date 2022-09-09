@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'aosu cámara vigilancia WiFi Interior 2K con Detección de Humano  Visión Nocturna 360° con Sirena  Audio Bidireccional  Modo de Privacidad  Compatible con Alexa 5/2.4 GHz Wi-Fi  1 Paquete '
-date: 2022-09-07 22:50:41
+date: 2022-09-08 23:23:52
 image: 'https://m.media-amazon.com/images/I/41e8kT5mw0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'AOSU'
 buyurl: 'https://www.amazon.es/dp/B0B5QXM2BY/?tag=tolees-21'
 descuento: '15.19'
-average: '29.9200000000001'
+average: '29.7583333333334'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
