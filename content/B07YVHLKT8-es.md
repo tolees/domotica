@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Unidad de CD (CD-R/RW y texto de CD); puerto USB de velocidad completa (AAC/MP3/WMA/WAV/FLAC); control de iPod; función de carga de 1,5 A para smartphones; excelente recepción de radio gracias al sintonizador RDS con procesamiento digital; memoria para 6 estaciones (18 FM y 6 MW)
 - 13 bandas paramétricas iEQ para un sonido óptimo; DSP con corrección de tiempo de funcionamiento; ajuste manual de brillo (pantalla/botones); aplicación JVC Remote para control amplio a través de smartphones compatibles
 - Alexa incorporado; función de manos libres BT y reproducción de audio BT con control avanzado AVRCP 1.6 para todos los smartphones; 2 teléfonos conectables al mismo tiempo; menú alemán ajustable
+- Unidad de CD (CD-R/RW y texto de CD); puerto USB de velocidad completa (AAC/MP3/WMA/WAV/FLAC); control de iPod; función de carga de 1,5 A para smartphones; excelente recepción de radio gracias al sintonizador RDS con procesamiento digital; memoria para 6 estaciones (18 FM y 6 MW)
 - Amplificador MOS-FET de 4 x 50 W para un sonido potente, 3 vías de suavidad, 1 presalida de 2,5 V (rear/subwoofer conmutable), panel de control desmontable, pantalla LC VA de 13 dígitos con buena legibilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
