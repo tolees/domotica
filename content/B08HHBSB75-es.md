@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sencilla conexión Plug & Play
 - Descarga la App WiZ o usa el control de voz, para reducir y aumentar el brillo o para usar los modos de luz predefinidos
-- Usa tonos de luz coloridos en tus espacios interiores con la bombilla inteligente WiZ
 - Automatiza las luces con programas
+- Usa tonos de luz coloridos en tus espacios interiores con la bombilla inteligente WiZ
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
