@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wiz - Bombilla Inteligente  Led GU10  50 W  Wi-Fi Bluetooth  Luz Blanca y Colores  Compatible con Alexa y Google Home'
-date: 2022-09-17 19:49:41
+date: 2022-09-18 19:51:38
 image: 'https://m.media-amazon.com/images/I/31+oC8-guCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Automatiza las luces con programas
-- Usa tonos de luz coloridos en tus espacios interiores con la bombilla inteligente WiZ
-- Sencilla conexión Plug & Play
 - Descarga la App WiZ o usa el control de voz, para reducir y aumentar el brillo o para usar los modos de luz predefinidos
+- Usa tonos de luz coloridos en tus espacios interiores con la bombilla inteligente WiZ
+- Automatiza las luces con programas
+- Sencilla conexión Plug & Play
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
