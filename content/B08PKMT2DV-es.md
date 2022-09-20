@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene la particularidad de que también es un interruptor que puedes acoplar en cualquier pared de la casa
-- También podrás programar desde la App de Philips Hue hasta 4 escenas con tus ambientes favoritos
-- Compatible con los asistentes de voz de Amazon Alexa, Google Home y Apple HomeKit
 - El mando a distancia Philips Hue te permite regular la intensidad de luz en tu casa desde cualquier lugar
+- También podrás programar desde la App de Philips Hue hasta 4 escenas con tus ambientes favoritos
+- Tiene la particularidad de que también es un interruptor que puedes acoplar en cualquier pared de la casa
+- Compatible con los asistentes de voz de Amazon Alexa, Google Home y Apple HomeKit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
