@@ -29,14 +29,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Input: AC100-120V 60Hz ; ACC220-240V 50Hz
-- Filtro de 3 capas: Prefiltro + HEPA + Carbón activado
 - TUYA WIFI Inteligente
+- Área: 11m2
 - CADR: 90m/h
-- Temporizador: 2h, 4h, 8h
 - Compatible con ECHO y ALEXA
 - Modos: Sueño, Medio, Alto
+- Filtro de 3 capas: Prefiltro + HEPA + Carbón activado
 - Control táctil y mediante APP "InnJoo Life"
-- Área: 11m2
+- Temporizador: 2h, 4h, 8h
 - Potencia: 35W
 
 [🛒 Aquí!!!]({{< param buyurl >}})
