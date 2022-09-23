@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'meross - Enchufe Inteligente  Wi-Fi Smart Plug  16A 3680W  Mide el Consumo  con Control Remoto. Compatible con Alexa  Google Assistant y SmartThings. Modelo MSS310  Paquete de 4  Gris'
-date: 2022-09-21 15:49:24
+date: 2022-09-23 19:45:16
 image: 'https://m.media-amazon.com/images/I/41+ObQxBxjS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'meross'
 buyurl: 'https://www.amazon.es/dp/B092Q4BVBV/?tag=tolees-21'
 descuento: '31.95'
-average: '47.6716666666666'
+average: '46.7784615384615'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control remoto: Use la aplicación para controlar su hogar desde cualquier lugar con una tableta o teléfono inteligente, y puede controlar tantos enchufes inteligentes como necesite.
 - Monitoreo de Consumo: Datos de consumo de electricidad registrados automáticamente al funcionar este enchufe inteligente alexa debido que la aplicación Meross que registrar los datos del enchufe wifi y puede leer las lecturas del consumo.
-- Fácil de usar e instalar: Todo lo que necesita hacer es configurar su enchufe inteligente con red Wi-Fi 2.4GHz, No 5GHz, conectar y registrar los dispositivos. Puede usar un teléfono inteligente para controlar múltiples dispositivos.
-- Programación & Temporizador: Puede configurar la hora de encendido o apagado en Meross APP según sus necesidades, de modo que pueda encenderla y apagarla automáticamente cuando se vaya o regrese. Se admiten los ajustes de salida y puesta del sol.
+- Control remoto: Use la aplicación para controlar su hogar desde cualquier lugar con una tableta o teléfono inteligente, y puede controlar tantos enchufes inteligentes como necesite.
 - Control por Voz: A travès del control por voz, el enchufe inteligente le permite controlar por voz sus luces, ventiladores, cafeteras y más. El enchufes inteligentes es compatible con Alexa , Google Assistant y Meross App.
+- Programación & Temporizador: Puede configurar la hora de encendido o apagado en Meross APP según sus necesidades, de modo que pueda encenderla y apagarla automáticamente cuando se vaya o regrese. Se admiten los ajustes de salida y puesta del sol.
+- Fácil de usar e instalar: Todo lo que necesita hacer es configurar su enchufe inteligente con red Wi-Fi 2.4GHz, No 5GHz, conectar y registrar los dispositivos. Puede usar un teléfono inteligente para controlar múltiples dispositivos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
