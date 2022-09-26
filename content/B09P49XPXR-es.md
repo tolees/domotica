@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Habla, ve y escucha a personas y mascotas desde tu teléfono, tablet o determinados dispositivos Echo a través de la Stick Up Cam Battery, una cámara con batería que puede montarse en cualquier lugar, tanto fuera como dentro de casa.
-- Recibe notificaciones cuando se detecte movimiento ajustando la configuración de detección de movimiento.
-- Gestiona tu hogar digital: ve lo que pasa cuando no estás gracias a la cámara integrada. Controla dispositivos compatibles, como cámaras, luces y más, a través de la pantalla interactiva o tu voz.
 - Visualiza tu día con claridad, Alexa está lista para ayudarte: usa la voz para poner alarmas y temporizadores, ver tu calendario o las noticias, hacer videollamadas con la cámara de 2 MP y reproducir música y series en streaming.
-- Con el vídeo en directo, puedes ver tu casa en cualquier momento a través de la app Ring.
+- Recibe notificaciones cuando se detecte movimiento ajustando la configuración de detección de movimiento.
+- Habla, ve y escucha a personas y mascotas desde tu teléfono, tablet o determinados dispositivos Echo a través de la Stick Up Cam Battery, una cámara con batería que puede montarse en cualquier lugar, tanto fuera como dentro de casa.
 - Pon Alexa en tu mesita de noche: empieza tu día con buen pie con una rutina que encienda las luces compatibles. Despiértate con las noticias, el pronóstico del tiempo o tu música favorita.
+- Con el vídeo en directo, puedes ver tu casa en cualquier momento a través de la app Ring.
+- Gestiona tu hogar digital: ve lo que pasa cuando no estás gracias a la cámara integrada. Controla dispositivos compatibles, como cámaras, luces y más, a través de la pantalla interactiva o tu voz.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
