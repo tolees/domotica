@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PERSONALIZACION DE HORARIO --- configura el horario de la bombilla con la función de temporizador, ¡deja la luz despertarte
-- COMPARTIR ENTRE FAMILIARES --- compartir entre la familia el acceso al control mediante la aplicación, ¡vivir una vida inteligente con toda la familia! Si tiene alguna pregunta, comuníquese con nosotros a través de la dirección de correo electrónico que figura en el manual.
 - MODOS DE ESCENA --- ofrece 8 escenas con diferentes colores y intensidad, correspondiente a como por ejemplo dormir, leer o hacer fiesta
-- CONTROL REMOTO --- Controla a larga distancia su bombilla mediante aplicación “Maxcio” en cualquier momento y lugar para evitar malgasto de energía.Más brillante que 7w
+- COMPARTIR ENTRE FAMILIARES --- compartir entre la familia el acceso al control mediante la aplicación, ¡vivir una vida inteligente con toda la familia! Si tiene alguna pregunta, comuníquese con nosotros a través de la dirección de correo electrónico que figura en el manual.
 - MULTICOLOR CON LUZ REGULABLE --- ofrecer 16 millones de color, con intensidad y tono de color regulable, satisface cualquier de su gusto
+- CONTROL REMOTO --- Controla a larga distancia su bombilla mediante aplicación “Maxcio” en cualquier momento y lugar para evitar malgasto de energía.Más brillante que 7w
+- PERSONALIZACION DE HORARIO --- configura el horario de la bombilla con la función de temporizador, ¡deja la luz despertarte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
