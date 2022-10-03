@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Hue - Barra de luz  Hue Play  Luz blanca y colores  Compatible con Alexa y Google Home  Negro - Extensión'
-date: 2022-09-26 08:15:56
+date: 2022-10-02 22:35:15
 image: 'https://m.media-amazon.com/images/I/41LWsFFp62L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips Hue'
 buyurl: 'https://www.amazon.es/dp/B07FYDGD73/?tag=tolees-21'
 descuento: '16.77'
-average: '48.25'
+average: '47.975'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Control total con el puente Hue
-- Amplía la configuración de barras de luces Play con el pack de extensión Hue Play en negro, que contiene una extensión de una sola barra de luces. No incluye fuente de alimentación.
 - Control por voz: Philips Hue funciona con Amazon Alexa y el Asistente de Google en combinación con un dispositivo Google Nest o Amazon Echo compatible. Con comandos de voz simples se pueden controlar varias luces en una habitación o solo una lámpara.
-- Control absoluto desde dispositivos inteligentes con Hue bridge
+- Amplía la configuración de barras de luces Play con el pack de extensión Hue Play en negro, que contiene una extensión de una sola barra de luces. No incluye fuente de alimentación.
 - Conecta las luces Philips Hue con el puente para desbloquear las infinitas posibilidades del sistema.
+- Control absoluto desde dispositivos inteligentes con Hue bridge
+- Control total con el puente Hue
 
 [🛒 Aquí!!!]({{< param buyurl >}})
