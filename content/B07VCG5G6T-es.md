@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Compatible con Siri: gracias a la integración en la aplicación Apple Home, puede controlar sus productos SMART + Bluetooth mediante comandos de voz
+- Posibilidad de integración simple en Alexa a través de la voz: acerque el producto Bluetooth al altavoz, enciéndalo e intégrelo con el comando "Buscar mis dispositivos" (nota: es posible que deba realizar una actualización de firmware a través de la aplicación LEDVANCE SMART + Bluetooth)
 - Integración directa en los asistentes de voz Google Assistant y Alexa: controle los productos inteligentes LEDVANCE SMART + Bluetooth simplemente mediante un comando de voz
 - Alta capacidad de conmutación: hasta 3680 W / 16 A versión EU
-- Compatible con Siri: gracias a la integración en la aplicación Apple Home, puede controlar sus productos SMART + Bluetooth mediante comandos de voz
 - El enchufe inteligente: además de las luces, también puede integrar todos los demás dispositivos eléctricos en su hogar inteligente
-- Posibilidad de integración simple en Alexa a través de la voz: acerque el producto Bluetooth al altavoz, enciéndalo e intégrelo con el comando "Buscar mis dispositivos" (nota: es posible que deba realizar una actualización de firmware a través de la aplicación LEDVANCE SMART + Bluetooth)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
