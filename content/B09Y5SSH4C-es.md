@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ANTELA WiFi 1080P Cámara IP Cámara de vigilancia Interior 355°/90° Rotación PTZ 2.4GHz/5GHz WiFi  Audio bidireccional  Visión Nocturna IR  Detección de Movimiento  Compatible con Alexa  C23-2pcs '
-date: 2022-10-18 15:53:06
+date: 2022-10-20 10:50:44
 image: 'https://m.media-amazon.com/images/I/41gbDZ1aCWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 【1080P FHD y visión nocturna】La imagen de la cámara de vigilancia es clara y lisa y se puede controlar en la aplicación YI IOT. La cámara puede proporcionar una distancia de visión nocturna de 9 m. La cámara funciona con frecuencia dual WIFI de 2,4 GHz/5 GHz
 - 【Almacenamiento seguro】Puede almacenar datos de imagen en una tarjeta SD o almacenamiento en la nube de hasta 128 GB. Con la avanzada tecnología de cifrado protegerá todos los datos almacenados y solo podrán ser vistos por usted.
 - 【Audio bidireccional】Equipado con un micrófono incorporado y un altavoz que le permite hablar y escuchar a su bebé. Trabaja con Alexa y Google Assistant.
-- 【Detección de movimiento】Una notificación push con video se envía a su teléfono inteligente y a su aplicación, todas las advertencias se graban según la fecha.
-- 【1080P FHD y visión nocturna】La imagen de la cámara de vigilancia es clara y lisa y se puede controlar en la aplicación YI IOT. La cámara puede proporcionar una distancia de visión nocturna de 9 m. La cámara funciona con frecuencia dual WIFI de 2,4 GHz/5 GHz
 - 【Cubierta de 360° y seguimiento inteligente】La cámara de vigilancia cuenta con una función de pista inteligente que se puede ajustar automáticamente al monitorear un estado anormal. Cubra cada ángulo con una rotación horizontal de 355 ° y 90 °.
+- 【Detección de movimiento】Una notificación push con video se envía a su teléfono inteligente y a su aplicación, todas las advertencias se graban según la fecha.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
