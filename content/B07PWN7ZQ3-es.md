@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto para uso interior
-- Material duredero
 - Producto de calidad
 - Fácil de usar
+- Material duredero
+- Producto para uso interior
 
 [🛒 Aquí!!!]({{< param buyurl >}})
