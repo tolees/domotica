@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material duredero
+- Fácil de usar
 - Producto para uso interior
 - Producto de calidad
-- Fácil de usar
-- Material duredero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
