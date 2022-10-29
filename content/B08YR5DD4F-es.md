@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEDVANCE Enchufe inteligente para exterior con tecnología WiFi en un diseño compacto  para integrar dispositivos convencionales en el hogar inteligente  controlable con Alexa & Google  paquete de 4'
-date: 2022-10-28 11:51:19
+date: 2022-10-29 13:33:13
 image: 'https://m.media-amazon.com/images/I/41q0TyYmyZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEDVANCE'
 buyurl: 'https://www.amazon.es/dp/B08YR5DD4F/?tag=tolees-21'
 descuento: '24.99'
-average: '61.2414285714285'
+average: '61.0862499999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Controlable con la App LEDVANCE SMART+ WiFi (con Android 4.4, iOS 9.0 o superior)
-- Controlable con la App LEDVANCE SMART+ WiFi Control Remoto
 - Protocolo de red: WiFi
 - Controlable a través del control de voz disponible: Google Assistant o Amazon Alexa
+- Controlable con la App LEDVANCE SMART+ WiFi Control Remoto
+- Controlable con la App LEDVANCE SMART+ WiFi (con Android 4.4, iOS 9.0 o superior)
 - Alto poder de encendido: hasta 3,680 W / 16 A
 
 [🛒 Comprar!!!]({{< param buyurl >}})
