@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sonoff Enchufe Inteligente Wi-Fi S26R2  Controlo Remoto e Programação HoráRia AtravéS da Aplicação eWelink  Compatível com Alexa e Google Home  Certificado CE  4000 W  16 A '
-date: 2022-10-26 18:32:43
+date: 2022-11-01 17:39:13
 image: 'https://m.media-amazon.com/images/I/21mmZDzXX1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 【Fácil de Usar】 Simplemente conecte un dispositivo a la toma inteligente y conéctelo a su red Wi-Fi.
 - 【Tarea Sincronizada y Ahorro de Energía】 Configure temporizadores de cuenta regresiva / simple / repetición para encender / apagar automáticamente el enchufe inteligente según sea necesario.
+- 【Control de Voz Manos Libres】 SONOFF S26R2 es compatible con Amazon Alexa (Amazon Echo / Echo Dot / Amazon Tap) y Google
 - 【Control Remoto de la Aplicación】 Control remoto de sus electrodomésticos y dispositivos a través de la APLICACIÓN eWeLink en un teléfono inteligente o tableta. Sin limitación de distancia / tiempo.
 - 【Nota】 El enrutador debe ser de 2,4 GHz (no se admite WiFi de 5,0 GHz), pero no hay limitación para la red de teléfonos inteligentes (la red 2G / 3G / 4G / WiFi es correcta).
-- 【Control de Voz Manos Libres】 SONOFF S26R2 es compatible con Amazon Alexa (Amazon Echo / Echo Dot / Amazon Tap) y Google
 
 [🛒 Comprar!!!]({{< param buyurl >}})
