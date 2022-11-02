@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de calidad
 - Producto para uso interior
+- Producto de calidad
 - Material duredero
 - Fácil de usar
 
