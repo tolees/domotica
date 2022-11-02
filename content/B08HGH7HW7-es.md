@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descarga la App WiZ o usa el control de voz, para reducir y aumentar el brillo o para usar los modos de luz predefinidos
 - Sencilla conexión Plug & Play
-- Consigue luz inteligente, blanca cálida o fría difusa y regulable
 - Automatiza las luces con programas
+- Descarga la App WiZ o usa el control de voz, para reducir y aumentar el brillo o para usar los modos de luz predefinidos
+- Consigue luz inteligente, blanca cálida o fría difusa y regulable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
