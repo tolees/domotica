@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agiostar - Aigostar Bombilla Inteligente LED GU10 SL2 Bombillas Alexa 6W Bombilla Wifi 2700K-6500K Regulable  Conexión rápida Compatible Con Google Home/Alexa  1 pack'
-date: 2022-11-01 08:39:46
+date: 2022-11-02 11:14:11
 image: 'https://m.media-amazon.com/images/I/31iFs6e+YZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Agiostar'
 buyurl: 'https://www.amazon.es/dp/B0BFHHCB46/?tag=tolees-21'
 descuento: '15.87'
-average: '15.8757142857143'
+average: '15.64'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
