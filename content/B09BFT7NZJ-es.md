@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El tamaño del producto es con enchufe de 72 mm * 51 mm * 77 mm sin enchufe de 72 mm * 51 mm * 40 mm.
-- Fácil de configurar y usar - Configuración y administración diarias rápidas y sencillas a través de la aplicación gratuita (gratuita para iOS y Android)
-- Modo ausente: enciende y apaga las luces en diferentes momentos para simular la presencia de alguien
 - Control del consumo de energía: analice el consumo de energía histórico y en tiempo real del dispositivo conectado
-- Control por voz: activa tu enchufe inteligente con comandos de voz a través de Amazon Alexa o el Asistente de Google
 - Acceso incluso sobre la marcha - Controla todos los dispositivos cómodamente a través de un smartphone, en cualquier lugar y en cualquier momento
-- Crea horarios: enciende y apaga tus dispositivos automáticamente en diferentes momentos
+- Fácil de configurar y usar - Configuración y administración diarias rápidas y sencillas a través de la aplicación gratuita (gratuita para iOS y Android)
+- Control por voz: activa tu enchufe inteligente con comandos de voz a través de Amazon Alexa o el Asistente de Google
 - entregable Tapo Guía de instalación rápida del P110 (solo en 2.4 GHz)
+- Crea horarios: enciende y apaga tus dispositivos automáticamente en diferentes momentos
+- Modo ausente: enciende y apaga las luces en diferentes momentos para simular la presencia de alguien
+- El tamaño del producto es con enchufe de 72 mm * 51 mm * 77 mm sin enchufe de 72 mm * 51 mm * 40 mm.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
