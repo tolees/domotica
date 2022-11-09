@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Audio dinámico y cancelación activa de ruido (ANC): experimenta un sonido nítido y equilibrado gracias a los altavoces de calidad superior. El diseño intraauricular sellado y la cancelación activa de ruido permiten limitar los ruidos de fondo.
-- Diseñado para proteger tu privacidad: fabricado con varias capas de protección y controles de privacidad, incluida la opción de silenciar los micrófonos a través de la app Alexa. Además, puedes ver, escuchar y borrar las grabaciones de voz en cualquier momento.
 - Batería de larga duración: hasta 5 horas de reproducción de música por carga y hasta 15 horas con el estuche cargador. Hasta 2 horas de música con una carga rápida de 15 minutos.
+- Audio dinámico y cancelación activa de ruido (ANC): experimenta un sonido nítido y equilibrado gracias a los altavoces de calidad superior. El diseño intraauricular sellado y la cancelación activa de ruido permiten limitar los ruidos de fondo.
+- Compactos y cómodos: los Echo Buds son pequeños, ligeros y resistentes al sudor, con un ajuste personalizable diseñado para moverse contigo.
+- Diseñado para proteger tu privacidad: fabricado con varias capas de protección y controles de privacidad, incluida la opción de silenciar los micrófonos a través de la app Alexa. Además, puedes ver, escuchar y borrar las grabaciones de voz en cualquier momento.
 - Funciona con otros asistentes: compatible con iOS y Android, se puede usar con Siri y Google Assistant.
 - No pierdas el ritmo: di "Alexa, continúa mi música en los Echo Buds" para pasar la canción de tu altavoz Echo a los auriculares y continúa escuchando desde donde lo dejaste.
-- Entretenimiento con control por voz: los Echo Buds funcionan con la app Alexa y te permiten reproducir música, pódcast y escuchar audiolibros con Audible solo con pedirlo.
 - No saques el teléfono del bolsillo: haz llamadas, pon recordatorios o añade artículos a tu lista de la compra a través de la voz.
-- Compactos y cómodos: los Echo Buds son pequeños, ligeros y resistentes al sudor, con un ajuste personalizable diseñado para moverse contigo.
+- Entretenimiento con control por voz: los Echo Buds funcionan con la app Alexa y te permiten reproducir música, pódcast y escuchar audiolibros con Audible solo con pedirlo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
