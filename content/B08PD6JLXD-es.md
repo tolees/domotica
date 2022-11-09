@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ultrafino y ligero
 - Alexa integrado
-- Más de 68 modos de deportes
 - Pantalla AMOLED siempre visible
+- Diseño ultrafino y ligero
+- Más de 68 modos de deportes
 - Medición de la saturación de oxígeno en sangre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
