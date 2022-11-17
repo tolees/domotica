@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sensores de movimiento y sonido que envían una notificación a tu móvil con foto e inician la grabación de vídeo en la nube sin coste durante 24 horas recurrentes, pudiendo descargar el vídeo al móvil
-- Streaming Full HD 1080p, control fácil y muy intuitivo en remoto desde la app mydlink, con modos de privacidad de un solo toque que oculta la lente de la cámara cuando estamos en casa
-- Esta cámara te permite verlo todo en directo cómodamente gracias a su lente motorizada, 340° en horizontal y 90° en vertical, zoom digital, visión nocturna por infrarrojos y resolución Full HD 1080p
-- Los sensores de movimiento pueden interactuar con enchufes inteligentes mydlink para encender o apagar dispositivos basándose en movimiento, siendo compatible con Amazon Alexa y Google Assistant.
 - Tamaño compacto y sencilla instalación desde la propia app, no requiere conocimientos técnicos, se sincroniza por WiFi con cualquier router.
+- Streaming Full HD 1080p, control fácil y muy intuitivo en remoto desde la app mydlink, con modos de privacidad de un solo toque que oculta la lente de la cámara cuando estamos en casa
+- Los sensores de movimiento pueden interactuar con enchufes inteligentes mydlink para encender o apagar dispositivos basándose en movimiento, siendo compatible con Amazon Alexa y Google Assistant.
+- Esta cámara te permite verlo todo en directo cómodamente gracias a su lente motorizada, 340° en horizontal y 90° en vertical, zoom digital, visión nocturna por infrarrojos y resolución Full HD 1080p
+- Sensores de movimiento y sonido que envían una notificación a tu móvil con foto e inician la grabación de vídeo en la nube sin coste durante 24 horas recurrentes, pudiendo descargar el vídeo al móvil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
