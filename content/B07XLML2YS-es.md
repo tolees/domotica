@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TAPO C200 - Cámara IP WiFi 360° Cámara de Vigilancia FHD 1080p Visión nocturna Admite tarjeta SD Detección de movimiento Control Remoto Compatible con Alexa  Multicolor 1 Unidad  Paquete de 1 '
-date: 2022-11-19 18:10:29
+date: 2022-11-20 18:43:17
 image: 'https://m.media-amazon.com/images/I/41SoUI3Aw8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07XLML2YS/?tag=tolees-21'
 descuento: '25.01'
-average: '27.3798360655739'
+average: '27.3845818181819'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 【Almacenamiento NAS】La cámara Tapo admite el protocolo ONVIF (Perfil S) estándar, así como el protocolo RTSP, por lo que puede funcionar con dispositivos NVR o NAS de terceros. TAPO C200 es compatible con Synology NAS
-- 【Tapocare】Servicio de suscripción de pago para grabación de video en la nube de 30 días, notificaciones con captura de fotos y seguimiento de movimiento. (30 días de prueba gratis)
-- 【Modo de privacidad】Puede habilitar el modo de privacidad, que cierra físicamente la lente de la cámara para mejorar la seguridad de la privacidad.
 - 【Almacenamiento seguro y flexible】Ahorra hasta 128 GB localmente en una tarjeta microSD (no incluida) o en la nube (prueba gratuita de 30 días con historial de clips de video de 30 días) para que pueda acceder a ella en cualquier momento. estado de la cámara
 - 【Detección de movimiento y alarmas】 Recibe notificaciones instantáneas de la aplicación Tapo cuando se detecta movimiento. Activa efectos de luz y sonido para ahuyentar a los visitantes no deseados.
-- 【FHD 1080P & Pan/Tilt 360°】 La cámara de seguridad WiFi captura cada detalle con alta definición 1080P. Movimiento horizontal hasta 360° y movimiento vertical hasta 114°, amplia cobertura para capturar cada momento. (La cámara wifi solo admite WiFi de 2,4 GHz)
+- 【Almacenamiento NAS】La cámara Tapo admite el protocolo ONVIF (Perfil S) estándar, así como el protocolo RTSP, por lo que puede funcionar con dispositivos NVR o NAS de terceros. TAPO C200 es compatible con Synology NAS
 - 【Visión nocturna avanzada】Incluso de noche, la cámara de seguridad wifi puede ver una distancia visual de hasta 10 metros.
+- 【Modo de privacidad】Puede habilitar el modo de privacidad, que cierra físicamente la lente de la cámara para mejorar la seguridad de la privacidad.
+- 【FHD 1080P & Pan/Tilt 360°】 La cámara de seguridad WiFi captura cada detalle con alta definición 1080P. Movimiento horizontal hasta 360° y movimiento vertical hasta 114°, amplia cobertura para capturar cada momento. (La cámara wifi solo admite WiFi de 2,4 GHz)
 - 【Audio bidireccional】Comuníquese de forma remota y cree una conversación fluida y clara con su bebé o mascota con el micrófono y el altavoz incorporados
+- 【Tapocare】Servicio de suscripción de pago para grabación de video en la nube de 30 días, notificaciones con captura de fotos y seguimiento de movimiento. (30 días de prueba gratis)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
