@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- OTRAS FUNCIONES: adaptación meteorológica, informes detallados, informe de ahorro energético, función de máx. calefacción, bloqueo de seguridad, protección contra heladas
+- AMPLIA COMPATIBILIDAD: con casi todos los sistemas de calefacción, incluyendo las calentador de gas, de gasoil, de condensación, los sistemas OpenTherm y la calefacción por suelo radiante de agua
+- VOLUMEN DE SUMINISTRO: Termostato inteligente, Internet Bridge , 2 almohadillas adhesivas, 3 pilas AAA, 2 tornillos, 2 tacos, etiquetas de cableado, fuente de alimentación del Reino Unido, fuente de alimentación de la UE, cable USB, cable Ethernet, de tado°
 - SMART HOME: si la casa está vacía o el sensor de puertas y ventanas detecta alguna abierta, la app tado° te envía una notificación push para que apagues el aire acondicionado o la calefacción
 - CONTROL DIGITAL: el termostato controla la temperatura en todas las habitaciones con la app y con Siri, Alexa y Asistente de Google desde tu teléfono móvil, para una casa inteligente confortable y ahorrando energía; también disponible en negro
-- OTRAS FUNCIONES: adaptación meteorológica, informes detallados, informe de ahorro energético, función de máx. calefacción, bloqueo de seguridad, protección contra heladas
-- VOLUMEN DE SUMINISTRO: Termostato inteligente, Internet Bridge , 2 almohadillas adhesivas, 3 pilas AAA, 2 tornillos, 2 tacos, etiquetas de cableado, fuente de alimentación del Reino Unido, fuente de alimentación de la UE, cable USB, cable Ethernet, de tado°
 - MÁS VENTAJAS: si la casa está vacía o hay ventanas abiertas, el termostato digital baja la calefacción automáticamente con “Auto Assist”; y “Cuidado y Protección” te ayuda a resolver los problemas de calefacción
 - CONFORT AMBIENTAL: informa sobre la calidad del aire en casa, detallando el exceso de humedad en el aire, ya que es un medidor de humedad, para evitar el riesgo de humedades
-- AMPLIA COMPATIBILIDAD: con casi todos los sistemas de calefacción, incluyendo las calentador de gas, de gasoil, de condensación, los sistemas OpenTherm y la calefacción por suelo radiante de agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
