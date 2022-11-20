@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Blink Home Security - Blink Mini | Cámara de seguridad inteligente compacta  interior  cableada  vídeo HD 1080p  detección de movimiento  audio bidireccional  fácil de configurar  compatible con Alexa | 1 cámara  blanco '
-date: 2022-11-18 00:10:46
+date: 2022-11-20 08:23:01
 image: 'https://m.media-amazon.com/images/I/21RA3Xt7ZFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Cámaras de seguridad','Cámaras de vigilancia','Cámaras espía','Disp
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99
-comparePrice: 33.0 EUR
+comparePrice: 34.99 EUR
 prodname: 'Blink Home Security - Blink Mini | Cámara de seguridad inteligente compacta  interior  cableada  vídeo HD 1080p  detección de movimiento  audio bidireccional  fácil de configurar  compatible con Alexa | 1 cámara  blanco '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Blink Home Security'
 buyurl: 'https://www.amazon.es/dp/B07X37DT9M/?tag=tolees-21'
-descuento: '30.33'
-average: '28.8436893203883'
+descuento: '34.30'
+average: '28.7874038461538'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Choose to save and share clips in the cloud with a free trial of the Blink Subscription Plan included with your purchase, or locally with the Sync Module 2 and USB drive (each sold separately). Trial valid until January 2023. You will be notified at least 30 days before your free trial expires with information on how to subscribe.
-- Get alerts on your smartphone whenever motion is detected, or customise motion detection zones so you can see what matters most.
-- Works with Alexa: pair Blink Mini with a supported Alexa-enabled device to engage live view, arm and disarm your camera, and more, using your voice.
-- See, hear and speak to people and pets in your home from your smartphone with Blink Mini’s live view and two-way audio.
-- Monitor the inside of your home day and night with our 1080P HD indoor plug-in smart security camera with motion detection and two-way audio.
-- Includes: 1 Blink Mini camera (White), mounting kit including stand, USB cable and power adaptor.
-- Set up in minutes: plug in the camera, connect it to Wi-Fi, and follow the instructions in the free Blink Home Monitor app.
+- Incluye 1 cámara Blink Mini (color blanco), kit de montaje con soporte incluido, cable USB y adaptador de corriente.
+- Compatible con Alexa: puedes vincular la Blink Mini con un dispositivo compatible con Alexa para ver en directo el vídeo de la cámara, activar y desactivar la cámara y mucho más con tan solo la voz.
+- Vigila tu hogar de día y de noche con nuestra cámara de seguridad inteligente cableada para interiores con HD 1080p, detección de movimiento y audio bidireccional.
+- Configúrala en cuestión de minutos: enchufa la cámara, conéctala a tu red wifi y sigue las instrucciones con la app gratuita Blink Home Monitor.
+- Ve, escucha y habla a las personas y mascotas que estén en tu hogar desde tu teléfono móvil con el vídeo en directo y el audio bidireccional de la Blink Mini.
+- Recibe alertas directamente en tu teléfono móvil cada vez que se detecte un movimiento o personaliza las zonas de detección de movimiento para ver lo que más te interesa.
+- Puedes guardar y compartir grabaciones en la nube con la prueba gratuita del plan de suscripción de Blink incluida con la compra o localmente con el Sync Module 2 y la unidad USB (ambas se venden por separado). Prueba válida hasta enero de 2023. Recibirás una notificación al menos 30 días antes de que caduque la prueba gratuita con información sobre cómo suscribirte.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
