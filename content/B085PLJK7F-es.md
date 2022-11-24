@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Miles de apps, Skills de Alexa y canales, incluyendo Netflix, YouTube, Prime Video, Disney+, DAZN, Atresplayer, Mitele y más. Pueden aplicarse cargos de suscripción.
-- Televisión gratis: disfruta de acceso a películas y series con aplicaciones como RTVE A la carta, Atresplayer, YouTube y más.
-- Nuestro Fire TV Stick más asequible: reproducción en streaming rápida y con calidad Full HD. Viene con el mando por voz Alexa | Lite.
-- Los miembros Amazon Prime tienen acceso ilimitado a miles de películas y episodios de series.
-- Televisión en directo: mira en directo programas de televisión, las noticias y deportes con las suscripciones a Eurosport, ITV Hub, Sky News y más.
-- Pulsa el botón y pídeselo a Alexa: usa la voz para buscar contenido e iniciar la reproducción en múltiples apps.
 - Fácil de configurar y discreto: conéctalo a la parte trasera del TV, enciende el TV y conéctate a Internet para configurarlo.
+- Televisión gratis: disfruta de acceso a películas y series con aplicaciones como RTVE A la carta, Atresplayer, YouTube y más.
+- Televisión en directo: mira en directo programas de televisión, las noticias y deportes con las suscripciones a Eurosport, ITV Hub, Sky News y más.
+- Nuestro Fire TV Stick más asequible: reproducción en streaming rápida y con calidad Full HD. Viene con el mando por voz Alexa | Lite.
+- Pulsa el botón y pídeselo a Alexa: usa la voz para buscar contenido e iniciar la reproducción en múltiples apps.
+- Los miembros Amazon Prime tienen acceso ilimitado a miles de películas y episodios de series.
 - Escucha música: reproduce música en streaming con Amazon Music, Spotify y más. Pueden aplicarse cargos de suscripción.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
