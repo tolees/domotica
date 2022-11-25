@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tensión de entrada de CA: 100-240 V
-- ¡Nota! Para controlar el brillo y la temperatura del color, se requiere la aplicación de smartphone Yeelight
-- Tipo de bombilla: LED
 - Frecuencia de entrada de CA: 50/60 Hz
+- Tipo de bombilla: LED
+- Tensión de entrada de CA: 100-240 V
 - Tira de luz con uso conveniente mediante el controlador con un botón
 - Cable de 2 metros para la mayoría de las escenas de iluminación del hogar
+- ¡Nota! Para controlar el brillo y la temperatura del color, se requiere la aplicación de smartphone Yeelight
 
 [🛒 Comprar!!!]({{< param buyurl >}})
