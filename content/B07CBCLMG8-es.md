@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EZVIZ Cámara IP WiFi EzTube 1080p para exteriores  cámara de vigilancia con visión nocturna de hasta 30 m  sistema de alarma con luz estroboscópica y sirena  compatible con Alexa'
-date: 2022-11-24 11:27:12
+date: 2022-11-25 23:00:24
 image: 'https://m.media-amazon.com/images/I/41YwZYW-EKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Cámaras bala de vigilancia','Cámaras de vigilancia','Electrónica','F
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99
-comparePrice: 99.99 EUR
+comparePrice: 91.67 EUR
 prodname: 'EZVIZ Cámara IP WiFi EzTube 1080p para exteriores  cámara de vigilancia con visión nocturna de hasta 30 m  sistema de alarma con luz estroboscópica y sirena  compatible con Alexa'
 country: 'es'
 flag: '🇪🇸'
 brand: 'EZVIZ'
 buyurl: 'https://www.amazon.es/dp/B07CBCLMG8/?tag=tolees-21'
-descuento: '54.01'
-average: '69.1531578947365'
+descuento: '49.83'
+average: '68.7537931034479'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AUDIO BIDIRECCIONAL DE CALIDAD HI-FI: la cámara para exteriores con su algoritmo de reducción de ruido filtra el ruido de fondo, ofreciendo así una excelente calidad de voz
-- PROTECCIÓN IP66 CONTRA POLVO Y LÍQUIDOS: Gracias a la certificación IP66, la cámara IP para exteriores EZVIZ garantiza una alta protección contra diversas situaciones climáticas, como la lluvia, el sol o la nieve, lo que garantiza un uso duradero
-- ALARMA CON SIRENA Y LUZ ESTROBOSCÓPICA: la cámara EzTube para exteriores monitorea áreas importantes de tu hogar las 24 horas del día, los 7 días de la semana, una vez que se detecta movimiento, comienza a grabar automáticamente y llega Envía una notificación
-- COMPATIBLE CON EL HOGAR INTELIGENTE: Alexa puede controlar esta cámara WiFi a través del Echo Show, con asistencia de voz, también se puede conectar a otros sistemas domésticos inteligentes como Google Home o IFTTT y mantener todo sincronizado
 - ALTA RESOLUCIÓN DE 1080P Y VISIÓN NOCTURNA DE HASTA 30 M: Gracias a la integración de eficientes LED IR, un panel antirreflectante y un filtro de infrarrojos ICR, la cámara permite una excelente visión nocturna a una distancia de hasta 30 m
+- COMPATIBLE CON EL HOGAR INTELIGENTE: Alexa puede controlar esta cámara WiFi a través del Echo Show, con asistencia de voz, también se puede conectar a otros sistemas domésticos inteligentes como Google Home o IFTTT y mantener todo sincronizado
+- AUDIO BIDIRECCIONAL DE CALIDAD HI-FI: la cámara para exteriores con su algoritmo de reducción de ruido filtra el ruido de fondo, ofreciendo así una excelente calidad de voz
+- ALARMA CON SIRENA Y LUZ ESTROBOSCÓPICA: la cámara EzTube para exteriores monitorea áreas importantes de tu hogar las 24 horas del día, los 7 días de la semana, una vez que se detecta movimiento, comienza a grabar automáticamente y llega Envía una notificación
+- PROTECCIÓN IP66 CONTRA POLVO Y LÍQUIDOS: Gracias a la certificación IP66, la cámara IP para exteriores EZVIZ garantiza una alta protección contra diversas situaciones climáticas, como la lluvia, el sol o la nieve, lo que garantiza un uso duradero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
