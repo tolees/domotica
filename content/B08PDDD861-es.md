@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Autonomía de la batería ultralarga
 - Diseño fino y ligero, sin bisel
-- Pantalla HD AMOLED siempre visible
 - Seguimiento continuo de salud y bienestar
+- Autonomía de la batería ultralarga
+- Pantalla HD AMOLED siempre visible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

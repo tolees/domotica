@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Yeelight Lightstrip Plus'
-date: 2022-11-25 13:40:52
+date: 2022-11-26 15:41:27
 image: 'https://m.media-amazon.com/images/I/310cF0ly33L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B07RT9MTTC/?tag=tolees-21'
 descuento: '17.93'
-average: '33.4334666666666'
+average: '33.4146052631578'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Frecuencia de entrada de CA: 50/60 Hz
 - Tipo de bombilla: LED
-- Tensión de entrada de CA: 100-240 V
-- Tira de luz con uso conveniente mediante el controlador con un botón
 - Cable de 2 metros para la mayoría de las escenas de iluminación del hogar
+- Tira de luz con uso conveniente mediante el controlador con un botón
 - ¡Nota! Para controlar el brillo y la temperatura del color, se requiere la aplicación de smartphone Yeelight
+- Tensión de entrada de CA: 100-240 V
+- Frecuencia de entrada de CA: 50/60 Hz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
