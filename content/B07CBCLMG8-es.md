@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ALTA RESOLUCIÓN DE 1080P Y VISIÓN NOCTURNA DE HASTA 30 M: Gracias a la integración de eficientes LED IR, un panel antirreflectante y un filtro de infrarrojos ICR, la cámara permite una excelente visión nocturna a una distancia de hasta 30 m
-- COMPATIBLE CON EL HOGAR INTELIGENTE: Alexa puede controlar esta cámara WiFi a través del Echo Show, con asistencia de voz, también se puede conectar a otros sistemas domésticos inteligentes como Google Home o IFTTT y mantener todo sincronizado
 - AUDIO BIDIRECCIONAL DE CALIDAD HI-FI: la cámara para exteriores con su algoritmo de reducción de ruido filtra el ruido de fondo, ofreciendo así una excelente calidad de voz
 - ALARMA CON SIRENA Y LUZ ESTROBOSCÓPICA: la cámara EzTube para exteriores monitorea áreas importantes de tu hogar las 24 horas del día, los 7 días de la semana, una vez que se detecta movimiento, comienza a grabar automáticamente y llega Envía una notificación
 - PROTECCIÓN IP66 CONTRA POLVO Y LÍQUIDOS: Gracias a la certificación IP66, la cámara IP para exteriores EZVIZ garantiza una alta protección contra diversas situaciones climáticas, como la lluvia, el sol o la nieve, lo que garantiza un uso duradero
+- COMPATIBLE CON EL HOGAR INTELIGENTE: Alexa puede controlar esta cámara WiFi a través del Echo Show, con asistencia de voz, también se puede conectar a otros sistemas domésticos inteligentes como Google Home o IFTTT y mantener todo sincronizado
+- ALTA RESOLUCIÓN DE 1080P Y VISIÓN NOCTURNA DE HASTA 30 M: Gracias a la integración de eficientes LED IR, un panel antirreflectante y un filtro de infrarrojos ICR, la cámara permite una excelente visión nocturna a una distancia de hasta 30 m
 
 [🛒 Aquí!!!]({{< param buyurl >}})
