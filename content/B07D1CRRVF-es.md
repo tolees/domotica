@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control de voz: es compatible con Apple HomeKit y Alexa para disfrutar de una experiencia de manos libres.
 - Domótica: el Aqara Sensor de Movimiento se puede configurar para activar la alarma del concentrador Aqara u otros dispositivos inteligentes, como el enchufe inteligente Aqara, cuando se detecta movimiento.
-- ✽ Notas: requiere un Hub de Domótica Aqara (vendido por separado). Se necesita una conexión de red wifi segura de 2,4 GHz. Un concentrador Aqara puede conectar hasta 32 dispositivos Aqara.
+- Control de voz: es compatible con Apple HomeKit y Alexa para disfrutar de una experiencia de manos libres.
 - Detección de entrada no autorizada: cada vez que detecta un movimiento inesperado, el sensor de movimiento Aqara envía una alerta a tu teléfono y activa la alarma sonora local en el concentrador Aqara.
 - Rango de detección más amplio: hasta 6,7 m con un ángulo de visión de 170 grados. Además, Aqara ofrece 12 meses de servicio posventa. Si tienes alguna pregunta, no dudes en contactar con nosotros.
+- ✽ Notas: requiere un Hub de Domótica Aqara (vendido por separado). Se necesita una conexión de red wifi segura de 2,4 GHz. Un concentrador Aqara puede conectar hasta 32 dispositivos Aqara.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
