@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Blink Home Security - Te presentamos el Blink Video Doorbell + Sync Module 2 | Con audio bidireccional  vídeo HD  Alexa  notificaciones en la app  fácil de configurar  cableado o sin cablear  negro '
-date: 2022-11-18 00:12:24
+date: 2022-11-28 07:15:57
 image: 'https://m.media-amazon.com/images/I/31FOtCokYEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Blink Home Security'
 buyurl: 'https://www.amazon.es/dp/B08SG4BSRG/?tag=tolees-21'
 descuento: '41.05'
-average: '75.2325'
+average: '71.384'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Compatible con Alexa: accede al vídeo en directo, el audio bidireccional, las notificaciones de movimiento y del timbre, arma y desarma el timbre y mucho más.
 - Puedes guardar y compartir grabaciones en la nube con el plan de suscripción de Blink o localmente con el Sync Module 2 incluido y la unidad USB (vendida por separado). Prueba válida hasta enero 2023. Recibirás una notificación al menos 30 días antes de que caduque la prueba gratuita con información sobre cómo suscribirte.
 - Se puede configurar en cuestión de minutos con las dos pilas AA incluidas y luego conectar al wifi desde la app. El nuevo sello interior se ha diseñado para garantizar una resistencia a la intemperie con un grado de protección IP54.
-- Responde siempre a la puerta desde tu móvil estés donde estés, con vídeo HD 1080p durante el día, vídeo por infrarrojos por la noche y audio bidireccional.
 - El pack incluye un Blink Video Doorbell, un Sync Module 2 y un kit de montaje (incluye accesorio para montaje en esquina, tornillos y tacos).
-- Compatible con Alexa: accede al vídeo en directo, el audio bidireccional, las notificaciones de movimiento y del timbre, arma y desarma el timbre y mucho más.
+- Responde siempre a la puerta desde tu móvil estés donde estés, con vídeo HD 1080p durante el día, vídeo por infrarrojos por la noche y audio bidireccional.
 - Hasta dos años de autonomía, notificaciones personalizadas, ajustes de privacidad y más.
 - Diseñado para adaptarse a cualquier hogar: puedes elegir entre la opción sin cables o conectarlo al cableado de tu timbre para que también suene el timbre de casa. Sin cableado, puedes usar la cámara Blink Mini (vendida por separado) como un timbre para interior conectado a un adaptador de corriente.
 
