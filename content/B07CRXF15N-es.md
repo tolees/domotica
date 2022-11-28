@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda MW6 Nova - Sistema WiFi Mesh para Todo el Hogar  Paquete de 1  Cobertura de Doble Banda de hasta 165 m²  MU-MIMO  Control Parental  Funciona con Alexa '
-date: 2022-11-27 02:02:48
+date: 2022-11-28 02:31:44
 image: 'https://m.media-amazon.com/images/I/11dqY2F785S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B07CRXF15N/?tag=tolees-21'
 descuento: '42.88'
-average: '47.19'
+average: '46.675'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conexión inalámbrica de 165 metros de cobertura, puedes agregar hasta 9 nodos para conseguir para alcanzar mas de 1000 metros cuadrados de cobertura
-- Admite hasta 90 dispositivos conectados al mismo tiempo sin retardos ni interrupciones en la red gracias a la tecnología MU-MIMO
 - Requisitos del sistema Android 4.0 /iOS 8
+- Admite hasta 90 dispositivos conectados al mismo tiempo sin retardos ni interrupciones en la red gracias a la tecnología MU-MIMO
 - Con la App Tenda Wifi, puedes establecer acceso de invitados, bloquear dispositivos, control parental y/o dar prioridad a distintos dispositivos de la red
+- Conexión inalámbrica de 165 metros de cobertura, puedes agregar hasta 9 nodos para conseguir para alcanzar mas de 1000 metros cuadrados de cobertura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
