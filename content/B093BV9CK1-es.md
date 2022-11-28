@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG SP8YA Barra de Sonido Inteligente de 440W de potencia 3.1.2 canales con Sonido Hi-Res Audio  Dolby Atmos y DTS:X. Compatible con AirPlay 2  Spotify  Alexa  Chromecast'
-date: 2022-11-23 10:38:35
+date: 2022-11-28 14:56:39
 image: 'https://m.media-amazon.com/images/I/11Jhd32zi3S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B093BV9CK1/?tag=tolees-21'
 descuento: '42.92'
-average: '423.421428571429'
+average: '420.36875'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amplia conectividad con HDMI eARC, Bluetooth 5.0, USB
-- Wi-Fi (2.4G / 5G)
+- Enlaza tus contenidos con AirPlay 2, Spotify, Alexa, Asistente Google y Chromecast
 - Meridian Sound Music
+- Amplia conectividad con HDMI eARC, Bluetooth 5.0, USB
 - Sonido Envolvente con Dolby Atmos y dts:X
 - Sonido de alta resolución Hi-Res Audio 24bit/96kHz
 - Potencia Total: 440W, (82dB)
-- Enlaza tus contenidos con AirPlay 2, Spotify, Alexa, Asistente Google y Chromecast
+- Wi-Fi (2.4G / 5G)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
