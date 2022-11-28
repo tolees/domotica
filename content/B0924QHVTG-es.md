@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Uso a distancia】 Controle el interruptor desde cualquier lugar con la App AigoSmart, con un solo botón podrán apagarlo y olvidarse de si recordó o no apagar las luces. Disfrute a distancia también del resto de funciones avanzadas de nuestra aplicación
-- 【Diseño】El interruptor no es solo una forma inteligente y avanzada de controlar la iluminación además está diseñado en color blanco, con líneas limpias clásicas que se adaptarán a cualquier estancia y estilo de decoración, además su fabricación en vidrio permite su limpieza fácilmente
-- 【Fácil de configurar】Instale el interruptor en la pared de forma convencional en la pared (si no dispone de los conocimientos adecuados contacte con un electricista) y tras descargar la App AigoSmart en su móvil y con la conexión Wifi podrá configurar de forma personal el uso de su interruptor
-- 【App & control de voz】Mediante la App gratuita AigoSmart podrá controlar y configurar fácilmente los interruptores, para gestionar la iluminación de su hogar. Totalmente compatible con Alexa y Google Home, podrá controlar los interruptores de forma sencilla solo con su voz
 - 【Funciones】 El interruptor de luz para pared también dispone de funciones como temporizador, programador de encendido/apagado, cuenta atrás o intervalos de tiempo programables de encendido/apagado. Controle y ajuste a sus necesidades la iluminación de su hogar con el interruptor inteligente Wifi Aigostar
+- 【Diseño】El interruptor no es solo una forma inteligente y avanzada de controlar la iluminación además está diseñado en color blanco, con líneas limpias clásicas que se adaptarán a cualquier estancia y estilo de decoración, además su fabricación en vidrio permite su limpieza fácilmente
+- 【App & control de voz】Mediante la App gratuita AigoSmart podrá controlar y configurar fácilmente los interruptores, para gestionar la iluminación de su hogar. Totalmente compatible con Alexa y Google Home, podrá controlar los interruptores de forma sencilla solo con su voz
+- 【Fácil de configurar】Instale el interruptor en la pared de forma convencional en la pared (si no dispone de los conocimientos adecuados contacte con un electricista) y tras descargar la App AigoSmart en su móvil y con la conexión Wifi podrá configurar de forma personal el uso de su interruptor
+- 【Uso a distancia】 Controle el interruptor desde cualquier lugar con la App AigoSmart, con un solo botón podrán apagarlo y olvidarse de si recordó o no apagar las luces. Disfrute a distancia también del resto de funciones avanzadas de nuestra aplicación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
