@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DCS-6500LH Cámara WiFi seguridad hogar  Full HD  Lente motorizada visión 360°  visión nocturna  gestión remota desde app mydlink  grabación en nube  WPA3  Alexa  negra'
-date: 2022-11-27 08:47:11
+date: 2022-11-29 09:12:26
 image: 'https://m.media-amazon.com/images/I/31Ai3bLhnXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08VNL3NHL-es D-Link DCS-6500LH Cámara WiFi seguridad hogar Full HD...'
 sku: 'B08VNL3NHL-es'
 tags: [ 'Cámaras de vigilancia','Cámaras de vigilancia en domo','Electrónica','Fotografía y videocámaras','alexa','d-link','🇪🇸', ]
-actualPrice: 27.99 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 27.99
+price: 29.99
 comparePrice: 49.99 EUR
 prodname: 'D-Link DCS-6500LH Cámara WiFi seguridad hogar  Full HD  Lente motorizada visión 360°  visión nocturna  gestión remota desde app mydlink  grabación en nube  WPA3  Alexa  negra'
 country: 'es'
 flag: '🇪🇸'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.es/dp/B08VNL3NHL/?tag=tolees-21'
-descuento: '44.01'
-average: '33.618947368421'
+descuento: '40.01'
+average: '33.4375'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
