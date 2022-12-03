@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TAPO P100 - Wi-Fi Mini Smart Plug  ideal para agendar ligar/desligar y economizar energía  si necesita HUB  compatible con Alexa y Google Home  cor branca'
-date: 2022-12-02 12:03:18
+date: 2022-12-03 17:33:15
 image: 'https://m.media-amazon.com/images/I/412PRpZpKnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07Z5JD3T4/?tag=tolees-21'
 descuento: '33.36'
-average: '10.3794769230767'
+average: '10.3782822085887'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
 - Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
 - Programación: preestablezca una programación para administrar dispositivos automáticamente
 - Fácil configuración y uso: no se requiere concentrador, configúrelo rápidamente y adminístrelo fácilmente a través de la aplicación
-- Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
-- Diseño compacto: tamaño pequeño para evitar el bloqueo de tomas adyacente; (solo para toma hembra tipo C (o tomas)
 - Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
+- Diseño compacto: tamaño pequeño para evitar el bloqueo de tomas adyacente; (solo para toma hembra tipo C (o tomas)
+- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
+- Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
 
 [🛒 Comprar!!!]({{< param buyurl >}})
