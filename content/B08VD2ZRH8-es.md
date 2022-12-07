@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con altavoces envolventes e inalámbricos que funcionan con pilas (10 h de tiempo de reproducción). Conexión Bluetooth: transfiere todo lo que quieras desde tu móvil o tableta
-- Sonido envolvente JBL 5.2 con Alexa integrada y con 510W de potencia sin cables: siente el cine y tu música con la Barra de Sonido 5.0 e intensifica el sonido. Relájate o motivate con sus bajos
-- No te muevas del sofá; el cine ya lo tienes en casa. Bajos imponentes con unos graves de 25,4 cm (10") y tecnología Dolby Digital que hace como si estuvieras sentado en la butaca del cine
-- Contenido de envío: 1x JBL Barra de sonido 5.1, subwoofer, dos altavoces, mando con pilas, cables de carga, cables (HDMI, AUX y óptico), micrófono, kit de soporte, garantía y hoja de seguridad
 - Conexión 4k real con tres entradas HDMI y una salida HDMI ARC para que te sumerjas en tu propio salón. Conecta todos tus dispositivos 4k y actualiza tu sistema doméstico a Ultra HD.
+- Contenido de envío: 1x JBL Barra de sonido 5.1, subwoofer, dos altavoces, mando con pilas, cables de carga, cables (HDMI, AUX y óptico), micrófono, kit de soporte, garantía y hoja de seguridad
+- No te muevas del sofá; el cine ya lo tienes en casa. Bajos imponentes con unos graves de 25,4 cm (10") y tecnología Dolby Digital que hace como si estuvieras sentado en la butaca del cine
+- Sonido envolvente JBL 5.2 con Alexa integrada y con 510W de potencia sin cables: siente el cine y tu música con la Barra de Sonido 5.0 e intensifica el sonido. Relájate o motivate con sus bajos
+- Con altavoces envolventes e inalámbricos que funcionan con pilas (10 h de tiempo de reproducción). Conexión Bluetooth: transfiere todo lo que quieras desde tu móvil o tableta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
