@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit GTS 2e Smartwatch Reloj Inteligente 90 Modos Deportivo 5 ATM Duración debatería 14 Días Medición de la saturación de oxígeno en Sangre Alexa'
-date: 2022-12-04 11:51:27
+date: 2022-12-08 10:50:46
 image: 'https://m.media-amazon.com/images/I/41X+ATFUmPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B08PDDD861/?tag=tolees-21'
 descuento: '27.30'
-average: '113.533235294117'
+average: '112.572285714285'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Seguimiento continuo de salud y bienestar
 - Autonomía de la batería ultralarga
-- Pantalla HD AMOLED siempre visible
 - Diseño fino y ligero, sin bisel
+- Pantalla HD AMOLED siempre visible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
