@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Tapo L530E - Bombilla LED inteligente Wi-Fi  multicolor  regulable  E27  8.7 W 806 lm  compatible con Alexa y Google Home'
-date: 2022-12-09 18:22:11
+date: 2022-12-10 21:36:58
 image: 'https://m.media-amazon.com/images/I/41mzG0mVZOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B08GDC99PX/?tag=tolees-21'
 descuento: '27.79'
-average: '13.1969444444444'
+average: '13.1913513513513'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
