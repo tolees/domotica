@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEFANT M213S Robot Aspirador y Fregasuelos  Mini 3200Pa Friega Suelos  Robot Aspirador Mascotas sin escobillas  4 Modos App / Alexa Mando a Distancia Control Remoto/ Control de Voz'
-date: 2022-12-05 15:37:19
+date: 2022-12-12 21:39:16
 image: 'https://m.media-amazon.com/images/I/414ilXIQ0nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEFANT'
 buyurl: 'https://www.amazon.es/dp/B09DVPS9J9/?tag=tolees-21'
 descuento: '38.46'
-average: '195.755499999999'
+average: '192.50409090909'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Super Resistencia】Equipado con una batería de fosfato de hierro y litio de 2600 mAh, el tiempo de limpieza de una carga completa puede alcanzar los 150 minutos, cargando y descargando hasta 5000 veces, larga vida útil, alta seguridad, admite carga automática, uso en cualquier momento
-- 【Aplicación inteligente y fácil control de voz】Puede usar su teléfono móvil para crear fácilmente programas de limpieza en el hogar (limpieza programada, limpieza de días lluviosos), cambiar el modo de limpieza y controlar la dirección de limpieza. La barredora automática también es compatible con Alexa y Google Assistant, lo que permite a los usuarios utilizar comandos de voz para que el robot comience y deje de limpiar. Ahorre tiempo y esfuerzo con el robot
-- 【Potente succión y carcasa delgada】 El robot aspirador mascotas tiene un motor sin escobillas de alta calidad para reducir el pelo enredado, una alta potencia de succión de 3200 Pa y un bajo nivel de ruido que lo hace muy silencioso al dormir. Con sólo 28 cm de ancho y 7,8 cm de grosor, la aspiradora puede escalar obstáculos de hasta 15 mm de altura, y su menor tamaño facilita la limpieza del robot en habitaciones estrechas. Ideal para espacios pequeños en camas, sofás, mesas, sillas y rincones.
-- 【Barrer y fregar 2 en 1】 Robot aspirador y fregasuelos friega el suelo sin depósito de agua utilizando el accesorio de fregado incluido. Se incluyen 5 toallitas gratuitas que puedes instalar para conseguir un robot aspirador con función de limpieza que reduce el procedimiento de limpieza de la mopa.
-- 【FreeMove 3.0 Technology】Sensor infrarrojo anticolisión 6D incorporado, en lugar de colisión mecánica, detecta el entorno circundante en 360 grados. Reduce el tamaño de la carrocería a la vez que facilita la evasión de obstáculos, reduciendo el riesgo de desgaste, deformación, acumulación de polvo y otros fallos. Puede detectar escaleras para evitar caídas y subir alfombras con facilidad.
-- 【Sin Boquilla de Cepillo Giratorio】 El robot aspirador tradicional con boquilla de cepillo giratorio es muy tedioso al limpiar el cabello enredado en el cepillo giratorio. M213S está equipado con una boquilla sin escobillas avanzada que aspira el cabello y el polvo directamente en el contenedor de polvo grande de 500 ml con dos cepillos laterales y una potente potencia de succión de 3200 Pa, que es muy conveniente y eficaz.
-- 【4 Modos de limpieza que se adaptan a sus necesidades】El aspirador robot inteligente admite 4 modos de limpieza, entre los que se incluyen ➊ Limpieza automática ➋ Limpieza de puntos ➌ Limpieza con seguimiento de paredes ➍ Limpieza manual. Cambia libremente entre los diferentes modos y niveles de potencia a través de la aplicación.
-- 【Lo que obtienes】M213S Robot Aspirador, base de carga, adaptador de corriente, cubo de polvo grande de 500 ml, 2 filtro HEPA, 4 cepillos laterales, 1 paño seco, 1 soporte de fregona, cepillo de limpieza de la máquina, manual del usuario.
+- 【Cuerpo delgado y flexible】Con sólo 7,8 cm de altura y 28 cm de diámetro, es capaz de acceder a muchos rincones que otros aspirador robot no pueden alcanzar, y son los lugares donde la suciedad y la mugre suelen esconderse.
+- 【Amigable con los Dueños de Mascotas】Diseño del puerto de succión sin enredos, para que la entrada y salida de aire del robot aspirador mascotas no corra el riesgo de bloquearse por el pelo. Viene con 2 cepillos laterales para facilitar el aseo de todo tipo de pelo.
+- 【Aspira y Friega 2 en 1】 Robot aspirador y fregasuelos friega el suelo sin depósito de agua utilizando el accesorio de fregado incluido. Se incluyen 5 toallitas gratuitas que puedes instalar para conseguir un robot aspirador con función de limpieza que reduce el procedimiento de limpieza de la mopa, no es necesario limpiar la fregona.
+- 【Tecnología Freemove 3.0 Mejorada】La tecnología Freemove es la tecnología de detección de cuerpo entero integrada en el robot aspirador original de Lefant. Los sensores infrarrojos incorporados pueden detectar obstáculos encontrados por todo el cuerpo y retirarse. Muévase libremente por su habitación con menos posibilidades de quedarse atascado.
+- 【Larga autonomía y gran cobertura】Lefant M213S está equipado con 2600mAh batería de litio fosfato de hierro, que tiene una larga vida útil y alta seguridad. El tiempo máximo de trabajo es de 150 minutos, suficiente para limpiar 150㎡.
+- 【Súper Succión】Con una súper potencia de succión de 3200 Pa, el aspiradorarobot M213S recoge el polvo, el pelo y la suciedad del suelo fácil y rápidamente, diga adiós a la limpieza manual del suelo. Tres niveles de ajuste de potencia de succión para satisfacer sus diferentes necesidades.
+- 【Lo que obtienes】M213S Robot Aspirador, base de carga, adaptador de corriente, cubo de polvo grande de 500 ml, 2 filtro HEPA, 4 cepillos laterales, 1 toallita reutilizable, 5 toallitas desechables, 1 soporte de fregona, cepillo de limpieza de la máquina, manual del usuario.
+- 【Control Inteligente】El Lefant M213S es compatible con Alexa y Google Home. El robot aspirador Lefant dispone de una APP para smartphone con un mapa a través del cual se puede controlar el robot seleccionando los modos de limpieza, programando los tiempos de limpieza, eligiendo los niveles de potencia de succión y viendo el historial de limpieza. Además, el robot crea un mapa diferente cada vez para mejorar la ruta y limpiar de forma más eficiente. (Sólo WiFi de 2,4 GHz)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
