@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Govee Barras de Luces con Cámara  RGBIC Inteligente Funciona con Alexa y Google Assistant  Modo Música y Escena para Gaming  PC o TV  27-45 Pulgadas  DreamView P1'
-date: 2022-12-14 21:17:27
+date: 2022-12-16 13:52:56
 image: 'https://m.media-amazon.com/images/I/41uOR8nFg5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Govee'
 buyurl: 'https://www.amazon.es/dp/B09CM1CVCH/?tag=tolees-21'
 descuento: '44.01'
-average: '74.1820833333333'
+average: '73.0736'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
