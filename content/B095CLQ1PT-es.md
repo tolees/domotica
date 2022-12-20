@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CÁLIDAD DE VIDEO RESOLUCIÓN 3MP - Captura cada detalle en una resolución ultra nítida de 3 MP
-- DETECCIÓN Y MOVIMIENTO - Reciba notificaciones al instante de la aplicación cuando se intercepta un movimiento; TP-link proporciona una función avanzada para configurar el tiempo de grabación específico
 - GRAN ANGULAR DE VISÍON -Área horizontal de 360° para una visión detallada del hogar
-- TAPO CARE - Opción a suscripción de grabación de video en la nube. Se trata de una prueba "gratuita de 30 días" de almacenamiento en la nube, después de eso, se requerirá un pago adicional si desea mantener este servicio
-- ALARMA DE SONIDO Y LUZ - ¿Invitado inesperado? activa los efectos de luz y sonido para ahuyentar
+- VISIÓN NOCTURNA AMPLIADA - Incluso por la noche la cámara puede alcanzar un alcance de visión de hasta 9 metros
 - ADMITE GRABACIÓN EN BUCLE: Almacena localmente hasta 256 GB en una tarjeta microSD, lo que equivale a 512 horas (21 días) de metraje. (Basado en condiciones de laboratorio)
 - INTERFAZ DE OPERACIÓN SIMPLE -Con la App TAPO para Android/IOS puedes configurar fácilmente el calendario, verificar videos anteriores, verificar múltiples vistas al mismo tiempo y dar acceso a otros usuarios
-- VISIÓN NOCTURNA AMPLIADA - Incluso por la noche la cámara puede alcanzar un alcance de visión de hasta 9 metros
 - AUDIO BIDIRECCIONAL - Comunícate con los demás al micrófono y altavoces incorporados
+- ALARMA DE SONIDO Y LUZ - ¿Invitado inesperado? activa los efectos de luz y sonido para ahuyentar
+- TAPO CARE - Opción a suscripción de grabación de video en la nube. Se trata de una prueba "gratuita de 30 días" de almacenamiento en la nube, después de eso, se requerirá un pago adicional si desea mantener este servicio
+- DETECCIÓN Y MOVIMIENTO - Reciba notificaciones al instante de la aplicación cuando se intercepta un movimiento; TP-link proporciona una función avanzada para configurar el tiempo de grabación específico
+- CÁLIDAD DE VIDEO RESOLUCIÓN 3MP - Captura cada detalle en una resolución ultra nítida de 3 MP
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
