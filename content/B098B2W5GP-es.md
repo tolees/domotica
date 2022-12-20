@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'tado° Termostato Inteligente Cableado – Kit de Inicio V3+  Control inteligente de calefacción  fácil instalación  diseñado en Alemania  compatible con Amazon Alexa  Siri y Asistente de Google'
-date: 2022-12-10 13:43:01
+date: 2022-12-20 10:31:07
 image: 'https://m.media-amazon.com/images/I/31olQzRIa4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'tado°'
 buyurl: 'https://www.amazon.es/dp/B098B2W5GP/?tag=tolees-21'
 descuento: '40.91'
-average: '128.726166666666'
+average: '128.746885245901'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONFORT AMBIENTAL: informa sobre la calidad del aire en casa, detallando el exceso de humedad en el aire, ya que es un medidor de humedad, para evitar el riesgo de humedades
-- SMART HOME: si la casa está vacía o el sensor de puertas y ventanas detecta alguna abierta, la app tado° te envía una notificación push para que apagues el aire acondicionado o la calefacción
-- VOLUMEN DE SUMINISTRO: Termostato inteligente, Internet Bridge, 2 almohadillas adhesivas, 3 pilas AAA, 2 tornillos, 2 tacos, etiquetas de cableado, fuente de alimentación del Reino Unido, fuente de alimentación de la UE, cable USB, cable Ethernet, de tado°
-- OTRAS FUNCIONES: adaptación meteorológica, informes detallados, informe de ahorro energético, función de máx; calefacción, bloqueo de seguridad, protección contra heladas
-- AMPLIA COMPATIBILIDAD: con casi todos los sistemas de calefacción, incluyendo las calentador de gas, de gasoil, de condensación, los sistemas OpenTherm y la calefacción por suelo radiante de agua
-- MÁS VENTAJAS: si la casa está vacía o hay ventanas abiertas, el termostato digital baja la calefacción automáticamente con “Auto Assist”; y “Cuidado y Protección” te ayuda a resolver los problemas de calefacción
-- CONTROL DIGITAL: el termostato controla la temperatura en todas las habitaciones con la app y con Siri, Alexa y Asistente de Google desde tu teléfono móvil, para una casa inteligente confortable y ahorrando energía; también disponible en negro
+- MÁS VENTAJAS: si la casa está vacía o hay ventanas abiertas, el termostato digital baja la calefacción automáticamente con “Auto Assist”; y “Cuidado y Protección” te ayuda a resolver los problemas de calefacción.
+- OTRAS FUNCIONES: adaptación meteorológica, informes detallados, informe de ahorro energético, función de máx. calefacción, bloqueo de seguridad, protección contra heladas.
+- VOLUMEN DE SUMINISTRO: Termostato inteligente, Internet Bridge , 2 almohadillas adhesivas, 3 pilas AAA, 2 tornillos, 2 tacos, etiquetas de cableado, fuente de alimentación del Reino Unido, fuente de alimentación de la UE, cable USB, cable Ethernet, de tado°.
+- AMPLIA COMPATIBILIDAD: con casi todos los sistemas de calefacción, incluyendo las calentador de gas, de gasoil, de condensación, los sistemas OpenTherm y la calefacción por suelo radiante de agua.
+- CONFORT AMBIENTAL: informa sobre la calidad del aire en casa, detallando el exceso de humedad en el aire, ya que es un medidor de humedad, para evitar el riesgo de humedades.
+- CONTROL DIGITAL: el termostato controla la temperatura en todas las habitaciones con la app y con Siri, Alexa y Asistente de Google desde tu teléfono móvil, para una casa inteligente confortable y ahorrando energía. También disponible en negro.
+- SMART HOME: si la casa está vacía o el sensor de puertas y ventanas detecta alguna abierta, la app tado° te envía una notificación push para que apagues el aire acondicionado o la calefacción.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
