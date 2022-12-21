@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AirPlay, Alexa Multi-Room Music y Chromecast integrados: accede a más de 300 servicios de streaming. Además, la Bar 500 de JBL es compatible con el asistente de voz de Google, con Alexa y con Siri
-- Contenido del envío: 1 x JBL Bar 500 Barra de Sonido, 1 x altavoz de graves, mando a distancia con 2 pilas, cables de alimentación, cable HDMI, 2 soportes de montaje en pared, guía de instrucciones
-- Diálogos claros y parámetros personalizables: con la tecnología PureVoice nunca te perderás de un diálogo. Personaliza los parámetros EQ y controla los altavoces compatibles con la JBL One App
 - Sumérgete en un audio cinematográfico: con la barra de sonido JBL Bar 500 y el altavoz de graves inalámbrico, disfruta de un sonido 3D envolvente gracias a las tecnologías Dolby Atmos y MultiBeam
 - Transferencia Ultra HD 4K con Dolby Vision y sonido calibrado: tu contenido, ahora con una calidad de vídeo 4K desde un reproductor de vídeo compatible. Con calibración de sonido sencilla
+- AirPlay, Alexa Multi-Room Music y Chromecast integrados: accede a más de 300 servicios de streaming. Además, la Bar 500 de JBL es compatible con el asistente de voz de Google, con Alexa y con Siri
+- Diálogos claros y parámetros personalizables: con la tecnología PureVoice nunca te perderás de un diálogo. Personaliza los parámetros EQ y controla los altavoces compatibles con la JBL One App
+- Contenido del envío: 1 x JBL Bar 500 Barra de Sonido, 1 x altavoz de graves, mando a distancia con 2 pilas, cables de alimentación, cable HDMI, 2 soportes de montaje en pared, guía de instrucciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
