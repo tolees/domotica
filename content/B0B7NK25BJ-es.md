@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'TP-Link Tapo - Tapo P110 2-Pack  - Mini Enchufe Inteligente Wi-Fi  con Monitoreo Energético  Programar el Encendido/Apagado  Ahorro Energía  Compatible con Alexa y Google Home'
-date: 2022-12-10 13:42:27
-image: 'https://m.media-amazon.com/images/I/41Mpblw8M0L._SL500_._SL400_.jpg'
+date: 2022-12-22 10:07:49
+image: 'https://m.media-amazon.com/images/I/41YasImyNxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link Tapo'
 buyurl: 'https://www.amazon.es/dp/B0B7NK25BJ/?tag=tolees-21'
 descuento: '28.58'
-average: '28.3233333333333'
+average: '27.49'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONTROL REMOTO - Enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
-- MONITOREO ENERGÉTICO - Ahora puedes monitorear y controlar el consumo energético desde la App para ahorrar dinero y energía configurando el enchufe según sus necesidades
-- PROGRAMACIÓN - Preestablezca una programación para administrar dispositivos automáticamente
-- CONTROL POR VOZ - Administre su enchufe inteligente con comandos de voz a través de alexa o el asistente de google, ambos compatibles
-- FÁCIL CONFIGURACIÓN Y USO - No se requiere Hub, configúrelo rápidamente y adminístrelo fácilmente a través de la aplicación
 - TEMPORIZADOR - Crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
+- CONTROL REMOTO - Enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
+- FÁCIL CONFIGURACIÓN Y USO - No se requiere Hub, configúrelo rápidamente y adminístrelo fácilmente a través de la aplicación
+- PROGRAMACIÓN - Preestablezca una programación para administrar dispositivos automáticamente
+- MONITOREO ENERGÉTICO - Ahora puedes monitorear y controlar el consumo energético desde la App para ahorrar dinero y energía configurando el enchufe según sus necesidades
+- CONTROL POR VOZ - Administre su enchufe inteligente con comandos de voz a través de alexa o el asistente de google, ambos compatibles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
