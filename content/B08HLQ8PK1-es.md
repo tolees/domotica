@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wiz - Enchufe inteligente Wi-Fi  controla con App  compatible con Alexa y Google Home  Color Blanco'
-date: 2022-12-22 23:28:19
+date: 2022-12-24 09:06:55
 image: 'https://m.media-amazon.com/images/I/417ojgnAsoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Controla los dispositivos desde cualquier lugar con tu smartphone. No hay necesidad de preocuparse si se deja encendido un dispositivo eléctrico mientras no hay nadie en casa. Simplemente apágalo o controla otros dispositivos desde donde estés mediante tu smartphone.
+- Dota de conectividad tus dispositivos cotidianos: lámparas, ventiladores, etc. Controla lámparas normales, luces decorativas, ventiladores, la cafetera y más. Con WiZ podrás controlar los dispositivos, sólo tienen que estar encendidos para conectarse y reaccionar a la aplicación.
 - Mide tu consumo: Este Smart Plug cuenta con un medidor de potencia incorporado que supervisa el consumo energético del dispositivo al que está conectado. Descubre la cantidad de energía que consume el dispositivo mirando el resumen visual en la aplicación WiZ.
 - Conexión Plug & Play. WiZ funciona con tu router Wi-Fi, por lo que no necesitas ninguna conexión adicional. Simplemente enchufa el dispositivo, descarga la aplicación WiZ y ¡listo!
 - Programa y automatiza fácilmente luces y dispositivos inteligentes. Programa las luces o electrodomésticos de su hogar para que se enciendan o apaguen automáticamente y siga tus rutinas diarias o semanales. Automatice las luces y dispositivos de modo que permanezcan apagados cuando no son necesarios, para mantenerse seguro y ahorrar energía.
-- Controla los dispositivos desde cualquier lugar con tu smartphone. No hay necesidad de preocuparse si se deja encendido un dispositivo eléctrico mientras no hay nadie en casa. Simplemente apágalo o controla otros dispositivos desde donde estés mediante tu smartphone.
-- Dota de conectividad tus dispositivos cotidianos: lámparas, ventiladores, etc. Controla lámparas normales, luces decorativas, ventiladores, la cafetera y más. Con WiZ podrás controlar los dispositivos, sólo tienen que estar encendidos para conectarse y reaccionar a la aplicación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
