@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TAPO C210 - Cámara Vigilancia 360°  Resolución 3MP  Visión Nocturna hasta 9 m  Audio Bidireccional  Detección Movimiento  Admite Tarjeta SD  Control Remoto  Compatible con Alexa  Color Blanco'
-date: 2022-12-20 19:33:07
+date: 2022-12-23 22:51:58
 image: 'https://m.media-amazon.com/images/I/41sAMxJyGTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GRAN ANGULAR DE VISÍON -Área horizontal de 360° para una visión detallada del hogar
-- VISIÓN NOCTURNA AMPLIADA - Incluso por la noche la cámara puede alcanzar un alcance de visión de hasta 9 metros
-- ADMITE GRABACIÓN EN BUCLE: Almacena localmente hasta 256 GB en una tarjeta microSD, lo que equivale a 512 horas (21 días) de metraje. (Basado en condiciones de laboratorio)
-- INTERFAZ DE OPERACIÓN SIMPLE -Con la App TAPO para Android/IOS puedes configurar fácilmente el calendario, verificar videos anteriores, verificar múltiples vistas al mismo tiempo y dar acceso a otros usuarios
-- AUDIO BIDIRECCIONAL - Comunícate con los demás al micrófono y altavoces incorporados
-- ALARMA DE SONIDO Y LUZ - ¿Invitado inesperado? activa los efectos de luz y sonido para ahuyentar
-- TAPO CARE - Opción a suscripción de grabación de video en la nube. Se trata de una prueba "gratuita de 30 días" de almacenamiento en la nube, después de eso, se requerirá un pago adicional si desea mantener este servicio
-- DETECCIÓN Y MOVIMIENTO - Reciba notificaciones al instante de la aplicación cuando se intercepta un movimiento; TP-link proporciona una función avanzada para configurar el tiempo de grabación específico
-- CÁLIDAD DE VIDEO RESOLUCIÓN 3MP - Captura cada detalle en una resolución ultra nítida de 3 MP
+- TAPO C210
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
