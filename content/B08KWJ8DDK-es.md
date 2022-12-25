@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Funciona con cualquier router u operadora, configuración Plug&Play y gestión desde la app mydlink, no necesita ordenador.
+- Vea y escuche en directo desde la app mydlink, también puede usar el control por voz con Amazon Alexa y Google Assistant o interactuar con los enchufes inteligentes de D-Link mydlink.
 - Detección de movimiento y sonido que envía una notificación emergente con foto al móvil e inicia la grabación en la nube de un clip.
 - Resolución Full HD, amplio ángulo de visión de 110° y visión nocturna.
-- Funciona con cualquier router u operadora, configuración Plug&Play y gestión desde la app mydlink, no necesita ordenador.
 - Modos de uso con 1 solo clic; modo "privacidad" si está en casa para desactivar el streaming de la cámara, modo "fuera" para activar el streaming y la notificación push y grabación en la nube si detecta movimiento o sonido.
-- Vea y escuche en directo desde la app mydlink, también puede usar el control por voz con Amazon Alexa y Google Assistant o interactuar con los enchufes inteligentes de D-Link mydlink.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
