@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DEATTI Camera Vigilancia WiFi Exterior Color  2K Cámara de Seguridad Exterior com Batteries Rechargeable  360° Pan&Tilt  Detección de Movimiento PIR  Alarma de Luz y Sonido  Compatible con Alexa'
-date: 2022-12-18 17:31:36
+date: 2022-12-29 11:02:16
 image: 'https://m.media-amazon.com/images/I/41QsFBk83EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DEATTI'
 buyurl: 'https://www.amazon.es/dp/B08JYYCBJW/?tag=tolees-21'
 descuento: '25.00'
-average: '101.09'
+average: '100.080909090909'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detección inteligente de movimiento PIR: Camara vigilancia sensor movimiento, El sensor PIR sensible identifica cada peligro potencial en su hogar. Por la noche, cuando la cámara vigilancia batería detecta un cuerpo humano, activará inmediatamente el dispositivo de alarma audible y visual para repeler al intruso, y también recibirá una notificación de alerta inmediatamente.
-- Visualización en Vivo: Puede compartir su alarmas para casa wifi con su familia sin preocuparse por las fugas, pueden acceder a las cámaras de seguridad y ver videos en vivo con usted en cualquier momento y en cualquier lugar. Viene con una garantía limitada de 1 año para un mejor servicio.
-- HD 2K/ 4x zoom digital: Esta cámara de vigilancia puede girar 350 ° horizontalmente, 90 ° verticalmente y zoom digital 4x, para mostrarle todo en 2K HD, incorporados para proporcionar imágenes claras de vigilancia en color . Le ofrece una vista de 360° y supervisa cada rincón de su casa o tienda, sin puntos ciegos. Además, los videos se guardan en la tarjeta micro SD insertada (hasta 128GB, No incluida) o en el almacenamiento en la nube.
 - Audio Bidireccional y Visualización en Vivo: El micrófono y el altavoz incorporados en la cámara de vigilancia para exteriores permiten la comunicación bidireccional con la persona que está delante de la cámara. El diseño a prueba de agua IP65 puede soportar la lluvia, el polvo, la nieve y el sol. Camara de vigilancia exterior con WiFi de 2,4 GHz (Wi-Fi de 5 GHz no compatible).
 - Sin Cables y Funciona con Energía Solar: Con batería recargable y panel solar, por lo que no necesita preocuparse de que la cámara con batería para exteriores no funcione debido a una fuente de alimentación insuficiente. (Instale el panel solar en un lugar soleado)
+- Visualización en Vivo: Puede compartir su alarmas para casa wifi con su familia sin preocuparse por las fugas, pueden acceder a las cámaras de seguridad y ver videos en vivo con usted en cualquier momento y en cualquier lugar. Viene con una garantía limitada de 1 año para un mejor servicio.
+- Detección inteligente de movimiento PIR: Camara vigilancia sensor movimiento, El sensor PIR sensible identifica cada peligro potencial en su hogar. Por la noche, cuando la cámara vigilancia batería detecta un cuerpo humano, activará inmediatamente el dispositivo de alarma audible y visual para repeler al intruso, y también recibirá una notificación de alerta inmediatamente.
+- HD 2K/ 4x zoom digital: Esta cámara de vigilancia puede girar 350 ° horizontalmente, 90 ° verticalmente y zoom digital 4x, para mostrarle todo en 2K HD, incorporados para proporcionar imágenes claras de vigilancia en color . Le ofrece una vista de 360° y supervisa cada rincón de su casa o tienda, sin puntos ciegos. Además, los videos se guardan en la tarjeta micro SD insertada (hasta 128GB, No incluida) o en el almacenamiento en la nube.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
