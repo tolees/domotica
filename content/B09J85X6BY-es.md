@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Control por Voz: Enchufe inteligente wifi compartible con Alexa, google assistant. Puede controlar sus electrodomésticos a través de comandos de voz, como "Alexa, apague el aire acondicionado en dos horas. Estamos comprometidos a hacer que su hogar sea más inteligente y conveniente.(sólo 2.4Hz wifi)
 - Monitoreo de Consumo: a través de la aplicación móvil exclusiva del enchufe inteligente wifi, puede vigilar consumo de energía de los aparatos eléctricos conectados al enchufe wifi en tiempo real. Los componentes de ahorro de energía ultraeficientes lo ayudan a ahorrar energía hasta en un 10%.
+- Horario y Temporizador: El enchufe temporizador tiene funciones de temporización y cuenta regresiva. con la aplicación móvil, puede configurar libremente la hora de acuerdo con su horario. Por ejemplo, configure la luz para que se encienda a las seis en punto todas las noches y la máquina de café se apagará después de dos minutos.
 - ¡No recupere ni reinstale el sistema! La aplicación tiene protección de privacidad.
 - Crear Grupo y Compartir con familia: establecer un grupo donde todos los mienbros de familia puedan controlar los enchufes inteligentes. Comparta este enchufe programable wifi que funciona con alexa a todos los miembros de la familia en un minuto. No más preocupaciones, todos pueden controlarlas fácilmente.
-- Control por Voz: Enchufe inteligente wifi compartible con Alexa, google assistant. Puede controlar sus electrodomésticos a través de comandos de voz, como "Alexa, apague el aire acondicionado en dos horas. Estamos comprometidos a hacer que su hogar sea más inteligente y conveniente.(sólo 2.4Hz wifi)
-- Horario y Temporizador: El enchufe temporizador tiene funciones de temporización y cuenta regresiva. con la aplicación móvil, puede configurar libremente la hora de acuerdo con su horario. Por ejemplo, configure la luz para que se encienda a las seis en punto todas las noches y la máquina de café se apagará después de dos minutos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
