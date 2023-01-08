@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock E5 Robot Vacuum and Mop  2500Pa de Fuerte succión  Deposito de Polvo 640ml y Agua 180ml  Wi-Fi  Control de App  Funciona con Alexa - Negro  R100013 '
-date: 2023-01-06 22:06:30
+date: 2023-01-07 22:45:03
 image: 'https://m.media-amazon.com/images/I/41fmH1oKVuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'roborock'
 buyurl: 'https://www.amazon.es/dp/B09BFHMHG6/?tag=tolees-21'
 descuento: '51.65'
-average: '172.324444444444'
+average: '170.971'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
