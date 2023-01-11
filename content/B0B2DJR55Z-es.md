@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4K HDR: reproduce con precisión los tonos claros y oscuros con colores precisos e imágenes con detalles deslumbrantes.
+- GOOGLE TV para un entretenimiento fácil e ilimitado. Todo el contenido que te gusta, exactamente como lo quieres.
 - HDR10: Entretenimiento sin fin con la máxima calidad HDR.
 - DOLBY AUDIO: Haz que tu TV tenga un sonido más rico que nunca.
 - GOOGLE ASSISTANT & ALEXA: Con tu voz, puedes elegir contenidos, iniciar aplicaciones, encender el televisor, cambiar de entrada, buscar películas y mucho más.
-- GAME MASTER: Con HDMI 2.1, y ALLM, experimentarás la menor latencia y los mejores ajustes de imagen para los juegos, automáticamente.
-- GOOGLE TV para un entretenimiento fácil e ilimitado. Todo el contenido que te gusta, exactamente como lo quieres.
 - MEJORA DEL COLOR: para una calidad de imagen similar a la del HDR.
+- 4K HDR: reproduce con precisión los tonos claros y oscuros con colores precisos e imágenes con detalles deslumbrantes.
+- GAME MASTER: Con HDMI 2.1, y ALLM, experimentarás la menor latencia y los mejores ajustes de imagen para los juegos, automáticamente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
