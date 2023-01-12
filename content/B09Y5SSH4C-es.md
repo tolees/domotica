@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Audio bidireccional】Equipado con un micrófono incorporado y un altavoz que le permite hablar y escuchar a su bebé. Trabaja con Alexa y Google Assistant.
-- 【Almacenamiento seguro】Puede almacenar datos de imagen en una tarjeta SD o almacenamiento en la nube de hasta 128 GB. Con la avanzada tecnología de cifrado protegerá todos los datos almacenados y solo podrán ser vistos por usted.
 - 【Detección de movimiento】Una notificación push con video se envía a su teléfono inteligente y a su aplicación, todas las advertencias se graban según la fecha.
-- 【Cubierta de 360° y seguimiento inteligente】La cámara de vigilancia cuenta con una función de pista inteligente que se puede ajustar automáticamente al monitorear un estado anormal. Cubra cada ángulo con una rotación horizontal de 355 ° y 90 °.
+- 【Almacenamiento seguro】Puede almacenar datos de imagen en una tarjeta SD o almacenamiento en la nube de hasta 128 GB. Con la avanzada tecnología de cifrado protegerá todos los datos almacenados y solo podrán ser vistos por usted.
 - 【1080P FHD y visión nocturna】La imagen de la cámara de vigilancia es clara y lisa y se puede controlar en la aplicación YI IOT. La cámara puede proporcionar una distancia de visión nocturna de 9 m. La cámara funciona con frecuencia dual WIFI de 2,4 GHz/5 GHz
+- 【Audio bidireccional】Equipado con un micrófono incorporado y un altavoz que le permite hablar y escuchar a su bebé. Trabaja con Alexa y Google Assistant.
+- 【Cubierta de 360° y seguimiento inteligente】La cámara de vigilancia cuenta con una función de pista inteligente que se puede ajustar automáticamente al monitorear un estado anormal. Cubra cada ángulo con una rotación horizontal de 355 ° y 90 °.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

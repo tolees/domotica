@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 【2K QHD & Protección 24/7】Grabación de imagen y video con calidad 2K tanto de día como de noche. Los efectos visuales potentes y claros brindan una calidad de video estable y segura. El modo de visión nocturna se enciende y apaga automáticamente. La cámara de vigilancia wifi interior puede proporcionarle una imagen clara en blanco y negro por la noche y le permite ver hasta 10 metros.
-- 【Seguimiento inteligente + automático】--- La cámara de seguridad de interior tiene la función de seguimiento automático, cuando se detecta el movimiento, la cámara de seguridad 360 rastreará y seguirá automáticamente los objetos en movimiento; y grabará los objetos en movimiento.
 - 【Vista panorámica de 360°】--- La cámara 360 puede girar 360° horizontalmente e inclinarse 155° verticalmente para obtener una visión clara de toda la habitación. La función de mirada redonda de 360 grados puede grabar lugares importantes en la habitación, puede comprobar fácil y rápidamente los lugares que desea ver.
-- 【5GHz/2.4GHz WiFi】--- La cámara de niñera de interior soporta 5GHz/2.4GHz WiFi, puede instalar fácilmente su propio sistema de cámaras de seguridad para el hogar. No se requiere una cuota de suscripción.
 - 【Lamadas con un solo toque】--- ponte en contacto rápidamente cuando lo necesites con un clic fácil para la "marca de teléfono" en la cámara interior Aosu. Disfruta de una conversación en tiempo real con tus seres queridos. Ver y hablar sin límites para el lugar. El monitor de bebé Aosu es la opción considerada para tus pequeños.
+- 【5GHz/2.4GHz WiFi】--- La cámara de niñera de interior soporta 5GHz/2.4GHz WiFi, puede instalar fácilmente su propio sistema de cámaras de seguridad para el hogar. No se requiere una cuota de suscripción.
+- 【Seguimiento inteligente + automático】--- La cámara de seguridad de interior tiene la función de seguimiento automático, cuando se detecta el movimiento, la cámara de seguridad 360 rastreará y seguirá automáticamente los objetos en movimiento; y grabará los objetos en movimiento.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
