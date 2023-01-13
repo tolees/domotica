@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fácil instalación. Tapo S220 no necesita cable neutro para hacer más sencilla su instalación.
+- [PRECAUCIÓN] Debe usarse con Tapo Hub (por ejemplo, Tapo H100)
 - Control por App. Enciende y apaga las luces desde cualquier lugar con la App Tapo.
 - Modo Ausente. Tapo enciende y apaga automáticamente las luces a diferentes horas para que parezca que hay gente en casa.
 - Control por voz. Controla el interruptor directamente con comandos de voz a través de Amazon Alexa o el Asistente de Google.
 - Horarios. Define horarios de encendido y apagado automático de luces.
-- [PRECAUCIÓN] Debe usarse con Tapo Hub (por ejemplo, Tapo H100)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
