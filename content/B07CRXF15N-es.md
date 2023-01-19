@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con la App Tenda Wifi, puedes establecer acceso de invitados, bloquear dispositivos, control parental y/o dar prioridad a distintos dispositivos de la red
+- Admite hasta 90 dispositivos conectados al mismo tiempo sin retardos ni interrupciones en la red gracias a la tecnología MU-MIMO
 - Requisitos del sistema Android 4.0 /iOS 8
 - Conexión inalámbrica de 165 metros de cobertura, puedes agregar hasta 9 nodos para conseguir para alcanzar mas de 1000 metros cuadrados de cobertura
-- Admite hasta 90 dispositivos conectados al mismo tiempo sin retardos ni interrupciones en la red gracias a la tecnología MU-MIMO
-- Con la App Tenda Wifi, puedes establecer acceso de invitados, bloquear dispositivos, control parental y/o dar prioridad a distintos dispositivos de la red
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CRXF15N{{</world>}}
