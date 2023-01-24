@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Imou 360° Cámara Vigilancia WiFi Exterior  PTZ Cámara IP 1080P  AI Detección de Humana  Seguimiento Automático  Sirena  Visión Nocturna Color 30M  Audio Bidireccional  IP66  Compatible con Alexa'
-date: 2023-01-23 04:51:09
+date: 2023-01-24 05:43:16
 image: 'https://m.media-amazon.com/images/I/217MDCqXLcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Imou'
 buyurl: 'https://www.amazon.es/dp/B08BXZY1D2/?tag=tolees-21'
 descuento: '15.00'
-average: '48.5809090909091'
+average: '48.4455555555556'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
