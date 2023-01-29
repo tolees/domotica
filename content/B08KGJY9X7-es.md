@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ledvance Luz de jardín LED inteligente con tecnología WiFi  extensión por 3 mini postes de jardín para exterior  colores RGB intercambiables  compatible con Google y Alexa  SMART+ WIFI GARDPOLE MINI'
-date: 2023-01-27 16:55:01
+date: 2023-01-29 11:37:54
 image: 'https://m.media-amazon.com/images/I/41IvhE6tPwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología LED más novedosa y sostenible, no incluye bombilla normal
-- Temperatura del color: 3, 000 K,blanco cálido
-- Controlable a través de la aplicación Ledvance SMART+, con android 6.0 y posterior
-- Regulable
-- Regulable RGB; hasta 16 millones de colores
 - El producto tiene la fuente de luz extraíble; estos productos pueden desmontarte para revisar de forma separada la fuente de luz contenida
+- Temperatura del color: 3, 000 K,blanco cálido
+- Tecnología LED más novedosa y sostenible, no incluye bombilla normal
+- Regulable
+- Controlable a través de la aplicación Ledvance SMART+, con android 6.0 y posterior
+- Regulable RGB; hasta 16 millones de colores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KGJY9X7{{</world>}}
