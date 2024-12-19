@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cámara de vigilancia con micrófono y altavoz integrados que permiten el audio de dos vías, para hablar a través de ella y escuchar lo que está sucediendo; adecuada como sistema de seguridad para la detección de intrusiones y vigilancia de tu casa, jardín, garaje…
-- Puede ser controlada a través de las apps Garza Smart, Tuya Smart y Smart Life, desde tu dispositivo móvil o tablet; aplicaciones disponibles en Google Play y Apple Store; controla la cámara desde varios dispositivos
-- Visión nocturna que permite detectar en la oscuridad a una distancia de entre 6 y 10 metros gracias a su tecnología de infrarrojos
 - Compatible solo con Wifi 2,4GHz (No funciona con red de 5GHz)
-- Desliza hasta la sección de "Guías y documentos de productos" y podrás ver el manual de instalación y dato técnicos del producto, así como la información de atención al cliente en formato PDF
+- Cámara de vigilancia con micrófono y altavoz integrados que permiten el audio de dos vías, para hablar a través de ella y escuchar lo que está sucediendo; adecuada como sistema de seguridad para la detección de intrusiones y vigilancia de tu casa, jardín, garaje…
 - Cámara de seguridad Wifi Exterior para el hogar; con alta definición 1080P HD; protección completa con ángulo de rotación horizontal de 360 º y vertical de 155 º. Ángulo de visión de la lente de 80 º, con hasta 4 aumentos (Zoom x4)
+- Desliza hasta la sección de "Guías y documentos de productos" y podrás ver el manual de instalación y dato técnicos del producto, así como la información de atención al cliente en formato PDF
+- Con detector de movimiento PIR (con sensibilidad ajustable); recibe notificaciones con imagen al instante en tu dispositivo cuando la cámara detecte movimiento; función de programación de horario con la app para los avisos de movimiento
+- Visión nocturna que permite detectar en la oscuridad a una distancia de entre 6 y 10 metros gracias a su tecnología de infrarrojos
+- Configuración e instalación sencilla; cuenta con un soporte, cable de alimentación y tornillos para colocar en pared o techo
+- Puede ser controlada a través de las apps Garza Smart, Tuya Smart y Smart Life, desde tu dispositivo móvil o tablet; aplicaciones disponibles en Google Play y Apple Store; controla la cámara desde varios dispositivos
 - Guarda y visualiza las fotos y grabaciones de video en la aplicación de tu dispositivo o bien en una tarjeta MicroSD de máx. 64Gb (No incluida; se accede a la ranura girando el visor de la cámara hacia arriba)
 - Con grado de protección IP65 que la hace impermeable y compatible con cualquier inclemencia meteorológica
-- Con detector de movimiento PIR (con sensibilidad ajustable); recibe notificaciones con imagen al instante en tu dispositivo cuando la cámara detecte movimiento; función de programación de horario con la app para los avisos de movimiento
-- Configuración e instalación sencilla; cuenta con un soporte, cable de alimentación y tornillos para colocar en pared o techo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZTVZBZ2{{</world>}}
