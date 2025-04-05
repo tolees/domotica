@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 💡【 Escena Inteligente 】 Cree escenas inteligentes para que un dispositivo SONOFF pueda activar o desa
-- 💡【 Control Remoto Mediante Radiofrecuencia y la Aplicación 】 La aplicación eWeLink APP permite contro
 - 💡【 Control por Voz con Manos Libres 】 SONOFF T3EU1C El interruptor Wi-Fi es compatible con Amazon Ale
-- 💡【 NOTA 】 1. Corte la corriente antes de instalar el dispositivo. 2. Se necesita cable neutro para e
 - 💡【 Programar el Control Automático 】 Es posible encender o apagar una lámpara en un momento específi
+- 💡【 Control Remoto Mediante Radiofrecuencia y la Aplicación 】 La aplicación eWeLink APP permite contro
+- 💡【 Escena Inteligente 】 Cree escenas inteligentes para que un dispositivo SONOFF pueda activar o desa
+- 💡【 NOTA 】 1. Corte la corriente antes de instalar el dispositivo. 2. Se necesita cable neutro para e
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07T6DP46N{{</world>}}

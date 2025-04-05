@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botón de melodía: el dispositivo también se puede utilizar como timbre cuando se conecta al concentrador Aqara, que ofrece una selección de diferentes melodías. Además, Aqara ofrece 12 meses de servicio posventa. Si tienes alguna pregunta, no dudes en contactar con nosotros.
-- Control táctil único: un mando a distancia versátil para controlar tus dispositivos domésticos inteligentes
-- Botón de emergencia: en caso de una emergencia en el hogar, tus seres queridos pueden presionar el botón para enviar una notificación de alerta a tu dispositivo o activar la alarma sonora del concentrador Aqara en otra habitación.
 - 3 ajuste de control: configura una presión única, una presión doble y una presión larga para controlar las funciones programables, como encender y apagar un dispositivo, activar un ambiente, etc.
 - ✽ Notas: este dispositivo requiere un Hub de Domótica Aqara para funcionar. Se necesita una conexión de red wifi segura de 2,4 GHz. Un Hub de Domótica Aqara puede conectar hasta 32 dispositivos Aqara.
+- Botón de melodía: el dispositivo también se puede utilizar como timbre cuando se conecta al concentrador Aqara, que ofrece una selección de diferentes melodías. Además, Aqara ofrece 12 meses de servicio posventa. Si tienes alguna pregunta, no dudes en contactar con nosotros.
+- Botón de emergencia: en caso de una emergencia en el hogar, tus seres queridos pueden presionar el botón para enviar una notificación de alerta a tu dispositivo o activar la alarma sonora del concentrador Aqara en otra habitación.
+- Control táctil único: un mando a distancia versátil para controlar tus dispositivos domésticos inteligentes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07D19YXND{{</world>}}

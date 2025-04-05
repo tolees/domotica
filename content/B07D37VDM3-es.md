@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Domótica: el Aqara Sensor de Puertas y Ventanas puede controlar otros dispositivos conectados con Aqara cuando cambia el estado de la puerta o la ventana.
-- Detección de entrada no autorizada: cuando la puerta/ventana se abre inesperadamente, el Aqara Sensor de Puertas y Ventanas envía una notificación de alerta a tu teléfono y activa la alarma local del concentrador Aqara.
 - Control de voz: es compatible con Apple HomeKit y Alexa para disfrutar de una experiencia de manos libres. Además, Aqara ofrece 12 meses de servicio posventa. Si tienes alguna pregunta, no dudes en contactar con nosotros.
+- Detección de entrada no autorizada: cuando la puerta/ventana se abre inesperadamente, el Aqara Sensor de Puertas y Ventanas envía una notificación de alerta a tu teléfono y activa la alarma local del concentrador Aqara.
 - Apertura de 22 mm de ancho autorizada: el Aqara Sensor de Puertas y Ventanas funciona con la mayoría de los tipos de puertas, ventanas y otros dispositivos con un mecanismo similar, como cajones, armarios, etc.
+- Domótica: el Aqara Sensor de Puertas y Ventanas puede controlar otros dispositivos conectados con Aqara cuando cambia el estado de la puerta o la ventana.
 - ✽ Notas: requiere un Hub de Domótica Aqara (vendido por separado). Se necesita una conexión de red wifi segura de 2,4 GHz. Un concentrador Aqara puede conectar hasta 32 dispositivos Aqara.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

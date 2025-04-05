@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Luz blanca cálida; con una temperatura de 2700K, crea un ambiente acogedor en casa y espacios públicos
-- Luminosidad regulable; se puede ajustar la intensidad de la luz del 1% al 100%
-- Casquillo GU10; optimo para bajo consumo de energía con la tecnología LED sustituyendo luces halógenas
 - 350 lúmenes; luz brillante para iluminar habitaciones y salones
+- Casquillo GU10; optimo para bajo consumo de energía con la tecnología LED sustituyendo luces halógenas
+- Luz blanca cálida; con una temperatura de 2700K, crea un ambiente acogedor en casa y espacios públicos
 - La tecnología LED tiene un reducido consumo energético
+- Luminosidad regulable; se puede ajustar la intensidad de la luz del 1% al 100%
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BFJCDQDZ{{</world>}}

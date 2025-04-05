@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ⚡【Offline Control】Incluso si el router está desconectado de Internet, puede seguir controlando el enchufe Wi-Fi a través de la App Meross siempre y cuando el Smart Plug y su teléfono sigan conectados a la misma Wi-Fi.
-- ⚡【Time Schedule & Scene】 (Horario y Escena) Establezca la hora para encender o apagar el Enchufe Temporizador, el Enchufe Inteligente funcionará automáticamente a la hora preestablecida y admite la salida y la puesta del sol. Control de grupo de Meross sockets a través de funciones de escena.
-- ⚡【Medir el Consumo de Energía】El enchufe inteligente Meross mide el consumo de energía en tiempo real, puedes ver los datos de consumo de energía semanal, mensual o anual de tu electrodoméstico en la app Meross, ayudándote a entender mejor tu consumo de energía y ahorrar de forma más efectiva en tu factura de la luz. 🌞 Además, se puede medir la producción de electricidad, adecuada para monitorear los Paneles Solares Fotovoltaicos del balcón.
-- ⚡【App Remote Control】Smart Home socket se puede controlar en cualquier lugar con conexión a internet a través de la App Meross (no requiere hub).Se requiere un dispositivo Home Hub para el control remoto Siri.
 - ⚡【Control por voz】 La toma de corriente WiFi funciona con Apple Home, Alexa y Google Home, utilice comandos de voz para encender o apagar los dispositivos conectados al enchufe inteligente.
+- ⚡【Offline Control】Incluso si el router está desconectado de Internet, puede seguir controlando el enchufe Wi-Fi a través de la App Meross siempre y cuando el Smart Plug y su teléfono sigan conectados a la misma Wi-Fi.
+- ⚡【App Remote Control】Smart Home socket se puede controlar en cualquier lugar con conexión a internet a través de la App Meross (no requiere hub).Se requiere un dispositivo Home Hub para el control remoto Siri.
+- ⚡【Medir el Consumo de Energía】El enchufe inteligente Meross mide el consumo de energía en tiempo real, puedes ver los datos de consumo de energía semanal, mensual o anual de tu electrodoméstico en la app Meross, ayudándote a entender mejor tu consumo de energía y ahorrar de forma más efectiva en tu factura de la luz. 🌞 Además, se puede medir la producción de electricidad, adecuada para monitorear los Paneles Solares Fotovoltaicos del balcón.
+- ⚡【Time Schedule & Scene】 (Horario y Escena) Establezca la hora para encender o apagar el Enchufe Temporizador, el Enchufe Inteligente funcionará automáticamente a la hora preestablecida y admite la salida y la puesta del sol. Control de grupo de Meross sockets a través de funciones de escena.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BTN92HVC{{</world>}}

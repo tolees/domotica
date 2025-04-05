@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 📣 Vinculación de alarmas - Cuando la alarma detecta humo/altas temperaturas, las alarmas conectadas bajo el mismo concentrador emiten un pitido para recordárselo. Un concentrador puede controlar simultáneamente 16 dispositivos meross (inh. sensores, detectores, válvulas termostáticas).
 - 📣 Compatible con Apple HomeKit（iOS 13 o posterior）y SmartThings. Control de dispositivos compatibles a través de la app Meross y Apple Home (Apple Watch / Apple TV / HomePod). Los usuarios de Android utilizan la aplicación Meross en Android 6.0 o superior.
-- Nota: Por favor tenga en cuenta que la cobertura de la señal de nuestro centro es de 100M (desbloqueada). Si el concentrador se coloca en un armario u otra habitación, la cobertura se verá comprometida y la conexión se volverá inestable.
-- 📣 Detección de humo y sobrecalentamiento: además de la detección de humo, también puede detectar el sobrecalentamiento. Cuando la temperatura es demasiado alta (54 - 70 ℃), emitirá un pitido para recordárselo. Además, hay un aviso de batería baja. Alarma de 85 dB como máximo.
 - 📣 Alerta en tiempo real: cuando se detecten altas temperaturas o humo denso, la aplicación Meross o la aplicación Apple Home recibirán una notificación inmediata. Aunque no esté en casa, puede recibir información puntual sobre la alarma.
+- 📣 Vinculación de alarmas - Cuando la alarma detecta humo/altas temperaturas, las alarmas conectadas bajo el mismo concentrador emiten un pitido para recordárselo. Un concentrador puede controlar simultáneamente 16 dispositivos meross (inh. sensores, detectores, válvulas termostáticas).
+- 📣 Detección de humo y sobrecalentamiento: además de la detección de humo, también puede detectar el sobrecalentamiento. Cuando la temperatura es demasiado alta (54 - 70 ℃), emitirá un pitido para recordárselo. Además, hay un aviso de batería baja. Alarma de 85 dB como máximo.
+- Nota: Por favor tenga en cuenta que la cobertura de la señal de nuestro centro es de 100M (desbloqueada). Si el concentrador se coloca en un armario u otra habitación, la cobertura se verá comprometida y la conexión se volverá inestable.
 - 📣 Automatización de todo el hogar: establezca activadores para controlar otros dispositivos de Meross en la aplicación de Meross. Por ejemplo, encienda la bombilla de Meross en el pasillo cuando suene el detector de humo. Más métodos de uso están esperando a ser desbloqueados por usted.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ❤️Controlo de voz mãos livres: o SONOFF S26R2 é compatível com Amazon Alexa (Amazon Echo / Echo Dot / Amazon Tap) e Google
-- ❤️Controlo remoto da aplicação: controlo remoto dos seus eletrodomésticos e dispositivos através da aplicação eWeLink num smartphone ou tablet. Sem limitação de distância/tempo.
 - ❤️Fácil de usar: basta ligar um dispositivo à tomada inteligente e ligá-lo à sua rede Wi-Fi.
 - ❤️Nota: o router deve ser de 2,4 GHz (não é compatível com Wi-Fi de 5,0 GHz), mas não há limitação para a rede de smartphones (a rede 2G, 3G, 4G, Wi-Fi é correta).
 - ❤️Função sincronizada e poupança de energia: configure temporizadores de contagem decrescente / simples / repetição para ligar / desligar automaticamente a tomada inteligente conforme necessário.
+- ❤️Controlo remoto da aplicação: controlo remoto dos seus eletrodomésticos e dispositivos através da aplicação eWeLink num smartphone ou tablet. Sem limitação de distância/tempo.
+- ❤️Controlo de voz mãos livres: o SONOFF S26R2 é compatível com Amazon Alexa (Amazon Echo / Echo Dot / Amazon Tap) e Google
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JSM3K9Q{{</world>}}

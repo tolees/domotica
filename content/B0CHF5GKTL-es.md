@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entretenimiento sin límites: disfruta de la televisión en directo y de apps como Netflix, Prime Video, Movistar +, Disney+, YouTube, DAZN, Atresplayer, Mitele, RTVE Play y muchos más (Pueden aplicarse cargos de suscripción)
 - Televisor hogareño
+- Entretenimiento sin límites: disfruta de la televisión en directo y de apps como Netflix, Prime Video, Movistar +, Disney+, YouTube, DAZN, Atresplayer, Mitele, RTVE Play y muchos más (Pueden aplicarse cargos de suscripción)
 - Ofrece sonido e imagen
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

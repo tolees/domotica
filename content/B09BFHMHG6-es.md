@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Superación de obstáculos de hasta 20 mm (rodapiés, alfombras, etc.)
-- Planificación inteligente del recorrido a través de mapas de la sala con zonas de bloqueo de aspiración y limpieza mediante cinta magnética disponible por separado.
+- Mopa extraíble y lavable y filtro E11
+- Función de aspiración con una alta potencia de aspiración de 2.500 Pa
 - Mando a distancia para utilizar Roborock sin la aplicación
 - Contenedor de polvo muy grande con capacidad de 640 ml
-- Limpieza programada o en tiempo real a voluntad
-- Función de aspiración con una alta potencia de aspiración de 2.500 Pa
-- Visualización del mapa después de la limpieza
-- Mopa extraíble y lavable y filtro E11
-- Función de limpieza con un volumen de agua de limpieza de 180 ml y ajuste de humidificación en dos etapas
+- Superación de obstáculos de hasta 20 mm (rodapiés, alfombras, etc.)
 - Forma del elemento: Redondo
+- Limpieza programada o en tiempo real a voluntad
+- Función de limpieza con un volumen de agua de limpieza de 180 ml y ajuste de humidificación en dos etapas
+- Visualización del mapa después de la limpieza
+- Planificación inteligente del recorrido a través de mapas de la sala con zonas de bloqueo de aspiración y limpieza mediante cinta magnética disponible por separado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BFHMHG6{{</world>}}

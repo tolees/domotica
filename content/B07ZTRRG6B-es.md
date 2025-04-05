@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye un sensor de movimiento con ángulo de detección 110º , un sensor de apertura de puertas o ventanas y un mando a distancia para control remoto con opción de armado/desarmado de alarma y función SOS. Pilas incluidas en todos los accesorios
+- Recibe alertas y activa la alarma sonora y visual (luz intermitente) del Hub como elemento disuasorio desde la app
 - La alarma cuenta con una batería interna de seguridad de litio (con indicador de batería baja) de hasta 8 horas de duración, para permitir su continuo funcionamiento incluso con cortes de energía
-- Completa la instalación añadiendo hasta 24 detectores de apertura o movimiento y hasta 8 mandos a distancia
-- Compatible solo con Wifi 2,4GHz (No funciona con red de 5GHz)
+- Incluye un sensor de movimiento con ángulo de detección 110º , un sensor de apertura de puertas o ventanas y un mando a distancia para control remoto con opción de armado/desarmado de alarma y función SOS. Pilas incluidas en todos los accesorios
 - Control remoto a través de las apps Garza Smart, Tuya Smart y Smart Life. Recibe notificaciones en tu móvil o tablet. Controla tu sistema de alarma desde varios dispositivos
+- Compatible solo con Wifi 2,4GHz (No funciona con red de 5GHz)
+- Completa la instalación añadiendo hasta 24 detectores de apertura o movimiento y hasta 8 mandos a distancia
 - Con sistema antimanipulación para que suene la alarma si intentan desconectarla de la corriente
 - Kit de protección antirrobo para casa con una unidad central con sirena de gran potencia de 120 dB (volumen regulable). La alarma se conecta vía Wifi al router y funciona como Gateway conectándose por radiofrecuenta con el resto de sensores. De este modo se puede colocar en diferentes zonas en casas con varios pisos
-- Recibe alertas y activa la alarma sonora y visual (luz intermitente) del Hub como elemento disuasorio desde la app
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZTRRG6B{{</world>}}

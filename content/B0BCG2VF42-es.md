@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ⚡【Control por Voz】Enchufe Inteligente WiFi Compatible conAlexa y Google Home, encienda o apague los dispositivos conectados a la Enchufe Alexa con control por voz.
+- ⚡【Control Remoto】 Usando la app Meross, el enchufe doméstico inteligente se puede controlar en cualquier lugar con conexión a Internet. Este enchufe Alexa es configurable a través de Bluetooth para una conexión más rápida y estable. (Requiere red de 2,4 GHz, no necesita hub).
 - ⚡【Monitor de Energía】La aplicación Meross puede mostrar el consumo medio, máximo y total de electricidad por semana, mes o año. Para ello, introduzca el coste por kWh y se mostrará el importe total. Nota: Estos datos son sólo de referencia y el cargo real de electricidad dependerá de su factura de comercio electrónico.
 - ⚡【Función de Temporización y Escena】Establezca la hora para encender o apagar la toma de corriente Bluetooth inteligente, y la toma de corriente inteligente funcionará automáticamente a la hora preestablecida. Utilice la función de escena para controlar los enchufes Meross en grupos.
 - ⚡【Offline Control】Aunque el router esté desconectado de Internet, podrás controlar el Enchufe Inteligente a través de la app Meross siempre que el Enchufe Inteligente y tu teléfono móvil sigan conectados a la misma LAN inalámbrica.
-- ⚡【Control Remoto】 Usando la app Meross, el enchufe doméstico inteligente se puede controlar en cualquier lugar con conexión a Internet. Este enchufe Alexa es configurable a través de Bluetooth para una conexión más rápida y estable. (Requiere red de 2,4 GHz, no necesita hub).
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BCG2VF42{{</world>}}
