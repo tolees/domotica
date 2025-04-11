@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este pack incluye el sensor de movimiento Philips Hue además de un par de pilas necesarias para su funcionamiento
-- El sensor de movimiento Philips Hue tiene un Angulo de apertura de 100 grados y hasta 5 metros de alcance
 - 2 pilas AAA Grado de protección internacional: IP42
-- Con el sistema Philips Hue podrás programar y personalizar la decoración de tu casa a través de la iluminación
 - Compatible con los asistentes de voz de Amazon Alexa, Google Home y Apple HomeKit
+- Con el sistema Philips Hue podrás programar y personalizar la decoración de tu casa a través de la iluminación
 - El sensor de movimiento Philips Hue te permite encender las luces de tu casa de forma automática al detectar tu presencia
+- El sensor de movimiento Philips Hue tiene un Angulo de apertura de 100 grados y hasta 5 metros de alcance
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09CV78GV1{{</world>}}

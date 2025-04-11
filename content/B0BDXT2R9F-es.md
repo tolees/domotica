@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONTROL POR APP - Enciende y apaga las luces desde cualquier lugar con la App Tapo.
-- CONTROL POR VOZ - Controla el interruptor directamente con comandos de voz a través de Amazon Alexa o el Asistente de Google.
-- HORARIOR PROGRAMABLE - Define horarios de encendido y apagado automático de luces fácilmente.
-- FÁCIL INSTALACIÓN -Tapo S210 no necesita cable neutro para hacer más sencilla su instalación.
-- MODO AUSENTE - Tapo enciende y apaga automáticamente las luces a diferentes horas para que parezca que hay gente en casa.
 - INTERCAMBIO DE PILA SENCILLO - Puedes cambiar la pila fácilmente después de la instalación sin necesidad de herramientas.
+- FÁCIL INSTALACIÓN -Tapo S210 no necesita cable neutro para hacer más sencilla su instalación.
+- HORARIOR PROGRAMABLE - Define horarios de encendido y apagado automático de luces fácilmente.
+- CONTROL POR VOZ - Controla el interruptor directamente con comandos de voz a través de Amazon Alexa o el Asistente de Google.
+- MODO AUSENTE - Tapo enciende y apaga automáticamente las luces a diferentes horas para que parezca que hay gente en casa.
+- CONTROL POR APP - Enciende y apaga las luces desde cualquier lugar con la App Tapo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BDXT2R9F{{</world>}}

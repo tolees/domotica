@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PARA SU HOGAR INTELIGENTE: Además del ajuste directo en el termostato, también puede controlar fácilmente la temperatura de cada habitación mediante una aplicación o un altavoz inteligente con Alexa, Google Assistant o Apple Siri
 - PAQUETE OPCIONAL DE BIENESTAR: Con Auto-Assist obtiene soluciones a los problemas de calefacción, geovallas automáticas y reconocimiento de ventanas abiertas (por solo 3,99 /mes, 29,99 /año, cancelación en cualquier momento)
+- PARA SU HOGAR INTELIGENTE: Además del ajuste directo en el termostato, también puede controlar fácilmente la temperatura de cada habitación mediante una aplicación o un altavoz inteligente con Alexa, Google Assistant o Apple Siri
 - Información importante: los productos tado X no son compatibles con tado V3+ o anteriores
 - AHORRA ENERGÍA Y COSTES: El Starter Kit del Termostato X de tado, los expertos en calefacción inteligente, incluye el Bridge X y, de forma exclusiva para clientes de , un juego de pilas adicional: cuantas más habitaciones, más se ahorra
 

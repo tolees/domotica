@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SHELLY SMART CONTROL APP-La aplicación le ayudara controlar sus dispositivos Shelly de forma remota y le mandara notificaciones para todos los eventos automatizados en su casa. Usted podrá configurar con facilidad los dispositivos y manejar sus ajustes particularmente o Usted puede crear escenas personalizadas para poderlas combinar con los dispositivos de Shelly para activar ciertas acciones en la automatización de su casa.
-- SHELLY ATENCION AL CLIENTE-Shelly es una de las marcas creciendo más rápido en el IoT del mundo con dispositivos, proporcionando soluciones para la automatización de hogares privados, edificios y negocios. Nosotros estamos dando a nuestros clientes soporte profesional y también garantía de 2 años para cada dispositivo.
 - CONSUMO DE ENERGIA – Cuando puesto en modo consumo de energía , Shelly Plus Plug S le indicara el consumo de energía con un cambio de color desde verde para 0%, amarillo para 50% y rojo para 100% del limite de potencia.
 - Shelly Plus Plug S es un enchufe inalámbrico de última generación de una potencia hasta 12 A con indicadores LED. Shelly Plus Plug S le ayudará monitorear y controlar las luces, la calefacción o cada otro dispositivo eléctrico en su casa.
+- SHELLY SMART CONTROL APP-La aplicación le ayudara controlar sus dispositivos Shelly de forma remota y le mandara notificaciones para todos los eventos automatizados en su casa. Usted podrá configurar con facilidad los dispositivos y manejar sus ajustes particularmente o Usted puede crear escenas personalizadas para poderlas combinar con los dispositivos de Shelly para activar ciertas acciones en la automatización de su casa.
 - SIN MAS DISPOSITIVOS ELECTRICOS OLVIDADOS – Monitoree y controle todos los dispositivos con enchufe fácilmente simplemente con pocos clics en su móvil. Gracias a su integrado temporizador y localmente horarios almacenados, Shelly Plus Plug S puede automáticamente apagar cada de sus dispositivos eléctricos olvidados en la red después de una hora para ahorrar energía.
+- SHELLY ATENCION AL CLIENTE-Shelly es una de las marcas creciendo más rápido en el IoT del mundo con dispositivos, proporcionando soluciones para la automatización de hogares privados, edificios y negocios. Nosotros estamos dando a nuestros clientes soporte profesional y también garantía de 2 años para cada dispositivo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTJ1DTBX{{</world>}}

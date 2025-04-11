@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Todo en un Panel de Control】: Este panel de control doméstico inteligente admite el control de todos los dispositivos SONOFF, desde luces inteligentes, cámaras inteligentes, sensores de seguridad hasta interruptores, etc., y también admitirá nuevos dispositivos SONOFF en el futuro.
 - 【No sólo Smart Control Panel, sino Zigbee Hub】: Añade rápidamente dispositivos Zigbee por lotes en la pantalla. El protocolo estándar Zigbee 3.0 hace que la conexión sea más estable y la cobertura más amplia. Los gadgets añadidos se pueden controlar por voz con Alexa, Google Home y más.
-- 【Customize Your Home Security Mode】Personalice 3 modos configurando diferentes dispositivos de armado. Después de armar, una vez que se activa el sensor, el panel sonará una alarma y recibirá una alerta de notificación en el teléfono.
 - 【Personaliza el modo de seguridad de tu hogar】: Personalice 3 modos configurando diferentes dispositivos de armado. Después de armar, una vez que el sensor se activa, el panel de control sonará una alarma y usted recibirá una notificación en su teléfono.
+- 【Customize Your Home Security Mode】Personalice 3 modos configurando diferentes dispositivos de armado. Después de armar, una vez que se activa el sensor, el panel sonará una alarma y recibirá una alerta de notificación en el teléfono.
+- 【Todo en un Panel de Control】: Este panel de control doméstico inteligente admite el control de todos los dispositivos SONOFF, desde luces inteligentes, cámaras inteligentes, sensores de seguridad hasta interruptores, etc., y también admitirá nuevos dispositivos SONOFF en el futuro.
 - 【Llamada por intercomunicador, comunicación más cómoda】: Con micrófono y altavoz incorporados, admite el uso de teléfonos móviles para llamadas de panel y de panel a panel.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

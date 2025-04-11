@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mini Tamaño: hemos actualizado las dimensiones del enchufe WiFi para reducir el tamaño a 5 x 5,7 x 6,3 cm, mientras que el diseño compacto mantiene libre la segunda toma. El mini enchufe no sólo ahorra espacio, sino que también es más fácil de llevar cuando se viaja.
 - Control Superrápido: cuando está en casa, la aplicación eHomeLife da prioridad al control local y sus acciones se responden en milisegundos. (Requiere WiFi de 2,4 GHz)
-- Función de Programación y Temporizador: El enchufe con temporizador le ofrece una práctica función de temporizador con la que puede establecer una hora fija para encender y apagar su aparato. Estas funciones evitan los tiempos de espera innecesarios y reducen el desperdicio de energía. Como alternativa, también puede establecer un modo de amanecer/atardecer.
 - Control Remoto y Control Local: con la aplicación eHomeLife, puede comprobar y controlar los WiFi enchufes en cualquier momento y en cualquier lugar con Internet. El enchufe inteligente tiene una función de control local. Incluso si el router no está conectado a Internet, el enchufe conmutable puede controlarse a través de la app eHomeLife, siempre que el enchufe inteligente y el teléfono estén conectados a la misma WiFi.
 - Control por Voz: Refoss enchufes inteligentes funcionan con Amazon Alexa y Google Assistant. Puede controlar los dispositivos inteligentes de Amazon en su casa con simples comandos de voz, por ejemplo: "Alexa, enciende la luz". O "Oye Google, enciende el ventilador".
+- Función de Programación y Temporizador: El enchufe con temporizador le ofrece una práctica función de temporizador con la que puede establecer una hora fija para encender y apagar su aparato. Estas funciones evitan los tiempos de espera innecesarios y reducen el desperdicio de energía. Como alternativa, también puede establecer un modo de amanecer/atardecer.
+- Mini Tamaño: hemos actualizado las dimensiones del enchufe WiFi para reducir el tamaño a 5 x 5,7 x 6,3 cm, mientras que el diseño compacto mantiene libre la segunda toma. El mini enchufe no sólo ahorra espacio, sino que también es más fácil de llevar cuando se viaja.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BBZWTH3B{{</world>}}

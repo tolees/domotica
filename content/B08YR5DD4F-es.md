@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protocolo de red: WiFi
-- Controlable con la App LEDVANCE SMART+ WiFi (con Android 4.4, iOS 9.0 o superior)
 - Alto poder de encendido: hasta 3,680 W / 16 A
 - Controlable con la App LEDVANCE SMART+ WiFi Control Remoto
+- Protocolo de red: WiFi
+- Controlable con la App LEDVANCE SMART+ WiFi (con Android 4.4, iOS 9.0 o superior)
 - Controlable a través del control de voz disponible: Google Assistant o Amazon Alexa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

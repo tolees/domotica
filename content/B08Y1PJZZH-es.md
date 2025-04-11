@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✽ Notas: el Aqara Hub de Domótica M2 requiere una conexión de red wifi segura de 2,4 GHz. Permite conectar hasta 128 dispositivos Aqara (se requieren repetidores Zigbee). Zigbee 3.0 es compatible con todos los dispositivos Aqara más recientes basados en la tecnología más rápida, más estable y de mayor eficiencia energética.
+- Puerto Ethernet RJ45 y alimentación USB: conexión por cable a través de Ethernet RJ45 para una mayor estabilidad y un tiempo de respuesta más corto. Instalación más flexible con alimentación USB (se recomienda usar una batería externa con carga directa).
 - Compatibilidad global: el Aqara Hub de Domótica M2 hace que tus dispositivos Aqara sean compatibles con una amplia gama de ecosistemas domésticos inteligentes y asistentes de voz. Es compatible con Apple HomeKit, Google Assistant, Alexa, IFTTT y más.
 - Sistema de alarma y domótica: funciona con todos los dispositivos Aqara para crear un sistema domótico completo e inteligente. El Aqara Hub de Domótica M2 tiene un altavoz integrado que se puede usar de varias maneras: alertas de seguridad, timbre, alarma y melodías configurables (se requieren dispositivos dependientes Aqara).
-- Puerto Ethernet RJ45 y alimentación USB: conexión por cable a través de Ethernet RJ45 para una mayor estabilidad y un tiempo de respuesta más corto. Instalación más flexible con alimentación USB (se recomienda usar una batería externa con carga directa).
+- ✽ Notas: el Aqara Hub de Domótica M2 requiere una conexión de red wifi segura de 2,4 GHz. Permite conectar hasta 128 dispositivos Aqara (se requieren repetidores Zigbee). Zigbee 3.0 es compatible con todos los dispositivos Aqara más recientes basados en la tecnología más rápida, más estable y de mayor eficiencia energética.
 - Control infrarrojo de 360°: controla tus dispositivos IR existentes, como ventiladores, aires acondicionados y televisores, desde cualquier parte de la habitación por voz y domótica (solo para uso en interiores).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

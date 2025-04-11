@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Grabación gratuita en la nube hasta 24 horas, y opciones adicionales mediante pago mensual, o en memoria microsd (no incluida) alojada en la propia cámara
-- Compatible únicamente con la app gratuita mydlink para ios y android, que permite acceder a todas las opciones de configuración, imágenes y vídeos grabados, configurar reglas y acciones
-- Imágenes de video en full hd 1920 x 1080p, con un ángulo de visión de 135, infrarrojos, sonido bidireccional, micrófono y altavoz en la propia cámara
-- Cámara wifi n para exterior con certificación ip65, soportando humedad, lluvia suave, polvo, etc., con detección de movimiento y de sonido, enviando alertas al móvil
 - Se integra en el ecosistema de productos para un hogar inteligente “Smart Home”, con el resto de producto de la gama mydlink
 - Compatible con comandos de voz de amazon alexa o google home, y también con las recetas y reglas de ifttt (if this then that)
+- Compatible únicamente con la app gratuita mydlink para ios y android, que permite acceder a todas las opciones de configuración, imágenes y vídeos grabados, configurar reglas y acciones
+- Imágenes de video en full hd 1920 x 1080p, con un ángulo de visión de 135, infrarrojos, sonido bidireccional, micrófono y altavoz en la propia cámara
 - Cómodo soporte magnético de pared, que permite orientar la cámara exactamente en la posición deseada, y protector de conexión USB
+- Grabación gratuita en la nube hasta 24 horas, y opciones adicionales mediante pago mensual, o en memoria microsd (no incluida) alojada en la propia cámara
+- Cámara wifi n para exterior con certificación ip65, soportando humedad, lluvia suave, polvo, etc., con detección de movimiento y de sonido, enviando alertas al móvil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KTT14BH{{</world>}}

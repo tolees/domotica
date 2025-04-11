@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ✽ Notas: requiere un Hub de Domótica Aqara (vendido por separado). También necesita una conexión de red wifi segura de 2,4 GHz. El Hub de Domótica Aqara M2 o M1S puede conectar hasta 128 dispositivos (*se requiere el uso de un repetidor, como el Enchufe Inteligente o el Interruptor Inteligente de Pared H1 EU).
 - Domótica: el Aqara Sensor de Temperatura y Humedad puede controlar otros dispositivos inteligentes, como el enchufe inteligente Aqara, para garantizar que el ventilador o el humidificador mantenga un nivel constante de comodidad.
+- ✽ Notas: requiere un Hub de Domótica Aqara (vendido por separado). También necesita una conexión de red wifi segura de 2,4 GHz. El Hub de Domótica Aqara M2 o M1S puede conectar hasta 128 dispositivos (*se requiere el uso de un repetidor, como el Enchufe Inteligente o el Interruptor Inteligente de Pared H1 EU).
 - Medición precisa: utiliza un sensor de alta calidad de Sensirion, el fabricante líder en la industria.
 - Control a distancia: cuando la temperatura ambiente está por encima o por debajo de cierto umbral, el Aqara Sensor de Temperatura y Humedad envía una alerta a tu teléfono o activa la luz nocturna del concentrador Aqara.
 - Sensor de presión de aire integrado: controla la presión del aire ambiental en el hogar. Si tienes alguna pregunta, no dudes en contactar con nosotros.

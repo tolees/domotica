@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 💡【 Escena Inteligente 】 Cree escenas inteligentes para que un dispositivo SONOFF pueda activar o desa
 - 💡【 NOTA 】 1. Corte la corriente antes de instalar el dispositivo. 2. Se necesita cable neutro para e
+- 💡【 Escena Inteligente 】 Cree escenas inteligentes para que un dispositivo SONOFF pueda activar o desa
 - 💡【 Control por Voz con Manos Libres 】 SONOFF T2EU2C El interruptor Wi-Fi es compatible con Amazon Ale
 - 💡【 Control Remoto Mediante Radiofrecuencia y la Aplicación 】 La aplicación eWeLink APP permite contro
 - 💡【 Programar el Control Automático 】 Es posible encender o apagar una lámpara en un momento específi

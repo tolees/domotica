@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre automático: siempre una buena sensación con Nuki, la cerradura inteligente. Tu puerta siempre estará cerrada de forma segura. Nuki Smart Lock se cierra automáticamente cuando sales de casa con LocknGo.
 - Llaves digitales: asigna hasta 200 autorizaciones de acceso individuales a todas las personas importantes para ti. Por ejemplo, una autorización válida una vez para el técnico de la casa, siempre los miércoles de 14 a 16 horas para la canguro o siempre para tu pareja.
+- Cierre automático: siempre una buena sensación con Nuki, la cerradura inteligente. Tu puerta siempre estará cerrada de forma segura. Nuki Smart Lock se cierra automáticamente cuando sales de casa con LocknGo.
+- Cerradura electrónica: instalación sencilla en la puerta principal. El smartphone en lugar de la llave. Controla tu cerradura de la puerta a distancia: con WiFi integrado o Acceso Remoto a través de Thread. Apertura automática de la puerta, protocolo y fácil integración en tu Smart Home.
 - Integración Smart Home: ahora también con Matter, el nuevo estándar para Smart Home. Conecta tu Smart Lock con Amazon Alexa, Google Home o Apple. Controla Nuki con comandos de voz y crea rutinas automatizadas.
 - Apertura automática de la puerta: entra directamente en casa cuando lleves las manos ocupadas. La cerradura eléctrica de Nuki lo hace posible: tu smartphone no sale del bolsillo. Nuki se convierte en un abrepuertas automático con Auto Unlock.
-- Cerradura electrónica: instalación sencilla en la puerta principal. El smartphone en lugar de la llave. Controla tu cerradura de la puerta a distancia: con WiFi integrado o Acceso Remoto a través de Thread. Apertura automática de la puerta, protocolo y fácil integración en tu Smart Home.
 - Fácil de instalar: en menos de 3 minutos. En el interior de la puerta, encima de la cerradura existente. Sin necesidad de taladrar ni atornillar. Completamente invisible desde el exterior. Se puede retirar sin dejar residuos. Comprueba en la web de Nuki si Nuki sirva para tu puerta.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

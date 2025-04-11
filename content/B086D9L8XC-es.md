@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ✅【Lo que Obtienes】4 * Lepro Alexa bombilla inteligente GU10 RGBW, 1 * manual de usuario.
-- ✅【Programar Encendido / Apagado】Configure los temporizadores para encender o apagar las luces automáticamente a la hora preestablecida, de modo que las luces de bombilla gu10 led estén encendidas cuando llegue a casa por la noche o parezca que está en casa cuando no lo esté. Nunca tenga que preocuparse si ha dejado luces encendidas.
 - ✅【RGB + Blanco Cálido + Regulable】Cree un ambiente perfecto o decore su hogar con 16 millones de colores, luz blanca cálida de 2700k para un ambiente acogedor y relajado, el brillo de gu10 led wifi es de hasta 385 lumen (equivalente de halógeno de 50 vatios) y totalmente regulable, muy energético y eficiente.
 - ✅【Bombilla WiFi de APP Control Remoto】Bombilla inteligente alexa controla las luces en cualquier lugar en cualquier momento con la APP gratuita "Smart Life". No se requiere Hub, solo se necesita Wi-Fi de 2.4Ghz.
+- ✅【Programar Encendido / Apagado】Configure los temporizadores para encender o apagar las luces automáticamente a la hora preestablecida, de modo que las luces de bombilla gu10 led estén encendidas cuando llegue a casa por la noche o parezca que está en casa cuando no lo esté. Nunca tenga que preocuparse si ha dejado luces encendidas.
+- ✅【Lo que Obtienes】4 * Lepro Alexa bombilla inteligente GU10 RGBW, 1 * manual de usuario.
 - ✅【Bombilla WiFi GU10 de Control por Voz】Compatible con Alexa (incluidos Echo, Echo Dot y más) y Google Home, le permite controlar las luces con manos libres con su voz.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

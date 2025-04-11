@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Controle su dispositivo en cualquier momento y lugar: pregunte a Alexa y al Asistente de Google o utilice la aplicación VeSync para comprobar el índice de calidad del aire interior y exterior, los incendios forestales y la vida útil del filtro.
-- ¡Respira mejor! Con el filtro True HEPA, captura el 99,97% de los contaminantes del aire de 0,3 micrones, lo que reduce las molestias causadas por la sequedad de garganta, la secreción nasal y la picazón en la piel durante la temporada de alergias.
 - Sensor y modo automático: el Core 300S está equipado con un sensor láser con tecnología AirSight Plus, que monitorea la calidad del aire en tiempo real y proporciona información a través de cuatro halos de colores. En el modo automático, también se puede adaptar la velocidad del viento más adecuada en función de la calidad del aire. Un purificador de aire más intuitivo e inteligente que mejora tu calidad de vida. Nota: Hemos cambiado los niveles de calidad del aire para las PM2.5. Después del cambio, adoptaremos estándares más estrictos para brindarle mejores servicios de purificación
 - Ahorro de energía: al funcionar las 24 horas del día a la velocidad del ventilador más alta, LEVOIT El Core 300S consume solo 23 W de potencia nominal, una verdadera ventaja para el presupuesto familiar y una gran ayuda para el medio ambiente.
 - Ultrasilencioso: activa el modo de reposo, disfruta de tus sueños, deja que LEVOIT El Core 300S funciona a un nivel de ruido de 22 dB y apaga automáticamente la luz indicadora, lo que le proporciona un entorno de descanso silencioso
+- ¡Respira mejor! Con el filtro True HEPA, captura el 99,97% de los contaminantes del aire de 0,3 micrones, lo que reduce las molestias causadas por la sequedad de garganta, la secreción nasal y la picazón en la piel durante la temporada de alergias.
+- Controle su dispositivo en cualquier momento y lugar: pregunte a Alexa y al Asistente de Google o utilice la aplicación VeSync para comprobar el índice de calidad del aire interior y exterior, los incendios forestales y la vida útil del filtro.
 - Más carbono, menos contaminantes: el filtro contra las alergias a los animales y absorbe las toxinas del humo de los incendios forestales, contiene más carbón activado, captura los olores, el humo y algunos compuestos orgánicos volátiles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

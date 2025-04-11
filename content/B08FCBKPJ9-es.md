@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ★Datos Personales Seguros★: el dispositivo Apple HomeKit funciona en su red local y no tendrá acceso a su información y datos personales. Para acceder a sus dispositivos desde Internet, sólo necesita conectarse a través de homepod, iPad o Apple TV lo que Apple protegerá.
+- ★Compatible con Alexa y Google Home★: control de electrodomésticos mediante comandos de voz; El inteligente enchufe WiFi de meross funciona con Amazon Alexa y Google home. Cuando no estás en casa, todavía puede usar la aplicación meross para controlar los aparatos.
 - ★Siri Voice and Remote Control★: meross enchufe inteligente is available with Apple HomeKit iPhone iWatch (iOS 13 o superior). Desde la luz hasta el aparato, Siri puede encender o apagar sus accesorios de Apple HomeKit. Simplemente diga "Hola, Siri". Nota: Apple HomeKit le guiará en la configuración y gestión. El control remoto requiere dispositivos adicionales de Apple, como iPad, homepod o Apple TV.
 - ★Soporte Técnico★: si tiene algún problema con el producto, póngase en contacto con el vendedor directamente. Responderemos las 24 horas del día con la solución adecuada.
-- ★Compatible con Alexa y Google Home★: control de electrodomésticos mediante comandos de voz; El inteligente enchufe WiFi de meross funciona con Amazon Alexa y Google home. Cuando no estás en casa, todavía puede usar la aplicación meross para controlar los aparatos.
+- ★Datos Personales Seguros★: el dispositivo Apple HomeKit funciona en su red local y no tendrá acceso a su información y datos personales. Para acceder a sus dispositivos desde Internet, sólo necesita conectarse a través de homepod, iPad o Apple TV lo que Apple protegerá.
 - ★Configuración de Horarios y Temporizadores★: puede programar que los dispositivos conectados se enciendan y apaguen automáticamente a través del enchufe inteligente Alexa de meross. Ahorra energía cuando no necesitas luces o luces encendidas accidentalmente. Soporta la configuración del amanecer y el atardecer.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

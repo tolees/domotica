@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cámara de alta calidad: zoom digital de 4x, visualización nocturna de hasta 5m, resolución Full HD de 1080p que proporciona una imagen clara de su hogar o negocio
+- Gestión completa desde la app gratuita mydlink para iOS/Android o acceso mediante navegador web en el portal mydlink.
+- Admite detección de personas, detección de movimiento multizona, detección de cruce de límites y zona prioritaria, estas alertas envian una notificación emergente e inician la grabación en la nube.
 - Fotos y videoclips: guarde videos e imágenes en su móvil a través de la aplicación mydlink o de forma remota en su almacenamiento personal en la nube de forma gratuita.
 - Amplio campo de visión: para ofrecer una visión más completa, con un ancho de imagen de 151 grados quepuede abarcar grandes estancias.
-- Gestión completa desde la app gratuita mydlink para iOS/Android o acceso mediante navegador web en el portal mydlink.
-- Cámara de alta calidad: zoom digital de 4x, visualización nocturna de hasta 5m, resolución Full HD de 1080p que proporciona una imagen clara de su hogar o negocio
-- Admite detección de personas, detección de movimiento multizona, detección de cruce de límites y zona prioritaria, estas alertas envian una notificación emergente e inician la grabación en la nube.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082KZNNLH{{</world>}}
