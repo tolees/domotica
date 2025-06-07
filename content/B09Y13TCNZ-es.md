@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PÍDELE A ALEXA QUE LLAME POR TI: usa la voz para hacer llamadas, llamar con Drop In a dispositivos Echo compatibles o enviar un comunicado para anunciar algo en casa.
+- ﻿DISEÑADO PARA PROTEGER TU PRIVACIDAD: fabricado con múltiples capas de protección y controles de privacidad, incluido un botón que desconecta los micrófonos electrónicamente.
 - HECHO PARA LA CARRETERA: su diseño fino hace que sea muy fácil de instalar en el coche y sus cinco micrófonos integrados permiten que Alexa te oiga incluso sobre el ruido del aire acondicionado o de la carretera, o sobre la música que tienes puesta. Incluye un cargador rápido para el coche, para que puedas cargar la batería de tu móvil mientras conduces.
 - ESCUCHA TU MÚSICA FAVORITA: pídele a Alexa que te ponga una playlist de Amazon Music, Apple Music, Spotify y más, o escucha la radio en directo. Usa la función de reproducción automática para seguir escuchando tu música exactamente donde la dejaste.
 - ACCESORIO MANOS LIBRES: el Echo Auto está pensado para brindarte las ventajas del control por voz de Alexa en coches que no cuentan con un asistente de voz integrado. Con él, podrás poner música, hacer llamadas, responder a mensajes y más con tan solo la voz.
-- ﻿DISEÑADO PARA PROTEGER TU PRIVACIDAD: fabricado con múltiples capas de protección y controles de privacidad, incluido un botón que desconecta los micrófonos electrónicamente.
+- PÍDELE A ALEXA QUE LLAME POR TI: usa la voz para hacer llamadas, llamar con Drop In a dispositivos Echo compatibles o enviar un comunicado para anunciar algo en casa.
 - DISFRUTA DEL CONTENIDO QUE TE GUSTA SIN APARTAR LAS MANOS DEL VOLANTE: escucha pódcast nuevos, audiolibros superventas de Audible o ponte al día con las noticias.
 - CONTROLA DISPOSITIVOS DE HOGAR DIGITAL COMPATIBLES CUANDO ESTÉS AL VOLANTE: incluso aunque estés lejos de casa, podrás configurar el termostato, apagar las luces, comprobar si la puerta principal está cerrada y mucho más con tan solo pedírselo a Alexa.
 
