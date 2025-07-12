@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Garantía de servicio al cliente - ¡ se lo promete ioloi! ¡¡ 30 días para regresar fácilmente! Si el daño no es causado por el usuario, se ofrece una garantía de 3 años.
 - Seguridad - cumplir con todos los requisitos de Seguridad - excelente calidad con protección contra sobrecarga, protección contra sobrecorriente y protección contra sobrecalentamiento, y cumplir con las normas de Seguridad CE y rohs.
-- Control de voz - "zigbee dimmer es compatible con Amazon Alexa (echodot) y Google home. Después de activar esta habilidad, puede usar el dimmer ZigBee para controlar el brillo a través de una orden de voz. También se admite el control remoto. después de conectar el control remoto, puede ajustar el brillo en cualquier lugar de la habitación.
 - Fácil de instalar - tamaño: 84 × 84 × 44,5 mm (l × W × h), enchufe regulador de luz 70 × 70 × 26,2 mm, recomendamos que lo instale un electricista. Consulte el gráfico en la imagen adjunta.
+- ¡Garantía de servicio al cliente - ¡ se lo promete ioloi! ¡¡ 30 días para regresar fácilmente! Si el daño no es causado por el usuario, se ofrece una garantía de 3 años.
+- Control de voz - "zigbee dimmer es compatible con Amazon Alexa (echodot) y Google home. Después de activar esta habilidad, puede usar el dimmer ZigBee para controlar el brillo a través de una orden de voz. También se admite el control remoto. después de conectar el control remoto, puede ajustar el brillo en cualquier lugar de la habitación.
 - Control App - utilizado con el conocido sistema ZigBee 3.0. consejo: se necesita un hub ZigBee para funcionar. Compatible con una variedad de dispositivos inteligentes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

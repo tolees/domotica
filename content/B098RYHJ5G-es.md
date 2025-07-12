@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Visión nocturna de 30m: Para ofrecer tranquilidad 24/7, la cámara de vigilancia al aire libre C8C Lite admite vigilancia nocturna con una súper visión nocturna de hasta 30 metros (100 pies). Le permite ver lo que está sucediendo con detalles claros, no importa cuándo.
-- Cámara al aire libre Pan/Tilt: una rotación de 352 ° en horizonte y 95 ° vertical y la resolución de 1080p hd le ofrecen una buena calidad de imagen y una vista bastante grande. 2,0 megapíxeles sensor cmos, lente focal 4mm, resolución máxima de 1920 x 1080. EZVIZ C8C Lite cámara de vigilancia wifi al aire libre no es compatible con el seguimiento automático. Puede rotar/inclinar a través de la aplicación EZVIZ.
 - IP 65 impermeable y almacenamiento flexible: con una carcasa totalmente metálica y un grado de protección ip65, la cámara de vigilancia puede soportar días lluviosos, soleados, tormentosos e incluso nevados. Puede proteger sus vídeos grabados en una tarjeta microSD local de hasta 256 GB, o suscríbase a EZVIZ CloudPlay para un acceso totalmente cifrado e ilimitado almacenamiento en línea (Tarjeta SD se vende por separado).
 - Detección de forma humana por IA: el algoritmo de inteligencia artificial integrado detecta de forma inteligente el movimiento de las formas humanas en tiempo real, evitando alertas falsas. Cuando las personas ingresan a su área de detección personalizada, se le notificará inmediatamente.
+- Cámara al aire libre Pan/Tilt: una rotación de 352 ° en horizonte y 95 ° vertical y la resolución de 1080p hd le ofrecen una buena calidad de imagen y una vista bastante grande. 2,0 megapíxeles sensor cmos, lente focal 4mm, resolución máxima de 1920 x 1080. EZVIZ C8C Lite cámara de vigilancia wifi al aire libre no es compatible con el seguimiento automático. Puede rotar/inclinar a través de la aplicación EZVIZ.
+- Visión nocturna de 30m: Para ofrecer tranquilidad 24/7, la cámara de vigilancia al aire libre C8C Lite admite vigilancia nocturna con una súper visión nocturna de hasta 30 metros (100 pies). Le permite ver lo que está sucediendo con detalles claros, no importa cuándo.
 - Tecnología de video H.265: Nuestra cámara de vigilancia inalámbrica wifi para exteriores C8C Lite utiliza la última tecnología de compresión de video h.265, hace que el video sea más claro y fluido al tiempo que reduce la necesidad de almacenamiento de datos y ancho de banda.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
