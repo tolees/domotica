@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ADMITE GRABACIÓN EN BUCLE: Almacena localmente hasta 256 GB en una tarjeta microSD, lo que equivale a 512 horas (21 días) de metraje. (Basado en condiciones de laboratorio)
-- ALARMA DE SONIDO Y LUZ - ¿Invitado inesperado? activa los efectos de luz y sonido para ahuyentar
-- VISIÓN NOCTURNA AMPLIADA - Incluso por la noche la cámara puede alcanzar un alcance de visión de hasta 9 metros
-- La caja puede ser diferente. Dimensions : 3.36 × 3.42 × 4.63 in (85.4 × 86.8 × 117.7 mm)　
 - AUDIO BIDIRECCIONAL - Comunícate con los demás al micrófono y altavoces incorporados
-- GRAN ANGULAR DE VISÍON -Área horizontal de 360° para una visión detallada del hogar
+- ADMITE GRABACIÓN EN BUCLE: Almacena localmente hasta 256 GB en una tarjeta microSD, lo que equivale a 512 horas (21 días) de metraje. (Basado en condiciones de laboratorio)
+- INTERFAZ DE OPERACIÓN SIMPLE -Con la App TAPO para Android/IOS puedes configurar fácilmente el calendario, verificar videos anteriores, verificar múltiples vistas al mismo tiempo y dar acceso a otros usuarios
 - DETECCIÓN Y MOVIMIENTO - Reciba notificaciones al instante de la aplicación cuando se intercepta un movimiento; TP-link proporciona una función avanzada para configurar el tiempo de grabación específico
+- VISIÓN NOCTURNA AMPLIADA - Incluso por la noche la cámara puede alcanzar un alcance de visión de hasta 9 metros
 - CÁLIDAD DE VIDEO RESOLUCIÓN 3MP - Captura cada detalle en una resolución ultra nítida de 3 MP
 - TAPO CARE - Opción a suscripción de grabación de video en la nube. Se trata de una prueba "gratuita de 30 días" de almacenamiento en la nube, después de eso, se requerirá un pago adicional si desea mantener este servicio
-- INTERFAZ DE OPERACIÓN SIMPLE -Con la App TAPO para Android/IOS puedes configurar fácilmente el calendario, verificar videos anteriores, verificar múltiples vistas al mismo tiempo y dar acceso a otros usuarios
+- La caja puede ser diferente. Dimensions : 3.36 × 3.42 × 4.63 in (85.4 × 86.8 × 117.7 mm)　
+- GRAN ANGULAR DE VISÍON -Área horizontal de 360° para una visión detallada del hogar
+- ALARMA DE SONIDO Y LUZ - ¿Invitado inesperado? activa los efectos de luz y sonido para ahuyentar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B095CLQ1PT{{</world>}}

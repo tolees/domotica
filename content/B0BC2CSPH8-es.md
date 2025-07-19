@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Recibe notificaciones de detección de movimiento en tu teléfono: puedes personalizar las zonas de movimiento en la app Blink Home Monitor para recibir alertas únicamente cuando sea necesario.
-- Compatible con Alexa: puedes vincular la Blink Mini con un dispositivo compatible con Alexa para ver en directo el vídeo de la cámara, activar y desactivar la cámara y mucho más con tan solo la voz.
 - La Blink Outdoor es una cámara de seguridad HD inalámbrica que funciona con pilas con la que podrás vigilar tu casa de día y también de noche gracias a su visión nocturna por infrarrojos.
-- Ve, escucha y habla a las personas y mascotas que estén en tu hogar desde tu teléfono móvil con el vídeo en directo y el audio bidireccional de la Blink Mini.
 - La Blink Outdoor tiene una autonomía de hasta dos años con dos pilas AA de litio (incluidas).
+- Ve, escucha y habla a las personas y mascotas que estén en tu hogar desde tu teléfono móvil con el vídeo en directo y el audio bidireccional de la Blink Mini.
 - La Blink Outdoor está diseñada para resistir a los elementos y ayudarte a proteger el interior y el exterior de tu casa, llueva o haga sol.
+- Compatible con Alexa: puedes vincular la Blink Mini con un dispositivo compatible con Alexa para ver en directo el vídeo de la cámara, activar y desactivar la cámara y mucho más con tan solo la voz.
 - Puedes guardar y compartir grabaciones en la nube con la prueba gratuita de 30 días del plan de suscripción de Blink o localmente con el Sync Module 2 y la unidad USB (ambos se venden por separado).
 - Este lote incluye 1 Blink Outdoor Cámara, un Sync Module 2, y Blink Mini Cámara
 
