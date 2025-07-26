@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este pack incluye el sensor de movimiento Philips Hue además de un par de pilas necesarias para su funcionamiento
 - Podrás programar desde la App de Philips Hue hasta 4 escenas con tus ambientes favoritos
-- Portátil, posibilidad de montaje en pared, Zigbee
-- Con el sistema Philips Hue podrás programar y personalizar la decoración de tu casa a través de la iluminación
 - El sensor de movimiento Philips Hue te permite encender las luces de tu casa de forma automática al detectar tu presencia
+- Este pack incluye el sensor de movimiento Philips Hue además de un par de pilas necesarias para su funcionamiento
+- Portátil, posibilidad de montaje en pared, Zigbee
 - Tiene la particularidad de que también es un interruptor que puedes acoplar en cualquier pared de la casa
+- Con el sistema Philips Hue podrás programar y personalizar la decoración de tu casa a través de la iluminación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09L1Q8DL9{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detección de movimiento y sonido que envía una notificación emergente con foto al móvil e inicia la grabación en la tarjeta SD o en la nube.
+- Tamaño compacto y sencilla instalación desde la propia app, no requiere conocimientos técnicos, se sincroniza por WiFi con cualquier router.
 - Audio de dos vías para escuchar y poder hablar. Modo de privacidad que oculta la lente de la cámara.
 - Resolución 2K 1296p y lente motorizada con seguimiento automático de objetos/personas.
+- Detección de movimiento y sonido que envía una notificación emergente con foto al móvil e inicia la grabación en la tarjeta SD o en la nube.
 - Sensor de infrarrojos para visión nocturna de alta calidad incluso en completa oscuridad
-- Tamaño compacto y sencilla instalación desde la propia app, no requiere conocimientos técnicos, se sincroniza por WiFi con cualquier router.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PS05KVQ{{</world>}}

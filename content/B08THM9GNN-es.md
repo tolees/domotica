@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Controlable con la App LEDVANCE SMART+ WiFi (con Android 4.4, iOS 9.0 o superior)
+- Alta potencia de conmutación: hasta 2.300 W / 10 A
 - Protocolo de red: WiFi
 - Controlable con la App LEDVANCE SMART+ WiFi Control Remoto
-- Alta potencia de conmutación: hasta 2.300 W / 10 A
 - Controlable a través del control de voz disponible: Google Assistant o Amazon Alexa
-- Controlable con la App LEDVANCE SMART+ WiFi (con Android 4.4, iOS 9.0 o superior)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08THM9GNN{{</world>}}
