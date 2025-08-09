@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Control sin instalación: monta o pega la placa de pared del regulador de intensidad en cualquier lugar de tu casa y disfruta de un control de iluminación inteligente sin instalación
 - ¿Qué se necesita? - Nada. Puedes emparejar el regulador de intensidad con tus luces Philips Hue con o sin puente. Instrucciones incluidas en el paquete
+- Mando a distancia - El interruptor Hue Dimmer es magnético y se puede extraer de la placa base, lo que te permite utilizar el interruptor dimmer como un práctico mando a distancia
 - Aumente y reduzca la intensidad de sus luces inteligentes - Aumente o reduzca la intensidad de sus luces de forma inalámbrica a través del regulador de intensidad a pilas
 - Cambia entre escenas de luz: alterna entre cuatro escenas de luz diferentes pulsando el botón "Hue". Personaliza qué escena se asigna a cada pulsación mediante la aplicación "Philips Hue".
-- Mando a distancia - El interruptor Hue Dimmer es magnético y se puede extraer de la placa base, lo que te permite utilizar el interruptor dimmer como un práctico mando a distancia
-- Control sin instalación: monta o pega la placa de pared del regulador de intensidad en cualquier lugar de tu casa y disfruta de un control de iluminación inteligente sin instalación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08PKMT2DV{{</world>}}

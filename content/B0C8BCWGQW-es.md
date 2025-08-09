@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONVIERTE CUALQUIER ESPACIO EN INTELIGENTE: Usa la voz o la app Alexa para controlar fácilmente dispositivos de Hogar digital compatibles, como luces o enchufes.
-- Perforaciones realizadas con precisión para no dificultar el acceso al altavoz y los puertos de tu Echo Pop.
 - TE PRESENTAMOS EL ECHO POP: Un altavoz inteligente Bluetooth con Alexa que es compacto y con un sonido potente, ideal para habitaciones pequeñas y espacios de tamaño reducido. Tan pequeño que no desentona en ninguna parte, pero tan potente que no pasará desapercibido.
-- Personaliza tu Echo pop y dale un color vibrante y divertido.
 - Este pack incluye un Echo Pop y un funda blanda, Made for Amazon, para Echo Pop (modelo del 2023).
+- Perforaciones realizadas con precisión para no dificultar el acceso al altavoz y los puertos de tu Echo Pop.
+- CONVIERTE CUALQUIER ESPACIO EN INTELIGENTE: Usa la voz o la app Alexa para controlar fácilmente dispositivos de Hogar digital compatibles, como luces o enchufes.
+- Personaliza tu Echo pop y dale un color vibrante y divertido.
 - CONTROLA TU MÚSICA CON LA VOZ: Pídele a Alexa que reproduzca música, audiolibros y pódcast de tus servicios de streaming favoritos, como Amazon Music, Apple Music, Spotify, Deezer y más. También puedes conectar el Echo Pop a tu móvil por Bluetooth y llenar tu espacio del audio en streaming que reproduzcas desde tu móvil.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

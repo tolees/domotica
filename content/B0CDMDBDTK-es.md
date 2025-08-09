@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Enciende tus luces; usa el sensor de contacto Hue Secure o el sensor de movimiento para encender tus bombillas inteligentes; haz que la luz del pasillo se encienda cuando se abra la puerta principal o cuando camine por el pasillo, por ejemplo
-- Añade a Philips hue la Seguridad del hogar inteligente con este kit de inicio Hue Secure, que incluye tres sensores de contacto Hue Secure en blanco, un sensor de movimiento, dos bombillas inteligentes E27 de luz blanca y colores y el Hue Bridge (puente)
 - Recibe alertas en tiempo real directamente en tu dispositivo móvil cuando se abre un sensor; activa una alarma de luz con la aplicación Hue; incluso puedes ver a qué hora se activó el sensor por última vez y si alguien lo ha manipulado
 - Coloca los sensores de contacto Hue Secure en puertas, ventanas, cajas fuertes y más con el respaldo adhesivo incluido, y reciba una notificación o enciende las luces cuando se abre el sensor
+- Añade a Philips hue la Seguridad del hogar inteligente con este kit de inicio Hue Secure, que incluye tres sensores de contacto Hue Secure en blanco, un sensor de movimiento, dos bombillas inteligentes E27 de luz blanca y colores y el Hue Bridge (puente)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDMDBDTK{{</world>}}
