@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto 1: Programación Inteligente, temperatura adecuada en cada habitación y en cada momento; solo si hay gente en casa; se enciende y apaga desde la app con un clic
-- Producto 2: Controla todas las habitaciones con una sola app para gestionar la temperatura con total precisión; más confort y más ahorro energético
 - Producto 1: Si la casa está vacía o se detectan ventanas abiertas, la app de tado° te enviará una notificación push para que bajes la calefacción
 - Producto 2: Es compatible con la mayoría de radiadores con válvulas termostáticas (incluye varios adaptadores); montaje vertical u horizontal
-- Producto 2: Accesorio para el Kit de Inicio de tado°: añade Cabezales Termostáticos Inteligentes y controla varios radiadores y zonas diferentes
 - Producto 1: Controla la calefacción desde cualquier lado con la app de tado°, reduce tu consumo energético y ahorra dinero con las funciones inteligentes de tado°
+- Producto 1: Programación Inteligente, temperatura adecuada en cada habitación y en cada momento; solo si hay gente en casa; se enciende y apaga desde la app con un clic
+- Producto 2: Controla todas las habitaciones con una sola app para gestionar la temperatura con total precisión; más confort y más ahorro energético
+- Producto 2: Accesorio para el Kit de Inicio de tado°: añade Cabezales Termostáticos Inteligentes y controla varios radiadores y zonas diferentes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09HCMY7W2{{</world>}}
