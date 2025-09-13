@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Alertas en tiempo real: recibe alertas en tiempo real en tu smartphone cuando detecte humo, incluso cuando no estás en casa
 - Duración de la batería de 10 años*: una década entera* de tranquilidad y de seguridad gracias a una batería que dura toda la vida útil del producto; se acabaron las alertas fastidiosas por batería baja
-- Fácil de instalar: basta con instalar el detector de humo inteligente inalámbrico en el techo y descargar la aplicación
-- Autocomprobación: controla constantemente su propia batería, el sensor de humo y la conexión de wi-fi; envía una alerta i inmediata si surge algún problema con cualquiera de los tres
 - Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
+- Autocomprobación: controla constantemente su propia batería, el sensor de humo y la conexión de wi-fi; envía una alerta i inmediata si surge algún problema con cualquiera de los tres
+- Fácil de instalar: basta con instalar el detector de humo inteligente inalámbrico en el techo y descargar la aplicación
 - Conectividad Wi-Fi mejor compatible con 2,4 GHz para obtener mejores resultados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

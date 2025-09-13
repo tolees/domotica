@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 【Doble protección para sus vídeos】La cámara es compatible con tarjetas micro SD de hasta 128 GB y ofrece almacenamiento en la nube. La seguridad y privacidad de sus datos son nuestras prioridades.
 - 【Seguimiento y enfoque automáticos】La cámara puede realizar un movimiento horizontal (hasta 355°) y vertical (hasta 90°) para seguir automáticamente los objetos en movimiento y mostrarlos tanto en la vista de gran angular como en la de primer plano
+- 【Esté alerta de lo que importa】La cámara distingue a las personas, los vehículos y las mascotas de otros objetos, lo que proporciona alertas más precisas. También puede crear zonas de detección de movimiento personalizadas para centrarse en el movimiento que le interesa
 - 【Doble visión en una sola pantalla】Con los objetivos gran angular y teleobjetivo, puede disfrutar de imágenes simultáneas de vista completa y primer plano a medida que ocurren los acontecimientos, y comprobarlas en una sola pantalla
 - 【Energía solar y diseño resistente al agua】Con un panel solar de 6W y su batería recargable de 10400mAh, la carga es cosa del pasado. La energía ininterrumpida y el diseño resistente al agua le proporcionan una protección de 365 días
-- 【Esté alerta de lo que importa】La cámara distingue a las personas, los vehículos y las mascotas de otros objetos, lo que proporciona alertas más precisas. También puede crear zonas de detección de movimiento personalizadas para centrarse en el movimiento que le interesa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BG5Q9HDV{{</world>}}

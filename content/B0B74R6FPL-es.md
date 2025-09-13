@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Monitorización del consumo eléctrico: mientras utilizas el enchufe inteligente, con la APP Smart Life puedes monitorizar el consumo eléctrico y estimar de cuánto será tu factura de electricidad.
+- Bloqueo para niños: Si esta función se encuentra activada, para desactivarla deberás apagar el dispositivo o presionar el interruptor cuato veces seguidas. Esto asegura que los no puedan tocar el estado del interruptor accidentalmente.
+- Control por voz: Es compatible con Google Home/Alexa/SmartThings. Gestiona tu dispositivo con un comando de voz simple, por ejemplo: "Alexa, enciende la luz".
+- Notas: La configuración inicial del zócalo requiere un entorno wifi de 2,4 GHz.
+- Notas: Si tienes cualquier pregunta o solicitud, no dudes en contactar con nosotros a través de Amazon o a través de nuestro correo electrónico de soporte. En EIGHTREE nos encontramos siempre a tu servicio.
+- Notas: El enchufe inteligente no es compatible con Tasmota; cuenta con un chip Realtek para garantizar que la conexión a la red es estable y minimizar la pérdidas de conexión.
 - Diseño ultra pequeño: Nuestro diseñador redujo el tamaño del enchufe a 4,4 x 4,4 centímetros, solucionando de esta manera el problema habitual de los enchufes wifis que, al ser grandes, no se pueden utilizar en una regleta una al lado del otro. Al ocupar poco espacio resulta mucho más cómodo para su uso.
 - Control por APP: de manera remota, control las luces de tu casa y define intervalos regulares para tu televisión, cafetera, humidificador, etc. Las casas inteligentes, además de ser divertidas, también son muy útiles.
-- Monitorización del consumo eléctrico: mientras utilizas el enchufe inteligente, con la APP Smart Life puedes monitorizar el consumo eléctrico y estimar de cuánto será tu factura de electricidad.
-- Notas: El enchufe inteligente no es compatible con Tasmota; cuenta con un chip Realtek para garantizar que la conexión a la red es estable y minimizar la pérdidas de conexión.
-- Notas: La configuración inicial del zócalo requiere un entorno wifi de 2,4 GHz.
-- Control por voz: Es compatible con Google Home/Alexa/SmartThings. Gestiona tu dispositivo con un comando de voz simple, por ejemplo: "Alexa, enciende la luz".
-- Bloqueo para niños: Si esta función se encuentra activada, para desactivarla deberás apagar el dispositivo o presionar el interruptor cuato veces seguidas. Esto asegura que los no puedan tocar el estado del interruptor accidentalmente.
-- Notas: Si tienes cualquier pregunta o solicitud, no dudes en contactar con nosotros a través de Amazon o a través de nuestro correo electrónico de soporte. En EIGHTREE nos encontramos siempre a tu servicio.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B74R6FPL{{</world>}}
