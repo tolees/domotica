@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Comunicarse de forma remota y crear una conversación fluida y clara con su bebé o mascota gracias al micrófono y al altavoz incorporado, la cámara de video vigilancia interior seguirá y grabará inteligentemente la trayectoria del movimiento.
+- Activar sonidos para asustar a los visitantes no deseados. Comuníquese de forma remota y cree una conversación fluida y clara con su bebé o mascota gracias al micrófono y al altavoz incorporado
+- La cámara de vigilancia WiFi captura cada detalle con una definición de 1080P. Movimiento horizontal de hasta 360° y vertical hasta 114°, una amplia cobertura para capturar cada momento. (La cámara wifi solo admite WiFi 2.4GHz)
+- Registra localmente hasta 512 GB en una tarjeta microSD, (no incluida) o en la nube (30 días de prueba gratuita con Historial de videoclips de 30 días) para que pueda acceder a ellos a su conveniencia, independientemente del estado de la cámara
 - Incluso por la noche, la cámara de vigilancia wifi puede ver una distancia visual de hasta 9 metros
 - Detección de persona incluida de forma gratuita. Reciba alertas en tiempo real cuando las personas ingresen al campo de visión de su cámara. Personalice la detección de personas para evitar falsas alertas, como las provocadas por los movimientos de sus mascotas. Es importante saber: para evitar notificaciones innecesarias cuando se activa la detección humana, desactive la detección de movimiento
-- Activar sonidos para asustar a los visitantes no deseados. Comuníquese de forma remota y cree una conversación fluida y clara con su bebé o mascota gracias al micrófono y al altavoz incorporado
-- Registra localmente hasta 512 GB en una tarjeta microSD, (no incluida) o en la nube (30 días de prueba gratuita con Historial de videoclips de 30 días) para que pueda acceder a ellos a su conveniencia, independientemente del estado de la cámara
-- La cámara de vigilancia WiFi captura cada detalle con una definición de 1080P. Movimiento horizontal de hasta 360° y vertical hasta 114°, una amplia cobertura para capturar cada momento. (La cámara wifi solo admite WiFi 2.4GHz)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9MDV5L5{{</world>}}
