@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La instalación es fácil y rápida, solo hay que fijar el Detector en la pared.
-- Nous récupérons les données... Veuillez patienter quelques secondes, puis réessayer de couper ou copier.
-- Alarma de 85 dB y notificación en tu smartphone en caso de detección de monóxido de carbono en tu casa.
-- Compatibilidad con HomeKit para vincularlo con otros dispositivos conectados.
-- Netatmo Asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
-- Batería con autonomía de 10 años*, equivalente a la vida útil del Detector.
 - Nous récupérons les données... Veuillez patienter quelques secondes, puis réessayer de couper ou copier.
 - Controla en tiempo real la tasa de monóxido de carbono emitida por tus aparatos de combustión (caldera, chimenea...).
+- Netatmo Asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
+- Nous récupérons les données... Veuillez patienter quelques secondes, puis réessayer de couper ou copier.
+- La instalación es fácil y rápida, solo hay que fijar el Detector en la pared.
+- Alarma de 85 dB y notificación en tu smartphone en caso de detección de monóxido de carbono en tu casa.
+- Compatibilidad con HomeKit para vincularlo con otros dispositivos conectados.
+- Batería con autonomía de 10 años*, equivalente a la vida útil del Detector.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09KV8TZS8{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- USA LAS VIDEOLLAMADAS PARA CONECTAR CON LOS TUYOS: Llama a tus familiares y amigos que tengan la app Alexa o un dispositivo Echo con pantalla gracias a la cámara de 2 MP y envía comunicados a otros dispositivos compatibles en tu casa.
 - MANTÉN TU CASA CONFORTABLE: Controla dispositivos de Hogar digital compatibles como luces y termostatos incluso cuando no estás en casa.
+- USA LAS VIDEOLLAMADAS PARA CONECTAR CON LOS TUYOS: Llama a tus familiares y amigos que tengan la app Alexa o un dispositivo Echo con pantalla gracias a la cámara de 2 MP y envía comunicados a otros dispositivos compatibles en tu casa.
 - DISEÑADO PARA PROTEGER TU PRIVACIDAD: Fabricado con múltiples capas de control de la privacidad, incluido un botón que desconecta los micrófonos y la cámara electrónicamente.
 - ALEXA PUEDE MOSTRARTE AÚN MÁS COSAS: Pon alarmas y temporizadores, duerme a pierna suelta con una playlist relajante, empieza el día con buen pie con una rutina de Hogar digital o consulta fácilmente tu calendario y la información del tiempo, todo con tan solo pedírselo.
 - DISFRUTA DE TUS FOTOS EN PANTALLA: Cuando no estés interactuando con el dispositivo, podrás usarlo como marco de fotos digital para exponer tus fotos favoritas con Amazon Photos. Además, los miembros Prime cuentan con acceso a espacio de almacenamiento ilimitado en la nube para sus fotos.
