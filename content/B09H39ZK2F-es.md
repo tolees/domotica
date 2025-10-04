@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hue White and color ambiance Pack de 2 E27 Luz blanca y de colores Control al instante mediante Bluetooth Control con aplicación o voz Añade Hue Bridge para disfrutar de más funciones
 - Añade este botón inteligente a tu sistema Hue fácilmente en ajustes: configurar accesorios, añadir accesorio
+- Hue White and color ambiance Pack de 2 E27 Luz blanca y de colores Control al instante mediante Bluetooth Control con aplicación o voz Añade Hue Bridge para disfrutar de más funciones
 - Este producto requiere el puente Philips Hue (se vende por separado) para la configuración inicial
 - Con estas dos bombillas LED inteligentes E27, adecuadas para casi todas las luminarias, puedes llevar la luz inteligente a cualquier lugar de tu hogar y crear ambiente al instante con millones de tonalidades de luz blanca y de colores
 

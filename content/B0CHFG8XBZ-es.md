@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 【Modo Privacidad】Puedes habilitar el modo privacidad, que cierra físicamente la lente de la cámara para mejorar la seguridad de tu privacidad.
+- *ATENCIÓN, por favor, actualiza el firmware más reciente en la aplicación Tapo para disfrutar de las nuevas funciones: seguimiento de movimiento, detección de llanto de bebé, y capacidad de la tarjeta MicroSD hasta 512GB.
+- 【FHD 2k/3MP & Pan/Tilt 360°】La cámara de seguridad WiFi captura cada detalle con alta definición 2k/3MP. Movimiento horizontal hasta 360° y movimiento vertical hasta 114°, para una mayor cobertura y capturar cada momento. (La cámara wifi solo admite Wi-Fi de 2,4 GHz)
+- 【Almacenamiento Seguro y Flexible】Guarda hasta 512 GB de forma local en una tarjeta microSD (no incluida) o en la nube (prueba gratuita de 30 días con historial de clips de video de 30 días) para acceder a tus grabaciones en cualquier momento.
+- 【Detección de Movimiento, Seguimiento Inteligente y Alarma】Recibe notificaciones instantáneas de la aplicación Tapo cuando se detecte movimiento, rastrea y sigue al sujeto para mantenerlo a la vista. Activa la alarma de luz y sonido para ahuyentar a los visitantes no deseados.
 - 【Audio bidireccional】Comunícate de forma remota y crea una conversación clara y fluida con tu bebé o mascota a través del micrófono y el altavoz incorporados.
 - 【Visión Nocturna Avanzada y Detección de Llanto de Bebé】Dotada con visión nocturna avanzada (distancia visual de hasta 9 metros) y detección de llanto de bebé, la cámara Tapo refuerza el cuidado de tus hijos las 24 horas del día.
-- 【Modo Privacidad】Puedes habilitar el modo privacidad, que cierra físicamente la lente de la cámara para mejorar la seguridad de tu privacidad.
-- 【FHD 2k/3MP & Pan/Tilt 360°】La cámara de seguridad WiFi captura cada detalle con alta definición 2k/3MP. Movimiento horizontal hasta 360° y movimiento vertical hasta 114°, para una mayor cobertura y capturar cada momento. (La cámara wifi solo admite Wi-Fi de 2,4 GHz)
-- 【Detección de Movimiento, Seguimiento Inteligente y Alarma】Recibe notificaciones instantáneas de la aplicación Tapo cuando se detecte movimiento, rastrea y sigue al sujeto para mantenerlo a la vista. Activa la alarma de luz y sonido para ahuyentar a los visitantes no deseados.
-- *ATENCIÓN, por favor, actualiza el firmware más reciente en la aplicación Tapo para disfrutar de las nuevas funciones: seguimiento de movimiento, detección de llanto de bebé, y capacidad de la tarjeta MicroSD hasta 512GB.
-- 【Almacenamiento Seguro y Flexible】Guarda hasta 512 GB de forma local en una tarjeta microSD (no incluida) o en la nube (prueba gratuita de 30 días con historial de clips de video de 30 días) para acceder a tus grabaciones en cualquier momento.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CHFG8XBZ{{</world>}}
