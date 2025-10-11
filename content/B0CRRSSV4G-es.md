@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 【Ahorro de energía】Nuestros enchufes inteligentes WiFi vienen con una función de estadísticas de energía que le permite comprobar el consumo de energía en cualquier momento. También puedes utilizar la función de temporizador y la función de cuenta atrás para controlar los electrodomésticos y ahorrar energía.
+- 【Scene Setting】Smart socket puede configurarse para encenderse/apagarse en diferentes escenas según la temperatura, la humedad, los cambios meteorológicos y la hora de salida/puesta del sol. También puede crear escenas según sea necesario y luego ejecutarlas con un solo clic.
 - 【Vida conveniente, libera tus manos】 Conecta el enchufe inteligente a la app smart life a través de WIFI de 2.4 GHz (no compatible con WIFI de 5 GHz). El enchufe inteligente se puede controlar a distancia a través de la app smart life, podrás controlar tus electrodomésticos en cualquier momento. Enchufe Wi-Fi compatible con alexa y google home para control por voz.
 - 【seguro y duradero】Este Inteligente Smart Plug está fabricado en ABS+PC, ignífugo. También tiene una función de bloqueo para niños y protección contra sobrecarga para garantizar su seguridad.
 - 【Fácil de conectar y usar】El enchufe inteligente se puede conectar a su teléfono móvil a través de WiFi con un solo clic. El enchufe inteligente 16A tiene una potencia máxima de 3680W, que satisface las necesidades de los electrodomésticos diarios. Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros.
-- 【Scene Setting】Smart socket puede configurarse para encenderse/apagarse en diferentes escenas según la temperatura, la humedad, los cambios meteorológicos y la hora de salida/puesta del sol. También puede crear escenas según sea necesario y luego ejecutarlas con un solo clic.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRRSSV4G{{</world>}}

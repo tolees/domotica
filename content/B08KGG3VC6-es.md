@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protocolo de red, WiFi
-- disponible con y sin sensor de movimiento
-- El producto tiene la fuente de luz extraíble; estos productos pueden desmontarte para revisar de forma separada la fuente de luz contenida
 - Regulable
-- Tecnología LED más novedosa y sostenible, no incluye bombilla normal
+- disponible con y sin sensor de movimiento
+- Protocolo de red, WiFi
 - Controlable con la App LEDVANCE SMART+ (con Android 8.0, iOS 14.0 o superior)
+- Tecnología LED más novedosa y sostenible, no incluye bombilla normal
+- El producto tiene la fuente de luz extraíble; estos productos pueden desmontarte para revisar de forma separada la fuente de luz contenida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KGG3VC6{{</world>}}
