@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【1080P Resolución y 30m Visión Nocturna】Con EZVIZ camara vigilancia C3TN, puede ver y grabar todo en Full HD 1080p para capturar detalles más nítidos y vívidos. La cámara wifi también cuenta con dos luces infrarrojas para ofrecer una visión nocturna clara de hasta 30 metros
-- 【Funciona con Alexa】Controlas la cámara vigilancia wifi con tu voz a través del dispositivo inteligente Alexa. La cámara wifi también es compatible con otros sistemas domésticos inteligentes, por ejemplo, Google Home e IFTTT.
 - 【Audio Recogido y IP67 Impermeable】Cámara exterior C3TN viene con un micrófono con cancelación de ruido incorporado, que puede captar audio claro en el área circundante.Puedes ver y escuchar lo que sucede en tu patio trasero. Además, con su clase de protección IP67, la cámara ip es resistente a la lluvia, la nieve y otras condiciones climáticas más duras.
+- 【Funciona con Alexa】Controlas la cámara vigilancia wifi con tu voz a través del dispositivo inteligente Alexa. La cámara wifi también es compatible con otros sistemas domésticos inteligentes, por ejemplo, Google Home e IFTTT.
+- 【1080P Resolución y 30m Visión Nocturna】Con EZVIZ camara vigilancia C3TN, puede ver y grabar todo en Full HD 1080p para capturar detalles más nítidos y vívidos. La cámara wifi también cuenta con dos luces infrarrojas para ofrecer una visión nocturna clara de hasta 30 metros
 - 【Espacios de Almacenamiento Flexibles】EZVIZ cámara wifi tiene una ranura para tarjeta micro SD integrada que admite tarjetas de memoria de hasta 256GB (tarjeta no incluida). También puedes guardar las grabaciones en EZVIZ Cloud.
 - 【H.265 Compresión Video】Con la tecnología avanzada de compresión de video H.265, C3TN cámara ip exterior logra la misma calidad de video o incluso mejor con solo la mitad del ancho de banda y la mitad del espacio de almacenamiento requerido por el estándar de compresión de video H.264 anterior.
 

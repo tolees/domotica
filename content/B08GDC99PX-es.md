@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - No se necesita un hub: conecte la lámpara L530E a la red Wi-Fi de su hogar y estará listo para comenzar
-- Modo ausente: simula automáticamente que hay alguien en casa para ahuyentar a los visitantes no deseados
-- Escenarios y programación: cree programas para activarlos o desactivarlos con el brillo/color que haya configurado
 - Multicolor: diseñe fácilmente escenarios para su rutina o actividad diaria personalizando el brillo, la temperatura de la luz y los colores, con 16 000 000 000 tonos para elegir
 - Factor de forma: A60, E27
-- Control por voz: funciona con Alexa y el Asistente de Google para tener las manos libres. «Alexa, enciende la luz» o «ok Google, atenúa las luces de mi habitación»
 - Control remoto: controle sus luces esté donde esté, a través de la aplicación gratuita tapo (iOS, Android) para teléfonos inteligentes y tabletas
+- Control por voz: funciona con Alexa y el Asistente de Google para tener las manos libres. «Alexa, enciende la luz» o «ok Google, atenúa las luces de mi habitación»
+- Escenarios y programación: cree programas para activarlos o desactivarlos con el brillo/color que haya configurado
+- Modo ausente: simula automáticamente que hay alguien en casa para ahuyentar a los visitantes no deseados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08GDC99PX{{</world>}}
