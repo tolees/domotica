@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño y acabados óptimo con marcos slim
-- Pantalla con resolución HD - óptima Definición
-- Android TV: todas tus apps de contenidos en streaming disponibles en Google Play
 - Compatible con montaje en pared - VESA: 75 x 75 M4
+- Diseño y acabados óptimo con marcos slim
+- Android TV: todas tus apps de contenidos en streaming disponibles en Google Play
+- Pantalla con resolución HD - óptima Definición
 - Chromecast Integrado: envía los contenidos de tu móvil directamente a la pantalla del televisor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

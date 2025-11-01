@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Transmite tu música de forma inalámbrica con alexa, spotify connect o bluetooth
+- Al cerrar el altavoz, los micrófonos están físicamente separados para una máxima privacidad
 - Conecte su pure discovr a otros altavoces compatibles y reproduzca música o emisoras de radio en cualquier lugar de su casa
+- Transmite tu música de forma inalámbrica con alexa, spotify connect o bluetooth
 - Disfruta de una experiencia auditiva ininterrumpida con hasta 15 horas de duración de la batería, sin esfuerzo y en cualquier lugar
 - Cree preajustes de todos los comandos de alexa que se pueden lanzar con sólo pulsar un botón, incluyendo sus emisoras y listas de reproducción favoritas, opciones de control de la casa y habilidades de alexa
-- Al cerrar el altavoz, los micrófonos están físicamente separados para una máxima privacidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JFVQBCH{{</world>}}
