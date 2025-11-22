@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajusta a la perfección tu nivel de confort y controla tu calefacción desde cualquier lugar usando la app de Garza Smart, Tuya Smart o Smart Life
-- Sustituye el cabezal de la válvula termostática de tu radiador (no válido para radiadores con válvulas manuales)
-- Se requiere la instalación de una pasarela/bridge (NO INCLUIDO) para su funcionamiento. Se recomienda el uso del Garza Smart Bridge que permite controlar hasta 100 dispositivos inteligentes zigbee: bombillas, cabezales termostáticos, etc.
-- Pantalla LED con indicador de temperatura, indicador de funcionamiento y aviso de batería baja
-- Controla el cabezal termostático inteligente de Garza mediante un asistente de voz. Compatible con Alexa y Google Home
-- Automatiza tu calefacción con la detección de ventanas abiertas. Incluye también función anti-congelación y función de bloqueo para niños
-- Cabezal Termostático Inteligente ZigBee para la automatización de los radiadores de tu hogar. Controla de forma inteligente e individual la temperatura de cada habitación y reduce el consumo de energía. 100% compatible con los termostatos Wifi de Garza
 - Tamaño: 55x94,3mm. Pilas de larga duración para el cabezal incluidas
-- Programa horarios y crea automatizaciones y escenas para regular la temperatura de tu casa, tanto si usas calefacción central como individual. Regulación de temperatura entre 5°C-30°C
 - Conexión del cabezal M30x1.5mm. Incluye adaptador Orkli para válvula 28x1mm y un set de adaptadores adicionales para ajustarse a una gran variedad de válvulas termostáticas de diferentes marcas (Danfoss, Caleffi, Giacomini…). Incluye una guía de compatibilidad con las diferentes marcas de valvulas termostáticas
+- Automatiza tu calefacción con la detección de ventanas abiertas. Incluye también función anti-congelación y función de bloqueo para niños
+- Ajusta a la perfección tu nivel de confort y controla tu calefacción desde cualquier lugar usando la app de Garza Smart, Tuya Smart o Smart Life
+- Pantalla LED con indicador de temperatura, indicador de funcionamiento y aviso de batería baja
+- Se requiere la instalación de una pasarela/bridge (NO INCLUIDO) para su funcionamiento. Se recomienda el uso del Garza Smart Bridge que permite controlar hasta 100 dispositivos inteligentes zigbee: bombillas, cabezales termostáticos, etc.
+- Cabezal Termostático Inteligente ZigBee para la automatización de los radiadores de tu hogar. Controla de forma inteligente e individual la temperatura de cada habitación y reduce el consumo de energía. 100% compatible con los termostatos Wifi de Garza
+- Sustituye el cabezal de la válvula termostática de tu radiador (no válido para radiadores con válvulas manuales)
+- Programa horarios y crea automatizaciones y escenas para regular la temperatura de tu casa, tanto si usas calefacción central como individual. Regulación de temperatura entre 5°C-30°C
+- Controla el cabezal termostático inteligente de Garza mediante un asistente de voz. Compatible con Alexa y Google Home
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MKTBXJ5{{</world>}}
