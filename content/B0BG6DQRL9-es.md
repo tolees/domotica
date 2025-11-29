@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso: 80.0 grams; Fuente de alimentación: ac dc
 - Alto lumen - 350 lm de luz lo suficientemente brillante como para iluminar cualquier objeto
-- Ahorro de energía - Funciones de ahorro de energía. Reduzca el consumo de energía sin perder brillo o calidad
 - Blanco ajustable - Ajusta la temperatura de color de 2200 K a 6500 K según tus necesidades
 - Fácil de configurar y utilizar: no requiere concentrador, configuración rápida y fácil de gestionar a través de la aplicación gratuita Tapo. También puedes controlar tus focos inteligentes por voz a través de Alexa o Google Assistant
-- Componentes incluidos: Atenuador de luz
-- Casquillo GU10 - Compatible con todas las bombillas GU10. No hay carga adicional para su primer intento
-- 16 millones de colores y 1 - 100% regulable - Elija las luces de una amplia gama de colores, también atenuar del 1% al 100% para que desee para la atmósfera perfecta
 - Eficiencia energética: A+++
+- Componentes incluidos: Atenuador de luz
 - Mando a distancia: enciende y apaga el foco con la aplicación Tapo, sin importar dónde estés
+- 16 millones de colores y 1 - 100% regulable - Elija las luces de una amplia gama de colores, también atenuar del 1% al 100% para que desee para la atmósfera perfecta
+- Peso: 80.0 grams; Fuente de alimentación: ac dc
+- Casquillo GU10 - Compatible con todas las bombillas GU10. No hay carga adicional para su primer intento
+- Ahorro de energía - Funciones de ahorro de energía. Reduzca el consumo de energía sin perder brillo o calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BG6DQRL9{{</world>}}

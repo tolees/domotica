@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubre la calidad del aire de tu casa: el Amazon Smart Air Quality Monitor te permite descubrir y entender fácilmente cuál es la calidad del aire del interior de tu casa.
-- Recibe notificaciones: Alexa te puede mandar notificaciones al teléfono o hacer comunicados en dispositivos Echo si detecta una mala calidad del aire.
-- No te pierdas nada: el color del indicador LED te permite saber cuál es la calidad del aire en cada momento y, a través de la app Alexa, puedes consultar la puntuación de calidad del aire expresada de una manera muy sencilla de entender.
 - Certificado para personas: tu Hogar digital, más fácil que nunca y al alcance de todos. La configuración con Alexa es muy sencilla.
 - Mide y haz un seguimiento de los valores de calidad: ve cómo evolucionan cinco factores importantes relativos a la calidad del aire. Estos factores son las partículas en suspensión (PM 2.5), los compuestos orgánicos volátiles (VOC), el monóxido de carbono (CO), la humedad y la temperatura.
 - Activa rutinas para encender tus dispositivos con Alexa, como purificadores de aire, deshumidificadores y ventiladores, cuando la calidad del aire es mala.
+- Recibe notificaciones: Alexa te puede mandar notificaciones al teléfono o hacer comunicados en dispositivos Echo si detecta una mala calidad del aire.
+- No te pierdas nada: el color del indicador LED te permite saber cuál es la calidad del aire en cada momento y, a través de la app Alexa, puedes consultar la puntuación de calidad del aire expresada de una manera muy sencilla de entender.
+- Descubre la calidad del aire de tu casa: el Amazon Smart Air Quality Monitor te permite descubrir y entender fácilmente cuál es la calidad del aire del interior de tu casa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08X2V3T2B{{</world>}}
