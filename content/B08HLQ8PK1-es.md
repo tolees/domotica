@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Automatiza el dispositivo con programas
 - Contrólalo con la aplicación WiZ o con la voz: por ejemplo, enciende y apaga tu lámpara tradicional
 - Conexión Plug & Play. WiZ funciona con tu router Wi-Fi, por lo que no necesitas ninguna conexión adicional. Simplemente enchufa el dispositivo, descarga la aplicación WiZ y ¡listo!
-- Sencilla conexión Plug & Play
 - Transforma cualquier enchufe de pared en inteligente con el enchufe inteligente WiZ.
+- Sencilla conexión Plug & Play
+- Automatiza el dispositivo con programas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HLQ8PK1{{</world>}}

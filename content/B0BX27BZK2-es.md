@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Efectos RGBIC: Disfruta de vibrantes efectos de iluminación RGBIC para tu TV. Con las hebillas traseras incluidas, las barras de luz del televisor se pueden girar libremente hasta 90°, lo que permite una mayor difusión de los efectos de iluminación.(No se necesita un concentrador adicional).
 - Creado para Su TV: Dale vida a tu entretenimiento, películas, deportes y juegos con las barras de luz RGBIC para TV de Govee. Utilícelas con la App Govee Home para controlar las barras de luz a distancia o iluminar las paredes con modos de escena y música preestablecidos. No está diseñado para iluminar. Sólo se utiliza para crear ambiente.
 - 8+ Modos de Música Dinámica: Convierta sus luces en una fiesta de baile con el modo de música de Govee Home App. Elige entre 8 modos de música diferentes para crear una animada escena de fiesta para tu espacio.
+- Efectos RGBIC: Disfruta de vibrantes efectos de iluminación RGBIC para tu TV. Con las hebillas traseras incluidas, las barras de luz del televisor se pueden girar libremente hasta 90°, lo que permite una mayor difusión de los efectos de iluminación.(No se necesita un concentrador adicional).
 - Fácil de Instalar: Las barras de luz de TV se pueden ajustar de tres maneras para adaptarse a sus necesidades de iluminación. Utilice los soportes de montaje para colocarlas detrás del televisor o junto a él. Las barras de luz también se pueden colocar horizontalmente sin los soportes de montaje.
 - Control por Voz Inteligente: Utiliza tus dispositivos con asistente de voz para encender y apagar las luces, cambiar los modos de escena y mucho más con Smart Voice Control. Empareja las barras de luces de tu televisor con Alexa y Google Assistant para disfrutar de control por voz manos libres.
 
