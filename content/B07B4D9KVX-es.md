@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Temporizadores - Utiliza la aplicación SwitchBot para programar temporizadores integrados, y funcionen sin tu móvil o Hub. Enciende las luces o los electrodomésticos de forma automática incluso cuando estés fuera de casa. Libera tus manos.
-- Compatible con el modo de pulsación/conmutación. Con el adhesivo incluido, un Bot ayuda a encender y apagar la luz.
-- Universal: Funciona bien con casi cualquier interruptor basculante y botón de cualquier aparato (excepto el interruptor de pantalla táctil). Pulsador de botonesinteligente para tu hogar inteligente.
 - Ecosistema SwitchBot - Es posible la vinculación con otros productos SwitchBot. Abrir los dispositivos SwichBot en las escenas establecidas a través de la aplicación. Compatible con la API de SwitchBot.
+- Universal: Funciona bien con casi cualquier interruptor basculante y botón de cualquier aparato (excepto el interruptor de pantalla táctil). Pulsador de botonesinteligente para tu hogar inteligente.
+- Compatible con el modo de pulsación/conmutación. Con el adhesivo incluido, un Bot ayuda a encender y apagar la luz.
+- Temporizadores - Utiliza la aplicación SwitchBot para programar temporizadores integrados, y funcionen sin tu móvil o Hub. Enciende las luces o los electrodomésticos de forma automática incluso cuando estés fuera de casa. Libera tus manos.
 - Fácil de instalar - Instalación de 5 segundos. Colócalo justo al lado de un interruptor o botón con una pegatina 3M. No hay que cambiarlo, no se necesitan herramientas. Fácil manejo de la aplicación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

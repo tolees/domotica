@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SONIDO POTENTE: disfrute del sonido Bang & Olufsen Signature sin parar de latir con 2x140 vatios de potencia máxima en un altavoz pequeño y elegante. Beosound A1 altavoz inalámbrico bluetooth sonido a cualquier viaje.
-- ALTAVOZ ALEXA: Una interfaz de usuario intuitiva combinada con control de voz integrado y Alexa de Amazon significa tener todo bajo control.
 - ALTAVOZ BLUETOOTH IMPERMEABLE: Comparta su banda sonora con un altavoz bluetooth inalámbrico duradero, altavoz ligero diseñado para la vida en la carretera, en casa o en la piscina.
-- MÁS TIEMPO DE REPRODUCCIÓN: batería mejorada para disfrutar de música y llamadas durante 18 horas a volúmenes altos y más tiempo a volumen bajo.
+- SONIDO POTENTE: disfrute del sonido Bang & Olufsen Signature sin parar de latir con 2x140 vatios de potencia máxima en un altavoz pequeño y elegante. Beosound A1 altavoz inalámbrico bluetooth sonido a cualquier viaje.
 - ELEGANTE PERO FUERTE: diseñada para viajar, la bóveda de aluminio resiste al polvo y al agua y conforma un altavoz portátil elegantemente integrado.
+- ALTAVOZ ALEXA: Una interfaz de usuario intuitiva combinada con control de voz integrado y Alexa de Amazon significa tener todo bajo control.
+- MÁS TIEMPO DE REPRODUCCIÓN: batería mejorada para disfrutar de música y llamadas durante 18 horas a volúmenes altos y más tiempo a volumen bajo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B085R7TSN6{{</world>}}

@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HomeKit Enable: controle sus dispositivos conectados directamente desde sus dispositivos Apple
-- Control remoto: encienda/apague instantáneamente los dispositivos conectados donde quiera que esté a través de la aplicación Tapo
-- Horario: preestablezca un horario para administrar automáticamente los dispositivos
 - Carga rápida de 18 W: admite carga PD y QC3.0 de hasta 18 W para dispositivos compatibles
-- Fácil configuración y uso: no se requiere concentrador, configure rápidamente y administre fácilmente a través de la aplicación gratuita
-- Control de voz: administre su enchufe inteligente con comandos de voz a través de Amazon Alexa o el Asistente de Google
-- Temporizador: cree listas de temporizadores de cuenta regresiva para dispositivos electrónicos conectados
+- HomeKit Enable: controle sus dispositivos conectados directamente desde sus dispositivos Apple
+- Horario: preestablezca un horario para administrar automáticamente los dispositivos
 - Modo Ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
+- Temporizador: cree listas de temporizadores de cuenta regresiva para dispositivos electrónicos conectados
+- Fácil configuración y uso: no se requiere concentrador, configure rápidamente y administre fácilmente a través de la aplicación gratuita
 - Control individual: controle por separado 3 tomacorrientes inteligentes en la regleta a través de la aplicación o comandos de voz
+- Control remoto: encienda/apague instantáneamente los dispositivos conectados donde quiera que esté a través de la aplicación Tapo
+- Control de voz: administre su enchufe inteligente con comandos de voz a través de Amazon Alexa o el Asistente de Google
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGSHS9FN{{</world>}}
