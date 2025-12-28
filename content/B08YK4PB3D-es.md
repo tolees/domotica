@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alto índice de reproducción cromática (IRC >80) que ofrece un color vivo y natural
+- Ilumina tu hogar a tu gusto y crea automatizaciones y escenas programando el encendido/apagado de tu bombilla Garza
 - Control por voz: Usa los comandos de voz de tu asistente de voz Alexa y Google
 - Bombilla Inteligente WiFi Estándar A60 que ofrece una gran versatilidad para la iluminación y ambientación de cualquier estancia (2 unidades)
-- Compatible solo con Wifi 2.4GHz (No funciona con red de 5GHz)
-- Encendido instantáneo y libre de parpadeos para cuidar de tu vista
-- Ilumina tu hogar a tu gusto y crea automatizaciones y escenas programando el encendido/apagado de tu bombilla Garza
+- Alto índice de reproducción cromática (IRC >80) que ofrece un color vivo y natural
 - Tecnología CCT que permite escoger entre luz fría, neutra o cálida (3000K, 4000K o 6500K) + Tecnología dimmable para cambiar y regular la intensidad de la luz + Tecnología RGB con cambio de color entre 16 millones de colores del aspecto cromático
+- Encendido instantáneo y libre de parpadeos para cuidar de tu vista
 - Controla tu bombilla de forma remota desde varios dispositivos a través de las apps Garza Smart, Tuya Smart y Smart Life
+- Compatible solo con Wifi 2.4GHz (No funciona con red de 5GHz)
 - Consumo de 11W equivalente a 75W de consumo incandescente, 1060 lúmenes y casquillo grueso E27
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Añade un Hue Bridge (se vende por separado) a tus luces inteligentes para disfrutar de todas las características de Philips Hue. Con un Hue Bridge, puedes añadir hasta 50 luces inteligentes para controlarlas en tu hogar. Controla las luces desde tu smartphone o tableta con Philips Hue app o añade interruptores al sistema para activar las luces. Configura temporizadores, notificaciones, alarmas y mucho más para disfrutar de una experiencia completa con Philips Hue. Philips Hue funciona con Amazon Alexa, Apple Homekit y Google Home para permitirte controlar las luces con tu voz.
 - Instala fácil y rápidamente tu sistema de iluminación inteligentes: Enchúfala y enlázala vía Bluetooth con la app Hue Bluetooth que te permite controlar hasta 10 dispositivos, o hazte con el Hue Bridge y descubre todas las funcionalidades que te ofrece la iluminación inteligente.
 - Control incorporado en el producto: Cambia el ajuste de luz directamente con el botón en la propia luz. Recorre las escenas de iluminación especiales, como Café de domingo y Bosque encantado, pulsando el botón. Pulsa dos veces y mantén pulsada la segunda vez para alternar cíclicamente entre los colores.
 - Una luz inteligente verdaderamente portátil: La lámpara de mesa portátil Go realmente puede ir donde desees, gracias a su batería recargable. Lleva esta lámpara contigo donde necesites luz colorida, por ejemplo, en el interior para leer o al aire libre para iluminar tu próxima barbacoa al aire libre. Obtén hasta 48 horas de luz con una sola carga y luego llévala adentro para cargarla en la base de carga incluida.
 - Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen.
 - Apta para uso en exteriores: la lámpara portatil es perfecta para su uso en exteriores, con grados de protección IP20 (contra el polvo) y 54 (contra salpicaduras de agua o chorros).
+- Añade un Hue Bridge (se vende por separado) a tus luces inteligentes para disfrutar de todas las características de Philips Hue. Con un Hue Bridge, puedes añadir hasta 50 luces inteligentes para controlarlas en tu hogar. Controla las luces desde tu smartphone o tableta con Philips Hue app o añade interruptores al sistema para activar las luces. Configura temporizadores, notificaciones, alarmas y mucho más para disfrutar de una experiencia completa con Philips Hue. Philips Hue funciona con Amazon Alexa, Apple Homekit y Google Home para permitirte controlar las luces con tu voz.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2PR4GXZ{{</world>}}
