@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deja que Philips Hue vigile tu hogar; con una transmisión en vivo nítida de 1080p HD, enciende las luces o envía una alerta a su dispositivo móvil cuando se detecte movimiento o sonido, y más; la cámara de seguridad inalámbrica para el hogar Hue Secure con cable es fácil de montar e instalar en cualquier hogar
 - Disponible en versión en blanco y negro
 - Haz que parezca que estás en casa cuando no lo estás; usa la cámara de video vigilancia Hue Secure con la automatización de presencia Mimic y activa la función de conversación bidireccional para proteger tu hogar y tranquilizarte mientras no estás en casa
+- Deja que Philips Hue vigile tu hogar; con una transmisión en vivo nítida de 1080p HD, enciende las luces o envía una alerta a su dispositivo móvil cuando se detecte movimiento o sonido, y más; la cámara de seguridad inalámbrica para el hogar Hue Secure con cable es fácil de montar e instalar en cualquier hogar
 - Vigila tu casa en tiempo real; recibe notificaciones en tu dispositivo móvil cada vez que tu cámara segura detecta movimiento; cree zonas de Actividad para recibir alertas según lo que desencadene el movimiento, como una persona, un animal, un vehículo o un paquete
 - Con el Philips Hue Bridge tendrás acesso a todas las funcionalidades del sistema de video vigilancia de Hue Secure: alarmas de luz y sonido, simulación de presencia, sistema de privacidad seguro y la capacidad de alertas para que tomes medidas para proteger tu hogar
 
