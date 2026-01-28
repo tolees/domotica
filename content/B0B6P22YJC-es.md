@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Admite plataformas de hogar inteligente como Home Assistant, openHAB, Zigbee2MQTT, etc. System on a Chip es EFR32MG21.
-- Cable de extensión USB opcional de 1,5 m para un mejor alcance de la señal.
 - Ganancia de salida de +20dBm, la carcasa de aluminio reduce efectivamente la interferencia de señal de los periféricos
 - Como un hub zigbee,SONOFF ZBDongle-E puede trabajar con los siguientes dispositivos: Router: ZBMINI/ZBMINIL2 Smart Switch, S26R2ZB Smart Plug; Dispositivo final: , SNZB-01/01P/02/02P/02D/03/03P/04/06P Sensores ZigBee
 - Flasheado previamente con el firmware del coordinador Zigbee basado en EZNet 6.10.3 listo para usar.
+- Cable de extensión USB opcional de 1,5 m para un mejor alcance de la señal.
+- Admite plataformas de hogar inteligente como Home Assistant, openHAB, Zigbee2MQTT, etc. System on a Chip es EFR32MG21.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6P22YJC{{</world>}}
