@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tamaño mini: el mini tamaño del interruptor de relé inteligente MINIR4M se adapta a diferentes cajas de montaje, incluidos los tipos más pequeños de 86/UE.
 - Control de conmutación externa: el interruptor WiFi MINIR4M empotrado se puede conectar fácilmente a un contacto de encendido instantáneo, interruptor de salida de puerta, interruptor SPDT e interruptor de latching.
 - Modo de relé desmontable: el interruptor WiFi mate SONOFF MINIR4M dispone del modo de relé desmontable, lo que significa que el estado del interruptor externo y del relé están separados. Por lo tanto, presionar el interruptor externo no cambia el estado del relé.
-- Seguro y fiable: el interruptor de luz SONOFF MINIR4M Smarthome está equipado con las certificaciones TÜV, CE y FCC, lo que garantiza una mayor seguridad y fiabilidad para su uso.
-- Tamaño mini: el mini tamaño del interruptor de relé inteligente MINIR4M se adapta a diferentes cajas de montaje, incluidos los tipos más pequeños de 86/UE.
 - Compatible con matter: el interruptor inteligente SONOFF MINIR4M es un dispositivo con certificación Matter que funciona con otras marcas de dispositivos Matter y se puede integrar en plataformas compatibles con matter como Alexa, Apple Home, Google Home, etc. Controlar todos los dispositivos inteligentes a través de una sola aplicación ya no es un sueño.
+- Seguro y fiable: el interruptor de luz SONOFF MINIR4M Smarthome está equipado con las certificaciones TÜV, CE y FCC, lo que garantiza una mayor seguridad y fiabilidad para su uso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DF1T9V3G{{</world>}}

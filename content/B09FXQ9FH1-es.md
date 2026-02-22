@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alexa integrada y asistente offline: Este reloj inteligente con Alexa permite configurar alarmas, traducir o consultar el clima. Usa comandos de voz incluso sin conexión a Internet.
 - 150 modos deportivos y pantalla AMOLED: Amazfit GTR 3 Pro reloj deportivo incluye 150+ modos como correr, nadar y gym. Pantalla AMOLED de 1,45" clara incluso bajo el sol.
 - Llamadas y música vía Bluetooth: Amazfit GTR 3 Pro smartwatch permite hacer/recibir llamadas y controlar música desde el reloj. También almacena hasta 470 canciones para uso sin móvil.
+- Alexa integrada y asistente offline: Este reloj inteligente con Alexa permite configurar alarmas, traducir o consultar el clima. Usa comandos de voz incluso sin conexión a Internet.
 - GPS preciso y resistencia 5 ATM: Reloj inteligente con GPS multibanda (GLONASS, Galileo, BDS…) y altímetro. Resistente al agua hasta 50 m, ideal para actividades al aire libre.
 - Salud 24/7 y batería de 12 días: El reloj deportivo mide frecuencia cardíaca, oxígeno, estrés y respiración con un toque. La batería dura hasta 12 días con uso normal.
 

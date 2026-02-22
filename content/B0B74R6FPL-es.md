@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control por APP: de manera remota, control las luces de tu casa y define intervalos regulares para tu televisión, cafetera, humidificador, etc. Las casas inteligentes, además de ser divertidas, también son muy útiles.
-- Control por voz: Es compatible con Google Home/Alexa/SmartThings. Gestiona tu dispositivo con un comando de voz simple, por ejemplo: "Alexa, enciende la luz".
 - Monitorización del consumo eléctrico: mientras utilizas el enchufe inteligente, con la APP Smart Life puedes monitorizar el consumo eléctrico y estimar de cuánto será tu factura de electricidad.
+- Control por voz: Es compatible con Google Home/Alexa/SmartThings. Gestiona tu dispositivo con un comando de voz simple, por ejemplo: "Alexa, enciende la luz".
+- Control por APP: de manera remota, control las luces de tu casa y define intervalos regulares para tu televisión, cafetera, humidificador, etc. Las casas inteligentes, además de ser divertidas, también son muy útiles.
 - Diseño ultra pequeño: Nuestro diseñador redujo el tamaño del enchufe a 4,4 x 4,4 centímetros, solucionando de esta manera el problema habitual de los enchufes wifis que, al ser grandes, no se pueden utilizar en una regleta una al lado del otro. Al ocupar poco espacio resulta mucho más cómodo para su uso.
 - Bloqueo para niños: Si esta función se encuentra activada, para desactivarla deberás apagar el dispositivo o presionar el interruptor cuato veces seguidas. Esto asegura que los no puedan tocar el estado del interruptor accidentalmente.
 

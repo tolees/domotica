@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mi 10T Pro incluye un sensor principal de 108 MP con IA & OIS, puede tomar fotos de paisajes con su ultra gran angular, también incorpora modo retrato y el modo macro; Mi 10T Pro viene con una cámara selfie de 20 MP agujereada en su pantalla
+- Mi 10T Pro cuenta con una pantalla DotDisplay FHD+ de 6,67" con TureColor, y con una pantalla AdaptiveSync de 144 Hz para un desplazamiento y una navegación más fluidos; incluye también NFC, permitiendo el pago contactless a través de Google Pay
 - Redefine los límites de la potencia móvil con el nuevo Xiaomi Mi 10T
 - Mi 10T Pro incluye el último procesador líder 5G Qualcomm Snapdragon 865 y una CPU Octa-Core; también cuenta con un sensor de huellas lateral incorporado en el botón de encendido/bloqueo, que te permite desbloquear el teléfono desde el lateral utilizando el agarre natural de tu mano
-- Mi 10T Pro cuenta con una pantalla DotDisplay FHD+ de 6,67" con TureColor, y con una pantalla AdaptiveSync de 144 Hz para un desplazamiento y una navegación más fluidos; incluye también NFC, permitiendo el pago contactless a través de Google Pay
 - Mi 10T Pro incluye una gran batería de 5000 mAh, para un uso más prolongado del teléfono sin tener que recargarlo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

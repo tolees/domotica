@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Montaje magnético: configure su Tapo C125 sin esfuerzo utilizando su versátil base magnética.
+- Zonas de actividad: le notifica cuando se detecta actividad en zonas específicas.
 - Campo de visión ultra amplio de 140°: capture más vistas con un campo de visión ultra amplio.
 - Visión nocturna discreta con LED IR de 940 nm: disfrute de un monitoreo nocturno discreto de su bebé o mascota con el LED IR de 940 nm de baja intensidad y apenas perceptible.
-- Zonas de actividad: le notifica cuando se detecta actividad en zonas específicas.
-- 2K QHD + Mejora de imagen AI + HDR: utilizando la tecnología de mejora de imagen AI, experimente una claridad superior incluso en entornos con poca luz o sobreexposición.
 - Audio bidireccional: permite la comunicación a través de un micrófono y un altavoz integrados.
 - Obturador de privacidad física: cuando está habilitado, mantenga su privacidad con la lente bloqueada por el obturador de privacidad.
+- Montaje magnético: configure su Tapo C125 sin esfuerzo utilizando su versátil base magnética.
 - Alarma y sirena personalizables: activa el audio grabado como alarma cuando se detecta movimiento.
 - Compatible con almacenamiento local y en la nube: guarde videos grabados en la tarjeta microSD (hasta 512 GB) o utilizando los servicios de almacenamiento en la nube de Tapo Care.
+- 2K QHD + Mejora de imagen AI + HDR: utilizando la tecnología de mejora de imagen AI, experimente una claridad superior incluso en entornos con poca luz o sobreexposición.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQLJDGVN{{</world>}}

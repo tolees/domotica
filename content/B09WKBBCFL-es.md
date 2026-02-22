@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Notas sobre el Enchufe WiFi】①El enchufe inteligente solo es compatible con WiFi de 2,4 GHz (no 5 GHz). ②El enchufe WiFi de SURFOU no es compatible con "Tasmota", "Homekit" ni "Matter". ③Utiliza el enchufe con una carga máxima de 16A, 3680W.
+- 【Control por Voz】Compatible con Amazon Alexa, Google Assistant y SmartThings para una experiencia de usuario más rápida e intuitiva.
 - 【Planificación y Función de Temporizador】El enchufe inteligente SURFOU organiza tu día a día creando rutinas con temporizadores predefinidos a través de la aplicación Tuya/Smart Life, optimizando acciones recurrentes como apagar las luces.
 - 【Nuevo Medidor de Consumo Eléctrico】NUEVA VERSIÓN de medidor de consumo eléctrico para medir potencia, energía total (kWh), voltaje y corriente. Satisface la mayoría de las necesidades de medición de potencia. Ahorre energía y dinero, proteja el medio ambiente y reduzca sus facturas. Ideal para uso doméstico.
-- 【Modo de Ausencia】Simula tu presencia en casa programando el encendido y apagado aleatorio de dispositivos como la televisión, la radio y las lámparas, disuadiendo así intrusiones.
+- 【Notas sobre el Enchufe WiFi】①El enchufe inteligente solo es compatible con WiFi de 2,4 GHz (no 5 GHz). ②El enchufe WiFi de SURFOU no es compatible con "Tasmota", "Homekit" ni "Matter". ③Utiliza el enchufe con una carga máxima de 16A, 3680W.
 - 【Control Remoto】Controla fácilmente el enchufe inteligente a distancia a través de la aplicación Tuya/Smart Life en dispositivos Android e iOS, estés donde estés. No se requiere ningún hub adicional.
-- 【Control por Voz】Compatible con Amazon Alexa, Google Assistant y SmartThings para una experiencia de usuario más rápida e intuitiva.
+- 【Modo de Ausencia】Simula tu presencia en casa programando el encendido y apagado aleatorio de dispositivos como la televisión, la radio y las lámparas, disuadiendo así intrusiones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09WKBBCFL{{</world>}}

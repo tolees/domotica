@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Control de voz con el Asistente de Google, Alexa o los atajos de Siri: Consigue un control manos libres de tus luces y utiliza la voz y el Asistente de Google, Amazon Alexa o los atajos de Siri. Usa comandos de voz simples para encender o apagar las luces, intensificar o regular su brillo, cambiar de color y configurar escenas de iluminación personalizadas.
-- Descarga la App WiZ: Disfruta de las ventajas de las funciones inteligentes al instante y controlar tu hogar estés donde estés desde tu Smartphone. Programa su encendido y apagado automático, y mucho más. La aplicación WiZ está disponible para dispositivo
 - Millones de colores y modos de iluminación dinámica: Elige entre una paleta de millones de colores de luz para crear un ambiente impresionante en tu hogar. Disfruta de esas sutiles diferencias con las que nuestros efectos de iluminación dinámicos hacen brillar tu entorno. También, elige entre una amplia variedad de luces blancas frías energizantes hasta luces blancas cálidas suaves, o bien simplemente elige uno de los modos predefinidos, como el modo de concentración o de relajación, para crear el mejor ambiente para tus actividades cotidianas.
+- Control de voz con el Asistente de Google, Alexa o los atajos de Siri: Consigue un control manos libres de tus luces y utiliza la voz y el Asistente de Google, Amazon Alexa o los atajos de Siri. Usa comandos de voz simples para encender o apagar las luces, intensificar o regular su brillo, cambiar de color y configurar escenas de iluminación personalizadas.
 - Conexión Plug & Play. WiZ funciona con tu router Wi-Fi, por lo que no necesitas ninguna conexión adicional. Simplemente enchufa la nueva luz, descarga la aplicación WiZ y ¡listo!
+- Descarga la App WiZ: Disfruta de las ventajas de las funciones inteligentes al instante y controlar tu hogar estés donde estés desde tu Smartphone. Programa su encendido y apagado automático, y mucho más. La aplicación WiZ está disponible para dispositivo
 - Tecnología SpaceSense: entra en la App de WiZ y activa SpaceSense desde las automatizaciones. Con un mínimo de dos luces WiZ en una habitación, convierte tus luces en sensores de movimiento y hace que las luces se enciendan y apaguen automáticamente con la detección de movimiento.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

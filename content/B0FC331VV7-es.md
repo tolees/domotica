@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El seguimiento inteligente captura cada movimiento de tu mascota】 Se fija automáticamente y sigue a tu mascota cuando la detecta, para capturar cada momento encantador.
 - 【Detección humana local precisa y seguimiento de movimiento】 Con un algoritmo de detección humana con IA local, detecta y sigue instantáneamente cualquier movimiento detectado, enviando alertas en tiempo real directamente a tu teléfono. La detección humana es más rápida y precisa, sin necesidad de procesamiento en la nube.
 - 【1080p Full HD proporciona una calidad de imagen nítida】 Con una resolución de 2 MP, la cámara ofrece una nítida resolución HD de 1080p, capturando cada detalle para lograr imágenes vívidas y realistas.
+- El seguimiento inteligente captura cada movimiento de tu mascota】 Se fija automáticamente y sigue a tu mascota cuando la detecta, para capturar cada momento encantador.
 - 【Wi-Fi 6 mejorado para imágenes fluidas y señal estable】 Equipado con un chip inteligente Wi-Fi 6 avanzado para aumentar significativamente la intensidad y la cobertura de la señal, garantizando una reproducción estable de imágenes en alta definición.
 - 【Blindaje físico de la lente, protegiendo la privacidad en la fuente】La lente de la cámara se puede ocultar hacia arriba en el cuerpo para brindar protección física, lo que garantiza seguridad y tranquilidad.
 

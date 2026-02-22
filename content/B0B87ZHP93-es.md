@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Multifunción】: función WIFI, modo manual, función de memoria de apagado, función anticongelante, función de compensación de temperatura, bloqueo para niños, diferencia de temperatura de inicio, restaurar la configuración de fábrica.
+- 【Lo que obtienes】:Beok termostato de caldera de pared (soporte máximo de corriente 3A, voltaje AC100-240V); manual detallado en papel (léalo detenidamente antes del uso y la instalación; si tiene alguna pregunta, no dude en contactarnos); 2 tornillos para instalación; Servicio postventa en línea las 24 horas.
 - 【Programación inteligente】:La programación le ayuda a predefinir el período de tiempo de calefacción y la temperatura de calefacción de acuerdo con sus propios hábitos de trabajo y descanso en su trabajo y vida habitual. En el estado de funcionamiento automático, el equipo ejecuta la temperatura de calentamiento preestablecida en el período de tiempo preestablecido, para lograr una operación inteligente y de ahorro de energía.
 - 【Pantalla táctil LCD】: Pantalla táctil LCD, disponible en 2 colores blanco y negro
-- 【Lo que obtienes】:Beok termostato de caldera de pared (soporte máximo de corriente 3A, voltaje AC100-240V); manual detallado en papel (léalo detenidamente antes del uso y la instalación; si tiene alguna pregunta, no dude en contactarnos); 2 tornillos para instalación; Servicio postventa en línea las 24 horas.
+- 【Multifunción】: función WIFI, modo manual, función de memoria de apagado, función anticongelante, función de compensación de temperatura, bloqueo para niños, diferencia de temperatura de inicio, restaurar la configuración de fábrica.
 - 【Función WIFI】: realice el control remoto del termostato a través de la aplicación Tuya del teléfono móvil, logre el interruptor del termostato, la configuración de la temperatura, la configuración de la hora y la configuración avanzada, etc., para realizar la inteligencia y hacer su vida más conveniente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
