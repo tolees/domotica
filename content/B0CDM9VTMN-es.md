@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Enciende las luces; usa el sensor de contacto Hue Secure para encender las luces cuando se abre; haz que la luz del pasillo se encienda cuando se abra la puerta principal, por ejemplo
 - Requiere Philips Hue Bridge
-- Quedate tranquilo tanto cuando estás en casa como fuera, gracias as sensor de contacto Hue Secure; lo puedes colocar en puertas, ventanas, cajas fuertes y más con el respaldo adhesivo incluido, y recibe una notificación o enciende las luces cuando el sensor detecta movimiento; y pierde contacto con íman
-- Recibe alertas en tiempo real directamente en su dispositivo móvil cuando se abre un sensor; activa una alarma de luz con la aplicación Hue; incluso puedes ver a qué hora se activó el sensor por última vez y si alguien lo ha manipulado
 - Disponible en versión en blanco y negro
+- Recibe alertas en tiempo real directamente en su dispositivo móvil cuando se abre un sensor; activa una alarma de luz con la aplicación Hue; incluso puedes ver a qué hora se activó el sensor por última vez y si alguien lo ha manipulado
+- Quedate tranquilo tanto cuando estás en casa como fuera, gracias as sensor de contacto Hue Secure; lo puedes colocar en puertas, ventanas, cajas fuertes y más con el respaldo adhesivo incluido, y recibe una notificación o enciende las luces cuando el sensor detecta movimiento; y pierde contacto con íman
+- Enciende las luces; usa el sensor de contacto Hue Secure para encender las luces cuando se abre; haz que la luz del pasillo se encienda cuando se abra la puerta principal, por ejemplo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CDM9VTMN{{</world>}}

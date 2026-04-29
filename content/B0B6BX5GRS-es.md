@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detección de movimiento: La cámara de vigilancia graba sólo los eventos relevantes gracias a las zonas de movimiento ajustables individualmente y a la combinación inteligente de análisis de vídeo y sensor de movimiento
-- Artículos incluidos: 1 cámara interior Eyes II, 1 adaptador de red (EU), 1 cable USB, Breves instrucciones e información legal
 - Máximo valor añadido en el sistema: La cámara wifi se puede utilizar de forma independiente con la aplicación Bosch Smart Home Camera, o para más funciones en el sistema Bosch Smart Home
-- Disuasión en caso de robo: La sirena integrada en la cámara de seguridad ahuyenta a los invitados no deseados con una fuerte alarma
+- Artículos incluidos: 1 cámara interior Eyes II, 1 adaptador de red (EU), 1 cable USB, Breves instrucciones e información legal
+- Detección de movimiento: La cámara de vigilancia graba sólo los eventos relevantes gracias a las zonas de movimiento ajustables individualmente y a la combinación inteligente de análisis de vídeo y sensor de movimiento
 - Transmisión de vídeo en directo: el micrófono integrados en la cámara permiten la transmisión de vídeo en directo y la comunicación entre el smartphone y la persona que se encuentra en la habitación
 - Protección de la privacidad: El cabezal de la cámara se puede retraer en la carcasa con solo tocar la cámara con un dedo o directamente en la aplicación Bosch Smart Home.
+- Disuasión en caso de robo: La sirena integrada en la cámara de seguridad ahuyenta a los invitados no deseados con una fuerte alarma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6BX5GRS{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 💡【Control de Interruptor Externo】Se conecta fácilmente al interruptor momentáneo, interruptor de salida de puerta, interruptor SPDT, interruptor de enclavamiento, e incluso sensores de contacto seco.
 - 💡【Seguro y Fiable】Las certificaciones TÜV, CE y FCC garantizan un producto más seguro y fiable.
-- 💡【Modo Relé de Separación】MINIR4 tiene modo de "relé de separación", lo que significa que los estados de los interruptores externos y el relé están separados, por lo que operar el botón del interruptor externo no afectará el estado del relé.
 - 💡【Tamaño Superpequeño】Su tamaño compacto le permite ser instalado en varias cajas de montaje, incluyendo el estándar europeo más pequeño.
+- 💡【Control de Interruptor Externo】Se conecta fácilmente al interruptor momentáneo, interruptor de salida de puerta, interruptor SPDT, interruptor de enclavamiento, e incluso sensores de contacto seco.
+- 💡【Modo Relé de Separación】MINIR4 tiene modo de "relé de separación", lo que significa que los estados de los interruptores externos y el relé están separados, por lo que operar el botón del interruptor externo no afectará el estado del relé.
 - 💡【eWeLink - Control Remoto】MINIR4 es un interruptor inteligente con la función de puerta de enlace de "eWeLink-Remote". Puede añadir subdispositivos "eWeLink-Remote", R5 y S-MATE, después de emparejarse con MINIR4, tanto R5 como S-MATE pueden actuar como controladores remotos para controlar MINIR4 localmente a través de la señal eWeLink-Remote.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

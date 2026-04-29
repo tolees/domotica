@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Funciones de iluminación inteligente fáciles de configurar Disfruta de las ventajas de las funciones inteligentes al instante, simplemente conectando la luz WiZ a una red Wi-Fi. Controla las luces fácilmente cuando estés fuera de casa programando su encendido y apagado automático. No es necesario instalar hardware adicional.
 - Tira de luz flexible que es fácil de instalar. Simplemente pegue la tira a cualquier superficie: escaparates, techos con molduras, estaciones de trabajo, debajo de armarios e incluso a lo largo de bordes curvos. Iluminar la zona con un flujo luminoso intenso y agregar acentos a sus muebles nunca ha sido tan fácil.
 - Millones de colores y modos de luz cambiantes para alegrar tu día. Elige cualquier color de luz que te guste o simplemente aplica un modo de luz dinámico que hemos diseñado para ti. Chimenea u Océano, por ejemplo, te ayudarán a crear una atmósfera increíble y a levantar el ánimo.
+- Funciones de iluminación inteligente fáciles de configurar Disfruta de las ventajas de las funciones inteligentes al instante, simplemente conectando la luz WiZ a una red Wi-Fi. Controla las luces fácilmente cuando estés fuera de casa programando su encendido y apagado automático. No es necesario instalar hardware adicional.
 - Configura las luces para que sigan tu propio horario. Automatiza las luces inteligentes para que sigan tus rutinas diarias o semanales. Programa las luces para que se enciendan por la mañana o antes de llegar a casa y para que se mantengan apagadas para ahorrar energía, cuando no sean necesarias.
 - Tecnología SpaceSense: entra en la App de WiZ y activa SpaceSense desde las automatizaciones. Con un mínimo de dos luces WiZ en una habitación, convierte tus luces en sensores de movimiento y hace que las luces se enciendan y apaguen automáticamente con la detección de movimiento.
 

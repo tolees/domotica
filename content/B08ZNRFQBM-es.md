@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta definición de 3 MP con visión nocturna: 3 MP (2304 × 1296) de alta definición para transmisión en vivo y visión nocturna de hasta 30 pies
-- Audio bidireccional: con micrófono y altavoz integrados, puedes mantenerte en contacto con tu familia en cualquier momento y en cualquier lugar
+- Detección de movimiento y zonas de actividad: las zonas de actividad personalizadas y la notificación se enviarán a tu teléfono una vez que se detecte movimiento
 - Tapo Cuidado: explora el almacenamiento de video en la nube y las funciones más avanzadas con una prueba gratuita de 30 días. Se te notificará antes de que expire tu prueba gratuita con información sobre cómo pagar una suscripción
 - No requiere concentrador: funciona con cualquier router Wi-Fi sin la necesidad de un hub separado
 - Almacenamiento SD: el almacenamiento local soporta tarjetas Micro SD de hasta 128 GB (no se proporciona tarjeta SD).
-- Detección de movimiento y zonas de actividad: las zonas de actividad personalizadas y la notificación se enviarán a tu teléfono una vez que se detecte movimiento
+- Alta definición de 3 MP con visión nocturna: 3 MP (2304 × 1296) de alta definición para transmisión en vivo y visión nocturna de hasta 30 pies
+- Audio bidireccional: con micrófono y altavoz integrados, puedes mantenerte en contacto con tu familia en cualquier momento y en cualquier lugar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZNRFQBM{{</world>}}

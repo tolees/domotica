@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Compatibilidad con bombillas inteligentes: con la función de eliminación de relé, es una gran solución para usar con bombillas inteligentes en todas las habitaciones equipadas, que permanecen en línea y no se verán afectadas por interruptores externos.
-- Rendimiento compacto y escalabilidad: como dispositivos de canal único de 10 A encajan en la mayoría de cajas de montaje estándar. Cada dispositivo admite hasta 64 terminales Zigbee, perfecto para la expansión gradual de su sistema de hogar inteligente.
-- Seguridad y calidad: los estrictos estándares eléctricos garantizan la longevidad – los tiempos de conmutación del relé superan al menos 100.000 ciclos. La carcasa de PC con calificación V-0 proporciona protección contra incendios de primera clase, y los terminales de tornillo mejorados optimizan la eficiencia eléctrica y protegen los cables.
 - Control inteligente Zigbee (juego de 4): basado en el protocolo Zigbee 3.0, requiere una puerta de enlace ZigBee (no incluida). Permite la integración perfecta con Alexa y Google Home para un cómodo control por voz de tus dispositivos, ideal para equipar varias habitaciones al mismo tiempo.
+- Seguridad y calidad: los estrictos estándares eléctricos garantizan la longevidad – los tiempos de conmutación del relé superan al menos 100.000 ciclos. La carcasa de PC con calificación V-0 proporciona protección contra incendios de primera clase, y los terminales de tornillo mejorados optimizan la eficiencia eléctrica y protegen los cables.
+- Rendimiento compacto y escalabilidad: como dispositivos de canal único de 10 A encajan en la mayoría de cajas de montaje estándar. Cada dispositivo admite hasta 64 terminales Zigbee, perfecto para la expansión gradual de su sistema de hogar inteligente.
 - Instalación flexible y versatilidad: requiere un cable neutro (neutro). Admite varios tipos de interruptores externos, como interruptores de puerta, interruptores basculantes, pulsadores e interruptores SPDT. Perfecto para el control inteligente de puertas de garaje, calderas, iluminación y más en múltiples zonas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

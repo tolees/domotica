@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 【Cuenta Atrás y Temporizador】: Con la aplicación, puedes programar la hora de encendido y apagado de tus electrodomésticos según tu horario.
-- 【Control por Voz/ APP】: ANTELA Enchufe Wifi es compatible con Alexa, Google Assistant, puedes controlarlo con simples comandos de voz o a través de app Smart Life .
 - 【Medidor de consumo】 : Con la APP Smart Life, puedes ver el consumo diario o mensual de los aparatos conectados al ANTELA enchufe inteligente. Compatible sólo con wifi 2,4GHz, no con 5G Hz.
 - 【Control de Grupo & compartir Dispositivos】: Puedes crear un grupo para gestionarlos juntos, también puedes compartir los enchufes con tu familia para controlarlos juntos.
+- 【Control por Voz/ APP】: ANTELA Enchufe Wifi es compatible con Alexa, Google Assistant, puedes controlarlo con simples comandos de voz o a través de app Smart Life .
+- 【Cuenta Atrás y Temporizador】: Con la aplicación, puedes programar la hora de encendido y apagado de tus electrodomésticos según tu horario.
 - 【16A & 3680W】: Con una potencia máxima de 3680W, soporta una corriente máxima de 16A, por lo que aguantará sin problemas cualquier aparato de gran potencia .
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Seguimiento y gestión del consumo - Shelly Plus 1PM está equipado con un contador de energía que ayuda a reducir el desperdicio; Configure sus lámparas (o sistema de calefacción) para que se enciendan y apaguen a una hora específica, controle el consumo en tiempo real y disfrute de una reducción en su factura de electricidad
 - Shelly Plus 1PM es un relé interruptor y conmutador inteligente, diseñado para automatizar sus lámparas, dispositivos y equipos eléctricos, además de medir el consumo de manera simultánea; Equipado con un medidor preciso, Shelly Plus 1PM también cuenta con una función de almacenamiento de datos en la nube de Shelly y es compatible con la mayoría de los protocolos web y asistentes de voz
 - Shelly Atención al Cliente - Shelly es una de las marcas creciendo más rápido en el IoT del mundo con dispositivos, proporcionando soluciones para la automatización de hogares privados, edificios y negocios; Puede contar con nuestro apoyo profesional desde la compra hasta el servicio posventa
-- La aplicación Shelly Smart Control le ayuda a controlar sus dispositivos Shelly de forma remota y le envía notificaciones sobre todos los eventos automatizados en su hogar; Puede configurar fácilmente sus dispositivos, gestionar sus parámetros de manera individual o crear escenas personalizadas combinando dispositivos Shelly para activar acciones predefinidas en su sistema domótico
 - Tamaño reducido e instalación fácil - Gracias a sus dimensiones compactas, el relé Shelly Plus 1PM se instala fácilmente detrás de cualquier interruptor tradicional en menos de 10 minutos; Conecte su Shelly Plus 1PM a su red Wi-Fi o añada dispositivos mediante Bluetooth a través de la aplicación Shelly Smart Control
+- Seguimiento y gestión del consumo - Shelly Plus 1PM está equipado con un contador de energía que ayuda a reducir el desperdicio; Configure sus lámparas (o sistema de calefacción) para que se enciendan y apaguen a una hora específica, controle el consumo en tiempo real y disfrute de una reducción en su factura de electricidad
+- La aplicación Shelly Smart Control le ayuda a controlar sus dispositivos Shelly de forma remota y le envía notificaciones sobre todos los eventos automatizados en su hogar; Puede configurar fácilmente sus dispositivos, gestionar sus parámetros de manera individual o crear escenas personalizadas combinando dispositivos Shelly para activar acciones predefinidas en su sistema domótico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQ7KQ8GK{{</world>}}

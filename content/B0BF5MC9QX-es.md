@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- AMPLIA COMPATIBILIDAD -Totalmente compatible con el ecosistema inteligente Tapo
+- COMPATIBILIDAD CON DISPOSITIVOS INTELIGENTES - Crea tus propias acciones inteligentes con otros dispositivos conectados compatibles
 - ATENCIÓN Debe usarse con Tapo Hub (por ejemplo, Tapo H100)
 - PROTECCIÓN CONTRA ROBOS - Detecta si se abren y cierran tanto puertas como ventanas y hace saltar la alarma de sonido
-- AMPLIA COMPATIBILIDAD -Totalmente compatible con el ecosistema inteligente Tapo
-- NOTIFICACIONES INSTANTÁNEAS - Recibe en el móvil un mensaje cuando el sensor se active para saber que ocurre en casa
 - FÁCIL INSTALACIÓN -Colócalo en en casi cualquier superficie con el adhesivo 3M incluido
-- COMPATIBILIDAD CON DISPOSITIVOS INTELIGENTES - Crea tus propias acciones inteligentes con otros dispositivos conectados compatibles
+- NOTIFICACIONES INSTANTÁNEAS - Recibe en el móvil un mensaje cuando el sensor se active para saber que ocurre en casa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BF5MC9QX{{</world>}}

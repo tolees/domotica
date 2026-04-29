@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control inteligente: horarios, escenas, regulación y colores fáciles desde la app – ideal para cualquier ambiente
 - Control por voz: funciona con Alexa, Google Assistant y Apple Home – control cómodo y manos libres
-- LUZ ES OSRAM: Con más de 100 años de experiencia en la industria de la iluminación, ofrecemos la mejor calidad moderna para un futuro sostenible y limpio.
-- Ahorro energético y durabilidad: solo 5–14 W, ideal para el uso inteligente diario en todo el hogar
 - RGB + tono de blanco: 16 millones de colores y luz blanca ajustable de 2700 K a 6500 K
+- Ahorro energético y durabilidad: solo 5–14 W, ideal para el uso inteligente diario en todo el hogar
+- LUZ ES OSRAM: Con más de 100 años de experiencia en la industria de la iluminación, ofrecemos la mejor calidad moderna para un futuro sostenible y limpio.
+- Control inteligente: horarios, escenas, regulación y colores fáciles desde la app – ideal para cualquier ambiente
 - Matter vía Wi-Fi: tecnología preparada para el futuro – control directo por Wi-Fi sin necesidad de un gateway
 
 [🛒 Comprar!!!]({{< param buyurl >}})

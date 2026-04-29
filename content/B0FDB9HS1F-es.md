@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 7. Automatizaciones inteligentes desde la app Tapo: Programa horarios, temporizadores o crea escenas personalizadas. Todo controlado desde tu móvil con la intuitiva app Tapo.
-- 6. Fácil instalación y sin necesidad de Hub: Diseñado para instalación rápida en cajas de interruptores estándar. No se necesita ningún concentrador o dispositivo adicional.
-- 4. Doble canal para más control: Controla de forma independiente dos circuitos desde un solo módulo. Perfecto para gestionar dos luces o motores con una sola instalación.
-- 3. Modo de luz y persiana en un solo dispositivo: Elige entre el modo de interruptor de luz o control de persianas/motores. Ideal para automatizar cortinas eléctricas, toldos, persianas y más.
-- 5. Seguro y fiable para el hogar: Protección de cruce cero para prolongar la vida útil del dispositivo conectado y evitar chispazos. Detección automática de obstáculos en modo persiana.
-- 1. Compatible con Matter: Integración sencilla con Apple Home, Alexa, Google Home y más gracias al protocolo Matter. Controla tus dispositivos desde cualquier ecosistema sin complicaciones.
 - 2. Control remoto por Wi-Fi y Bluetooth: Controla luces o persianas desde cualquier lugar mediante la app Tapo o conexión Bluetooth local cuando no haya red Wi-Fi disponible.
+- 6. Fácil instalación y sin necesidad de Hub: Diseñado para instalación rápida en cajas de interruptores estándar. No se necesita ningún concentrador o dispositivo adicional.
+- 3. Modo de luz y persiana en un solo dispositivo: Elige entre el modo de interruptor de luz o control de persianas/motores. Ideal para automatizar cortinas eléctricas, toldos, persianas y más.
+- 1. Compatible con Matter: Integración sencilla con Apple Home, Alexa, Google Home y más gracias al protocolo Matter. Controla tus dispositivos desde cualquier ecosistema sin complicaciones.
+- 4. Doble canal para más control: Controla de forma independiente dos circuitos desde un solo módulo. Perfecto para gestionar dos luces o motores con una sola instalación.
+- 7. Automatizaciones inteligentes desde la app Tapo: Programa horarios, temporizadores o crea escenas personalizadas. Todo controlado desde tu móvil con la intuitiva app Tapo.
+- 5. Seguro y fiable para el hogar: Protección de cruce cero para prolongar la vida útil del dispositivo conectado y evitar chispazos. Detección automática de obstáculos en modo persiana.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDB9HS1F{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatibilidad flexible del interruptor externo: compatible con diferentes tipos de interruptores externos (interruptor de puerta, interruptor basculante, botón, interruptor SPDT) y admite control de dos vías para la iluminación.
 - Protocolo mate e integración multiplataforma: admite el protocolo Matter, permite una integración sin problemas en Apple Home, Alexa y Google Home. Supera las barreras entre diferentes ecosistemas domésticos inteligentes.
-- Conmutador inteligente WiFi compacto (juego de 4): como interruptor WiFi de un solo canal de 10 A, ideal para proyectos de bricolaje. Requiere un neutro para la instalación. Perfecto para automatizar el sistema de iluminación y crear escenas personalizadas.
+- Compatibilidad flexible del interruptor externo: compatible con diferentes tipos de interruptores externos (interruptor de puerta, interruptor basculante, botón, interruptor SPDT) y admite control de dos vías para la iluminación.
 - Seguridad y calidad: hecho de carcasa V-0 de alta calidad con protección contra incendios de primera clase y rendimiento eléctrico estable para un uso a largo plazo.
 - Comunicación local estable: funciona de forma fiable en la red local, incluso en condiciones de red de servidores poco óptimas, gracias al soporte de comunicación local a través de dispositivos certificados Matter.
+- Conmutador inteligente WiFi compacto (juego de 4): como interruptor WiFi de un solo canal de 10 A, ideal para proyectos de bricolaje. Requiere un neutro para la instalación. Perfecto para automatizar el sistema de iluminación y crear escenas personalizadas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DF27KF9L{{</world>}}

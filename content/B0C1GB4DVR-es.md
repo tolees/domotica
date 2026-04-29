@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【5-Sec Faster Detection】SONOFF Sensor de Movimiento Zigbee Encienda automáticamente las luces inmediatamente cuando pase, y apague la luz después de salir, el tiempo más corto puede llegar a 5 segundos, ayudándole a ahorrar energía.
-- 【Local Smart Scene】Incluso si su red WiFi se bloquea, puede activar escenas locales Zigbee siempre que sus dispositivos Zigbee estén encendidos.Compatible con los asistentes de voz Amazon Alexa, Google Home.
-- 【3-Year Battery Life】Sensor de Movimiento SNZB-03P Powered by CR2477 battery extiende la vida útil de la batería a más de 3 años, eliminando las preocupaciones sobre los reemplazos frecuentes de la batería.
 - 【Seguridad en el Hogar】 Sensor de Movimiento tiene un ángulo de apertura de 110 grados y un alcance de hasta 6 meters.SNZB-03P también se puede utilizar para fines de seguridad, tales como la detección de entrada no autorizada. Puede activar una cámara para grabar un video, activar una alarma sonora a través de la puerta de enlace y enviar notificaciones de app para alertarle y garantizar la seguridad de su familia y propiedad
+- 【Local Smart Scene】Incluso si su red WiFi se bloquea, puede activar escenas locales Zigbee siempre que sus dispositivos Zigbee estén encendidos.Compatible con los asistentes de voz Amazon Alexa, Google Home.
 - 【Zigbee 3.0 Compatible】Sensor de Alarma Antirrobo Admite concentradores Zigbee que utilizan el protocolo Zigbee 3.0,se requiere un  concentrador Zigbee  (se vende por separado) para el control inteligente. como SONOFF NSPanel Pro, SONOFF iHost, SONOFF ZB Bridge Pro, SONOFF ZBDongle-E, y Echo Plus 2nd.
+- 【3-Year Battery Life】Sensor de Movimiento SNZB-03P Powered by CR2477 battery extiende la vida útil de la batería a más de 3 años, eliminando las preocupaciones sobre los reemplazos frecuentes de la batería.
+- 【5-Sec Faster Detection】SONOFF Sensor de Movimiento Zigbee Encienda automáticamente las luces inmediatamente cuando pase, y apague la luz después de salir, el tiempo más corto puede llegar a 5 segundos, ayudándole a ahorrar energía.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C1GB4DVR{{</world>}}

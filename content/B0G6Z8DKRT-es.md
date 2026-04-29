@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - INTEGRACIÓN DE HOGAR INTELIGENTE - Certificación Matter para una integración perfecta con los asistentes de hogar inteligente, incluidos Alexa, Google Home y Apple Home.
+- AUTOMATIZACIÓN DEL HOGAR - Programa el encendido o apagado automático de las luces y electrodomésticos en sincronización con tu rutina diaria para hacerte la vida más fácil y, además, ahorrar energía
+- CONTROLES DE VOZ - Conéctate a tu asistente de hogar inteligente preferido para tomar el control del Enchufe Inteligente mediante comandos de voz​
 - HAZ INTELIGENTE CUALQUIER ENCHUFE - Desde aparatos de iluminación hasta ventiladores y cafeteras, haz inteligente prácticamente cualquier dispositivo alimentado por la red eléctrica con este Enchufe Inteligente
 - CONTROLES A DISTANCIA - Controla el Enchufe Inteligente a distancia mediante un mando a distancia de WiZ o desde cualquier lugar con la aplicación WiZ; controla tus dispositivos cuando estés fuera​
-- CONTROLES DE VOZ - Conéctate a tu asistente de hogar inteligente preferido para tomar el control del Enchufe Inteligente mediante comandos de voz​
-- AUTOMATIZACIÓN DEL HOGAR - Programa el encendido o apagado automático de las luces y electrodomésticos en sincronización con tu rutina diaria para hacerte la vida más fácil y, además, ahorrar energía
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G6Z8DKRT{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Control Remoto y por Voz: Conecta el medidor inteligente WiFi a la APP para encender/apagar dispositivos desde cualquier lugar, sin limitaciones de distancia. Compatible con Alexa y Google Home, permite control hands-free mediante comandos de voz
 - Amplia Compatibilidad y Aplicaciones: Diseñado para red monofásica DIN Rail, admite AC 80-400V y 63A, con chip de alta sensibilidad. Perfecto para hogares, apartamentos, fábricas y edificios de oficinas, protegiendo instalaciones contra sobrecargas y cortocircuitos
+- Protección Contra Fugas Automática: El medidor WiFi de protección contra fugas admite umbrales ajustables de corriente, voltaje y fugas. Se apaga automáticamente cuando se alcanza el umbral, con tiempo de desconexión prolongado preestablecible, brindando máxima protección a su instalación eléctrica
 - Función de Temporización Personalizable: Configura horarios de encendido/apagado automático para electrodomésticos a través de las APP Smart Life o Tuya. Ideal para situaciones como calentar agua antes de llegar a casa, optimizando el uso de energía y tu comodidad
 - Monitoreo en Tiempo Real Completo: La pantalla LCD muestra potencia, voltaje, corriente y fugas de electrodomésticos en tiempo real. A través de la APP, también puedes monitorear el consumo de energía en tu teléfono inteligente, manteniéndote informado en todo momento
-- Protección Contra Fugas Automática: El medidor WiFi de protección contra fugas admite umbrales ajustables de corriente, voltaje y fugas. Se apaga automáticamente cuando se alcanza el umbral, con tiempo de desconexión prolongado preestablecible, brindando máxima protección a su instalación eléctrica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BK8FF4FB{{</world>}}

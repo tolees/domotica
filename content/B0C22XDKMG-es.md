@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 【Control de voz y regulación de 0% a 100% 】 Los enchufes inteligentes Moes WiFi se pueden ajustar de 0 a 100% de brillo con Alexa y el Asistente de Google. Puede controlar sus luces con su voz en cualquier momento y en cualquier lugar.
+- 【Temporizador y funciones de memoria】Puede configurar el tiempo especificado para encender y apagar la iluminación y ajustar el brillo de la iluminación en la aplicación Tuya Smart Life. El enchufe tiene una función de memoria, solo tiene que configurar el estado después de encender la aplicación (apagado / encendido / guardar antes de apagar) en la aplicación.
 - 【Precaución】El enchufe inteligente es adecuado para bombillas incandescentes, lámparas halógenas, lámparas LED con controladores regulables y ventiladores de CA de menos de 200 W. Las lámparas fluorescentes y de haluro metálico no son adecuadas.
 - 【Operación sencilla y garantía de servicio al cliente】 Simplemente enchufe el regulador de intensidad Alexa en cualquier tomacorriente y luego enchufe la luz en el enchufe inteligente para control inteligente de la luz. Si tiene alguna pregunta, contáctenos a través de Amazon o del correo electrónico de soporte y responderemos dentro de las 24 horas.
 - 【Control remoto y uso compartido en el hogar】Incluso si sale y olvida apagar la luz en casa, puede encender su teléfono en cualquier momento y apagarlo de forma remota para evitar el consumo de energía. Al mismo tiempo, también puede compartir el dispositivo con miembros de la familia para monitorearlo y disfrutar de la comodidad juntos.
-- 【Control de voz y regulación de 0% a 100% 】 Los enchufes inteligentes Moes WiFi se pueden ajustar de 0 a 100% de brillo con Alexa y el Asistente de Google. Puede controlar sus luces con su voz en cualquier momento y en cualquier lugar.
-- 【Temporizador y funciones de memoria】Puede configurar el tiempo especificado para encender y apagar la iluminación y ajustar el brillo de la iluminación en la aplicación Tuya Smart Life. El enchufe tiene una función de memoria, solo tiene que configurar el estado después de encender la aplicación (apagado / encendido / guardar antes de apagar) en la aplicación.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C22XDKMG{{</world>}}

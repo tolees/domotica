@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Control mediante aplicación – Controla tus dispositivos en cualquier momento y desde cualquier lugar a través de la aplicación Tapo.
+- Mando a distancia por infrarrojos todo en uno: controla todos los dispositivos IR con un solo dispositivo, no más alternancia entre múltiples mandos a distancia.
 - Compatible con Tapo Smart Actions: funciona sin problemas con otros dispositivos Tapo como sensores y cámaras.
-- Compatibilidad superior: admite 18 tipos de dispositivos y más de 8.000 marcas, incluso dispositivos más antiguos; la base de datos se actualiza cada 3 meses.
+- Control por voz con Siri, Alexa y Google Assistant: controla tus dispositivos con las manos libres con comandos de voz simples. Centro de control con certificación Matter: conecta y controla dispositivos IR y sensores Tapo e integra los dispositivos en el ecosistema Matter a través del concentrador H110.
 - Control basado en la ubicación: utilice el GPS para controlar automáticamente los dispositivos a medida que llegan o salen.
 - Horarios personalizados: cree horarios automáticos que se adapten perfectamente a su rutina diaria.
-- Control por voz con Siri, Alexa y Google Assistant: controla tus dispositivos con las manos libres con comandos de voz simples. Centro de control con certificación Matter: conecta y controla dispositivos IR y sensores Tapo e integra los dispositivos en el ecosistema Matter a través del concentrador H110.
-- Mando a distancia por infrarrojos todo en uno: controla todos los dispositivos IR con un solo dispositivo, no más alternancia entre múltiples mandos a distancia.
+- Control mediante aplicación – Controla tus dispositivos en cualquier momento y desde cualquier lugar a través de la aplicación Tapo.
 - Emparejamiento fácil: pulsa un botón en el mando a distancia y sigue la configuración rápida en la aplicación. Control sin conexión: los dispositivos de la red local permanecen controlados sin conexión a Internet.
+- Compatibilidad superior: admite 18 tipos de dispositivos y más de 8.000 marcas, incluso dispositivos más antiguos; la base de datos se actualiza cada 3 meses.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F6D3PKNQ{{</world>}}

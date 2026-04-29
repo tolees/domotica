@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- LAMPARA CON RUIDO BLANCO Y MÚSICA: más de 20 piezas musicales y sonidos relajantes acompañados de una completa gama de colores relajantes para crear infinitas variaciones personalizables que se adaptan a diferentes momentos del día y estados de ánimo
 - LUZ NOCTURNA INTELIGENTE PARA NIÑOS: luz nocturna equipada con tecnología inteligente y programable para establecer una rutina personalizada a la hora de acostarse con luz suave y relajante regulable, ruido blanco y canciones de cuna para que su bebé se duerma
 - ACOMPAÑA EL CRECIMIENTO DE TU BEBÉ: durante los primeros meses de vida puedes seleccionar luces blancas y ruidos para crear un ambiente confortable para tu recién nacido, mientras que cuando tu pequeño empiece a crecer, puedes configurar luces y sonidos con secuencias preestablecidas y personalizables para regular su ritmo de sueño y vigilia
+- LAMPARA CON RUIDO BLANCO Y MÚSICA: más de 20 piezas musicales y sonidos relajantes acompañados de una completa gama de colores relajantes para crear infinitas variaciones personalizables que se adaptan a diferentes momentos del día y estados de ánimo
 - DISEÑO MINIMALISTA MODERNO: esta luz nocturna para bebés, con sus líneas elegantes y sus colores suaves y naturales, está diseñada para adaptarse a cualquier decoración
 - CONNECTED HOME: uno de los múltiples productos para la habitación del bebé, controlado con la app Maxi-Cosi Connected Home o mediante voz a través de Alexa y Google. Se requiere una conexión a Internet WiFi de 2,4 GHz para configurar este producto en la aplicación
 
