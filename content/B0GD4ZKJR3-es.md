@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🔒 Contraseña anti-espionaje - La cerradura se puede desbloquear introduciendo la contraseña correcta en medio del Código de error.Proteja mejor su seguridad y evite que los malos descubran su contraseña
-- 𝐂𝐎𝐍𝐓𝐑𝐀𝐂 𝐔𝐒 Si tiene algún problema, contáctenos. Compre con confianza. Inicie sesión en su cuenta de Amazon > seleccione "Mis pedidos" > busque el ID del pedido > haga clic en "Contactar con el vendedor".
+- 🔋 De pilas - 4 pilas AAA alimentadas (sin incluir） y se emite una alerta cuando las pilas se están agotando. Tiene una interfaz USB con banco de energía de emergencia (en caso de que se agote la batería)
 - 🚪 Especificaciones - Espesor de la puerta aplicable: 1.37-1.96 inch;Tiempo de recolección de huellas dactilares: ≤ 0,2s;Temperatura de funcionamiento: 14 ℉- 140 ℉;Fuente de alimentación de emergencia: USB;Batería: 4 baterías AAA (excluidas).
+- 𝐂𝐎𝐍𝐓𝐑𝐀𝐂 𝐔𝐒 Si tiene algún problema, contáctenos. Compre con confianza. Inicie sesión en su cuenta de Amazon > seleccione "Mis pedidos" > busque el ID del pedido > haga clic en "Contactar con el vendedor".
 - 🔐 Desbloqueo Inteligente de 5 en 1 - Cerraduras nteligentes para puertas sin llave de 5 en 1, desbloqueada en un solo paso.Cinco métodos de desbloqueo independientes: aplicación TUYA, NFC, huella digital, contraseña y llave mecánica. Soporte para la función tuya, que se puede desbloquear de forma remota conectando al teléfono móvil a través de tuya. Puedes añadir 100 huellas dactilares 50 tarjeta IC y 100 códigos de dígitos personalizables. Ya no es necesario buscar llaves
 - 📦 Lo que obtienes - 1 x Exquisite Smart lock, 2 x Mechanical key,Accesorios para cerraduras de puertas, manual de usuario en inglés,
-- 🔋 De pilas - 4 pilas AAA alimentadas (sin incluir） y se emite una alerta cuando las pilas se están agotando. Tiene una interfaz USB con banco de energía de emergencia (en caso de que se agote la batería)
+- 🔒 Contraseña anti-espionaje - La cerradura se puede desbloquear introduciendo la contraseña correcta en medio del Código de error.Proteja mejor su seguridad y evite que los malos descubran su contraseña
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GD4ZKJR3{{</world>}}

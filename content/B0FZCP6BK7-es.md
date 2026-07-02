@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatible con Matter y asistentes de voz: funciona con Apple Home, Amazon Alexa, Google Assistant y Samsung SmartThings.
 - Automatización completa: programación de horarios, timer, modo “Away” (enciende/apaga para simular presencia) y control remoto desde cualquier lugar.
-- Conectividad sencilla: usa Wi-Fi 2.4 GHz y Bluetooth para configuración rápida; sin necesidad de hub adicional.
-- Resistente al exterior (IP54): protecciones contra salpicaduras y polvo, apto para uso en jardín, terraza, balcón o patio.
 - Monitorización de energía & ahorro solar: detecta incluso la dirección del flujo eléctrico —ideal para balcones con placas solares— y permite ver consumo/producción.
+- Conectividad sencilla: usa Wi-Fi 2.4 GHz y Bluetooth para configuración rápida; sin necesidad de hub adicional.
+- Compatible con Matter y asistentes de voz: funciona con Apple Home, Amazon Alexa, Google Assistant y Samsung SmartThings.
+- Resistente al exterior (IP54): protecciones contra salpicaduras y polvo, apto para uso en jardín, terraza, balcón o patio.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FZCP6BK7{{</world>}}

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La alarma cuenta con una batería interna de seguridad de litio (con indicador de batería baja) de hasta 8 horas de duración, para permitir su continuo funcionamiento incluso con cortes de energía
-- Recibe alertas y activa la alarma sonora y visual (luz intermitente) del Hub como elemento disuasorio desde la app
 - Incluye un sensor de movimiento con ángulo de detección 110º , un sensor de apertura de puertas o ventanas y un mando a distancia para control remoto con opción de armado/desarmado de alarma y función SOS. Pilas incluidas en todos los accesorios
+- Control remoto a través de las apps Garza Smart, Tuya Smart y Smart Life. Recibe notificaciones en tu móvil o tablet. Controla tu sistema de alarma desde varios dispositivos
+- Completa la instalación añadiendo hasta 24 detectores de apertura o movimiento y hasta 8 mandos a distancia
+- La alarma cuenta con una batería interna de seguridad de litio (con indicador de batería baja) de hasta 8 horas de duración, para permitir su continuo funcionamiento incluso con cortes de energía
+- Con sistema antimanipulación para que suene la alarma si intentan desconectarla de la corriente
+- Recibe alertas y activa la alarma sonora y visual (luz intermitente) del Hub como elemento disuasorio desde la app
 - Compatible solo con Wifi 2,4GHz (No funciona con red de 5GHz)
 - Kit de protección antirrobo para casa con una unidad central con sirena de gran potencia de 120 dB (volumen regulable). y una Cámara 1080p HD con Modo privacidad. La alarma se conecta vía Wifi al router y funciona como Gateway conectándose por radiofrecuenta con el resto de sensores. De este modo se puede colocar en diferentes zonas en casas con varios pisos
-- Control remoto a través de las apps Garza Smart, Tuya Smart y Smart Life. Recibe notificaciones en tu móvil o tablet. Controla tu sistema de alarma desde varios dispositivos
-- Con sistema antimanipulación para que suene la alarma si intentan desconectarla de la corriente
-- Completa la instalación añadiendo hasta 24 detectores de apertura o movimiento y hasta 8 mandos a distancia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D3J5VYBH{{</world>}}

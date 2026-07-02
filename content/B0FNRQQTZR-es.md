@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control de voz compatible con Alexa, Google Assistant y Samsung SmartThings para máxima flexibilidad.
 - Fácil control a través de la aplicación Tapo – horarios, temporizador, control de grupo, acceso remoto y modo de ausencia.
+- Diseño compacto P45 con casquillo E14 – se adapta a la mayoría de los casquillos estándar y ahorra espacio.
+- Control de voz compatible con Alexa, Google Assistant y Samsung SmartThings para máxima flexibilidad.
 - Monitoreo de energía en tiempo real: observa el consumo de energía y los costos.
 - Sincronización de música y biorritmo: más de 70 efectos, ajuste automático de luz diurna y luces que bailan al ritmo.
-- 16 millones de colores y regulable (1 – 100%) – crea el ambiente de luz perfecto en cualquier momento.
-- Diseño compacto P45 con casquillo E14 – se adapta a la mayoría de los casquillos estándar y ahorra espacio.
 - Temperatura de color: 2 500 – 6 500 K, desde luz blanca cálida hasta luz diurna.
+- 16 millones de colores y regulable (1 – 100%) – crea el ambiente de luz perfecto en cualquier momento.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FNRQQTZR{{</world>}}

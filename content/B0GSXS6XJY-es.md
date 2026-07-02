@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de instalar
-- Compatible solo con Wifi 2.4GHz (No funciona con red de 5GHz)
 - Con tecnología CCT que permite escoger entre luz fría, neutra o cálida (3000K, 4000K o 6500K) + Tecnología dimmable para cambiar y regular la intensidad de la luz
-- La siguiente información se aplica a cada unidad del paquete
+- Fácil de instalar
 - Consumo de 5.5W equivalente a 40W de consumo incandescente, 470 lúmenes y casquillo grueso E27
+- Compatible solo con Wifi 2.4GHz (No funciona con red de 5GHz)
+- La siguiente información se aplica a cada unidad del paquete
 - Bombilla inteligente que se conecta WiFi
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

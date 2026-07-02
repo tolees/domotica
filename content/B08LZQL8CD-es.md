@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La gama Plug & Connect es el punto de partida de tu hogar conectado. Mejora su vida cotidiana ofreciéndole soluciones domóticas sencillas y personalizables. Conecta hasta 99 dispositivos entre sí
-- Este interruptor funciona en combinación con los módulos empotrables Plug & Connect. Fíjalo a la pared con los tornillos o el adhesivo de doble cara suministrados y luego emparéjalo con el módulo elegido
 - Añada un interruptor inalámbrico adicional para controlar la iluminación de su elección de forma aún más sencilla
+- La gama Plug & Connect es el punto de partida de tu hogar conectado. Mejora su vida cotidiana ofreciéndole soluciones domóticas sencillas y personalizables. Conecta hasta 99 dispositivos entre sí
 - El alcance radioeléctrico (433 MHz) entre el emisor (conmutador) y el receptor (módulo) es de hasta 30 m.
+- Este interruptor funciona en combinación con los módulos empotrables Plug & Connect. Fíjalo a la pared con los tornillos o el adhesivo de doble cara suministrados y luego emparéjalo con el módulo elegido
 - Controla la iluminación desde tu smartphone emparejando el enchufe Smart Switch con sus módulos integrados. De este modo, podrás controlar tus accesorios desde tu aplicación y desde cualquier lugar del mundo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
