@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Tapo P410M – Enchufe Inteligente Exterior WiFi con Matter IP54 Resistente al Agua Monitor de Energía Control por Voz y App Programable 16 A / 3680 W'
+date: 2026-07-14 13:04:37
+image: 'https://m.media-amazon.com/images/I/41tH7KpzQiL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FZCP6BK7-es Tapo P410M – Enchufe Inteligente Exterior WiFi con Matter...'
+sku: 'B0FZCP6BK7-es'
+tags: [ 'enchufe','inteligente','matter','🇪🇸', ]
+actualPrice: 16.88 EUR
+currency: EUR
+price: 16.88
+comparePrice: 24.9 EUR
+prodname: 'Tapo P410M – Enchufe Inteligente Exterior WiFi con Matter IP54 Resistente al Agua Monitor de Energía Control por Voz y App Programable 16 A / 3680 W'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FZCP6BK7/?tag=tolees-21'
+descuento: '32.21'
+average: '18.568'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Automatización completa: programación de horarios, timer, modo “Away” (enciende/apaga para simular presencia) y control remoto desde cualquier lugar.
+- Compatible con Matter y asistentes de voz: funciona con Apple Home, Amazon Alexa, Google Assistant y Samsung SmartThings.
+- Conectividad sencilla: usa Wi-Fi 2.4 GHz y Bluetooth para configuración rápida; sin necesidad de hub adicional.
+- Monitorización de energía & ahorro solar: detecta incluso la dirección del flujo eléctrico —ideal para balcones con placas solares— y permite ver consumo/producción.
+- Resistente al exterior (IP54): protecciones contra salpicaduras y polvo, apto para uso en jardín, terraza, balcón o patio.
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B0FZCP6BK7{{</world>}}
