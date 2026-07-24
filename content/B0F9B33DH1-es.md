@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Detección de personas y mascotas, seguimiento dinámico】 Al detectar a una persona, la cámara inicia el seguimiento inmediatamente y envía notificaciones para que no te pierdas nada importante. El algoritmo local garantiza una detección de personas rápida y precisa para minimizar las falsas alarmas. Rastrea y registra las actividades de tu mascota en casa. Recibirás notificaciones en tu smartphone cuando se detecte a tu mascota.
-- 【Resolución ultra HD de 3.5K】 Captura imágenes nítidas y detalladas durante el día La primera cámara para interiores de 6 MP de Xiaomi, combinada con un lente de calidad profesional, ofrece una resolución ultra clara de 3.5K, reproduciendo cada detalle con una claridad vívida.
-- 【Cobertura panorámica de 360°】 El diseño de doble motor pan-tilt te permite controlar la lente de la cámara desde tu smartphone. Inclínala hacia arriba, abajo, izquierda o derecha para un ángulo de visión más amplio y mayor tranquilidad al vigilar tu hogar.
-- 【Protección de privacidad mejorada】 Chip de seguridad MJA1 Transferencia cifrada a la nube Enmascaramiento físico
 - 【Wi-Fi 6 de doble banda】 Conexión más rápida y estable Equipado con un avanzado chip inteligente Wi-Fi 6 de doble banda de 2,4 GHz + 5 GHz integrado con tecnología OFDMA, logra una menor latencia y conexiones más estables, garantizando una reproducción fluida de imágenes de alta definición.
+- 【Resolución ultra HD de 3.5K】 Captura imágenes nítidas y detalladas durante el día La primera cámara para interiores de 6 MP de Xiaomi, combinada con un lente de calidad profesional, ofrece una resolución ultra clara de 3.5K, reproduciendo cada detalle con una claridad vívida.
+- 【Protección de privacidad mejorada】 Chip de seguridad MJA1 Transferencia cifrada a la nube Enmascaramiento físico
+- 【Cobertura panorámica de 360°】 El diseño de doble motor pan-tilt te permite controlar la lente de la cámara desde tu smartphone. Inclínala hacia arriba, abajo, izquierda o derecha para un ángulo de visión más amplio y mayor tranquilidad al vigilar tu hogar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9B33DH1{{</world>}}

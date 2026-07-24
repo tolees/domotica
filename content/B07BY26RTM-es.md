@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de luz blanca de cálida a fría y luz ambiente de colores; 16 millones de colores a tu alcance para crear el ambiente perfecto en tu espacio exterior
 - Esta lámpara exterior inteligente requiere el puente Philips Hue (se vende por separado) para la configuración inicial. Las luces inteligentes Hue transmiten la información de unas a otras, creando una gran red para llegar a aquellas alejadas del puente
-- Iluminación inteligente general para caminos y entradas; configura la iluminación exterior puedes automatizarla según horarios de luz, prográmala para que la luz se encienda cuando llegas a casa o se apague cuando te vas
 - Foco led exterior de 640 Lúmenes con una temperatura de color de 2200K (luz blanca cálida) a 6500k (luz fría), 16 millones de colores
 - Este producto de domótica para el hogar es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen.
+- Iluminación inteligente general para caminos y entradas; configura la iluminación exterior puedes automatizarla según horarios de luz, prográmala para que la luz se encienda cuando llegas a casa o se apague cuando te vas
+- Disfruta de luz blanca de cálida a fría y luz ambiente de colores; 16 millones de colores a tu alcance para crear el ambiente perfecto en tu espacio exterior
 - Compatible con otros productos de la familia de iluminación inteligente Philips Hue. Compatible con los asistentes de voz de Amazon Alexa, Google Home y Apple HomeKit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

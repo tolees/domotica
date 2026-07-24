@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color de la luz ajustable mediante Tunable White: Blanco cálido a blanco frío (2700..6500 K)
 - Control de color RGB, se pueden ajustar aproximadamente 16 millones de opciones de color
-- Características del producto: Lámpara LED Classic A con tecnología de control inalámbrico inteligente
 - Protocolo de red: ZigBee
+- Características del producto: Lámpara LED Classic A con tecnología de control inalámbrico inteligente
 - Regulable
+- Color de la luz ajustable mediante Tunable White: Blanco cálido a blanco frío (2700..6500 K)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BK9D7W4Q{{</world>}}

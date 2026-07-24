@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3. Mando a distancia inalámbrico; Es compatible con Alexa y Google Home, y donde quiera que esté, puede controlar sus dispositivos de forma remota con su teléfono inteligente.
 - 2. Se admiten 2 Gang interruptores;Puede configurar fácilmente el nivel de atenuación mediante el control por voz o por aplicación. Se puede utilizar de 1 Way o de 2 Way (2 interruptores controlan 1 luz). Para 2 Way, solo necesita conectarlo a cualquiera de los conmutadores y luego el dispositivo conectado se convertirá en uno inteligente.
-- 5. Utilizar con la aplicación Smart Life/Doodle sin necesidad de un concentrador independiente. (Advertencia: deje que un instalador profesional le ayude en la instalación de nuestros productos)
-- 1. Diseño mini para cajas de interruptores de pared normales del Reino Unido/UE, se oculta fácilmente en una caja de interruptores de pared convencional sin alterar la decoración de su hogar (Nota: para reiniciar, conecte un interruptor de reinicio)
 - 4. Puede controlar completamente los dispositivos conectados con una serie de funciones en la aplicación como temporizadores, horarios y cuenta regresiva (1/5/30 minutos, 1 hora, etc.). También puede compartir el control con familiares y amigos.
+- 3. Mando a distancia inalámbrico; Es compatible con Alexa y Google Home, y donde quiera que esté, puede controlar sus dispositivos de forma remota con su teléfono inteligente.
+- 1. Diseño mini para cajas de interruptores de pared normales del Reino Unido/UE, se oculta fácilmente en una caja de interruptores de pared convencional sin alterar la decoración de su hogar (Nota: para reiniciar, conecte un interruptor de reinicio)
+- 5. Utilizar con la aplicación Smart Life/Doodle sin necesidad de un concentrador independiente. (Advertencia: deje que un instalador profesional le ayude en la instalación de nuestros productos)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KXXX1MV{{</world>}}

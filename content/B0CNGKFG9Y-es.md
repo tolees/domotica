@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 【Local Smart Scene】La vinculación de escenas entre dispositivos Zigbee se puede ejecutar normalmente incluso si no hay conexión a Internet.
-- 【Presence Detection】SNZB-06P basado en radar de microondas de 5,8 GHz, puede detectar movimiento o persona estacionaria. Enciende automáticamente las luces cuando te acercas y mantiene las luces encendidas hasta que te vayas.
-- 【Light Sensing】El detector de luz incorporado asegura que las luces sólo se encienden cuando se detecta presencia en la oscuridad, ayudándole a ahorrar energía.
 - Compatible con Zigbee 3.0】Soporta concentradores Zigbee que utilizan el protocolo Zigbee 3.0, como SONOFF NSPanel Pro, SONOFF iHost, SONOFF ZB Bridge Pro, SONOFF ZBDongle-E, y Echo Plus 2nd...
+- 【Light Sensing】El detector de luz incorporado asegura que las luces sólo se encienden cuando se detecta presencia en la oscuridad, ayudándole a ahorrar energía.
+- 【Presence Detection】SNZB-06P basado en radar de microondas de 5,8 GHz, puede detectar movimiento o persona estacionaria. Enciende automáticamente las luces cuando te acercas y mantiene las luces encendidas hasta que te vayas.
 - 【Support Multiple Platforms】Soporta Alexa, Google Home, Smartthings, Alice, IFTTT y Home Assistant.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 💡【Supervisión de Puertas y Ventanas】 Sensor Zigbee de puerta y ventana SNZB-04P Enciende automáticamente las luces cuando se abre una puerta, activa alarmas sonoras y visuales en caso de entrada no autorizada y envía notificaciones de app para mantenerte informado.
+- 💡【Escena local Smart】Sensor de alarma de seguridad Con Local smart scene, la vinculación de escenas entre dispositivos Zigbee se puede ejecutar normalmente siempre y cuando sus dispositivos Zigbee estén encendidos incluso si la red está desconectada.
 - 💡【Batería de 5 Años de Duración】Zigbee Door Window Sensor Powered by CR2477 battery extiende la vida útil de la batería a más de 5 años, eliminando las preocupaciones sobre los reemplazos frecuentes de la batería.
 - 💡【Alerta de Manipulación】Security Alarm Sensor equipado con características a prueba de manipulaciones garantiza su tranquilidad. Usted recibirá notificaciones App en su teléfono si el sensor es manipulado.
+- 💡【Supervisión de Puertas y Ventanas】 Sensor Zigbee de puerta y ventana SNZB-04P Enciende automáticamente las luces cuando se abre una puerta, activa alarmas sonoras y visuales en caso de entrada no autorizada y envía notificaciones de app para mantenerte informado.
 - 💡【Atención】 Sensor Zigbee Puerta Ventana Debe utilizarse con Zigbee Hub（Comprar por separado）,como SONOFF ZB Bridge Pro, SONOFF ZBDongle-E, SONOFF NSPanel Pro, SONOFF iHost, y Echo Plus 2nd
-- 💡【Escena local Smart】Sensor de alarma de seguridad Con Local smart scene, la vinculación de escenas entre dispositivos Zigbee se puede ejecutar normalmente siempre y cuando sus dispositivos Zigbee estén encendidos incluso si la red está desconectada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C1G7W72B{{</world>}}

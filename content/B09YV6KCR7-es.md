@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tecnología SpaceSense: entra en la App de WiZ y activa SpaceSense desde las automatizaciones. Con un mínimo de dos luces WiZ en una habitación, convierte tus luces en sensores de movimiento y hace que las luces se enciendan y apaguen automáticamente con la detección de movimiento.
+- Controla la iluminación inteligente: WiZ te permite controlar la iluminación inteligente de varias formas. Ajusta las luces con tu teléfono inteligente, la voz, el mando a distancia WiZ o usando el interruptor de pared existente para alternar entre dos modos favoritos. Funciona con accesos directos de Google Home, Alexa y Siri.
+- WiZ
 - Millones de colores y modos de iluminación dinámica: Elige entre una paleta de millones de colores de luz para crear un ambiente impresionante en tu hogar. Disfruta de esas sutiles diferencias con las que nuestros efectos de iluminación dinámicos hacen brillar tu entorno. También, elige entre una amplia variedad de luces blancas frías energizantes hasta luces blancas cálidas suaves, o bien simplemente elige uno de los modos predefinidos, como el modo de concentración o de relajación, para crear el mejor ambiente para tus actividades cotidianas.
 - Descarga la App WiZ: Disfruta de las ventajas de las funciones inteligentes al instante y controlar tu hogar estés donde estés desde tu Smartphone. Programa su encendido y apagado automático, y mucho más. La aplicación WiZ está disponible para dispositivo
-- Controla la iluminación inteligente: WiZ te permite controlar la iluminación inteligente de varias formas. Ajusta las luces con tu teléfono inteligente, la voz, el mando a distancia WiZ o usando el interruptor de pared existente para alternar entre dos modos favoritos. Funciona con accesos directos de Google Home, Alexa y Siri.
-- Tecnología SpaceSense: entra en la App de WiZ y activa SpaceSense desde las automatizaciones. Con un mínimo de dos luces WiZ en una habitación, convierte tus luces en sensores de movimiento y hace que las luces se enciendan y apaguen automáticamente con la detección de movimiento.
-- WiZ
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09YV6KCR7{{</world>}}

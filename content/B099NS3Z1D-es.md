@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa y Google Home
-- Regulación sin instalación: experimenta la luz led blanca cálida para relajarse; temperatura de color: 2700 kelvin; luz blanca cálida de calidad para un hogar acogedor
-- Con Bluetooth controla hasta 10 bombillas, con la app Hue Bluetooth; con el Puente Philips Hue controla la luz de toda la casa, hasta 50 bombillas
 - Para control por Bluetooth descárgate la app hue bluetooth, si utilizas el puente usa la app Philips Hue y saca el potencial a la iluminación inteligente
+- Con Bluetooth controla hasta 10 bombillas, con la app Hue Bluetooth; con el Puente Philips Hue controla la luz de toda la casa, hasta 50 bombillas
 - Funciona con los altavoces inteligentes Echo y dispositivos Google Nest (se requiere un puente Hue para Echo, 1a generación, y Echo Dot, 1a generación)
+- Control por voz: maneja tus lámparas y bombillas inteligentes Philips Hue con tu voz usando Amazon Alexa y Google Home
 - Saca el potencial a tus bombillas Hue agregando el puente (se vende a parte); con él puedes controlar hasta 50 bombillas, crear alarmas, rutinas o simular que estás en casa cuando no sea así
+- Regulación sin instalación: experimenta la luz led blanca cálida para relajarse; temperatura de color: 2700 kelvin; luz blanca cálida de calidad para un hogar acogedor
 - Compatible con Bluetooth y Zigbee (Puente Hue opcional), compatible con Alexa y Google Home
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

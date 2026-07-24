@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Resistente al agua IP65 & Protección para todo tipo de clima: Cuenta con clasificación IP65 a prueba de agua y polvo, resistiendo lluvia, polvo y condiciones climáticas adversas. Diseñada para un uso exterior confiable en cualquier clima, funciona de manera estable día y noche, adaptándose a diversos entornos exteriores.
 - Rotación panorámica de 180°: Cuenta con una lente giratoria de 180° que cubre un área de monitoreo más amplia, minimizando los puntos ciegos. Ideal para vigilar grandes espacios exteriores como patios, entradas o calles, garantizando una cobertura de vigilancia completa.
 - Detección de personas con IA & Seguimiento inteligente: Integrada con capacidades de detección y seguimiento humano con IA, identifica y sigue con precisión los movimientos de las personas en tiempo real. Reduce eficazmente las falsas alarmas y acelera la respuesta ante posibles amenazas, manteniendo bajo vigilancia las actividades sospechosas.
-- Audio bidireccional & Compatible con plataformas de hogar inteligente: Admite audio bidireccional para comunicación de voz en tiempo real, permitiendo interacción remota, saludo a visitantes o disuasión. Compatible con plataformas de hogar inteligente de terceros (funciona mediante protocolos ONVIF/RTSP con sistemas como Home Assistant), ofreciendo integración flexible para diversas configuraciones de seguridad inteligente.
-- Resistente al agua IP65 & Protección para todo tipo de clima: Cuenta con clasificación IP65 a prueba de agua y polvo, resistiendo lluvia, polvo y condiciones climáticas adversas. Diseñada para un uso exterior confiable en cualquier clima, funciona de manera estable día y noche, adaptándose a diversos entornos exteriores.
 - Claridad 2K HD & Visión nocturna en color: Equipada con resolución 2K de alta definición, ofrece imágenes nítidas y detalladas tanto de día como de noche. La tecnología de visión nocturna en color garantiza una reproducción vívida de los colores incluso en condiciones de poca luz, proporcionando una vigilancia clara las 24 horas.
+- Audio bidireccional & Compatible con plataformas de hogar inteligente: Admite audio bidireccional para comunicación de voz en tiempo real, permitiendo interacción remota, saludo a visitantes o disuasión. Compatible con plataformas de hogar inteligente de terceros (funciona mediante protocolos ONVIF/RTSP con sistemas como Home Assistant), ofreciendo integración flexible para diversas configuraciones de seguridad inteligente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDFR6VCT{{</world>}}

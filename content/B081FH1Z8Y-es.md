@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Shelly Dimmer 2 es un regulador de luz Wi-Fi ideal para ajustar la intensidad de la luz y medir el consumo de energía en tiempo real; Puede instalarse en cualquier instalación eléctrica y ofrece una amplia variedad de funciones de regulación; No requiere cable neutro
-- Temporizador y Escenas inteligentes - Establece programaciones personalizadas y adapte la luminosidad a su horario o al ritmo del sol; Cree escenas personalizadas combinando Shelly Dimmer 2 con sus otros dispositivos Shelly y gestione a través de teléfono o por comando de voz mediante Alexa y Google Home
 - Shelly Atención al Cliente - Shelly es una de las marcas creciendo más rápido en el IoT del mundo con dispositivos, proporcionando soluciones para la automatización de hogares privados, edificios y negocios; Nosotros estamos dando a nuestros clientes soporte profesional y también garantía de 3 años para cada dispositivo
 - Intensidad de Luz personalizada - Utilice la función de regulación para ajustar la intensidad de la iluminación a sus preferencias; Adapte la luminosidad a su rutina diaria, a la luz exterior o al ambiente que desee crear
+- Shelly Dimmer 2 es un regulador de luz Wi-Fi ideal para ajustar la intensidad de la luz y medir el consumo de energía en tiempo real; Puede instalarse en cualquier instalación eléctrica y ofrece una amplia variedad de funciones de regulación; No requiere cable neutro
+- Temporizador y Escenas inteligentes - Establece programaciones personalizadas y adapte la luminosidad a su horario o al ritmo del sol; Cree escenas personalizadas combinando Shelly Dimmer 2 con sus otros dispositivos Shelly y gestione a través de teléfono o por comando de voz mediante Alexa y Google Home
 - La aplicación Shelly Smart Control le ayuda a controlar sus dispositivos Shelly de forma remota y le envía notificaciones sobre todos los eventos automatizados en su hogar; Puede configurar fácilmente sus dispositivos, gestionar sus parámetros de manera individual o crear escenas personalizadas combinando dispositivos Shelly para activar acciones predefinidas en su sistema domótico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

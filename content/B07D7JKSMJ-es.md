@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cámara de seguridad interior IP/Wifi full HD con vision nocturna y detección de movimiento
-- Funciona de forma independiente o como complemento de un sistema de seguridad Somfy Protect: Somfy Home Alarm, Somfy One(+) o Myfox Home Alarm; no es compatible con Myfox Home Control, Evology y Domotag
-- Sistema de privacidad gracias a obturador físico
-- Controlable desde el móvil con App Somfy protect y compatible con Apple HomeKit
 - Compatible con Alexa, Google Asistant y IFTTT
+- Funciona de forma independiente o como complemento de un sistema de seguridad Somfy Protect: Somfy Home Alarm, Somfy One(+) o Myfox Home Alarm; no es compatible con Myfox Home Control, Evology y Domotag
+- Controlable desde el móvil con App Somfy protect y compatible con Apple HomeKit
 - Almacenamiento gratuito de videos de 30 segundos en servidores europeos tras detección para descarga a nube o móvil
+- Cámara de seguridad interior IP/Wifi full HD con vision nocturna y detección de movimiento
 - Micrófono y altavoz integrado para comunicación en tiempo real
+- Sistema de privacidad gracias a obturador físico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07D7JKSMJ{{</world>}}
