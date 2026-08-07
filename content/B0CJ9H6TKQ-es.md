@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Versión Global Compatible con GTR 3 GTR3 GTR-3 Smartwatch Pantalla AMOLED de 1,39" Zepp OS Alexa Reloj Inteligente con GPS Incorporado for Android Compatible con iOS Color : Moonlight Grey, Tamaño :
 - Marca: ZYkaa
+- Versión Global Compatible con GTR 3 GTR3 GTR-3 Smartwatch Pantalla AMOLED de 1,39" Zepp OS Alexa Reloj Inteligente con GPS Incorporado for Android Compatible con iOS Color : Moonlight Grey, Tamaño :
 - Tipo de producto: WEARABLE_COMPUTER
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

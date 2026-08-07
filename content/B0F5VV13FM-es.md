@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Plug Matter: SwitchBot Plug Mini soporta Matter vía Wi-Fi y puede añadirse directamente a la app Home o Home Assistant para su control.
+- Diseño compacto: Ocupa mínimo espacio en el enchufe y no bloquea otras tomas.
+- Control remoto: Enciende/apaga dispositivos cuando quieras mediante la app SwitchBot, y programa apagados automáticos para ahorrar energía.
+- Puente Matter: Permite que dispositivos Bluetooth como SwitchBot Blind Tilt, Curtain 3 y Bot sean compatibles con Matter. Incluye una ranura integrada para conectar hasta dos dispositivos vía Matter.
 - Monitoreo energético: Supervisión en tiempo real con informes diarios/mensuales/anuales y alertas de sobrecarga para mayor seguridad. Nota: El monitoreo solo funciona mediante la app SwitchBot, no a través de Matter.
 - Control por voz: Controle su Plug Mini con comandos de voz mediante Alexa, Siri, Google Assistant o Home Assistant.
-- Puente Matter: Permite que dispositivos Bluetooth como SwitchBot Blind Tilt, Curtain 3 y Bot sean compatibles con Matter. Incluye una ranura integrada para conectar hasta dos dispositivos vía Matter.
 - Control por Wi-Fi y Bluetooth: Incluso con Wi-Fi inestable, puedes controlar el Plug Mini directamente vía Bluetooth.
-- Plug Matter: SwitchBot Plug Mini soporta Matter vía Wi-Fi y puede añadirse directamente a la app Home o Home Assistant para su control.
-- Control remoto: Enciende/apaga dispositivos cuando quieras mediante la app SwitchBot, y programa apagados automáticos para ahorrar energía.
-- Diseño compacto: Ocupa mínimo espacio en el enchufe y no bloquea otras tomas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F5VV13FM{{</world>}}

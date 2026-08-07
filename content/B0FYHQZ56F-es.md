@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Doble modo de contacto: admite contacto seco (ideal para puertas, sistemas de alarma) y húmedo (enchufes, calefacción, luces)
-- Control inteligente y remoto: maneja dispositivos desde cualquier lugar mediante la app Tapo; también compatible por voz con Alexa, Google Assistant, Siri o SmartThings
-- Compatibilidad Matter: integración total con ecosistemas como Apple Home, Google Home, Alexa, Samsung SmartThings
 - Tamaño ultracompacto: con tan solo 44,7 × 33,9 × 16,1 mm, cabe en las cajas de empotrar más pequeñas de la UE
-- Protección de cruce por cero (Zero-Crossing): prolonga la vida del relé, evitando el “soldado” de contactos y aumentando su durabilidad
 - Monitorización energética bidireccional: detecta automáticamente el flujo de corriente para medir tanto el consumo como la generación de energía
 - Automatización y programación: crea horarios, temporizadores o escenas para controlar tus equipos según el momento del día o tus rutinas
+- Control inteligente y remoto: maneja dispositivos desde cualquier lugar mediante la app Tapo; también compatible por voz con Alexa, Google Assistant, Siri o SmartThings
+- Compatibilidad Matter: integración total con ecosistemas como Apple Home, Google Home, Alexa, Samsung SmartThings
+- Protección de cruce por cero (Zero-Crossing): prolonga la vida del relé, evitando el “soldado” de contactos y aumentando su durabilidad
+- Doble modo de contacto: admite contacto seco (ideal para puertas, sistemas de alarma) y húmedo (enchufes, calefacción, luces)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FYHQZ56F{{</world>}}
