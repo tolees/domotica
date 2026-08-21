@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Control inteligente Zigbee: basado en el protocolo Zigbee 3.0, requiere una puerta de enlace ZigBee (no incluida). Permite la integración perfecta con Alexa y Google Home para un cómodo control por voz de tus dispositivos.
-- Instalación flexible y compatibilidad: requiere una línea neutra (neutro). Admite varios tipos de interruptores externos, como interruptores de puerta, interruptores basculantes, pulsadores e interruptores SPDT. Perfecto para el control inteligente de puertas de garaje, calderas, etc. También apto para bombillas inteligentes: con "quitar relé" se mantienen en línea.
 - Cobertura integral de Zigbee: asegura una conexión fiable en la red Zigbee, mejora la intensidad de la señal y amplía la cobertura para un rendimiento óptimo, ideal para espacios de vida más grandes.
+- Control inteligente Zigbee: basado en el protocolo Zigbee 3.0, requiere una puerta de enlace ZigBee (no incluida). Permite la integración perfecta con Alexa y Google Home para un cómodo control por voz de tus dispositivos.
 - Potencia compacta y expansión: como dispositivo de canal único de 10 A, cabe en la mayoría de cajas de montaje estándar. Admite hasta 64 terminales Zigbee, ideal para ampliar su sistema de hogar inteligente.
 - Seguridad de calidad: los estrictos estándares eléctricos garantizan la longevidad – Los tiempos de conmutación del relé superan al menos 100.000 ciclos. La carcasa de PC con clasificación V-0 proporciona protección contra incendios de primera clase, terminales de tornillo mejorados optimizan la eficiencia y protegen los cables.
+- Instalación flexible y compatibilidad: requiere una línea neutra (neutro). Admite varios tipos de interruptores externos, como interruptores de puerta, interruptores basculantes, pulsadores e interruptores SPDT. Perfecto para el control inteligente de puertas de garaje, calderas, etc. También apto para bombillas inteligentes: con "quitar relé" se mantienen en línea.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DDXVMV2N{{</world>}}

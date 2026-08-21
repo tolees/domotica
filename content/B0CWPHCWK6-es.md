@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - INSTALACIÓN SENCILLA, INCLUSO SIN CONEXIÓN: El termostato de calefacción inteligente es adecuado para calderas de gas compatibles con OpenTherm y control por relé, bombas de calor y sistemas de suelo radiante por agua con termostato cableado
-- CONTROL MEDIANTE APLICACIÓN: Horarios inteligentes, geovallas sofisticadas, detección de ventanas abiertas sin contactos adicionales y mucho más: el termostato incorpora numerosas funciones para la calefacción
-- AHORRA ENERGÍA Y COSTES: El Starter Kit del Termostato X de tado, los expertos en calefacción inteligente, incluye el Bridge X y, de forma exclusiva para clientes de , un juego de pilas adicional: cuantas más habitaciones, más se ahorra
-- TECNOLOGÍAS PREPARADAS PARA EL FUTURO: Gracias a Matter, los diferentes dispositivos domésticos inteligentes pueden comunicarse entre sí y Thread asegura una red estable; para esto se necesita el Bridge X (incluido) u otro Thread Border Router
-- PAQUETE OPCIONAL DE BIENESTAR: Con Auto-Assist obtiene soluciones a los problemas de calefacción, geovallas automáticas y reconocimiento de ventanas abiertas (por solo 3,99 /mes, 29,99 /año, cancelación en cualquier momento)
-- Información importante: los productos tado X no son compatibles con tado V3+ o anteriores
-- MANEJO SENCILLO: La pantalla permite controlar el termostato de forma intuitiva; si no queda satisfecho en el primer año, le devolvemos el dinero
 - PARA SU HOGAR INTELIGENTE: Además del ajuste directo en el termostato, también puede controlar fácilmente la temperatura de cada habitación mediante una aplicación o un altavoz inteligente con Alexa, Google Assistant o Apple Siri
+- PAQUETE OPCIONAL DE BIENESTAR: Con Auto-Assist obtiene soluciones a los problemas de calefacción, geovallas automáticas y reconocimiento de ventanas abiertas (por solo 3,99 /mes, 29,99 /año, cancelación en cualquier momento)
+- TECNOLOGÍAS PREPARADAS PARA EL FUTURO: Gracias a Matter, los diferentes dispositivos domésticos inteligentes pueden comunicarse entre sí y Thread asegura una red estable; para esto se necesita el Bridge X (incluido) u otro Thread Border Router
+- CONTROL MEDIANTE APLICACIÓN: Horarios inteligentes, geovallas sofisticadas, detección de ventanas abiertas sin contactos adicionales y mucho más: el termostato incorpora numerosas funciones para la calefacción
+- MANEJO SENCILLO: La pantalla permite controlar el termostato de forma intuitiva; si no queda satisfecho en el primer año, le devolvemos el dinero
+- AHORRA ENERGÍA Y COSTES: El Starter Kit del Termostato X de tado, los expertos en calefacción inteligente, incluye el Bridge X y, de forma exclusiva para clientes de , un juego de pilas adicional: cuantas más habitaciones, más se ahorra
+- Información importante: los productos tado X no son compatibles con tado V3+ o anteriores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWPHCWK6{{</world>}}

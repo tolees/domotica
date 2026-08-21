@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Podrás programar desde la App de Philips Hue hasta 4 escenas con tus ambientes favoritos
 - Control por voz: Compatible con los asistentes de voz de Amazon Alexa, Google Home y Apple HomeKit
 - Compatible con Amazon Alexa, Google Home y Apple HomeKit
-- Tiene la particularidad de que también es un interruptor que puedes acoplar en cualquier pared de la casa
 - Portátil, posibilidad de montaje en pared, Zigbee
+- Tiene la particularidad de que también es un interruptor que puedes acoplar en cualquier pared de la casa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08PKMT2DV{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 【Batería de 5 Años de Duración】Powered by CR2477 battery extiende la vida útil de la batería a más de 5 años, eliminando las preocupaciones sobre los reemplazos frecuentes de la batería.
-- 【Alertas en Tiempo Real y Notificaciones Múltiples】SNZB-05P sensor de fugas de agua enviará instantáneamente notificaciones push de aplicación a su teléfono cuando se produce una fuga de agua. Las escenas locales Zigbee pueden activar la alarma sonora de la puerta de enlace incluso si falla la red WiFi.
-- 【Detección de Fugas y Goteos】El diseño de sonda elevada puede detectar un nivel de líquido de 0,5 mm y permite su uso en superficies metálicas sin falsos disparos del metal. El diseño cóncavo de recogida de agua detecta goteos y detiene las fugas en la fuente.
-- 【Soporte de Detección Ampliado】Usado con cable de detección de fugas de agua(compra por separado o compra kit de sensor), ya sea detección de amplio alcance o inspección de área estrecha, se pueden detectar fugas de agua. El cable de extensión se puede conectar en serie sin límite de longitud total.
 - 【Compatible con Zigbee 3.0】 Se integra con concentradores Zigbee que utilizan el protocolo Zigbee 3.0, como SONOFF NSPanel Pro, SONOFF iHost, SONOFF ZB Bridge/ZB Bridge-P/ZB Bridge-U, SmartThings hub v3....
+- 【Alertas en Tiempo Real y Notificaciones Múltiples】SNZB-05P sensor de fugas de agua enviará instantáneamente notificaciones push de aplicación a su teléfono cuando se produce una fuga de agua. Las escenas locales Zigbee pueden activar la alarma sonora de la puerta de enlace incluso si falla la red WiFi.
+- 【Soporte de Detección Ampliado】Usado con cable de detección de fugas de agua(compra por separado o compra kit de sensor), ya sea detección de amplio alcance o inspección de área estrecha, se pueden detectar fugas de agua. El cable de extensión se puede conectar en serie sin límite de longitud total.
+- 【Detección de Fugas y Goteos】El diseño de sonda elevada puede detectar un nivel de líquido de 0,5 mm y permite su uso en superficies metálicas sin falsos disparos del metal. El diseño cóncavo de recogida de agua detecta goteos y detiene las fugas en la fuente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DFVY6HS9{{</world>}}

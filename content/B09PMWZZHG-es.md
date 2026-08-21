@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatible con los Amazon Echo Dot de 4.ª y 5.ª generación. No es compatible con los Amazon Echo Dot de otras generaciones ni con los Amazon Echo de mayor tamaño.
-- Disponible en varios colores para su personalización (azul, gris y lila).
 - Contenido de la caja: soporte
 - Se puede colocar fácilmente en una mesa, un escritorio o una mesita de noche
+- Disponible en varios colores para su personalización (azul, gris y lila).
+- Compatible con los Amazon Echo Dot de 4.ª y 5.ª generación. No es compatible con los Amazon Echo Dot de otras generaciones ni con los Amazon Echo de mayor tamaño.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PMWZZHG{{</world>}}

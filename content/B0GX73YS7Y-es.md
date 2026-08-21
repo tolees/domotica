@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CAPTÚRALO TODO CON VÍDEO RETINAL 2K: desde vistas amplias hasta un enfoque más cerrado, es fácil ver tu casa o tu negocio con la nitidez impecable de Retinal 2K.
-- SONIDO POTENTE E INTENSO: Disfruta de un sonido rico en matices con voces nítidas y graves intensos. Pídele a Alexa que reproduzca música, pódcast y audiolibros de tus servicios de streaming favoritos, como Amazon Music, Apple Music, Spotify y más. Ve qué canción está sonando y controla la música desde la pantalla.
 - ZOOM HASTA 6 AUMENTOS: captura detalles a distancia, inspecciona rostros y mucho más con el zoom mejorado de hasta 6 aumentos.
 - Este paquete incluye 1 Echo Spot (última generación) y 1 Ring Videotimbre con batería (Battery Video Doorbell) (última gen.), todo lo que necesitas para poner en marcha tu hogar inteligente.
 - ECHO SPOT: Un despertador inteligente con Alexa de aspecto moderno y sonido de calidad. Ideal para despertarte por la mañana, relajarte de noche y más.
 - DESPERTADOR INTELIGENTE PERSONALIZABLE: Consulta de un vistazo la hora, el tiempo y el título de la canción en reproducción, controla tus dispositivos de Hogar digital y más. Personaliza la pantalla del dispositivo con la esfera de reloj que más te guste y divertidos temas de colores.
+- SONIDO POTENTE E INTENSO: Disfruta de un sonido rico en matices con voces nítidas y graves intensos. Pídele a Alexa que reproduzca música, pódcast y audiolibros de tus servicios de streaming favoritos, como Amazon Music, Apple Music, Spotify y más. Ve qué canción está sonando y controla la música desde la pantalla.
+- CAPTÚRALO TODO CON VÍDEO RETINAL 2K: desde vistas amplias hasta un enfoque más cerrado, es fácil ver tu casa o tu negocio con la nitidez impecable de Retinal 2K.
 - CONECTA CON QUIEN ESTÉ AHÍ: ve, escucha y habla en tiempo real con vídeo en directo y comunicación bidireccional.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
