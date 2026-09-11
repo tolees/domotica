@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Ambilight 55PUS8109 Smart TV 4K LED - Pantalla de 55 Pulgadas con Plataforma Titan OS Pixel Precise Ultra HD y Sonido Dolby Atmos Funciona con Alexa y Asistente de Google - Cromo Satinado'
-date: 2026-09-09 17:58:38
+date: 2026-09-10 21:06:51
 image: 'https://m.media-amazon.com/images/I/41zFcW7dSAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D3MV8MKP/?tag=tolees-21'
 descuento: '18.18'
-average: '331.545714285714'
+average: '327.4775'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

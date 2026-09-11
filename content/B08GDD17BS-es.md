@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PROGRAMACIÓN - Preestablezca una programación para administrar dispositivos automáticamente
-- CONTROL REMOTO - Enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
-- CONTROL DE VOZ - Administre su enchufe inteligente con comandos de voz a través de Alexa o el asistente de google
-- MODO AUSENTE - Enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
-- TEMPORIZADOR - Crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
 - EMPAREJAMIENTO ULTRA RÁPIDO CON FFS - La configuración es más rápida que nunca con Alexa. Usa tu dispositivo Echo para configurar el conector mediante un comando de voz
+- TEMPORIZADOR - Crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
+- PROGRAMACIÓN - Preestablezca una programación para administrar dispositivos automáticamente
+- CONTROL DE VOZ - Administre su enchufe inteligente con comandos de voz a través de Alexa o el asistente de google
+- CONTROL REMOTO - Enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
+- MODO AUSENTE - Enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
 - NO SE REQUIERE UN HUB - Se conecta a su router Wi-Fi existente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

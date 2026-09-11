@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 【Monitorización de Energía】Al verificar el consumo diario, mensual y anual de energía, te ayuda a ahorrar dinero en tus facturas de energía.
-- 【Programación y Temporizador】Utiliza un temporizador o programación de cuenta regresiva para configurar tu enchufe S60 para encender y apagar automáticamente cualquier electrodoméstico del hogar.
 - 【Escena Inteligente】Úsalo con el sensor de presencia humana SONOFF SNZB-06P para encender las luces cuando alguien está presente y apagarlas cuando alguien se va.
-- 【Control de Aplicación y por Voz】Controla el enchufe S60 desde cualquier lugar y en cualquier momento a través de la aplicación eWeLink, o da comandos de voz a Alexa o Google.
 - 【Seguro y Confiable】Cuenta con la mayor resistencia al fuego, excelente durabilidad, protección contra sobrecargas, protección contra cortocircuitos, protección contra rayos y sobretensiones. La protección infantil evita que los niños introduzcan los dedos u otros objetos en los orificios del enchufe.
+- 【Programación y Temporizador】Utiliza un temporizador o programación de cuenta regresiva para configurar tu enchufe S60 para encender y apagar automáticamente cualquier electrodoméstico del hogar.
+- 【Control de Aplicación y por Voz】Controla el enchufe S60 desde cualquier lugar y en cualquier momento a través de la aplicación eWeLink, o da comandos de voz a Alexa o Google.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D12T8P2D{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapo S110E-Módulo interruptor inteligente WiFi+Bluetooth monitor de energía'
-date: 2026-09-05 07:29:01
+date: 2026-09-11 08:08:24
 image: 'https://m.media-amazon.com/images/I/4108TJjCOHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FYHQZ56F/?tag=tolees-21'
 descuento: '29.76'
-average: '19.2119999999999'
+average: '19.0554545454544'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección de cruce por cero (Zero-Crossing): prolonga la vida del relé, evitando el “soldado” de contactos y aumentando su durabilidad
-- Control inteligente y remoto: maneja dispositivos desde cualquier lugar mediante la app Tapo; también compatible por voz con Alexa, Google Assistant, Siri o SmartThings
-- Doble modo de contacto: admite contacto seco (ideal para puertas, sistemas de alarma) y húmedo (enchufes, calefacción, luces)
-- Automatización y programación: crea horarios, temporizadores o escenas para controlar tus equipos según el momento del día o tus rutinas
-- Tamaño ultracompacto: con tan solo 44,7 × 33,9 × 16,1 mm, cabe en las cajas de empotrar más pequeñas de la UE
-- Compatibilidad Matter: integración total con ecosistemas como Apple Home, Google Home, Alexa, Samsung SmartThings
-- Monitorización energética bidireccional: detecta automáticamente el flujo de corriente para medir tanto el consumo como la generación de energía
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FYHQZ56F{{</world>}}

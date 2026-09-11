@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Coordinador Zigbee 3.0 Profesional：Actualizado con firmware Z-Stack 3.x.0 para integración perfecta en Home Assistant (ZHA) y Zigbee2MQTT.
+- Chipset TI CC2652P & +20dBm de Potencia: Chip de alto rendimiento de Texas Instruments y puente CP2102(N), con señal de +20dBm para cobertura extendida.
 - Antena SMA Extraíble y Diseño Antinterferencias: Antena SMA desmontable mejora la penetración de señal; carcasa de aluminio reduce interferencias para transmisión de datos estable.
 - Hub Zigbee Plug-and-Play: Sin necesidad de drivers. Compatible con Linux/Raspberry Pi. Ideal para proyectos DIY con doble flexibilidad de firmware (ZHA/Zigbee2MQTT).
 - Compatibilidad Total con Dispositivos Zigbee: Funciona con routers SONOFF (ZBMINIR2/ZBMicro, ) y sensores SNZB-01P/02P/03P/04P. Construye tu hogar inteligente sin complicaciones.
-- Chipset TI CC2652P & +20dBm de Potencia: Chip de alto rendimiento de Texas Instruments y puente CP2102(N), con señal de +20dBm para cobertura extendida.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KXTCMSC{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Controla todas las lámparas y bombillas desde donde quiera que estés con la app gratuita de Wiz, compatible con iOS y Android, y olvídate de ir habitación por habitación para asegurarte de que todas las lámparas y bombillas estén apagadas
-- Iluminación inteligente para tu día a día, funciona con tu red Wifi existente
 - Controla tus lámparas y bombillas sin tocar un botón, solo con la voz, gracias a los asistentes de voz de Google y Amazon o gracias a los comandos de Siri
+- Controla todas las lámparas y bombillas desde donde quiera que estés con la app gratuita de Wiz, compatible con iOS y Android, y olvídate de ir habitación por habitación para asegurarte de que todas las lámparas y bombillas estén apagadas
 - La aplicación WiZ registra el consumo de energía de tus lámparas y bombillas WIZ. Consulta el informe semanal o diario y planifica tu iluminación sabiamente para un consumo de energía optimizado en el hogar
+- Iluminación inteligente para tu día a día, funciona con tu red Wifi existente
 - Elige entre una paleta de millones de colores para crear una atmósfera increíble en tu hogar. Disfruta de las sutiles diferencias con nuestros dinámicos efectos de luz que iluminan tu entorno
 
 [🛒 Comprar!!!]({{< param buyurl >}})

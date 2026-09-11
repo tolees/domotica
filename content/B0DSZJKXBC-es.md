@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Q10 S5 Set Robot Aspirador y Fregasuelos Succión de 10000 Pa'
-date: 2026-09-09 17:07:03
+date: 2026-09-11 08:27:11
 image: 'https://m.media-amazon.com/images/I/41sL0FWvcEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DSZJKXBC/?tag=tolees-21'
 descuento: '60.00'
-average: '157.551764705881'
+average: '155.464999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
