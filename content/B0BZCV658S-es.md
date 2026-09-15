@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SONOFF SNZB-02D Zigbee LCD Sensor Inteligente de Temperatura y Humedad Termómetro Higrometro Digital para Interior Compatible Alexa/Google Home SONOFF ZigBee Hub Requerido 2PCS'
-date: 2026-09-08 06:30:46
+date: 2026-09-14 06:26:15
 image: 'https://m.media-amazon.com/images/I/410G7bpQM0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BZCV658S/?tag=tolees-21'
 descuento: '29.25'
-average: '26.688'
+average: '26.0166666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 💡【Gran pantalla LCD de visualización】Utiliza la gran pantalla LCD para ver los valores en tiempo real de temperatura humedad de forma clara y dinámica, los iconos intuitivos de la pantalla le permiten comprobar las condiciones de la habitación y el estado de la batería aún más fácil que nunca.
-- 💡【Alta precisión y 5s Fast Refresh】Sensor higrómetro inteligente de fabricación suiza incorporado que le proporciona lecturas más precisas manteniendo una precisión de ±0,2°C/±0,4°F en temperatura y una precisión de ±2%RH en humedad, actualiza las lecturas cada 5 segundos.
-- 💡【App de notificaciones】Recibirá alertas instantáneas en su teléfono cuando la temperatura o la humedad superen el nivel de confort establecido.
-- 💡【Almacenamiento y exportación de datos】Hasta medio año de almacenamiento gratuito en la nube, y lo suficientemente preciso como para ver los datos por hora, también puede comprobar los valores más altos y más bajos en cualquier hora o día y los datos se pueden exportar como archivos.
-- 💡【Supervisión remota en tiempo real】SNZB-02D sensor controlará la temperatura y la humedad en tiempo real en la APP de forma remota o pantalla de visualización, con hasta 120m/400ft coverate.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BZCV658S{{</world>}}

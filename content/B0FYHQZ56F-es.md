@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapo S110E-Módulo interruptor inteligente WiFi+Bluetooth monitor de energía'
-date: 2026-09-11 08:08:24
+date: 2026-09-14 15:14:44
 image: 'https://m.media-amazon.com/images/I/4108TJjCOHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FYHQZ56F/?tag=tolees-21'
 descuento: '29.76'
-average: '19.0554545454544'
+average: '18.8146153846153'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
