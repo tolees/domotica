@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Portátil, posibilidad de montaje en pared, Zigbee
-- Tiene la particularidad de que también es un interruptor que puedes acoplar en cualquier pared de la casa
 - Con el sistema Philips Hue podrás programar y personalizar la decoración de tu casa a través de la iluminación
+- Tiene la particularidad de que también es un interruptor que puedes acoplar en cualquier pared de la casa
 - Podrás programar desde la App de Philips Hue hasta 4 escenas con tus ambientes favoritos
 - Este pack incluye el sensor de movimiento Philips Hue además de un par de pilas necesarias para su funcionamiento
+- Portátil, posibilidad de montaje en pared, Zigbee
 - El sensor de movimiento Philips Hue te permite encender las luces de tu casa de forma automática al detectar tu presencia
 
 [🛒 Comprar!!!]({{< param buyurl >}})

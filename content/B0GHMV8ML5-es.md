@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Qrevo S Pro Set Robot Aspirador Versión Mejorada del QV 35A Succión de 18500 Pa Base Todo en Uno 2 7L Bolsa para Polvo Sistema antienredos Evitación de Obstáculos Blanco'
-date: 2026-09-14 17:36:41
+date: 2026-09-17 11:20:59
 image: 'https://m.media-amazon.com/images/I/31FmO+SgX1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GHMV8ML5/?tag=tolees-21'
 descuento: '36.67'
-average: '395.823333333333'
+average: '393.561428571428'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

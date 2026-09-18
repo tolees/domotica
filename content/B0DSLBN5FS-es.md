@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Robot Aspirador QV 35A Set Dos mopas giratorias elevables Negro'
-date: 2026-09-15 22:09:05
+date: 2026-09-17 20:09:01
 image: 'https://m.media-amazon.com/images/I/41F7BRRw5xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DSLBN5FS/?tag=tolees-21'
 descuento: '50.00'
-average: '323.986499999999'
+average: '322.843809523808'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

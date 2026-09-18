@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SONOFF S60ZBTPF Enchufe Inteligente Zigbee - Control Remoto Monitor. Energía Timer Protec. Sobrecarga Repetidor Zigbee eWeLink'
-date: 2026-09-15 21:50:36
+date: 2026-09-18 11:18:56
 image: 'https://m.media-amazon.com/images/I/41wJRQWXolL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDWG2R1F/?tag=tolees-21'
 descuento: '38.81'
-average: '11.6977777777778'
+average: '11.4254545454545'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
