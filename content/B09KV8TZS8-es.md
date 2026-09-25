@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Netatmo Detector de Monóxido de Carbono Inteligente WiFi 10 años de batería Alarma de 85dB Pruebas automatizadas Sin centralita domótica Certificado EN 50291 y NF NCO-EC'
-date: 2026-09-20 10:16:18
+date: 2026-09-25 10:49:19
 image: 'https://m.media-amazon.com/images/I/3105DVarSzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09KV8TZS8/?tag=tolees-21'
 descuento: '38.09'
-average: '70.113695652174'
+average: '69.7714583333334'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

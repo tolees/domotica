@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WOLFANG Cámara Vigilancia WiFi Interior 1080P Cámara de Seguridad Interior con Visión Nocturna Detección de Movimiento Audio Bidireccional Compatible con Alexa & Google Home Solo WiFi 2 4 GHz'
-date: 2026-09-20 05:30:36
+date: 2026-09-25 17:53:01
 image: 'https://m.media-amazon.com/images/I/4176WiO56sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GQZSLB5N/?tag=tolees-21'
 descuento: '33.34'
-average: '19.6566666666667'
+average: '19.74'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

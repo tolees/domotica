@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Q7 M5 Set Robot Aspirador y Fregasuelos 2 en 1 Succión de 10000 Pa'
-date: 2026-09-17 10:27:41
+date: 2026-09-25 11:26:24
 image: 'https://m.media-amazon.com/images/I/41aTWMlN6ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DT4CT26H/?tag=tolees-21'
 descuento: '36.00'
-average: '157.662790697674'
+average: '157.766222222221'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

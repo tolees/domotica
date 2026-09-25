@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
+- Experimenta una flexibilidad ilimitada para tu sistema Hue: el Smart Plug hace que cada lámpara se pueda controlar con Hue y completa la red Zigbee y Bluetooth.
+- Diseño compacto y discreto: El conector Philips Hue Smart está diseñado para fusionarse con cualquier entorno. El sutil toque de diseño del pequeño conector Smart de color blanco permite añadir cualquier tipo de luz al sistema Hue sin necesidad de cables ni complicaciones.
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Sin necesidad de recablear: simplemente conéctalo a cualquier enchufe y conecta cualquier lámpara convencional a tu sistema Hue.
 - Fácil conexión Bluetooth: controla el enchufe inteligente mediante Bluetooth para encender y apagar tus luces cómodamente.
-- Die folgenden Informationen gelten für jede Einheit pro Packung
-- Diseño compacto y discreto: El conector Philips Hue Smart está diseñado para fusionarse con cualquier entorno. El sutil toque de diseño del pequeño conector Smart de color blanco permite añadir cualquier tipo de luz al sistema Hue sin necesidad de cables ni complicaciones.
-- Experimenta una flexibilidad ilimitada para tu sistema Hue: el Smart Plug hace que cada lámpara se pueda controlar con Hue y completa la red Zigbee y Bluetooth.
+- La siguiente información se aplica a cada unidad del paquete
 - Funciones avanzadas con el puente: consigue más funciones, como integrar las luces en temporizadores o emparejarlas con sensores e interruptores a través del puente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

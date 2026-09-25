@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SONOFF MINI-ZBD Zigbee 3.0 Relé de contacto seco entrada AC/DC compatible con hubs Zigbee funciona con Alexa y Google Home relé inteligente para puerta de garaje caldera motores DC y solenoides'
-date: 2026-09-14 06:28:03
+date: 2026-09-21 11:21:34
 image: 'https://m.media-amazon.com/images/I/41lmasVmssL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

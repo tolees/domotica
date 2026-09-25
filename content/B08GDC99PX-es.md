@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapo L530E - Bombilla Inteligente WiFi RGB Multicolor 800lm 8.3W E27'
-date: 2026-09-20 06:24:48
+date: 2026-09-24 13:39:14
 image: 'https://m.media-amazon.com/images/I/21Ku09+jhJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GDC99PX/?tag=tolees-21'
 descuento: '47.80'
-average: '11.7607594936709'
+average: '11.6465060240964'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
