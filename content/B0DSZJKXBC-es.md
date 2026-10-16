@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'roborock Q10 S5 Set Robot Aspirador y Fregasuelos Succión de 10000 Pa'
-date: 2026-10-11 02:46:42
+title: 'roborock Q10 S5 Set Robot Aspirador y Fregasuelos Succión de 10000 Pa | Robot Vacuum con Doble Sistema Antienredos Navegación PreciSense LiDAR Evitación de Obstáculos Reactive Tech Negro'
+date: 2026-10-16 02:46:18
 image: 'https://m.media-amazon.com/images/I/41sL0FWvcEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99
 comparePrice: 179.99 EUR
-prodname: 'roborock Q10 S5 Set Robot Aspirador y Fregasuelos Succión de 10000 Pa'
+prodname: 'roborock Q10 S5 Set Robot Aspirador y Fregasuelos Succión de 10000 Pa | Robot Vacuum con Doble Sistema Antienredos Navegación PreciSense LiDAR Evitación de Obstáculos Reactive Tech Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DSZJKXBC/?tag=tolees-21'
 descuento: '38.89'
-average: '142.241923076923'
+average: '139.938214285714'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control por voz: compatible con alexa, google assistant y apple siri
-- Altavoz inalámbrico para habitaciones más grandes
 - Calidad de sonido denon
+- Altavoz inalámbrico para habitaciones más grandes
+- Control por voz: compatible con alexa, google assistant y apple siri
 - 3 teclas de acceso rápido para tus emisoras favoritas
 - Disfrute de la transmisión
 

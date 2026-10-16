@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Qrevo S5V Robot Aspirador 12.000Pa de Succión Blanco'
-date: 2026-10-08 05:51:24
+date: 2026-10-15 04:47:51
 image: 'https://m.media-amazon.com/images/I/31avAe5c2cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DSMQRZFY/?tag=tolees-21'
 descuento: '54.67'
-average: '498.677500000002'
+average: '489.872941176472'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

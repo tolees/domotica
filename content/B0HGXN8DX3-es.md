@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock F25 LT Gen 2 Aspiradora en seco y en húmedo Diseño Plano de 180°'
-date: 2026-10-13 17:43:33
+date: 2026-10-15 01:08:59
 image: 'https://m.media-amazon.com/images/I/31Z+CJJtj2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

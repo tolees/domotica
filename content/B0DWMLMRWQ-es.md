@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Q7L5+ Robot Aspirador y Fregador Succión Extrema de 8000 Pa Blanco'
-date: 2026-10-13 04:38:12
+date: 2026-10-16 02:07:06
 image: 'https://m.media-amazon.com/images/I/31byvg8nStL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWMLMRWQ/?tag=tolees-21'
 descuento: '32.14'
-average: '204.65688888889'
+average: '204.032765957448'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
