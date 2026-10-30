@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aigostar Bombilla Inteligente Wifi G45 E27 6.5W Bombilla Led RGBCW Compatible con Alexa/Google Home No se Requiere Concentrador. Control Remoto Control De Voz 6 Unidads.'
-date: 2026-10-27 12:28:03
+date: 2026-10-29 16:16:33
 image: 'https://m.media-amazon.com/images/I/51-Ut02BxCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09XHZ6GB2/?tag=tolees-21'
 descuento: '30.81'
-average: '44.0611111111113'
+average: '42.7680000000002'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
