@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Tapo P110 - Mini Enchufe Inteligente Wi-Fi con Monitoreo Energético Programar el Encendido/Apagado Ahorro Energía Compatible con Alexa y Google Home Paquete de 2'
-date: 2026-11-11 22:27:16
+date: 2026-11-13 10:59:05
 image: 'https://m.media-amazon.com/images/I/31jsdW1HeHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DZHMG4FV/?tag=tolees-21'
 descuento: '52.42'
-average: '19.604999999999976'
+average: '19.107999999999979'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapo P100 - Enchufe Inteligente WiFi Programa Horarios Control App/Voz | Programa Horarios y Temporizadores. Modo Ausente. Control App Tapo. Control Voz Alexa/Google. Fácil Configuración.'
-date: 2026-11-11 13:50:24
+date: 2026-11-13 04:19:44
 image: 'https://m.media-amazon.com/images/I/41ojfKT4YxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5JD3T4/?tag=tolees-21'
 descuento: '46.70'
-average: '10.267217537942177'
+average: '10.259563025209598'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

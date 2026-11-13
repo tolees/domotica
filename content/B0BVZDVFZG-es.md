@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SwitchBot Termómetro Higrómetro WiFi 3-Pack c/Hub Mini IP65 Impermeable Sensor Temp./Humedad Interior Exterior Notificaciones App Almacenamiento Datos Gratis compatible Alexa'
-date: 2026-11-10 20:45:05
+date: 2026-11-13 18:09:15
 image: 'https://m.media-amazon.com/images/I/41-2fqD7XML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BVZDVFZG/?tag=tolees-21'
 descuento: '37.85'
-average: '49.323333333333338'
+average: '47.99'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

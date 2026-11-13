@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock F25 Bx Aspiradora-Fregona Sin Cable 20.000Pa en Seco y Húmedo Autolimpieza a Alta Temperatura a 90 °C Secado Rápido en 5 Min Limpieza de Bordes Diseño Plano de 180° Sensor Inteligente'
-date: 2026-11-10 00:02:35
+date: 2026-11-13 18:03:17
 image: 'https://m.media-amazon.com/images/I/418Yk06b0jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DJ7JRJJM/?tag=tolees-21'
 descuento: '28.11'
-average: '226.11176470588327'
+average: '223.49444444444532'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapo S110E-Módulo interruptor inteligente WiFi+Bluetooth monitor de energía | Automatización del Hogar Inteligente. Control App Tapo. Control Voz Alexa/Google. Fácil Configuración.'
-date: 2026-11-11 23:23:19
+date: 2026-11-13 14:31:32
 image: 'https://m.media-amazon.com/images/I/4108TJjCOHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FYHQZ56F/?tag=tolees-21'
 descuento: '46.99'
-average: '17.828235294117555'
+average: '17.571111111111023'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
