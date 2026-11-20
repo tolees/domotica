@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Blink Outdoor 4 cámara de seguridad inteligente HD sin cables 2 años de autonomía detección de movimiento optimizada compatible con Alexa solo cámara adicional IP65'
-date: 2026-11-18 16:23:43
+date: 2026-11-19 23:53:17
 image: 'https://m.media-amazon.com/images/I/31VKse1RISL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B1N5RL1Q/?tag=tolees-21'
 descuento: '66.68'
-average: '35.156666666666581'
+average: '34.374615384615304'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

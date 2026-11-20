@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI TV F 65 Pulgadas 2025 4K UHD Smart TV Fire OS8 HDR10 L65MB-FAEU | Alexa Voice Control MEMC Game Boost Mode 120Hz 2GB+32GB Compatible with Apple AirPlay'
-date: 2026-11-18 17:54:15
+date: 2026-11-19 22:12:58
 image: 'https://m.media-amazon.com/images/I/41j9ecHmboL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F457MQCQ/?tag=tolees-21'
 descuento: '15.04'
-average: '379.09459459459418'
+average: '378.5599999999996'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

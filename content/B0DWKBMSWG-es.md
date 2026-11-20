@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Q10 S5+ Robot Aspirador y Fregasuelo 2 en 1 10000 Pa Negro | 10000 Pa Doble Sistema Antienredos Obstacle Avoidance 7 Weeks Self-Emptying Navegación PreciSense LiDAR Control por App'
-date: 2026-11-14 18:25:37
+date: 2026-11-19 16:24:00
 image: 'https://m.media-amazon.com/images/I/41-pilBsCtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWKBMSWG/?tag=tolees-21'
 descuento: '20.40'
-average: '227.66881355932179'
+average: '226.72885245901614'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

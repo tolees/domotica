@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi TV FX Mini LED 55 Inch QD Mini LED Smart TV 4K UHD Fire TV HDR10+ | HDR10+ 60Hz with Game Boost Mode at 120Hz MEMC DTS:X AirPlay 2 HDMI Filmmaker Mode Alexa Voice Control'
-date: 2026-11-19 08:36:04
+date: 2026-11-20 10:34:16
 image: 'https://m.media-amazon.com/images/I/41tZQ8HfXXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H26SBKX4/?tag=tolees-21'
 descuento: '20.04'
-average: '421.0'
+average: '415.5'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

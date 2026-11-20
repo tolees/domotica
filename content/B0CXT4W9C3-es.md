@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Govee RGBIC LED Plafón 30cm Lámpara Techo Inteligente Plafon Techo 2400LM | 24W Plafon Techo con 16M de Colores DIY Trabajar con Alexa Google Assistant Luz Interior para Dormitorio Salón Cocina'
-date: 2026-11-19 08:46:21
+date: 2026-11-20 10:40:12
 image: 'https://m.media-amazon.com/images/I/41hU1dUxZ+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CXT4W9C3/?tag=tolees-21'
 descuento: '43.01'
-average: '49.773333333333333'
+average: '48.361428571428569'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

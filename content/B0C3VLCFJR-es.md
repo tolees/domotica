@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Govee Bombilla LED E27 Inteligentes WiFi y Bluetooth Juego de 2 | Compatible con SmartThings Matter Alexa y Google Assistant 800LM 16 Millones de Colores DIY RGBWW'
-date: 2026-11-19 01:45:52
+date: 2026-11-20 10:34:45
 image: 'https://m.media-amazon.com/images/I/31jaeRQMwLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C3VLCFJR/?tag=tolees-21'
 descuento: '39.15'
-average: '16.88999999999999'
+average: '16.567777777777771'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

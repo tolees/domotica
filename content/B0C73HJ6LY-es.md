@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SONOFF S60TPF Enchufe Inteligente Wi-Fi con Monitoreo Energético Programar el Encendido/Apagado Ahorro Energía Compatible con Alexa y Google Home'
-date: 2026-10-07 16:48:43
+date: 2026-11-19 18:47:39
 image: 'https://m.media-amazon.com/images/I/31IPfAsZmkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0C73HJ6LY-es SONOFF S60TPF Enchufe Inteligente Wi-Fi con Monitoreo...'
 sku: 'B0C73HJ6LY-es'
 tags: [ 'alexa','enchufe','google','home','inteligente','sonoff','🇪🇸', ]
-actualPrice: 8.92 EUR
+actualPrice: 7.76 EUR
 currency: EUR
-price: 8.92
-comparePrice: 10.99 EUR
+price: 7.76
+comparePrice: 9.39 EUR
 prodname: 'SONOFF S60TPF Enchufe Inteligente Wi-Fi con Monitoreo Energético Programar el Encendido/Apagado Ahorro Energía Compatible con Alexa y Google Home'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C73HJ6LY/?tag=tolees-21'
-descuento: '18.84'
-average: '8.92'
+descuento: '17.36'
+average: '8.34'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
