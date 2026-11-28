@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mellerware Radiador Eléctrico Bajo Consumo WiFi 2000 W Convector de Cristal | WiFi con Alexa y Google Home. Calor rápido hasta 20 m² 4 modos control por App y temporizador 24h. En pared o con ruedas.'
-date: 2026-11-26 08:29:40
+date: 2026-11-27 13:44:21
 image: 'https://m.media-amazon.com/images/I/31wf3vGDlCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0HK51JC72/?tag=tolees-21'
 descuento: '51.16'
-average: '88.323333333333324'
+average: '87.989999999999981'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

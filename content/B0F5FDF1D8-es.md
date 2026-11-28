@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nueva Amazon Alexa Tablet 11 8 GB de RAM 128 GB espectacular pantalla 2.5K de 11″ batería para todo el día con Google Play diseñada para Alexa+ Grafito'
-date: 2026-11-20 22:37:53
+date: 2026-11-27 17:04:50
 image: 'https://m.media-amazon.com/images/I/31g8z4+1FFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

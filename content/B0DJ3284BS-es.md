@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Saros 10R Robot Aspirador 22000Pa Succión con mopa Cuerpo Ultrafino de 7 98 cm Obstáculo Extremo de 4 cm Sin enredos FlexiArm Riser Vaciado Automático Secado con Aire Caliente Negro'
-date: 2026-11-26 13:52:08
+date: 2026-11-27 14:31:06
 image: 'https://m.media-amazon.com/images/I/31ECgSwvaXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DJ3284BS/?tag=tolees-21'
 descuento: '26.80'
-average: '757.11780821917751'
+average: '751.56799999999942'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

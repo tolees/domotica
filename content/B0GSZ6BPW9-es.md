@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Qrevo Edge T Robot Aspirador Succión 18500 Pa con FlexiArm | Sistema Doble Desenredos 7 98 cm Ultrafino Base Multifuncional 3.0 Lavar Mopa con Agua Caliente Controlado por App y Voz'
-date: 2026-11-22 12:28:38
+date: 2026-11-27 17:13:36
 image: 'https://m.media-amazon.com/images/I/31BTkiPGeSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GSZ6BPW9/?tag=tolees-21'
 descuento: '42.78'
-average: '476.28666666666578'
+average: '471.02482758620607'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

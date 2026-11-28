@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Qrevo 2 Pro Set Robot Aspirador Succión Extrema de 25000 Pa Blanco | Mopa FlexiArm secado con aire caliente a 45 °C autolimpieza a alta temperatura a 75 °C sistema doble antienredos.'
-date: 2026-11-26 13:35:25
+date: 2026-11-27 15:16:29
 image: 'https://m.media-amazon.com/images/I/31cbeDTWjdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GZZ96X7N/?tag=tolees-21'
 descuento: '57.22'
-average: '424.1142307692304'
+average: '419.48037037037005'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

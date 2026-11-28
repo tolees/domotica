@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Echo Show 8 última gen. Blanco glaciar + Ring Cámara exterior 2K con batería última gen. Blanco | Ve tu jardín en el Echo Show | Acceso Anticipado a Alexa+'
-date: 2026-11-25 21:51:53
+date: 2026-11-28 11:32:17
 image: 'https://m.media-amazon.com/images/I/21Y6USvvaHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0HLQ6NN4G/?tag=tolees-21'
 descuento: '56.11'
-average: '149.99'
+average: '146.65666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

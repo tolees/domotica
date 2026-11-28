@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Echo Spot | Negro + Tapo L530EA Bombilla LED Inteligente E27 Compatible con Alexa - Kit de inicio de Hogar digital'
-date: 2026-11-26 05:31:54
+date: 2026-11-27 20:01:42
 image: 'https://m.media-amazon.com/images/I/41vveNqn7AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
